@@ -1,0 +1,234 @@
+1st come 1st serve                  先到先得
+A set of column                  一组列
+A warm reminder                  温馨提醒
+Abort                           中止 v
+Access                          访问 v
+Acknowledge                         承认,感谢 v
+Adapt                           适应 v
+Adjust/adjustment               调整
+Adverse                         不利的 adj
+Agenda                          议程
+Alert                           警报
+Algorithm                       算法 n
+Alias                           别名 n
+Align/alignment                  对齐
+Allocate/allocation                  分配 v/n
+Analyze                         分析 v
+Architecture                  架构
+Associate                       联系 v
+Assurance                       保证 n
+batch                           批
+browse                          浏览
+buddy                           伙伴 n
+Calculate                       计算 v
+Challenge                       质疑,挑战 v/n
+Chance                          机会 n
+Cluster                         集群
+Combine/combination                  结合,合并
+Command                         命令 n
+Commercial                      商业的 adj
+Compliance                      遵守 n
+Concise                     简洁的
+Confidential                  机密的 adj
+Conflict                    冲突 n/v
+Confuse                     迷惑v
+Crash                       崩溃 n
+Critical                    关键的,严重的 adj
+Data set                    数据集 n
+Define/definition                  定义 v/n
+Deny/denied                  否定 v
+Determine                  决定 v
+Diagram                  图表 n
+Directly                    直接地 adv
+Disclose                  泄露,透漏v
+Dismiss                  摒弃
+Distribution                 分配n
+Divide                 分开 v
+Domain                 领域 n
+Doubt                  疑问,疑惑 n
+Enhancement                 增强
+Entity                 实体
+Escalate                 升级v
+Estimate                 估计
+Exchange                 交换 n/v
+Existing                 现有的 adj
+Exploration                 探索,研究/n
+Extension                 扩展
+fact                 事实 n
+find                 查收 v
+flatter                 奉承,吹捧   you flatter me
+Folks                           乡亲们
+Fraud                 欺诈 n
+Function                 起作用,运转v
+given that                 鉴于…
+gone                            消失
+hit                 匹配项 n
+impact                 影响 n/v
+in real time                 实时地 adv
+incorporate                 合并 v
+indicator                 指标 n
+ingest                 摄取 v
+initial             最初的
+Intentionally                       故意地 adv
+investigation                 调查 n
+Jesus                           天哪
+Judgment                        判断 n
+learn/learned(learnt 英式)           学习 v
+life cycle                  生命周期
+maintenance         维护 n
+medium                 中等的 adj
+meet/met/met                遇见,满足 v
+mission                 使命 n
+nested                 嵌套的
+numerous                 很多的 adj
+one-off                  一次性的
+ongoing                 进行中的 adj
+Overall                 全部的 adj/adv
+Partial                 部分的 adj
+Permanently                 永久地/adv
+Populate                 填充 v
+Possibility                 可能性 n
+Postpone                 推迟 v
+Precise                 精确的 adj
+Preferably                  最好是 adv
+Proceed                     继续,行进 v
+Promotion                 晋升 n
+Prompt                 提示 v
+Provisioning                 配置
+Proxy                 代理
+reduce                 降低
+refactor                  重构 v
+respond/response                 响应 v/n
+Responsibility                  责任 n
+restore                 恢复
+restriction                  限制
+retrieve                 检索
+revert                 恢复 v
+revoke                 撤销 v
+get rid of n                         摆脱sth
+Scenario                 场景 n
+Seek                    寻找 v
+Stability                   稳定性 n
+Stage                       阶段
+Stakeholder                  利益相关者
+Strangely                 奇怪的是 adv
+Strangeness                 陌生 n
+strategy                                        战略,策略 n
+Strong justification                  强有力的理由
+Strongly                        强烈地
+Stick/Stuck/Stuck                   卡住 v
+temporary/temporarily               暂时地,临时地 adj/adv
+terminal                 终端 adj/n
+terminate                  终止 v
+Transparent                 透明的 adj
+uninstall                 卸载 v
+unzip                 解压 v
+Upcoming                即将来临的 adj
+Urgently                 紧急的
+Usage                   用途 n
+Utilize(Utilise 英式)                 利用 v
+validate                 验证v
+vulnerability                 漏洞 n
+inventory                   详细目录 n
+such                这种
+Slightly                稍微,轻微地 adv
+Accuracy                            准确性 n
+generic             通用的 adj
+Bottom              底部
+Observation                         观察 n
+Ordinary                普通的,平常的 adj
+highlight           突出,强调 v
+register/registration                           登记,注册 v/n
+constantly          总是,不断地
+touch v                     触动,感动
+up 向上
+near                    近的,在附近 adj
+notice/notification                 意识,注意 v/通知 n
+rich            丰富的 adj
+insert          插入 v
+Scalability         可扩展性 n
+Maintainability         可维护性 n
+annotation                                  注释 n
+trainee                                     实习生 n
+rest                            余下的 n
+distinguish                     认出,区别 v
+Conclude/Conclusion                 结束,结论 v/n
+Assignment          分配,工作 n
+precaution                                  预防措施 n
+Violation               违规 n
+Decision/decide             决定 n/v
+status(情况, state/states)
+retain                  保留
+Reflect                 反映
+program                         程序,节目 n
+slot                                    时间段,时段 n
+Clarify/Clarity                         澄清,阐明 v/清晰 n
+Classify/Classical                      分类,归类 v/经典的 adj
+Sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n
+remediate/Remediation                   补救,修复 v/补救,纠正 n
+Frequent                                频率 n
+Quarantine                              隔离 v/n
+extract             提取,抽取 v
+fetch               获取,拉取 v
+dropdown (list)                 下拉(列表) n
+checkbox                        复选框 n
+radio (button)                           单选(按钮) n
+pop/popped up (prompt/window)                     弹出来 v
+pop-up                      弹窗,弹出式的 adj/n
+prompt                  提示,弹出提示 v/提示,弹窗,提示框 n
+fail/failed/failure                             失败 v/n
+effective (action/measures)         有效的 adj
+efficiency                      效率 n
+Briefly             简短的，简要的 adv
+lower(Upper) case/capital                    小/大 写字母/资本,资金,大写字母 n
+seriousness/serious/seriously           严重性 n/严重的,重要的 adj/adv
+Prefix/suffix                           前/后 缀 n
+gain            获得 v(获得抽象的东西)
+feature         特点、特性、功能 n
+Recommend/recommendation                   建议,劝告,推荐 v/n
+Specify/Specified/Specific/Specification                  指定 v/规定,指定的 adj/具体,特定的 adj/规格说明 n
+engage/Engagement                      参与,投入 v/参与度,投入度
+Sufficient/Insufficient                 足够的，充足的 adj/不足的，不够的 adj
+Efficient/Inefficient                 高效的 adj/低效的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
