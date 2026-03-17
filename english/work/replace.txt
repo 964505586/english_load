@@ -1,0 +1,180 @@
+吞音
+tell him
+let him
+Get to
+Lot of   lotta
+Out of   outta
+Going to    gonna
+Supposed to    supposta
+can/when i
+but/what i
+What a
+Not at all         /nɑːd æd ɔːl/  别客气,一点也不,一点也没有
+wait a minute/second/moment             /weɪ də ˈmoʊmənt/
+the rest of tickets
+this is a n             |ðɪ sɪ zə|
+follow me                       /ˈfɑːloʊ/
+
+extra
+criteria
+Auto-increment ID               递增 ID
+
+
+reported/raised/encountered
+Formula(algorithm)                     公式 n
+Figure/number/numeric              数字,数目 n/数值的,数字的 adj
+Procedure               做事的具体步骤 (Process: 整件事的过程)
+Approach(method)
+Criteria                                标准standard n
+Propose/proposal                        提议,建议 v/n
+Revised             修正过的(updated)
+desired(needed)
+deal with(handle)
+Apply(request)
+Purpose                     目的 n (destination)
+whatever        无论什么
+anyway          总之,反正
+ongoing(in progress)
+Hold on                                 等一下,坚持住
+tips/tricks/recommendations                 小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n
+remediate/Investigate(fix)              补救,修复 v
+fetch/extract(read)             获取,拉取 v/提取,抽取 v
+point to            指向(中性)
+match/correspond to       对应,匹配,指向
+measure(action)
+Launch(release) (new feature/version)         启动,发起,推出,执行 v
+marked/highlighted part/area/Section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
+The current conclusion          目前的结论/现阶段结论
+occur/appear/happen
+However(but)
+Therefore(so)
+lag(delay)             延迟,滞后 v/n
+Consistent/Consistency(align)                  一致的 adj/一致性 n
+Obtain/gain(get)
+retrieve(search/query)                 检索 v
+Discrepancy(difference)                 差异 n
+Obstacle(block v/n)                障碍,阻碍,困难 n
+Indeed                          的确,确实 adv
+folks(everyone)
+Copy(Roger) that
+Edition(version)                     版本 n
+Perspective(view)
+Integrate/Integration(merge)            合并,成为一体
+Acknowledged                    承认
+may(can)
+
+
+Suspect 句子                              怀疑 v
+(if) suppose that                       假设
+be supposed to do                       应该做sth
+句末        肯 too        否 either
+As long as 句子       连词,只要...(replace once)
+(it's) no wonder why/that                                     难怪
+(be) no longer (v)                                          不再 abv
+Just like we thought
+to better do sth(in order to better v)                        为了更好的...
+you'd better do sth                     最好做sth(adv, 语气更强)
+in order that(to v)                   为了
+Are you online/there               你在吗
+Isn't it(主语是it, right?)
+the best/most/nicest n I've ever seen/encountered
+(it's) a piece of cake              小case
+It’s nothing but small potatoes         小事一桩,微不足道
+you're something                                       你很了不起
+We will do everything we can  我 将/已经 竭尽全力
+We'll find a way to 我会想办法...(语气坚定,靠谱)
+What the hell?  搞什么鬼呀？
+How did you do it/that?             你怎么做到的？
+as(like) Jack said, it's a business issue
+In this way(So that)
+Everyone is complaining about this                  大家都在抱怨这件事
+We're on it             我们正在处理
+no matter what the weather              无论天气如何
+given n/that                    鉴于,考虑到
+it's just so so                                     一般般,马马虎虎
+as usual/planned/expected                                            像往常一样/按计划/按预期
+can't do anything about it                              无能为力
+can't be more handsome                              不能再帅了
+can't wait to do                                    迫不及待地去做,等不及的做
+hi there                                            嗨,你好
+i heard that                                            我听说...
+i hope so                                               我希望如此
+what a coincidence                                  真巧
+what a great/fantastic idea                               多棒的主意啊
+to my surprise/relief                           让我 惊讶/欣慰(松了一口气) 的是
+Didn't/doesn’t make any difference                                  没作用
+In case of n(if)                万一n,在n情况下
+it/system/program throw/threw failure error/Exception
+If everything goes well         如果一切顺利
+Maybe things will change later              也许以后情况会变
+no problem at all                           完全没问题
+What a pleasant surprise                    真是个惊喜(意外之喜)
+Follow your lead                                我听你的,我跟着你走,我按你的安排来
+To be honest/frank(Actually) (with sb)
+The process I mentioned earlier/As (I) mentioned earlier              正如之前提到的
+Let's extract an extra method for the piece of code
+Let's pause(hold on) here. For the introduction and process I mentioned previously. Is there any question?
+Why/How did you navigate to(land on) that page?
+We read data in batches                         我们分批读取数据
+This API supports bulk requests                 这API支持批量请求
+Let's continue to go through tickets and then discuss it after the meeting
+I keep getting interrupted by other (Urgent) matters recently, therefore the ticket progress is only about 20%     我最近总是会被其他紧急事务打断
+Could you take/have a look at the BEC document?             你能看一下xxx吗？
+My pleasure
+have you heard/noticed that             你听说/注意到过吗？
+answered some questions raised/reported/Encountered by jack and Roxy
+The values for these two fields are reversed                这两个字段的值颠倒了。
+I can hear you, but your voice is too low, i can't hear clearly             我能听到你,但你的声音太低了,我听不清楚。
+My teams is stuck
+if you get a chance
+by today(tomorrow afternoon)               今天之内,明天下午前
+TBD                 to be determined/decided/confirmed
+data(Email) attached for your reference
+due to n/since 句子(because/because of)
+Postman has been disabled in HSBC
+(Did) you know that？
+The system will prompt us how to do it
+I know about that issue
+I'm aware of the issue
+Another teammate has also encountered it
+I've heard about that issue
+as you said before(mentioned earlier)               正如你之前所说
+I'd like to tell you something
+How/Why/What is it?              怎么样/为什么/这是什么
+(so Can i understand that) it's basically just a database
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
