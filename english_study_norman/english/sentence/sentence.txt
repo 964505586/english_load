@@ -179,11 +179,9 @@ listen to me                                        听我说
 live a meaningful life                              过有意义的生活
 long time no see                                    好久不见
 look on the bright side                                 看好的一面,保持乐观
-made the best of n                          充分利用
 make a promise                                      许诺
 make an appointment with                            与...预约
 make conversation                                   寒暄
-make good/full use of                               充分利用
 make it clear that                                  明确表示
 make preparation for                                为...做准备
 make (great) progress                                       取得进步
@@ -241,7 +239,6 @@ sth need to be done                                 sth需要做
 struggle with                                       与...斗争
 succeed in doing                                    成功做某事
 take a risk                                         承担风险
-take advantage of n                                 利用
 take care not to drink too much                         注意不要喝得太多
 take care of yourself                                   照顾好自己
 that's also true for me                                对我来说也是如此
@@ -329,7 +326,7 @@ why be sth so adj                                   为什么sth如此adj
 We'll have to pay the price                           我们将不得不付出代价
 let me collect myself/my thoughts                                     镇定下来,集中思想
 Just make yourself comfortable/at home      别客气,别拘束
-It's been an honor to know you              能认识您，我深感荣幸
+It's been an honor to know you              能认识您,我深感荣幸
 I'm very proud to have been your master         很自豪曾做过你的师父
 I need assistance
 holy shit                       天哪(粗俗)
@@ -365,6 +362,8 @@ You did everything you could                    你已经竭尽全力了
 let me see/have a look                              让我看看
 Complain/complains/complaining to/about sb/sth             (先sb)抱怨(sth)
 you’ve helped me become a better version of myself                  你帮助我成为了更好的自己
+as for me                   对我来说
+as if                       好像
 
 
 

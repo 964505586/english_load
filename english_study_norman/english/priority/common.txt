@@ -9,6 +9,7 @@ Hope you're doing well                     祝你一切顺利
 Feel free to propose new slot in case of conflicts
 if a call is needed
 Further clarification needed
+(we) apologize for any inconvenience this may have caused and appreciate your understanding and patience (support)           对于由此可能给您带来的任何不便,我们深表歉意.同时,感谢您的理解与耐心
 
 
 end a call
@@ -24,21 +25,19 @@ Please be aware that 从句
 please be informed n/that
 
 做更多
-Do we need to take any further action?
-Do we need to provide any other information?                    我们还需要提供其他信息吗？
+Do we need to take/provide any other information(further action)?                    我们还需要提供其他信息吗？
 will see if any support needed from my side
-will see if is there anything we can do？         有什么我可以做的吗？
+will see if there is anything we can do？         有什么我可以做的吗？
 will see if we can do more going forward   会看看后续能否做得更多
 will see what more we can do going forward
 if we can help proceed with the above items
-(we) apologize for any inconvenience this may have caused and appreciate your understanding and patience (support)           对于由此可能给您带来的任何不便,我们深表歉意.同时,感谢您的理解与耐心
 
 任何问题
 Please correct it if it contains any issue
 Please feel free to contact(reach out to) me if you have any concerns or questions
 
 你的想法
-What do you think                						你觉得如何
+What do you think (of/about the design)                 你觉得怎么样
 what's your idea/thoughts on this (matter)
 will see if that makes sense
 Have you any idea or is it reasonable?

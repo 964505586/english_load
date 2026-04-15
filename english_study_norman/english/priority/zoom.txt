@@ -14,17 +14,17 @@ Available now
 Let's get started
 (You) free for a (quick) call?
 Can/Shall we call now?
-Wanna call now?（关系熟)
+Wanna call now?(关系熟)
 
 卡了
-I'll restart it. it's freezing badly(super laggy)        我要重启下，卡的不行了
-Sorry, my network seemed unstable       抱歉，我的网络似乎不太稳定
+I'll restart it. it's freezing badly(super laggy)        我要重启下,卡的不行了
+Sorry, my network seemed unstable       抱歉,我的网络似乎不太稳定
 My Zoom is stuck                        我的 Zoom 卡住了
-Sorry, I just froze                     抱歉，我刚刚卡住了
+Sorry, I just froze                     抱歉,我刚刚卡住了
 Jack, you’re frozen                    你卡住了
 I froze/lagged for a second/moment                   我 卡/延迟 了一 秒钟/会儿
 
-zoom meeting
+daily meeting
 Let's go through tickets first
 I'll try to get it done by today
 I’m trying to get this resolved today

@@ -129,7 +129,7 @@ custom                          习俗 n
 danger                          危险 n
 dashboard                               仪表板 n
 day after day                                 日复一日
-day and night                               日日夜夜、夜以继日
+day and night                               日日夜夜,夜以继日
 deal                            交易 n        应对 v
 deceive                     欺骗 v
 declaration                                     声明 n
@@ -233,7 +233,6 @@ former                      以前的,旧时的
 fortunate/fortunately/unfortunately                       幸运的/不幸的 adj/adv
 forward/forwards                     向前,今后 adv        向前的 adj         转交 v
 freedom 自由权
-frequent/frequently(often)                 经常地,频繁地 adj/adv
 from then on 从那时起
 from time to time 时不时地 adv
 fund                        基金 n            资助 v
@@ -296,7 +295,6 @@ in rush hours                                   在高峰期
 in sight                        在视线范围内
 in the coming years                    在未来几年
 in the first place                  首先
-in use      在使用中
 including                       包含 prep
 inclusiveness                   包容,包容性 n
 income                      收入 n
@@ -481,7 +479,6 @@ repeated/repeatedly                     重复地 adj/adv
 research                    研究 n/v
 reset                           调整,重新设置 v/n
 respect                尊敬
-resume                                          恢复 v
 reward                      奖励 n/v
 rewarding                                       值得的,有意义的 adj
 rightful                        合法的,公正的
