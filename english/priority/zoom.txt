@@ -21,22 +21,22 @@ I'll restart it. it's freezing badly(super laggy)        我要重启下,卡的�
 Sorry, my network seemed unstable       抱歉,我的网络似乎不太稳定
 My Zoom is stuck                        我的 Zoom 卡住了
 Sorry, I just froze                     抱歉,我刚刚卡住了
-Jack, you’re frozen                    你卡住了
+Jack, you're frozen                    你卡住了
 I froze/lagged for a second/moment                   我 卡/延迟 了一 秒钟/会儿
 
 daily meeting
 Let's go through tickets first
 I'll try to get it done by today
-I’m trying to get this resolved today
+I'm trying to get this resolved today
 We're on it             我们正在处理
-I’ll continue working/focusing on this today
-I’m looking into this right now              我现在正在处理/排查这个
-I’m currently handling this
-I’ll focus(follow up) on this today
+I'll continue working/focusing on this today
+I'm looking into this right now              我现在正在处理/排查这个
+I'm currently handling this
+I'll focus(follow up) on this today
 This is my priority today
 Haven't got time to pick it up yet
 I spent all my time finishing the ticket yesterday              昨天我把所有时间都花在完成这张票上
-I didn’t have time to handle this, today I'll continue following it up today
+I didn't have time to handle this, today I'll continue following it up today
 Let me check later. I have no idea how big it(this ticket) is (how many story point do u need)
 answered some questions Encountered by jack
 Yesterday I helped check the MI issue Jack encountered and the CDA issue Jack faced

@@ -55,7 +55,7 @@ A couple of minutes                 几分钟
 
 delay       延期 v
 It will cause a delay in our delivery.              这会导致我们的交付时间推迟
-It will delay our delivery if we can’t resolve this today.             如果我们今天不能解决这个问题,那么我们的交付将会被推迟
+It will delay our delivery if we can't resolve this today.             如果我们今天不能解决这个问题,那么我们的交付将会被推迟
 This may cause a slight delay in our delivery. But we are working on a solution     这可能导致我们交付稍有延迟.不过我们正在寻找办法
 Please expect delays in responding to your queries              请谅解,回复您的问题可能会延迟.
 
@@ -81,12 +81,12 @@ That's odd(奇怪的 adj)/weird                  有点怪,有点不对劲(最�
 It's strange                这很奇怪(中性)
 So strange                  太奇怪了(稍强)
 How strange!                真奇怪啊！(感叹)
-That’s (so) ridiculous                      太 离谱/荒谬/可笑 了!(最重)
+That's (so) ridiculous                      太 离谱/荒谬/可笑 了!(最重)
 
 How are you?
 It's just okay                      一般般,还行
 It's all right                      还可以
-I’m (Pretty) good                   我挺好的
+I'm (Pretty) good                   我挺好的
 It's nothing special                就那样
 
 be responsible to/for n                  负责n
