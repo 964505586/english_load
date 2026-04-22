@@ -17,10 +17,12 @@ this is a offset             |ðɪ sɪ zə|
 Let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
 Let's keep it as is             /lets kiːp ɪt əz ɪz/
 I'll let you know
-
+for a moment
 
 Pronunciation
-Statistical data/analysis         /stəˈtɪstɪk(ə)l/            统计的  adj
+manage          /ˈmænɪdʒ/       设法做到,管理
+bother          /ˈbɒðə(r)/      打扰
+Statistical data/analysis(summary)         /stəˈtɪstɪk(ə)l/            统计的  adj
 approximately           /əˈprɒksɪmətli/           大约，大概 adv
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
@@ -60,18 +62,24 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+isolate/split/Divide/Separate                   隔离,孤立/拆分/均分/分离 v
+dummy/mock                       假的 adj
+ideal/normal
+Involve/Include/Contain             涉及
+at your convenience/if you get a chance     你有空的时候
+self/internal/(my/our own) check            自测
+with n/there is ...
 alright(all right)
 reboot(restart)                  重新启动 v/n
 as for n(regarding)        至于n
 any concerns(question)          任何顾虑
-chase/push/urge             催促 v
+chase/push/urge sb to do(for sth)             催促 v
 simply(just)                          仅仅
 mention(say)            提到,谈到 v
 lead/led to n(cause)                           导致
 Classify/Categorize             分类、分级、归类/归类、分组 v
 uncheck/unselected         取消勾选、去掉勾选/未被选中的、未勾选的
 Separate/Separately                 分离 v/单独的,独立的,分开的 adj/分别地 adv
-split/Divide/Separate                   劈开,裂开,分手/整体分成几份(均分)/把东西隔开,分开
 Notice(saw)
 identify/identified(found)              识别 v
 detect/check                  检测,探测/check v
@@ -119,7 +127,7 @@ Edition(version)                     版本 n
 Perspective(view)
 Integrate/Integration(merge)            合并,成为一体
 may(can)
-lots(a lot) of(many)
+lots(a lot) of(many/much)
 look/sounds like(seem)
 Sufficient/Insufficient(Enough)                 足够的,充足的 adj/不足的,不够的 adj
 Isn't it(主语是it, right?)
@@ -135,6 +143,12 @@ edge case/scenario               极端,边界场景
 
 
 
+
+
+brief/Briefly             简短的,简要的 adv
+announce/announcement                    宣布,公布 n/v
+introduce                   介绍,引进 v
+Capture         捕获、截取 v
 standby             备用物 n
 bookmark        书签 n
 Outage                  停止供应期 n
@@ -242,13 +256,13 @@ The change will only take effect after the end date                 end_date后�
 You need to update the uk schema to align(be consistent) with hk
 Look/sounds like your situation is different(not same) from mine
 No further error so far                     到目前为止没有再出现错误
-have no particular idea at the moment
-Implement pagination functionality
-Of course, it wasn't me who caused it
+have no particular idea at the moment           目前还没有特别的想法
+Implement pagination functionality              实现分页功能
+Of course, it wasn't me who caused it               当然，造成这一情况的并非是我
 (It's) almost the same                  几乎一样
-let Jenkins rest for a while
-We usually/normally do it this way, unless someone challenges it
-Same old problem, Jenkins is constantly unstable                    还是老问题,Jenkins 一直不稳定
+almost at once                                      几乎马上
+let Jenkins rest for a while                        让Jenkins休息一会
+We usually/normally do it this way, unless someone challenges it            我们一般都这么做
 If we use The pattern, others may misunderstand it as cust ID instead of auto-increment ID
 Remember to add the piece of code in the end
 No need to start the run from the beginning         不需要从头开始run
@@ -379,13 +393,12 @@ How do I freeze the top/header row so (that) it stays visible when scrolling dow
 Could you please acknowledge                你能确认 已收到/知晓,知悉 吗？
 Platform patching led to an (unexpected) production outage last night           导致生产环境宕机
 Please find the email chain below               邮件往来请见下方
-Just focus on understanding the main process for now. As for the specific details, feel free to ask Jack, me or other team members once you start working on it         先了解主流程,至于细节,等你开始做了,在找人问
 Jack mentioned that you are already aware of this               杰克说你已经知道这个了
 Your hard/excellent work is well recognized                 你的出色工作得到了认可
 Let's ask in the team group             在群里问下吧
 in the past/last few days               在过去几天里
 17 months of data               17 个月的数据
-Kind reminder to provide the information below          温馨提示：请提供以下信息
+Kind reminder to provide the info below          温馨提示：请提供以下信息
 I have received the file from your separate email           我已经从您单独发来的邮件中收到了那份文件
 I noticed/observed that the score ranges from 0 to 9                我注意到分数的范围是从0到9
 please ignore this email If you have already actioned this              如果您已采取行动,请忽略此邮件
@@ -408,6 +421,32 @@ it stands for sth                    它代表 sth
 They’re not doing their jobs                他们没在干活,没履行职责
 Please release after 16:00 cutoff batch         请在16:00后进行release
 handover item/content/object            交接项,内容，对象
+This change involves lots of underlying code            这改动涉及大量底层代码
+The contact person from SAS team                SAS团队的联系人
+I managed to solve the problem          我成功解决了这个问题
+Sorry to keep bothering you         很抱歉一次次打扰你
+There's no good solution (on this)                                没什么好办法
+Same old problem, Jenkins is constantly unstable                    还是老问题,Jenkins 一直不稳定
+Can we ask Jack to perform the final round of check (on this)                    我们可以请Jack做最后一轮检查吗
+There was some misunderstanding for sth             有点误会
+Better to keep it aligned/consistent                最好保持一致
+What's it/this for?             干嘛用的
+How long will you need to get this done         你要多久做完这个？
+When do we target to get this ready             我们预计啥时候能准备好这个
+I can't really pronounce those names            我实在无法正确地读出那些名字
+I ran the relevant scheduled job and obtained the latest batch of data this morning           我今早跑了相关的job，获取到最新的数据
+Just an example, no offense             就举个例子，无意冒犯
+This change might be problematic                这个改动可能有问题
+We need to find a long-term solution                我们需要找一个长期的解决方案
+Recommended that ...                        推荐...
+
+
+
+
+
+
+
+
 
 
 

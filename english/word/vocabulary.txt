@@ -21,8 +21,6 @@ alcohol                         酒
 alternatively                                   要不,或者 adv
 amaze/amazing                 使惊奇,使惊愕 v/惊人的,令人惊讶的 adj
 analyse/analyze                             分析 v
-and then                    于是,然后
-announce/announcement                    宣布,公布 n/v
 annoy                   使恼怒,使烦恼 v
 annoying                令人恼火的 adj
 annual pay/party                    年会/年薪
@@ -315,8 +313,7 @@ intelligent                                     聪明的 adj
 intend                      打算 v
 interest        利息,兴趣 n         使感兴趣 v
 interview                           面试 v/n
-introduce                   介绍,引进 v
-introvert 内向的 | vɜːt |
+introvert               内向的 | vɜːt |
 invite 邀请
 is far beyond               远远超出了
 jam             堵塞,拥挤 n             塞满,挤满 v
@@ -626,8 +623,8 @@ prepare/preparation     准备 v/n
 mission                 使命 n
 Determine                  决定 v
 judge/Judgment                           判断,评价 v/判断 n
-Transform               使转化 v
 Practical               实用的 adj
+and then                    于是,然后
 
 
 

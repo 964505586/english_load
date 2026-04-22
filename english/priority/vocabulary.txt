@@ -173,9 +173,6 @@ Regression              后退,倒退 n
 Acceptance criteria             验收标准
 Investigate/investigation                 调查 n
 Recipient           接收者 n
-brief/Briefly             简短的,简要的 adv
-isolate                 隔离,孤立 v
-dummy                       假的 adj
 feel free to v                请随意,尽管
 Constantly          总是,经常地,不断地
 Seek                    寻找 v
@@ -193,6 +190,7 @@ follow-up           后续的 adj
 Abnormal                反常的 adj
 precondition            前置条件,前提状态 n
 radio/checkbox (button)                           单选/复选框 n
+Transform               使转化 v
 
 
 
