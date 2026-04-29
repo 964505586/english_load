@@ -40,7 +40,6 @@ fact                 事实 n
 
 
 
-Abort                           中止 v
 Access                          访问 v
 Adapt                           适应 v
 Adverse                         不利的 adj

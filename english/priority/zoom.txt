@@ -25,35 +25,41 @@ Jack, you're frozen                    你卡住了
 I froze/lagged for a second/moment                   我 卡/延迟 了一 秒钟/会儿
 
 daily meeting
-Let's go through tickets first
-I'll try to get it done by today
-I'm trying to get this resolved today
-We're on it             我们正在处理
-I'll continue working/focusing on this today
-I'm looking into this right now              我现在正在处理/排查这个
-I'm currently handling this
-I'll focus(follow up) on this today
-This is my priority today
-Haven't got time to pick it up yet
-I spent all my time finishing the ticket yesterday              昨天我把所有时间都花在完成这张票上
-I didn't have time to handle this, today I'll continue following it up today
-Let me check later. I have no idea how big it(this ticket) is (how many story point do u need)
-answered some questions Encountered by jack
-Yesterday I helped check the MI issue Jack encountered and the CDA issue Jack faced
-I keep getting interrupted by other (Urgent) matters recently, therefore the progress is only about 20%     我最近总是会被其他紧急事务打断
+Let's wait for others to join (the call)            请稍等，其他人员也加入进来（通话）了
+(Okay, no more delay) let's jump right in                     那我们直接开始吧
+Let's go through tickets first              我们先处理一下票务的事
+Let's continue to go through tickets and then discuss it after the meeting          我们接着查看一下票务情况，会议结束后再进行讨论
 can/Shall I share my screen?            我能否共享我的屏幕？
 you're on mute             您已静音
 I can hear you, but your voice is too low, i can't hear clearly             我能听到你,但你的声音太低了,我听不清楚
-We've completed the work through
+We've completed the work through                我们已经完成了这项工作
+We're on it                                 我们正在处理
+I'll continue working/focusing on this today        今天我将继续 做/专注 于这件事
+I'm looking into this right now              我现在正在处理/排查这个
+I'm currently handling this                 我正在处理这件事
+I'll focus(follow up) on this today         今天我会关注（跟进）这件事
+This is my priority today                   这是今天我的首要任务
+Haven't got time to pick it up yet          还没时间去处理这件事
+I'll try to get it done by today            我将争取今天完成
+I'm trying to get this resolved today       我正努力今天把这事解决掉
+I didn't have time to handle this, today I'll continue following it up today        我没有时间处理这件事，今天我会继续跟进此事
+I spent all my time finishing the ticket yesterday              昨天我把所有时间都花在完成这张票上
+Let me check later. I have no idea how big it(this ticket) is (how many story point do u need)          稍后我再查看一下我不知道这张票(你需要多少个故事点)
+answered some questions Encountered by jack                     回答了杰克遇到的一些问题
+Yesterday I helped check the MI issue Jack encountered and the CDA issue Jack faced                     昨天我帮助检查了杰克遇到的 MI 问题以及他面临的 CDA 问题
+I keep getting interrupted by other (Urgent) matters recently, therefore the progress is only about 20%     我最近总是会被其他紧急事务打断
 Let's go/come back to Jira board(the track)         我们回到n吧
-Let's continue to go through tickets and then discuss it after the meeting
-Thanks for joining
-Let's wait for others to join (the call)
-(Okay, no more delay) let's jump right in                     那我们直接开始吧
-are there any items you want to raise/talk here?
-Is there anything you want to discuss here or we can end/close the call
-if There are no items to discuss
-will see if no problem, we can end the call
+Thanks for joining              感谢您的参与
+
+Is/are there anything(any items) you want to raise/talk/discuss here or we can end/close the call     您这里还有想要 提出/讨论/交流 的 内容/事项吗？或者我们可以结束这次通话
+if There are no items to discuss                如果没有任何需要讨论的事项的话
+will see if no problem, we can end the call         我们会看看是否没有问题，然后就可以结束通话了
+
+
+
+
+
+
 
 
 

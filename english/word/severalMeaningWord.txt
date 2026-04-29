@@ -40,7 +40,6 @@ value                           价值
 consideration                   注意事项
 break                           出错 v
 keep                            老是 v
-Present                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 
 
 

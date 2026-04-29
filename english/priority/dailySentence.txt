@@ -96,7 +96,6 @@ The root cause is there an offset on browser
 remain unchanged                保持不变
 We read data in batches                         我们分批读取数据
 This API supports bulk requests                 这API支持批量请求
-as far as I know(can see)           据我所 知/见
 at least not tonight                至少不是今晚
 What a pleasant surprise                    真是个惊喜(意外之喜)
 Who can help with this?                         谁能帮忙这个？
