@@ -36,14 +36,14 @@ Resolution    /ˌrezəˈluːʃ(ə)n/          决议,解决 n
 preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
 quote           /kwəʊt/         引号 n
 quota           /ˈkwəʊtə/       指标 n
-paste       /peɪst/         粘贴 v
+paste (here)       /peɪst/         粘贴 v
 scroll/scrolling      /skrəʊl/  /ˈskrəʊlɪŋ/
 conduct         实施,进行 v     /kənˈdʌkt/
 urge        /ɜːdʒ/            敦促,催促 v
 hyphen      /ˈhaɪfn/        - 连字符
 iterate/iteration         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
 Occurrence     /əˈkʌrəns/  出现次数 n
-edge                            /edʒ/
+edge case/scenario          /edʒ/               极端,边界场景
 Obtain/gain/get                  /əbˈteɪn/   得到,获得
 Redundant               /rɪˈdʌndənt/        多余的 adj
 shown                   /ʃəʊn/
@@ -146,7 +146,6 @@ by today/tomorrow/afternoon(by the end of day)               今天之内,明天
 due to n/since 句子(because/because of)
 on (top) priority/As a priority              最高优先级
 I misunderstood(I got it/you wrong)             我理解错了/我理解错你意思了
-edge case/scenario               极端,边界场景
 
 
 
