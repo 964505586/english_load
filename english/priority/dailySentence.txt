@@ -19,6 +19,8 @@ Strong justification                  强有力的理由
 
 
 
+The change took effect last Friday              这change上周五开始生效
+The change has taken effect since last Friday           这change上周五起已开始生效
 what are you doing                                  你在干什么
 what can i do for(to help) you                               我能帮你做什么?
 as we planned/discussed previously                正如我们计划的
@@ -93,7 +95,6 @@ If they were removed due to the status              如果它们是因状态而�
 Do you know how to get the actual sql that was executed in ES for this piece of JAVA code?
 Why does this happen?                 为什么会出现这个问题？
 The root cause is there an offset on browser
-remain unchanged                保持不变
 We read data in batches                         我们分批读取数据
 This API supports bulk requests                 这API支持批量请求
 at least not tonight                至少不是今晚
@@ -110,7 +111,7 @@ I've come up with two potential solutions for the issue         我想出了两�
 The frontline is complaining(shouting 大喊大叫) every day
 make good/full use of                               充分利用
 Just get familiar with the main process first. For the specific details, ask Jack, me or other team members when you start working on it    先了解主流程,至于细节,等你开始做了,在找人问
-
+For your convenience, please find FAQs here             为方便您使用，常见问题请在此查阅
 
 
 

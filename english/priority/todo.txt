@@ -23,11 +23,13 @@ let’s move on                   让我们继续前进
 
 
 Pronunciation
+Withdraw    /wɪðˈdrɔː/            撤回,撤销 v
+Majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
 manage          /ˈmænɪdʒ/       设法做到,管理
 bother          /ˈbɒðə(r)/      打扰
 Statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
-approximately           /əˈprɒksɪmətli/           大约，大概 adv
+approximately           /əˈprɒksɪmətli/           大约,大概 adv
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
 Resolution    /ˌrezəˈluːʃ(ə)n/          决议,解决 n
@@ -65,6 +67,8 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+show/display            显示、展示 v
+Recommended action/solution      推荐操作,方案
 several(some)                一些、若干
 present(exist)                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 isolate/split/Divide/Separate                   隔离,孤立/拆分/均分/分离 v
@@ -151,10 +155,21 @@ edge case/scenario               极端,边界场景
 
 
 
+
+
+take/took/taken
+remain                 仍然是,保持,剩余,留下 v
+Testing remains             测试仍在进行
+remain unchanged                保持不变
+Compliance              合规 n
+Frequently asked questions(FAQ/FAQs)            常见问题
+Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
+Action required from stakeholders           需要stakeholder采取的行动
+Dedicated           专用的、专属的 adj
 direct/directly/indirect/indirectly                  直接的/间接的
 freeze/freezes/froze/frozen
 programmatically                通过编程方式 adv
-miss                错过，想念 v
+miss                错过,想念 v
 brief/briefly             简短的,简要的 adv
 announce/announcement                    宣布,公布 n/v
 introduce                   介绍,引进 v
@@ -259,19 +274,19 @@ How/Why/What is it?              怎么样/为什么/这是什么
 this is just(simply) my personal perspective            这仅仅是我个人的看法。
 will it work？
 not sure if Tony will join the call？            不确定托尼是否会参加这次通话？
-In that case, I think everything will be fine/all right     既然如此，我觉得一切都会顺利的
+In that case, I think everything will be fine/all right     既然如此,我觉得一切都会顺利的
 The change will only take effect after the end date                 end_date后才生效
 You need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与HK保持一致
 Look/sounds like your situation is different(not same) from mine                看起来/听起来您的情况与我的情况不同
 No further error so far                     到目前为止没有再出现错误
 have no particular idea at the moment           目前还没有特别的想法
 Implement pagination functionality              实现分页功能
-Of course, it wasn't me who caused it               当然，造成这一情况的并非是我
+Of course, it wasn't me who caused it               当然,造成这一情况的并非是我
 (It's) almost the same                  几乎一样
 almost at once                                      几乎马上
 let Jenkins rest for a while                        让Jenkins休息一会
 We usually/normally do it this way, unless someone challenges it            我们一般都这么做
-If we use The pattern, others may misunderstand it as cust ID instead of auto-increment ID          如果我们使用这pattern，其他人可能会将其误解为客户编号，而非自增编号
+If we use The pattern, others may misunderstand it as cust ID instead of auto-increment ID          如果我们使用这pattern,其他人可能会将其误解为客户编号,而非自增编号
 Remember to add the piece of code in the end                记得在最后添加这段代码
 No need to start the run from the beginning         不需要从头开始run
 Jesus                           天哪
@@ -290,18 +305,18 @@ Could you tell me who I should contact?         你可以告诉我应该联系�
 Out of the scope                    超出范围
 this has never been done before        以前从没人干过
 Data discrepancy conclusion                     数据差异结论
-Develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an ES index             编写一个脚本来识别特定索引中的数据差异。如果发现差异，将结论保存到ES索引中
+Develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an ES index             编写一个脚本来识别特定索引中的数据差异。如果发现差异,将结论保存到ES索引中
 This is an automatically generated notification from Confluence             这是Confluence自动生成的通知
-I'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline         我正在准备为 Spark 项目创建一个示例。完成后，我会制定详细的时间表
+I'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline         我正在准备为 Spark 项目创建一个示例。完成后,我会制定详细的时间表
 Whose responsibility is it？                 这是谁的责任？
-Actually, it's afternoon in China               实际上，中国现在是下午
+Actually, it's afternoon in China               实际上,中国现在是下午
 What time do you start work in the morning          你早上几点开始工作
 using a command             方式状语
 The issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
 This problem was caused while developing BEC feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
 Adjust/Modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
 As (we) discussed (with Jack)                   正如我与杰克所讨论的那样
-Please help check the email draft, i'm preparing to send to kevin and Claire for clarification          请帮忙检查一下这份邮件草稿，我正准备将其发送给kevin和Claire以获取进一步的说明。
+Please help check the email draft, i'm preparing to send to kevin and Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明。
 Everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
 sth be Pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
@@ -344,10 +359,9 @@ The way/solution I can think of is to                我能想到的办法是~
 There are two potential solutions I've thought of for the issue             我想到的两个可能的解决方案
 as shown above          如上所示
 At 17:00 hours
-Testing remains             测试仍在进行
 at a time               一次
 (This is) a recurring error/issue               反复出现的 adj
-I'm a Java developer, but since there isn't much Java work in our team right now, I sometimes also take on big data tasks               我是Java开发，但我们团队目前没有太多Java的工作，所以我有时也会做一些大数据相关的任务
+I'm a Java developer, but since there isn't much Java work in our team right now, I sometimes also take on big data tasks               我是Java开发,但我们团队目前没有太多Java的工作,所以我有时也会做一些大数据相关的任务
 We have (encountered) a new issue currently. Jack needs to modify the code in Felix to fix it. I've added relevant comments in the ticket           目前我们遇到了一个新的问题。Jack需要修改Felix的代码来解决这个问题。我在工单中添加了相关的comment
 The day before yesterday                前天
 The day after tomorrow                  后天
@@ -422,12 +436,12 @@ Applicable to this scenario only                只适用于该场景
 Do I need to refresh the page                   需要刷新页面吗？
 Hope it/this/that helps(Hope this clarifies)                 希望这有帮助/希望这能解释清楚
 just noticed that                   刚注意到
-Remediation is ongoing and (is) expected to take approximately 1-3 hours          修复在进行中，预计约1-3个钟
+Remediation is ongoing and (is) expected to take approximately 1-3 hours          修复在进行中,预计约1-3个钟
 What does “VIP” stand for               VIP 代表什么？
 it stands for sth                    它代表 sth
 They’re not doing their jobs                他们没在干活,没履行职责
 Please release after 16:00 cutoff batch         请在16:00后进行release
-handover item/content/object            交接项,内容，对象
+handover item/content/object            交接项,内容,对象
 This change involves lots of underlying code            这改动涉及大量底层代码
 The contact person from SAS team                SAS团队的联系人
 I managed to solve the problem          我成功解决了这个问题
@@ -441,53 +455,33 @@ What's it/this for?             干嘛用的
 How long will you need to get this done         你要多久做完这个？
 When do we target to get this ready             我们预计啥时候能准备好这个
 I can't really pronounce those names            我实在无法正确地读出那些名字
-I ran the relevant scheduled job and obtained the latest batch of data this morning           我今早跑了相关的job，获取到最新的数据
-Just an example, no offense             就举个例子，无意冒犯
+I ran the relevant scheduled job and obtained the latest batch of data this morning           我今早跑了相关的job,获取到最新的数据
+Just an example, no offense             就举个例子,无意冒犯
 This change might be problematic                这个改动可能有问题
 We need to find a long-term solution                我们需要找一个长期的解决方案
 Recommended that ...                        推荐...
 on the other hand                               另一方面
 From another angle(point of view)              从另一个角度来看
 I'm slowly combing through my notes             我正在慢慢梳理我的笔记
-Conduct Integration/Regression testing         进行 集成/回归 测试
 2026
 as far as I know(can see)           据我所 知/见
 good/great/excellent question                   好问题
-If the issue can't be resolved Promptly/quickly， I'll raise a related ticket later          如果这问题不能迅速解决，我将会提交一个相关的工单
+If the issue can't be resolved Promptly/quickly, I'll raise a related ticket later          如果这问题不能迅速解决,我将会提交一个相关的工单
 (you just) follow suit with sth                    效仿sth(依葫芦画瓢)
 probably today(when target)
 It can make tracking much easier(It can be easier for the tracking of progress)             这能让追踪工作简单很多
 You're gonna say something else?                    你要说点别的?
+please kindly provide your sign-off             若无疑问,烦请确认签收/办结
+The change is now taking effect. Going forward, please follow the new process           变更已即刻生效，后续请按新流程执行
+The change has been in effect since last Friday         这change自上周五就已经生效了
+If (there are) any of your tickets          如果你任何一张票
+In either of these columns          在这两列中的任意一列里
+It will be considered (as) a failure                它会被视为失败
+For your convenience, answers to frequently asked questions can be found here           为方便您查阅，常见问题解答可在此查看
+Especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
+Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我。若无疑问，烦请确认并签字审批
 
 
-
-
-
-
-
-
-
-
-Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated
-please kindly provide your sign-off 若无疑问，烦请确认签收/办结。
-display   shown
-Compliance合规，
-Majority
-most
-It will be considered as failure
-Action required from stakeholder
-Specially where the following columns are marked as failed
-Performance and stress testing
-If any of your tickets
-In either of these columns在这两列中的任意一列里
-For your convenience, answer to frequently asked questions can be found here
-Respective
-Perspective
-remain仍然是，剩余
-Dedicated
-The change is now taking effect Going forward
-Recommend action
-Withdraw撤销
 
 
 
@@ -503,6 +497,10 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+prompt                  提示,弹出提示 v/提示,弹窗,提示框 n
+pop/popped up a prompt to remind the user               弹出一个提示框以提醒用户
+Display a prompt to alert the user                      显示一个提示信息以提醒用户
+Show a popup message to the user                        向用户显示一个弹出消息
 
 store                       储存 v/商店 n
 storage                     储存 n
@@ -558,29 +556,6 @@ we can do better                        我们可以做得更好
 useless         无用的,无效的 adj
 unused          未使用的,闲置的 adj
 valid/invalid       有效的 adj
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
