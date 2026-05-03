@@ -33,6 +33,7 @@ can/Shall I share my screen?            我能否共享我的屏幕？
 you're on mute             您已静音
 I can hear you, but your voice is too low, i can't hear clearly             我能听到你,但你的声音太低了,我听不清楚
 We've completed the work through                我们已经完成了这项工作
+Yesterday I basically finished the access request           昨天我基本上完成了权限请求
 We're on it                                 我们正在处理
 I'll continue working/focusing on this today        今天我将继续 做/专注 于这件事
 I'm looking into this right now              我现在正在处理/排查这个

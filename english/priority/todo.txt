@@ -18,12 +18,15 @@ Let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
 Let's keep it as is             /lets kiːp ɪt əz ɪz/
 I'll let you know
 for a moment
+let’s move on                   让我们继续前进
+
+
 
 Pronunciation
 angle           /ˈæŋɡ(ə)l/      角度 n
 manage          /ˈmænɪdʒ/       设法做到,管理
 bother          /ˈbɒðə(r)/      打扰
-Statistical data/analysis(summary)         /stəˈtɪstɪk(ə)l/            统计的  adj
+Statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
 approximately           /əˈprɒksɪmətli/           大约，大概 adv
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
@@ -240,27 +243,26 @@ it/system/program throw/threw failure error/Exception
 If everything goes well         如果一切顺利
 Maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
-Let's extract an extra method for the piece of code
-Let's pause(hold on) here. For the introduction and process I mentioned previously. Is there any question?
-Why/How did you navigate to(land on) that page?
+Let's extract an extra method for the piece of code             让我们为这段代码添加一个额外的方法
+Let's pause(hold on) here. For the introduction and process I mentioned previously. Is there any question? alright, let's move on          让我们在此暂停一下（稍等）。对于我之前提到的介绍和流程部分。有什么问题吗？
+Why/How did you navigate to(land on) that page?         您是如何访问（到达）那个页面的？
 My pleasure
 These two fields are reversed                这两个字段的值颠倒了
 TBD                 to be determined/decided/confirmed
-data(Email) attached for your reference
-Postman has been disabled in HSBC
-(Did) you know that？
-I know about this
-I'm aware of this
-I'd like to tell you something
+data(Email) attached for your reference                 附上邮件供您参考
+Postman has been disabled in HSBC                   汇丰银行已禁用 Postman
+(Did) you know that？                你知道这件事吗？
+I know about this           我知道这件事
+I'm aware of this           我了解这件事
 How/Why/What is it?              怎么样/为什么/这是什么
-(so Can i understand that) it's basically just a database
-this is just(simply) my personal perspective
+(so Can i understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
+this is just(simply) my personal perspective            这仅仅是我个人的看法。
 will it work？
-not sure if Tony will join the call？
-In that case, I think everything will be fine/all right
+not sure if Tony will join the call？            不确定托尼是否会参加这次通话？
+In that case, I think everything will be fine/all right     既然如此，我觉得一切都会顺利的
 The change will only take effect after the end date                 end_date后才生效
-You need to update the uk schema to align(be consistent) with hk
-Look/sounds like your situation is different(not same) from mine
+You need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与HK保持一致
+Look/sounds like your situation is different(not same) from mine                看起来/听起来您的情况与我的情况不同
 No further error so far                     到目前为止没有再出现错误
 have no particular idea at the moment           目前还没有特别的想法
 Implement pagination functionality              实现分页功能
@@ -269,8 +271,8 @@ Of course, it wasn't me who caused it               当然，造成这一情况�
 almost at once                                      几乎马上
 let Jenkins rest for a while                        让Jenkins休息一会
 We usually/normally do it this way, unless someone challenges it            我们一般都这么做
-If we use The pattern, others may misunderstand it as cust ID instead of auto-increment ID
-Remember to add the piece of code in the end
+If we use The pattern, others may misunderstand it as cust ID instead of auto-increment ID          如果我们使用这pattern，其他人可能会将其误解为客户编号，而非自增编号
+Remember to add the piece of code in the end                记得在最后添加这段代码
 No need to start the run from the beginning         不需要从头开始run
 Jesus                           天哪
 About when?                大概什么时候
@@ -287,21 +289,19 @@ Wait a minute. Let me quickly check the dictionary to see how to say it     我�
 Could you tell me who I should contact?         你可以告诉我应该联系谁吗？
 Out of the scope                    超出范围
 this has never been done before        以前从没人干过
-Yesterday I basically finished the access request
-Data discrepancy conclusion
-Develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an Elasticsearch index
-This is an automatically generated notification from Confluence
-I'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline
-Please correct me if i'm wrong
-Whose responsibility is it？
-Actually, it's afternoon in China
-What time do you start work in the morning
+Data discrepancy conclusion                     数据差异结论
+Develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an ES index             编写一个脚本来识别特定索引中的数据差异。如果发现差异，将结论保存到ES索引中
+This is an automatically generated notification from Confluence             这是Confluence自动生成的通知
+I'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline         我正在准备为 Spark 项目创建一个示例。完成后，我会制定详细的时间表
+Whose responsibility is it？                 这是谁的责任？
+Actually, it's afternoon in China               实际上，中国现在是下午
+What time do you start work in the morning          你早上几点开始工作
 using a command             方式状语
 The issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
 This problem was caused while developing BEC feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
 Adjust/Modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
-As (we) discussed (with Jack)
-Please help check the email draft, i'm preparing to send to kevin and claire for clarification
+As (we) discussed (with Jack)                   正如我与杰克所讨论的那样
+Please help check the email draft, i'm preparing to send to kevin and Claire for clarification          请帮忙检查一下这份邮件草稿，我正准备将其发送给kevin和Claire以获取进一步的说明。
 Everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
 sth be Pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
@@ -322,6 +322,7 @@ Is there any ticket for the follow-up actions?                         对后续
 What's this ticket for?                             这ticket干嘛的
 Would like to clarify sth/make a clarification on sth           想澄清下sth
 Would like to clarify some points/details about BEC with you
+I'd like to tell you something      我想告诉你一些事情
 I hardly ever use this method(Jenkins/command line) to operate Git          我几乎不用sth
 then talk to Jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟Jack说
 Probably the train              大概率是sth
@@ -346,8 +347,8 @@ At 17:00 hours
 Testing remains             测试仍在进行
 at a time               一次
 (This is) a recurring error/issue               反复出现的 adj
-I'm a Java developer, but since there isn't much Java work in our team right now, I sometimes also take on big data tasks
-We have (encountered) a new issue currently. Jack needs to modify the code in Felix to fix it. I've added relevant comments in the ticket
+I'm a Java developer, but since there isn't much Java work in our team right now, I sometimes also take on big data tasks               我是Java开发，但我们团队目前没有太多Java的工作，所以我有时也会做一些大数据相关的任务
+We have (encountered) a new issue currently. Jack needs to modify the code in Felix to fix it. I've added relevant comments in the ticket           目前我们遇到了一个新的问题。Jack需要修改Felix的代码来解决这个问题。我在工单中添加了相关的comment
 The day before yesterday                前天
 The day after tomorrow                  后天
 the week after next week                下下周
@@ -455,6 +456,8 @@ good/great/excellent question                   好问题
 If the issue can't be resolved Promptly/quickly， I'll raise a related ticket later          如果这问题不能迅速解决，我将会提交一个相关的工单
 (you just) follow suit with sth                    效仿sth(依葫芦画瓢)
 probably today(when target)
+It can make tracking much easier(It can be easier for the tracking of progress)             这能让追踪工作简单很多
+You're gonna say something else?                    你要说点别的?
 
 
 
@@ -465,8 +468,26 @@ probably today(when target)
 
 
 
-
-
+Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated
+please kindly provide your sign-off 若无疑问，烦请确认签收/办结。
+display   shown
+Compliance合规，
+Majority
+most
+It will be considered as failure
+Action required from stakeholder
+Specially where the following columns are marked as failed
+Performance and stress testing
+If any of your tickets
+In either of these columns在这两列中的任意一列里
+For your convenience, answer to frequently asked questions can be found here
+Respective
+Perspective
+remain仍然是，剩余
+Dedicated
+The change is now taking effect Going forward
+Recommend action
+Withdraw撤销
 
 
 
