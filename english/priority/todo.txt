@@ -18,12 +18,13 @@ Let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
 Let's keep it as is             /lets kiːp ɪt əz ɪz/
 I'll let you know
 for a moment
-let’s move on                   让我们继续前进
+let’s move on           /lets muːvɒn/          让我们继续前进
+I'll pick it up         /aɪl pɪk ɪt ʌp/
 
 
 
 Pronunciation
-Withdraw    /wɪðˈdrɔː/            撤回,撤销 v
+Withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
 Majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
 manage          /ˈmænɪdʒ/       设法做到,管理
@@ -37,18 +38,18 @@ preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
 quote           /kwəʊt/         引号 n
 quota           /ˈkwəʊtə/       指标 n
 paste (here)       /peɪst/         粘贴 v
-scroll/scrolling      /skrəʊl/  /ˈskrəʊlɪŋ/
+scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 conduct         实施,进行 v     /kənˈdʌkt/
 urge        /ɜːdʒ/            敦促,催促 v
 hyphen      /ˈhaɪfn/        - 连字符
-iterate/iteration         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
+iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
 Occurrence     /əˈkʌrəns/  出现次数 n
 edge case/scenario          /edʒ/               极端,边界场景
 Obtain/gain/get                  /əbˈteɪn/   得到,获得
 Redundant               /rɪˈdʌndənt/        多余的 adj
 shown                   /ʃəʊn/
 hotkey          快捷键 n       /hɒt/
-editable            /ˈedɪtəbl/
+editable            /ˈedɪtəbl/          可编辑的 adj
 borrow/borrowing            /ˈbɒrəʊ/    /ˈbɒrəʊɪŋ/
 Available                       /əˈveɪləb(ə)l/
 follow me                       /ˈfɑːloʊ/
@@ -56,7 +57,7 @@ scope           /skoʊp/
 browser                          /ˈbraʊzə(r)/
 Upsert(update + insert)                      /ˈʌpsɜːrt/
 extra
-criteria
+criteria                /kraɪˈtɪəriə/
 Auto-increment ID               递增 ID
 typology                        类型学,分类体系 n
 prioritize          /praɪˈɒrətaɪz/          优先处理,把… 放在优先位置 v
@@ -479,6 +480,11 @@ It will be considered (as) a failure                它会被视为失败
 For your convenience, answers to frequently asked questions can be found here           为方便您查阅，常见问题解答可在此查看
 Especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
 Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我。若无疑问，烦请确认并签字审批
+
+
+
+
+
 
 
 
