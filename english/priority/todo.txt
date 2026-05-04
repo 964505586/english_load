@@ -24,6 +24,9 @@ I'll pick it up         /aɪl pɪk ɪt ʌp/
 
 
 Pronunciation
+Multiple                    /ˈmʌltɪp(ə)l/
+linkage                     /ˈlɪŋkɪdʒ/          联系 n
+Parallel/Parallelly/In parallel(In the meanwhile)             /ɪn ˈpærəlel/                 平行的,并行的 adj/adv
 Accuracy                /ˈækjərəsi/         准确性 n
 Dedicated           /ˈdedɪkeɪtɪd/           专用的,专属的 adj
 Withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
@@ -157,7 +160,9 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-
+In detail           详细地 adv
+oversee                     统筹,监督 v
+Representative          /ˌreprɪˈzentətɪv/              代表 n
 Regulatory Compliance              (监管的)合规,遵守,遵从 n
 consolidate/consolidated                合并,使巩固 v/巩固的,统一的 adj
 Edit/Edited                  编辑 v/修订过的,编辑过的 adj
@@ -482,7 +487,16 @@ It will be considered (as) a failure                它会被视为失败
 For your convenience, answers to frequently asked questions can be found here           为方便您查阅,常见问题解答可在此查看
 Especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
 Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我。若无疑问,烦请确认并签字审批
-It shouldn‘t ideally have any impact               理想情况，它不应产生任何影响
+It shouldn‘t ideally have any impact               理想情况,它不应产生任何影响
+For reference only/This is for informational purposes only          此内容仅供参考
+I think it may not be so straightforward                            我觉得这事可能没那么简单
+Please kindly give this email your full attention                   烦请务必仔细查阅并重视本邮件
+
+
+
+
+
+
 
 
 

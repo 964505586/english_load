@@ -159,7 +159,6 @@ elementary problem                  低级问题
 explore/exploration             探索,探究,研究,排查 v/n
 Disable(enable)                 禁用,关闭,使失效/启用,开启 v
 Finalize/finalized                                    最终确定,敲定,完成 v
-Parallel/Parallelly/In parallel                 平行的,并行的 adj/adv
 Applicable              适用的,可应用的 adj
 an External monitor         外接显示器
 Laptop              笔记本电脑 n
