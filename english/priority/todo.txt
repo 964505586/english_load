@@ -24,6 +24,8 @@ I'll pick it up         /aɪl pɪk ɪt ʌp/
 
 
 Pronunciation
+Accuracy                /ˈækjərəsi/         准确性 n
+Dedicated           /ˈdedɪkeɪtɪd/           专用的,专属的 adj
 Withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
 Majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
@@ -68,9 +70,9 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
-show/display            显示、展示 v
+show/display            显示,展示 v
 Recommended action/solution      推荐操作,方案
-several(some)                一些、若干
+several(some)                一些,若干
 present(exist)                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 isolate/split/Divide/Separate                   隔离,孤立/拆分/均分/分离 v
 dummy/mock                       假的 adj
@@ -87,8 +89,8 @@ chase/push/urge sb to do(for sth)             催促 v
 simply(just)                          仅仅
 mention(say)            提到,谈到 v
 lead/led to n(cause)                           导致
-Classify/Categorize             分类、分级、归类/归类、分组 v
-uncheck/unselected         取消勾选、去掉勾选/未被选中的、未勾选的
+Classify/Categorize             分类,分级,归类/归类,分组 v
+uncheck/unselected         取消勾选,去掉勾选/未被选中的,未勾选的
 Separate/Separately                 分离 v/单独的,独立的,分开的 adj/分别地 adv
 Notice(saw)
 identify/identified(found)              识别 v
@@ -156,16 +158,16 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-
+Regulatory Compliance              (监管的)合规,遵守,遵从 n
+consolidate/consolidated                合并,使巩固 v/巩固的,统一的 adj
+Edit/Edited                  编辑 v/修订过的,编辑过的 adj
 take/took/taken
 remain                 仍然是,保持,剩余,留下 v
 Testing remains             测试仍在进行
 remain unchanged                保持不变
-Compliance              合规 n
 Frequently asked questions(FAQ/FAQs)            常见问题
 Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
 Action required from stakeholders           需要stakeholder采取的行动
-Dedicated           专用的、专属的 adj
 direct/directly/indirect/indirectly                  直接的/间接的
 freeze/freezes/froze/frozen
 programmatically                通过编程方式 adv
@@ -173,7 +175,7 @@ miss                错过,想念 v
 brief/briefly             简短的,简要的 adv
 announce/announcement                    宣布,公布 n/v
 introduce                   介绍,引进 v
-Capture         捕获、截取 v
+Capture         捕获,截取 v
 standby             备用物 n
 bookmark        书签 n
 Outage                  停止供应期 n
@@ -187,9 +189,9 @@ simplify                    使简易,简化 v
 reverse                     相反的 adj
 range                       处于...之间 v
 Defect          缺陷,bug,缺点
-freeze          卡死、冻结、无响应
+freeze          卡死,冻结,无响应
 Intended                预期的,故意的,有意的  adj
-chase/chased/chasing(push)       跟进、催促 v
+chase/chased/chasing(push)       跟进,催促 v
 guide           指导,引导 v/指南 n
 rework      返工 v/n
 familiar            熟悉的 adj
@@ -202,7 +204,7 @@ likely/Unlikely              可能的,很可能 adj/不太可能的,不大可�
 Existing                 现有的 adj
 sort                整理,分类,排序 v
 Outdated                过时的 adj
-trick                   技巧、小妙招、小窍门
+trick                   技巧,小妙招,小窍门
 sync(synchronize)           同步 v/n
 Accumulated             累积的 adj
 relatively (complex)                             相当地,相对地(复杂) adv
@@ -221,7 +223,7 @@ count           计数 v
 Collect     收集 v
 frequent/frequently(often)          经常地,频繁地 adj/adv
 Short notice                紧急通知
-Organize            整理、组织、安排
+Organize            整理,组织,安排
 headphone(microphone)               双耳式耳机
 Follow-up actions           后续行动
 symbol          象征,符号,标志 n
@@ -424,7 +426,7 @@ I have received the file from your separate email           我已经从您单�
 I noticed/observed that the score ranges from 0 to 9                我注意到分数的范围是从0到9
 please ignore this email If you have already actioned this              如果您已采取行动,请忽略此邮件
 Jack is staring at sb/sth                       杰克正盯着它看
-about/around 数字/时间                     大约、大概、左右
+about/around 数字/时间                     大约,大概,左右
 They'll restrict us from raising PRs, which will lead to escalation and a lot more paperwork. I'm sure none of us wants to go through all that.
 Troubleshooting is ongoing. No ETA for resolution has been confirmed at this time(Troubleshooting ongoing, no ETA yet)           问题正在排查中,目前暂未确认解决时间
 self-check link or tools                自查链接或工具
@@ -472,19 +474,15 @@ probably today(when target)
 It can make tracking much easier(It can be easier for the tracking of progress)             这能让追踪工作简单很多
 You're gonna say something else?                    你要说点别的?
 please kindly provide your sign-off             若无疑问,烦请确认签收/办结
-The change is now taking effect. Going forward, please follow the new process           变更已即刻生效，后续请按新流程执行
+The change is now taking effect. Going forward, please follow the new process           变更已即刻生效,后续请按新流程执行
 The change has been in effect since last Friday         这change自上周五就已经生效了
 If (there are) any of your tickets          如果你任何一张票
 In either of these columns          在这两列中的任意一列里
 It will be considered (as) a failure                它会被视为失败
-For your convenience, answers to frequently asked questions can be found here           为方便您查阅，常见问题解答可在此查看
+For your convenience, answers to frequently asked questions can be found here           为方便您查阅,常见问题解答可在此查看
 Especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
-Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我。若无疑问，烦请确认并签字审批
-
-
-
-
-
+Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我。若无疑问,烦请确认并签字审批
+It shouldn‘t ideally have any impact               理想情况，它不应产生任何影响
 
 
 

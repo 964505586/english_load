@@ -41,6 +41,7 @@ consideration                   注意事项
 break                           出错 v
 keep                            老是 v
 agreed      约定的 adj
+source                  获得 v
 
 
 
