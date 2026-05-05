@@ -491,6 +491,9 @@ It shouldn‘t ideally have any impact               理想情况,它不应产�
 For reference only/This is for informational purposes only          此内容仅供参考
 I think it may not be so straightforward                            我觉得这事可能没那么简单
 Please kindly give this email your full attention                   烦请务必仔细查阅并重视本邮件
+raise a ticket to document the BEC airflow in Confluence            在Confluence记录BEC的airflow
+We need to manually run the job each time we face the issue         每次遇到这个问题时，我们都需要手动运行这项任务
+I can’t remember very well either           我也记不太清楚了
 
 
 
@@ -498,6 +501,7 @@ Please kindly give this email your full attention                   烦请务必
 
 
 
+Address                 解决、处理 v
 
 
 
