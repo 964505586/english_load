@@ -51,7 +51,6 @@ Yesterday I helped check the MI issue Jack encountered and the CDA issue Jack fa
 I keep getting interrupted by other (Urgent) matters recently, therefore the progress is only about 20%     我最近总是会被其他紧急事务打断
 Let's go/come back to Jira board(the track)         我们回到n吧
 Thanks for joining              感谢您的参与
-
 Is/are there anything(any items) you want to raise/talk/discuss here or we can end/close the call     您这里还有想要 提出/讨论/交流 的 内容/事项吗？或者我们可以结束这次通话
 if There are no items to discuss                如果没有任何需要讨论的事项的话
 will see if no problem, we can end the call         我们会看看是否没有问题,然后就可以结束通话了

@@ -20,10 +20,12 @@ I'll let you know
 for a moment
 let’s move on           /lets muːvɒn/          让我们继续前进
 I'll pick it up         /aɪl pɪk ɪt ʌp/
-
+For all of us               /fɔː(r) ɔːl əv əs/
 
 
 Pronunciation
+recognized                  /ˈrekəgˈnaɪzd/              认识,辨别出 v
+stare/stares/stared/staring             /ˈsteərɪŋ/             凝视,盯着看 v
 Multiple                    /ˈmʌltɪp(ə)l/
 linkage                     /ˈlɪŋkɪdʒ/          联系 n
 Parallel/Parallelly/In parallel(In the meanwhile)             /ɪn ˈpærəlel/                 平行的,并行的 adj/adv
@@ -160,6 +162,7 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+Address                 解决,处理 v
 In detail           详细地 adv
 oversee                     统筹,监督 v
 Representative          /ˌreprɪˈzentətɪv/              代表 n
@@ -186,7 +189,6 @@ bookmark        书签 n
 Outage                  停止供应期 n
 only                                    唯一的 adj
 queue               排队 v
-stare/stares/stared/staring v             凝视,盯着看
 Time-saving/consuming           耗时的/省时的 adj
 per                     每,每一,按照,根据
 engage/Engagement                      参与,投入 v/参与度,投入度
@@ -432,7 +434,6 @@ I noticed/observed that the score ranges from 0 to 9                我注意到
 please ignore this email If you have already actioned this              如果您已采取行动,请忽略此邮件
 Jack is staring at sb/sth                       杰克正盯着它看
 about/around 数字/时间                     大约,大概,左右
-They'll restrict us from raising PRs, which will lead to escalation and a lot more paperwork. I'm sure none of us wants to go through all that.
 Troubleshooting is ongoing. No ETA for resolution has been confirmed at this time(Troubleshooting ongoing, no ETA yet)           问题正在排查中,目前暂未确认解决时间
 self-check link or tools                自查链接或工具
 It will be a time-consuming effort For all of us            对我们所有人,都是一项耗时的工作
@@ -490,18 +491,14 @@ Please let me know if any questions. Otherwise, your confirmation and sign-off w
 It shouldn‘t ideally have any impact               理想情况,它不应产生任何影响
 For reference only/This is for informational purposes only          此内容仅供参考
 I think it may not be so straightforward                            我觉得这事可能没那么简单
+(It is) not so fast             别太快、别急、没那么容易
 Please kindly give this email your full attention                   烦请务必仔细查阅并重视本邮件
 raise a ticket to document the BEC airflow in Confluence            在Confluence记录BEC的airflow
-We need to manually run the job each time we face the issue         每次遇到这个问题时，我们都需要手动运行这项任务
+We need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
 I can’t remember very well either           我也记不太清楚了
+They'll restrict us from raising PRs, which will lead to escalation and a lot more paperwork. I'm sure none of us wants to go through all that
 
 
-
-
-
-
-
-Address                 解决、处理 v
 
 
 
@@ -511,6 +508,7 @@ Address                 解决、处理 v
 
 
 
+特别关注sth
 provision/Provisioning              提供,供应 v/配置 ?
 
 
