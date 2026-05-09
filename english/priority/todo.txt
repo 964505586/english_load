@@ -282,7 +282,7 @@ How/Why/What is it?              怎么样/为什么/这是什么
 (so Can i understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
 this is just(simply) my personal perspective            这仅仅是我个人的看法。
 will it work？
-not sure if Tony will join the call？            不确定托尼是否会参加这次通话？
+not sure if John will join the call？            不确定托尼是否会参加这次通话？
 In that case, I think everything will be fine/all right     既然如此,我觉得一切都会顺利的
 The change will only take effect after the end date                 end_date后才生效
 You need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与HK保持一致
@@ -324,7 +324,7 @@ using a command             方式状语
 The issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
 This problem was caused while developing BEC feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
 Adjust/Modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
-As (we) discussed (with Jack)                   正如我与杰克所讨论的那样
+As (we) discussed (with Jack)                   正如我与Jack所讨论的那样
 Please help check the email draft, i'm preparing to send to kevin and Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明。
 Everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
 sth be Pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
@@ -354,7 +354,7 @@ It probably won't work          大概率不行
 This is redundant               这是多余的
 still have one more day             还有一天呢
 Please verify if the issue also occurs in UAT(Also check the UAT env for the issue)        看下uat env有没有这个问题
-After talking with Tony             经过和Tony交谈
+After talking with John             经过和John交谈
 Jack will help list out the schemas that are inconsistent           Jack会帮忙列出不一致的schemas
 I'd like to know if the approach meets(aligns with) your expectations            是否符合您的预期
 In fact, we are borrowing another team's queue             我们在借用另一个team' queue
@@ -371,7 +371,7 @@ At 17:00 hours
 at a time               一次
 (This is) a recurring error/issue               反复出现的 adj
 I'm a Java developer, but since there isn't much Java work in our team right now, I sometimes also take on big data tasks               我是Java开发,但我们团队目前没有太多Java的工作,所以我有时也会做一些大数据相关的任务
-We have (encountered) a new issue currently. Jack needs to modify the code in Felix to fix it. I've added relevant comments in the ticket           目前我们遇到了一个新的问题。Jack需要修改Felix的代码来解决这个问题。我在工单中添加了相关的comment
+We have (encountered) a new issue currently. Jack needs to modify the code in backend to fix it. I've added relevant comments in the ticket           目前我们遇到了一个新的问题。Jack需要修改backend的代码来解决这个问题。我在工单中添加了相关的comment
 The day before yesterday                前天
 The day after tomorrow                  后天
 the week after next week                下下周
@@ -416,14 +416,14 @@ We utilize asynchronous tasks to improve performance        我们利用异步�
 Could you have(help take) a look at this?             你能看一下xxx吗？
 When in doubt, use the reboot trick!             遇事不决,重启大法
 I spent over an hour on a call with Jack yesterday, However, the issue is still unresolved. He said he'll double-check it today
-The problematic code is from Helix, not Felix           有问题的代码来自Helix,而非Felix
+The problematic code is from frontend, not backend           有问题的代码来自frontend,而非backend
 Could you please help guide the new joiners through the onboarding process?     帮忙带下新人
 The header disappears when I scroll down        当向下滚动,标题就消失了
 How do I freeze the top/header row so (that) it stays visible when scrolling down?          如何将标题行冻结,使其在向下滚动时仍保持可见状态？
 Could you please acknowledge                你能确认 已收到/知晓,知悉 吗？
 Platform patching led to an (unexpected) production outage last night           导致生产环境宕机
 Please find the email chain below               邮件往来请见下方
-Jack mentioned that you are already aware of this               杰克说你已经知道这个了
+Jack mentioned that you are already aware of this               Jack说你已经知道这个了
 Your hard/excellent work is well recognized                 你的出色工作得到了认可
 Let's ask in the team group             在群里问下吧
 in the past/last few days               在过去几天里
@@ -432,7 +432,7 @@ Kind reminder to provide the info below          温馨提示：请提供以下�
 I have received the file from your separate email           我已经从您单独发来的邮件中收到了那份文件
 I noticed/observed that the score ranges from 0 to 9                我注意到分数的范围是从0到9
 please ignore this email If you have already actioned this              如果您已采取行动,请忽略此邮件
-Jack is staring at sb/sth                       杰克正盯着它看
+Jack is staring at sb/sth                       Jack正盯着它看
 about/around 数字/时间                     大约,大概,左右
 Troubleshooting is ongoing. No ETA for resolution has been confirmed at this time(Troubleshooting ongoing, no ETA yet)           问题正在排查中,目前暂未确认解决时间
 self-check link or tools                自查链接或工具

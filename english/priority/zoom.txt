@@ -46,8 +46,8 @@ I'm trying to get this resolved today       我正努力今天把这事解决掉
 I didn't have time to handle this, today I'll continue following it up today        我没有时间处理这件事,今天我会继续跟进此事
 I spent all my time finishing the ticket yesterday              昨天我把所有时间都花在完成这张票上
 Let me check later. I have no idea how big it(this ticket) is (how many story point do u need)          稍后我再查看一下我不知道这张票(你需要多少个故事点)
-answered some questions Encountered by jack                     回答了杰克遇到的一些问题
-Yesterday I helped check the MI issue Jack encountered and the CDA issue Jack faced                     昨天我帮助检查了杰克遇到的 MI 问题以及他面临的 CDA 问题
+answered some questions Encountered by jack                     回答了Jack遇到的一些问题
+Yesterday I helped check the issue Jack encountered and the issue Ted faced                     昨天我帮助检查了Jack遇到的问题和John面临的问题
 I keep getting interrupted by other (Urgent) matters recently, therefore the progress is only about 20%     我最近总是会被其他紧急事务打断
 Let's go/come back to Jira board(the track)         我们回到n吧
 Thanks for joining              感谢您的参与

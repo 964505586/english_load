@@ -1,6 +1,6 @@
 As you know, we've already identified the root cause. therefore, The current issue is how to fix it.
 Which side should implement the fix?
-Should Jack make the change on Felis or should we fix it on Helis?
+Should Jack make the change on backend or should we fix it on frontend?
 Of course, Both options can resolve the problem,
 but we should consider long-term maintenance for program and choose the most appropriate solution
 
