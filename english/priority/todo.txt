@@ -24,6 +24,8 @@ For all of us               /fɔː(r) ɔːl əv əs/
 
 
 Pronunciation
+navigate            /ˈnævɪɡeɪt/         导航 v
+track/tracking      /træk/  /ˈtrækɪŋ/   跟踪 v
 recognized                  /ˈrekəgˈnaɪzd/              认识,辨别出 v
 stare/stares/stared/staring             /ˈsteərɪŋ/             凝视,盯着看 v
 Multiple                    /ˈmʌltɪp(ə)l/
@@ -268,8 +270,8 @@ If everything goes well         如果一切顺利
 Maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
 Let's extract an extra method for the piece of code             让我们为这段代码添加一个额外的方法
-Let's pause(hold on) here. For the introduction and process I mentioned previously. Is there any question? alright, let's move on          让我们在此暂停一下（稍等）。对于我之前提到的介绍和流程部分。有什么问题吗？
-Why/How did you navigate to(land on) that page?         您是如何访问（到达）那个页面的？
+Let's pause(hold on) here. For the introduction and process I mentioned previously. Is there any question? alright, let's move on          让我们在此暂停一下(稍等)。对于我之前提到的介绍和流程部分。有什么问题吗？
+Why/How did you navigate to(land on) that page?         您是如何访问(到达)那个页面的？
 My pleasure
 These two fields are reversed                这两个字段的值颠倒了
 TBD                 to be determined/decided/confirmed
@@ -381,11 +383,6 @@ at (exactly) that moment                          就在那一刻/恰恰就在�
 When did your last restart?                     你上次重启是啥时候？
 proceed with sth(release)               继续做某事,开始推进某事
 If program works well/as expected(all tests pass)      如果逻辑运行正常
-Your voice is super/quite/really low(a bit/little/much better)          你的声音很低(超级小/挺小的,相当小/真的很小)
-You're really quiet. I can't hear you clearly                 你声音好小
-If the error persists/if still same error(the same error still occurs)
-if error has not been resolved
-What id did you use?
 As a short/long-term solution               作为 短期/长期 方案
 Has your part of this change been released/deployed to prod env ?       你的那部分发布到生产环境了吗？
 Potential a change at backend level         后端层面可能会有change
@@ -499,6 +496,15 @@ I can’t remember very well either           我也记不太清楚了
 They'll restrict us from raising PRs, which will lead to escalation and a lot more paperwork. I'm sure none of us wants to go through all that
 How did you do it/that?             你怎么做到的？
 The boss is keeping a close eye on this             老板很关注这件事
+If the error persists/if still same error(the same error still occurs)          如果错误依旧存在
+if error has not been resolved              如果错误尚未得到解决
+What id did you use             你用的是什么id？
+We're on it                                 我们正在处理
+
+
+
+
+
 
 
 
