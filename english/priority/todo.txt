@@ -162,6 +162,7 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+Syntax error                语法错误
 Address                 解决,处理 v
 In detail           详细地 adv
 oversee                     统筹,监督 v
@@ -255,7 +256,6 @@ Are you online/there               你在吗
 It's nothing but small potatoes         小事一桩,微不足道
 We'll do everything we can  我 将/已经 竭尽全力
 We'll find a way to 我会想办法...(语气坚定,靠谱)
-How did you do it/that?             你怎么做到的？
 given n/that                    鉴于,考虑到
 it's just so so                                     一般般,马马虎虎
 hi there                                            嗨,你好
@@ -347,14 +347,14 @@ What's this ticket for?                             这ticket干嘛的
 Would like to clarify sth/make a clarification on sth           想澄清下sth
 Would like to clarify some points/details about BEC with you
 I'd like to tell you something      我想告诉你一些事情
-I hardly ever use this method(Jenkins/command line) to operate Git          我几乎不用sth
+I hardly ever use the method(command line) to operate Git          我几乎不用sth
 then talk to Jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟Jack说
 Probably the train              大概率是sth
 It probably won't work          大概率不行
 This is redundant               这是多余的
 still have one more day             还有一天呢
 Please verify if the issue also occurs in UAT(Also check the UAT env for the issue)        看下uat env有没有这个问题
-After talking with Tony
+After talking with Tony             经过和Tony交谈
 Jack will help list out the schemas that are inconsistent           Jack会帮忙列出不一致的schemas
 I'd like to know if the approach meets(aligns with) your expectations            是否符合您的预期
 In fact, we are borrowing another team's queue             我们在借用另一个team' queue
@@ -497,6 +497,8 @@ raise a ticket to document the BEC airflow in Confluence            在Confluenc
 We need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
 I can’t remember very well either           我也记不太清楚了
 They'll restrict us from raising PRs, which will lead to escalation and a lot more paperwork. I'm sure none of us wants to go through all that
+How did you do it/that?             你怎么做到的？
+The boss is keeping a close eye on this             老板很关注这件事
 
 
 
@@ -507,8 +509,6 @@ They'll restrict us from raising PRs, which will lead to escalation and a lot mo
 
 
 
-
-特别关注sth
 provision/Provisioning              提供,供应 v/配置 ?
 
 
