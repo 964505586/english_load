@@ -79,7 +79,6 @@ flatter                 奉承,吹捧   you flatter me
 Function                 起作用,运转 v/功能 n
 generic             通用的 adj
 get rid of n                         摆脱sth
-given that                 鉴于…
 gone                            消失
 highlight           突出,强调 v
 hit                 匹配项 n

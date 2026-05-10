@@ -21,6 +21,8 @@ for a moment
 let’s move on           /lets muːvɒn/          让我们继续前进
 I'll pick it up         /aɪl pɪk ɪt ʌp/
 For all of us               /fɔː(r) ɔːl əv əs/
+Please reach out to me              /pliːz riːtʃ aʊt tu miː/
+
 
 
 Pronunciation
@@ -258,7 +260,6 @@ Are you online/there               你在吗
 It's nothing but small potatoes         小事一桩,微不足道
 We'll do everything we can  我 将/已经 竭尽全力
 We'll find a way to 我会想办法...(语气坚定,靠谱)
-given n/that                    鉴于,考虑到
 it's just so so                                     一般般,马马虎虎
 hi there                                            嗨,你好
 i hope so                                               我希望如此
@@ -500,6 +501,15 @@ If the error persists/if still same error(the same error still occurs)          
 if error has not been resolved              如果错误尚未得到解决
 What id did you use             你用的是什么id？
 We're on it                                 我们正在处理
+given n/that                    鉴于,考虑到...
+looping Jack in for visibility/Awareness            让Jack参与进来
+or What would be the next step          接下来该怎么做呢
+Seeking the next step           等待下一步指示
+Rescheduling the slot to accommodate the UK team member, as the current slot overlaps/conflicts with their lunch hour           重新安排时间以容纳英国团队成员，因为当前的时间安排与他们的午餐时间有冲突/重叠
+
+
+
+
 
 
 
