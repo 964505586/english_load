@@ -325,7 +325,7 @@ Actually, it's afternoon in China               实际上,中国现在是下午
 What time do you start work in the morning          你早上几点开始工作
 using a command             方式状语
 The issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
-This problem was caused while developing BEC feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
+This problem was caused while developing backend feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
 Adjust/Modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
 As (we) discussed (with Jack)                   正如我与Jack所讨论的那样
 Please help check the email draft, i'm preparing to send to kevin and Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明。
@@ -348,7 +348,7 @@ Seems there are no better solutions either                      似乎也没更�
 Is there any ticket for the follow-up actions?                         对后续行动,有对应ticket么
 What's this ticket for?                             这ticket干嘛的
 Would like to clarify sth/make a clarification on sth           想澄清下sth
-Would like to clarify some points/details about BEC with you
+Would like to clarify some points/details about backend with you
 I'd like to tell you something      我想告诉你一些事情
 I hardly ever use the method(command line) to operate Git          我几乎不用sth
 then talk to Jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟Jack说
@@ -491,7 +491,7 @@ For reference only/This is for informational purposes only          此内容仅
 I think it may not be so straightforward                            我觉得这事可能没那么简单
 (It is) not so fast             别太快、别急、没那么容易
 Please kindly give this email your full attention                   烦请务必仔细查阅并重视本邮件
-raise a ticket to document the BEC airflow in Confluence            在Confluence记录BEC的airflow
+raise a ticket to document the backend airflow in Confluence            在Confluence记录backend的airflow
 We need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
 I can’t remember very well either           我也记不太清楚了
 They'll restrict us from raising PRs, which will lead to escalation and a lot more paperwork. I'm sure none of us wants to go through all that

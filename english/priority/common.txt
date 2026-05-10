@@ -92,8 +92,8 @@ I'm (Pretty) good                   我挺好的
 It's nothing special                就那样
 
 be responsible to/for n                  负责n
-I'm in charge of BEC                我负责n
-I take charge of BEC
+I'm in charge of backend                我负责n
+I take charge of backend
 Who is the person in charge of the project?
 
 
