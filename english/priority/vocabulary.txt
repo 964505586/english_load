@@ -83,7 +83,6 @@ gone                            消失
 highlight           突出,强调 v
 hit                 匹配项 n
 impact                 影响 n/v
-in real time                 实时地 adv
 incorporate                 合并 v
 Intentionally                       故意地,有意地 adv
 inventory                   详细目录 n

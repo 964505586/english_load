@@ -24,8 +24,16 @@ For all of us               /fɔː(r) ɔːl əv əs/
 Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
-
 Pronunciation
+Representative          /ˌreprɪˈzentətɪv/              代表 n
+snipaste
+Hallucination           /həˌluːsɪˈneɪʃ(ə)n/         幻觉,幻想；错觉 n
+supplement          /ˈsʌplɪmənt/              补充,增加,增补 v
+horizontal to vertical logic    /ˌhɒrɪˈzɒnt(ə)l/ /ˈvɜːtɪk(ə)l/
+Occurrence     /əˈkʌrəns/  出现次数,发生的事,事件；发生 n
+I've been fully swamped/occupied recently       /swɒmpt/ /ˈɒkjupaɪd/     最近忙得焦头烂额,最近一直行程排满
+conduct monitoring         实施,进行 v     /kənˈdʌkt/
+series          /ˈsɪəriːz/          连续,一系列 n
 navigate            /ˈnævɪɡeɪt/         导航 v
 track/tracking      /træk/  /ˈtrækɪŋ/   跟踪 v
 recognized                  /ˈrekəgˈnaɪzd/              认识,辨别出 v
@@ -50,11 +58,9 @@ quote           /kwəʊt/         引号 n
 quota           /ˈkwəʊtə/       指标 n
 paste (here)       /peɪst/         粘贴 v
 scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
-conduct         实施,进行 v     /kənˈdʌkt/
 urge        /ɜːdʒ/            敦促,催促 v
 hyphen      /ˈhaɪfn/        - 连字符
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
-Occurrence     /əˈkʌrəns/  出现次数 n
 edge case/scenario          /edʒ/               极端,边界场景
 Obtain/gain/get                  /əbˈteɪn/   得到,获得
 Redundant               /rɪˈdʌndənt/        多余的 adj
@@ -79,6 +85,9 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+Problem statement/description                   说明,陈述,声明
+homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟；伙伴/乡亲们 n
+Looks fine/Seems all good/Looks no problem
 show/display            显示,展示 v
 Recommended action/solution      推荐操作,方案
 several(some)                一些,若干
@@ -143,7 +152,6 @@ Consistent/Consistency(align)                  一致的 adj/一致性 n
 retrieve(search/query)                 检索 v
 Discrepancy(difference)                 差异 n
 Obstacle(block v/n)                障碍,阻碍,困难 n
-folks(everyone)                 乡亲们
 Edition(version)                     版本 n
 Perspective(view)
 Integrate/Integration(merge)            合并,成为一体
@@ -166,11 +174,18 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+logical             合情合理的；合乎逻辑的 adj
+Modernization
+workload                    工作量,工作负荷 n
+Casual/casually                            随意地,随便地 adv
+Postpone/Postponing         推迟,延缓 v
+real-time/in real time                 实时的 adj/adv
 Syntax error                语法错误
 Address                 解决,处理 v
 In detail           详细地 adv
 oversee                     统筹,监督 v
-Representative          /ˌreprɪˈzentətɪv/              代表 n
 Regulatory Compliance              (监管的)合规,遵守,遵从 n
 consolidate/consolidated                合并,使巩固 v/巩固的,统一的 adj
 Edit/Edited                  编辑 v/修订过的,编辑过的 adj
@@ -466,7 +481,7 @@ Just an example, no offense             就举个例子,无意冒犯
 This change might be problematic                这个改动可能有问题
 We need to find a long-term solution                我们需要找一个长期的解决方案
 Recommended that ...                        推荐...
-on the other hand                               另一方面
+on the other hand/side                                  另一方面
 From another angle(point of view)              从另一个角度来看
 I'm slowly combing through my notes             我正在慢慢梳理我的笔记
 2026
@@ -486,7 +501,7 @@ It will be considered (as) a failure                它会被视为失败
 For your convenience, answers to frequently asked questions can be found here           为方便您查阅,常见问题解答可在此查看
 Especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
 Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我。若无疑问,烦请确认并签字审批
-It shouldn‘t ideally have any impact               理想情况,它不应产生任何影响
+It shouldn't ideally have any impact               理想情况,它不应产生任何影响
 For reference only/This is for informational purposes only          此内容仅供参考
 I think it may not be so straightforward                            我觉得这事可能没那么简单
 (It is) not so fast             别太快、别急、没那么容易
@@ -505,14 +520,11 @@ given n/that                    鉴于,考虑到...
 looping Jack in for visibility/Awareness            让Jack参与进来
 or What would be the next step          接下来该怎么做呢
 Seeking the next step           等待下一步指示
-Rescheduling the slot to accommodate the UK team member, as the current slot overlaps/conflicts with their lunch hour           重新安排时间以容纳英国团队成员，因为当前的时间安排与他们的午餐时间有冲突/重叠
-
-
-
-
-
-
-
+Rescheduling the slot to accommodate the UK team member, as the current slot overlaps/conflicts with their lunch hour           重新安排时间以容纳英国团队成员,因为当前的时间安排与他们的午餐时间有冲突/重叠
+Proceed with sign-off(production release)
+Please find all the details below
+There will be downtime around 1 to 2 hours required to complete the patching activity from pre-check and post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
+So that you can (better) understand the Project (more)          以至于你能更好地理解这个项目
 
 
 
@@ -548,6 +560,8 @@ storage                     存储空间,储存 n
 restore                     恢复,还原 v         把东西变回原来的状态,原样
 resume                      恢复 v            停下后(人)继续干
 
+
+Would like to understand
 I wonder 句子(if/疑问词)                                      想知道(随口)
 I'm wondering 句子                              我现在在想
 i've been wondering 句子                                    我一直在想(从过去到现在)

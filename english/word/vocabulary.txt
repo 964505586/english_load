@@ -79,7 +79,6 @@ calendar            日历
 cantonese                   广州人,广东人,广东话,粤语 n        广州的,广东的 adj
 career 事业
 careful/carefully               小心地
-casually                            随意地,随便地 adv
 catch/caught
 category                            种类 n
 celebrate   庆祝
@@ -521,7 +520,6 @@ stable/unstable                          稳定的,牢固的 adj
 stand                           忍受 v
 standard    标准
 start out                   着手
-statement                   说明,陈述,声明
 stay focused                    保持专注
 stay overnight                          过夜 v
 stay up                             熬夜
