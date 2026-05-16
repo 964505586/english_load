@@ -17,7 +17,6 @@ Can/Shall we call now?
 Wanna call now?(关系熟)
 
 卡了
-I'll restart it. it's freezing badly(super laggy)        我要重启下,卡的不行了
 Sorry, my network seemed unstable       抱歉,我的网络似乎不太稳定
 My Zoom is stuck                        我的 Zoom 卡住了
 Sorry, I just froze                     抱歉,我刚刚卡住了

@@ -25,6 +25,8 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+Figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
+leverage        /ˈliːvərɪdʒ/            利用 v
 Representative          /ˌreprɪˈzentətɪv/              代表 n
 snipaste
 Hallucination           /həˌluːsɪˈneɪʃ(ə)n/         幻觉,幻想；错觉 n
@@ -90,8 +92,8 @@ homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟；伙伴/乡�
 Looks fine/Seems all good/Looks no problem
 show/display            显示,展示 v
 Recommended action/solution      推荐操作,方案
-several(some)                一些,若干
-present(exist)                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
+several/some                一些,若干
+present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 isolate/split/Divide/Separate                   隔离,孤立/拆分/均分/分离 v
 dummy/mock                       假的 adj
 ideal/normal
@@ -100,64 +102,63 @@ at your convenience/if you get a chance     你有空的时候
 self/internal/(my/our own) check            自测
 with n/there is ...
 alright(all right)
-reboot(restart)                  重新启动 v/n
-as for n(regarding)        至于n
+I'll reboot/restart it. it's freezing badly(super laggy /ˈlæɡi/)        重新启动 v/n(我要重启下,卡的不行了)
 any concerns(question)          任何顾虑
 chase/push/urge sb to do(for sth)             催促 v
-simply(just)                          仅仅
-mention(say)            提到,谈到 v
+simply/just                          仅仅
+mention/say            提到,谈到 v
 lead/led to n(cause)                           导致
 Classify/Categorize             分类,分级,归类/归类,分组 v
 uncheck/unselected         取消勾选,去掉勾选/未被选中的,未勾选的
 Separate/Separately                 分离 v/单独的,独立的,分开的 adj/分别地 adv
-Notice(saw)
+Notice/saw
 identify/identified(found)              识别 v
-detect/check                  检测,探测/check v
-perhaps(maybe)
+detect/check                  检测,探测/检查 v
+perhaps/maybe
 Mistake/Incorrect(wrong)
 during/when/while
 really/pretty/quite/super   (very/so)
-However(but)
+However/but
 Therefore 句子/Hence n(so)
 faced/reported/raised/encountered
 Formula(algorithm)                     公式 n
-Figure/number/numeric              数字,数目 n/数值的,数字的 adj
-Procedure(step)               做事的具体步骤 (Process: 整件事的过程)
-Approach(method)
-Criteria(standard)                标准 n
+as for n(regarding)  至于n(As for that point you mentioned previously)
+Procedure/step               做事的具体步骤 (Process: 整件事的过程)
+Approach/method
+Criteria/standard                标准 n
 Propose/proposal                        提议,建议 v/n
 Revised/Modify/update/change            修正过的/修改/更新/改变
-desired(needed)
+desired/needed
 deal with(handle)
-Apply(request)
+Apply/request
 via/by/through
 in case 句子/to avoid n                     以防...
 I noticed/saw that
 Make a code change(Change code)                  做一次代码修改(正式)
 leave/left
 in fact/To be honest/frank(Actually) (with sb)
-Purpose(destination)                     有意,打算 v/目的 n
+Purpose/destination                     有意,打算 v/目的 n
 ongoing(in progress)        仍在进行的 adj
 tips/tricks/recommendations/Kind(A warm) reminder                 小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
-remediate/Investigate/(fix)              补救,修复 v
-fetch/extract(read)             获取,拉取 v/提取,抽取 v
-measure(action)
-Launch(release) (new feature/version)         启动,发起,推出,执行 v
+remediate/Investigate/fix              补救,修复 v
+fetch/extract/read             获取,拉取 v/提取,抽取 v
+measure/action
+Launch/release version(new feature)         启动,发起,推出,执行 v
 marked/highlighted part/area/Section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
 occur/appear/happen
 as usual/planned/expected                                            像往常一样/按计划/按预期
 In case of n(if)                万一n,在n情况下
-lag(delay)             延迟,滞后 v/n
+lag/delay             延迟,滞后 v/n
 Consistent/Consistency(align)                  一致的 adj/一致性 n
 retrieve(search/query)                 检索 v
-Discrepancy(difference)                 差异 n
+Discrepancy/difference                 差异 n
 Obstacle(block v/n)                障碍,阻碍,困难 n
-Edition(version)                     版本 n
-Perspective(view)
-Integrate/Integration(merge)            合并,成为一体
-may(can)
+Edition/version                     版本 n
+Perspective/view
+Integrate/Integration/merge            合并,成为一体
+may/can
 lots(a lot) of(many/much)
-look/sounds like(seem)
+seem/look/sounds like good/fine
 Sufficient/Insufficient(Enough)                 足够的,充足的 adj/不足的,不够的 adj
 Isn't it(主语是it, right?)
 In this way/in the case(So that)
@@ -236,7 +237,6 @@ sync(synchronize)           同步 v/n
 Accumulated             累积的 adj
 relatively (complex)                             相当地,相对地(复杂) adv
 problematic code            有问题的代码
-leverage                     利用 v
 Utilize(Utilise 英式)                 利用,使用 v
 Underscore              _下划线
 Suspicious              感到怀疑的,可疑的 adj
