@@ -25,6 +25,7 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败
 Figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
 leverage        /ˈliːvərɪdʒ/            利用 v
 Representative          /ˌreprɪˈzentətɪv/              代表 n
@@ -87,6 +88,7 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+consolidate/consolidated/merge                合并,使巩固 v/巩固的,统一的 adj
 Problem statement/description                   说明,陈述,声明
 homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟；伙伴/乡亲们 n
 Looks fine/Seems all good/Looks no problem
@@ -188,7 +190,6 @@ Address                 解决,处理 v
 In detail           详细地 adv
 oversee                     统筹,监督 v
 Regulatory Compliance              (监管的)合规,遵守,遵从 n
-consolidate/consolidated                合并,使巩固 v/巩固的,统一的 adj
 Edit/Edited                  编辑 v/修订过的,编辑过的 adj
 take/took/taken
 remain                 仍然是,保持,剩余,留下 v
@@ -525,7 +526,8 @@ Proceed with sign-off(production release)
 Please find all the details below
 There will be downtime around 1 to 2 hours required to complete the patching activity from pre-check and post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
 So that you can (better) understand the Project (more)          以至于你能更好地理解这个项目
-
+Somehow, the job ran for over 24 hours          不知怎的，这job跑了超过24个钟
+Outside the firewall
 
 
 
