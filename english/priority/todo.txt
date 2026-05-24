@@ -187,6 +187,7 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+almost              几乎，差不多
 likely/Unlikely              可能的,很可能/不太可能的,不大可能 adj/adv
 Regulatory Compliance              监管的合规 n
 freeze/freezes/froze/frozen         卡死,冻结,无响应
@@ -351,7 +352,7 @@ Just add a space anywhere (you like)                    随便添加个空格
 This field is not editable                  此字段不可编辑
 Set the field to uneditable
 I have 2 tickets (which are) assigned to me/there are 2 tickets assigned to me      有两张票分给我了
-feel free to join the call if you'd like             欢迎随时加入(你想的话)
+feel free to join the call or skip as you prefer                自由选择加入或者跳过，随您喜好。
 I see/get/know/understand what you mean                         我明白您的意思
 I believe i understand your point                               我想我明白你的意思了
 we are talking about the same issue?                            我们说的是一个问题？
@@ -523,7 +524,9 @@ Please find all the details below
 There will be downtime around 1 to 2 hours required to complete the patching activity from pre-check and post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
 So that you can (better) understand the Project (more)          以至于你能更好地理解这个项目
 Somehow, the job ran for over 24 hours          不知怎的，这job跑了超过24个钟
-Outside the firewall
+Outside the firewall                防火墙外
+Nice tip/learned a useful trick/That’s useful, learned something new
+Not too busy today              今天不太忙
 
 
 
