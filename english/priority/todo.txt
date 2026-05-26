@@ -25,6 +25,16 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+Suspend     /səˈspend/         暂停 v
+purge       /pɜːdʒ/           清除 v
+Compile     /kəmˈpaɪl/         编译,编制 v
+proprietary     /prəˈpraɪət(ə)ri/       专有的,所有的 adj
+closure     /ˈkləʊʒə(r)/        关闭 n
+2026    two thousand twenty-six/twenty twenty-six
+lag/delay/Postpone/Postponing       /pəˈspəʊn/      延迟,滞后/推迟,延缓 v/n
+conduct/keep monitoring Closely     /kənˈdʌkt/         实施,进行密切监控 v
+(partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
+Pose a minor risk       /pəʊz/          造成，引起 v
 Casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
 Syntax error        /ˈsɪntæks/      语法错误
 Intended        /ɪnˈtendɪd/         预期的,故意的,有意的  adj
@@ -40,7 +50,6 @@ supplement          /ˈsʌplɪmənt/              补充,增加,增补 v
 horizontal to vertical logic    /ˌhɒrɪˈzɒnt(ə)l/ /ˈvɜːtɪk(ə)l/
 Occurrence     /əˈkʌrəns/  出现次数,发生的事,事件；发生 n
 I've been fully swamped/occupied recently       /swɒmpt/ /ˈɒkjupaɪd/     最近忙得焦头烂额,最近一直行程排满
-conduct monitoring         实施,进行 v     /kənˈdʌkt/
 series          /ˈsɪəriːz/          连续,一系列 n
 navigate            /ˈnævɪɡeɪt/         导航 v
 track/tracking      /træk/  /ˈtrækɪŋ/   跟踪 v
@@ -62,12 +71,10 @@ scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
 Resolution    /ˌrezəˈluːʃ(ə)n/          决议,解决 n
 preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
-quote           /kwəʊt/         引号 n
 quota           /ˈkwəʊtə/       指标 n
 paste (here)       /peɪst/         粘贴 v
 scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 urge        /ɜːdʒ/            敦促,催促 v
-hyphen      /ˈhaɪfn/        - 连字符
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
 edge case/scenario          /edʒ/               极端,边界场景
 Obtain/gain/get                  /əbˈteɪn/   得到,获得
@@ -93,8 +100,8 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+Alternatively/or                或者,要不
 Revised/Modify/update/change/Edit/Edited            修正过的/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
-lag/delay/Postpone/Postponing             延迟,滞后/推迟,延缓 v/n
 engage/Engagement/working                      参与,投入 v/参与度,投入度
 chase/push/urge sb to do(for sth)             催促 v
 consolidate/consolidated/merge                合并,使巩固 v/巩固的,统一的 adj
@@ -184,9 +191,15 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-
-
-
+(work) handover item/content/object            工作交接/交接项,内容,对象 n
+continued               持续的 adj
+perform/performance         性能,演出,表演,表现 v/n
+inaccessible            不可及的 adj
+user base           用户群
+Retrospective           追溯性,回顾的 adj
+(Related) Parties             当事方,参与方,聚会，派对/相关方 n
+Caution/With some caution             小心，谨慎 n/谨慎地 adv
+precaution                                  预防措施 n
 almost              几乎，差不多
 likely/Unlikely              可能的,很可能/不太可能的,不大可能 adj/adv
 Regulatory Compliance              监管的合规 n
@@ -236,7 +249,6 @@ Accumulated             累积的 adj
 relatively (complex)                             相当地,相对地(复杂) adv
 problematic code            有问题的代码
 Utilize(Utilise 英式)                 利用,使用 v
-Underscore              _下划线
 Suspicious              感到怀疑的,可疑的 adj
 Distribute          分发,分配
 Distributed locks           分布式锁 n
@@ -382,7 +394,6 @@ will review the resource usage today                   今天将对资源的使�
 the only time the score had an issue was on Sunday            唯一一次分数出问题是在周日
 The way/solution I can think of is to                我能想到的办法是~
 There are two potential solutions I've thought of for the issue             我想到的两个可能的解决方案
-as shown above          如上所示
 At 17:00 hours
 at a time               一次
 (This is) a recurring error/issue               反复出现的 adj
@@ -460,7 +471,6 @@ What does “VIP” stand for               VIP 代表什么？
 it stands for sth                    它代表 sth
 They’re not doing their jobs                他们没在干活,没履行职责
 Please release after 16:00 cutoff batch         请在16:00后进行release
-handover item/content/object            交接项,内容,对象
 This change involves lots of underlying code            这改动涉及大量底层代码
 The contact person from SAS team                SAS团队的联系人
 I managed to solve the problem          我成功解决了这个问题
@@ -482,7 +492,6 @@ Recommended that ...                        推荐...
 on the other hand/side                                  另一方面
 From another angle(point of view)              从另一个角度来看
 I'm slowly combing through my notes             我正在慢慢梳理我的笔记
-2026
 as far as I know(can see)           据我所 知/见
 good/great/excellent question                   好问题
 If the issue can't be resolved Promptly/quickly, I'll raise a related ticket later          如果这问题不能迅速解决,我将会提交一个相关的工单
@@ -527,19 +536,13 @@ Somehow, the job ran for over 24 hours          不知怎的，这job跑了超�
 Outside the firewall                防火墙外
 Nice tip/learned a useful trick/That’s useful, learned something new
 Not too busy today              今天不太忙
-
-
-
-
-
-
-
-
-
-
-
-
-
+as shown above/below          如下所示
+relying on sb/sth              依靠,依赖
+To ensure its continued stability and performance       为确保其持续的稳定性和性能
+please address it at the earliest to avoid further escalation       请尽快处理此事，以免情况进一步恶化
+Make your work easier, faster and more effective        让您的工作变得更轻松、更快捷、更高效
+Please supplement if anything that should be included       如有遗漏内容，请予以补充
+Let's hang over (the work) to jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
 
 
 
@@ -555,6 +558,13 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+
+
+
+
+Underscore/underline        下划线_
+hyphen      /ˈhaɪfn/        连字符,中划线-
+(single/double) quote       /kwəʊt/     引号 n
 
 remain                 仍然是,保持,剩余,留下 v
 Testing remains             测试仍在进行

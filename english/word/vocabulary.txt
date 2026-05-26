@@ -410,7 +410,6 @@ peer                                    同行 n
 pension                         养老金,退休金 n
 percent                                         百分之... n/adj
 percentage                                      百分比,百分率 n
-perform/performance                     演出,表演,表现 v/n
 perhaps 可能
 period                  一段时间,时期 n
 permit                                  批准,许可 v
