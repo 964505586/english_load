@@ -25,7 +25,9 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
-Suspend     /səˈspend/         暂停 v
+figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
+fill in      /fɪl ɪn/             填写 v
+Suspend/pause     /səˈspend/         暂停 v
 purge       /pɜːdʒ/           清除 v
 Compile     /kəmˈpaɪl/         编译,编制 v
 proprietary     /prəˈpraɪət(ə)ri/       专有的,所有的 adj
@@ -100,6 +102,7 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+Just(totally) normal/Standard practice/Quite common       正常操作
 Alternatively/or                或者,要不
 Revised/Modify/update/change/Edit/Edited            修正过的/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
 engage/Engagement/working                      参与,投入 v/参与度,投入度
@@ -191,6 +194,16 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+Natural person              自然人 n
+raw data                    原始数据 n
+Distribute/Distribution/Distributed locks          分发,分配 v/n    分布式锁 n
+terminate/terminal      终止 v    终端 adj/n
+OpCo        operating company       运营公司 n
+Terms of reference      职权范围 n
+aim/aimed       旨在 v
+Federated       联邦的 adj
+data Ingestion          数据接入,摄取 n
+map/mapped/mapping         地图,映射 n/映射 v
 (work) handover item/content/object            工作交接/交接项,内容,对象 n
 continued               持续的 adj
 perform/performance         性能,演出,表演,表现 v/n
@@ -250,8 +263,6 @@ relatively (complex)                             相当地,相对地(复杂) adv
 problematic code            有问题的代码
 Utilize(Utilise 英式)                 利用,使用 v
 Suspicious              感到怀疑的,可疑的 adj
-Distribute          分发,分配
-Distributed locks           分布式锁 n
 succeed             成功 v
 by default          默认情况下 adv
 in use      在使用中 adv
@@ -543,6 +554,16 @@ please address it at the earliest to avoid further escalation       请尽快处
 Make your work easier, faster and more effective        让您的工作变得更轻松、更快捷、更高效
 Please supplement if anything that should be included       如有遗漏内容，请予以补充
 Let's hang over (the work) to jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
+It's a scenario we didn't cover before/The situation wasn't covered     这情况之前未曾涉及
+
+
+
+
+
+
+
+
+
 
 
 
@@ -583,7 +604,6 @@ storage                     存储空间,储存 n
 restore                     恢复,还原 v         把东西变回原来的状态,原样
 resume                      恢复 v            停下后(人)继续干
 
-
 Would like to understand
 I wonder 句子(if/疑问词)                                      想知道(随口)
 I'm wondering 句子                              我现在在想
@@ -606,6 +626,7 @@ i heard that                                            我听说...
 just                    刚刚,只是,正好(现在完成时)
 just now                刚才(一般过去时)
 
+map             映射 v
 reflect         反映,体现,显示 v
 be equivalent (to)         等价于,等同于,相当于
 match/correspond to       对应,匹配,指向

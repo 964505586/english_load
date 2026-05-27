@@ -202,7 +202,6 @@ favour                              支持,帮忙,喜爱 n
 feedback                                        反馈意见 n
 festival                        节日 n/adj
 fight                           与...作斗争 v        斗争 n
-figure                          身材 n
 financial                       财政的 adj
 fine                            令人满意的 adj           罚款 v/n
 fire-proof                      防火的
@@ -546,7 +545,6 @@ technical/technique                 技术的,专业的 adj/n
 technology                          科技 n
 template                            模板 n
 temptation                          引诱,诱惑 n
-term                                            条款 n
 terribly                            非常,极其 adv
 thankless                               吃力不讨好 adj
 that if                                 如果

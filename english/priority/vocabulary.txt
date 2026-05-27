@@ -59,7 +59,6 @@ Diagram                  图表 n
 Directly                    直接地 adv
 Disclose                  泄露,透漏v
 distinguish                     认出,区别 v
-Distribution                 分配n
 Domain                 领域 n
 Doubt                  疑问,疑惑 n
 dropdown (list)                 下拉(列表) n
@@ -99,7 +98,6 @@ nested                 嵌套的
 Observation                         观察 n
 one-off                  一次性的
 Ordinary                普通的,平常的 adj
-Overall                 全部的 adj/adv
 Partial                 部分的 adj
 pause                   暂停,停顿 n/v
 Permanently                 永久地/adv
@@ -136,8 +134,6 @@ strange/strangely/strangeness                        奇怪的,陌生的 adj/奇
 strategy                                        战略,策略 n
 strongly                            坚定地,强有力地,强烈地 adv
 temporary/temporarily               暂时地,临时地 adj/adv
-terminal                 终端 adj/n
-terminate                  终止 v
 touch v                     触动,感动
 trainee                                     实习生 n
 Transparent                 透明的 adj
