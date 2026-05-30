@@ -56,7 +56,6 @@ It's time to take a break                   是时候休息一下了
 Jack is coming                                      sb要来了
 Jenkins keeps failing, so i'm thinking of trying to create a new PR          老是失败,我在想试着创建一个新的PR
 Just saw                            刚看到
-leave a comment
 Let's call it a day                 今天就到此为止
 let's catch up later
 let's go to the first one               我们去第一个吧

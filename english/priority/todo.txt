@@ -25,6 +25,10 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+point/dot/period      /ˈpɪriəd/         小数/网址,邮箱,文件名,IP/英文句末句号
+Represent/Representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
+sensitive data leakage/leak/leaked/leaking     /ˈliːkɪdʒ/      泄露 v/n
+user info exposure/expose/exposed/exposing      /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/          暴露 n
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 fill in      /fɪl ɪn/             填写 v
 Suspend/pause     /səˈspend/         暂停 v
@@ -45,7 +49,6 @@ merits and demerits     /ˈmerɪts/       优劣
 failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败
 Figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
 leverage        /ˈliːvərɪdʒ/            利用 v
-Representative          /ˌreprɪˈzentətɪv/              代表 n
 snipaste
 Hallucination           /həˌluːsɪˈneɪʃ(ə)n/         幻觉,幻想；错觉 n
 supplement          /ˈsʌplɪmənt/              补充,增加,增补 v
@@ -522,7 +525,7 @@ Please let me know if any questions. Otherwise, your confirmation and sign-off w
 It shouldn't ideally have any impact               理想情况,它不应产生任何影响
 For reference only/This is for informational purposes only          此内容仅供参考
 I think it may not be so straightforward                            我觉得这事可能没那么简单
-(It is) not so fast             别太快、别急、没那么容易
+(It's) not so fast             别太快,别急,没那么容易
 Please kindly give this email your full attention                   烦请务必仔细查阅并重视本邮件
 raise a ticket to document the backend airflow in Confluence            在Confluence记录backend的airflow
 We need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
@@ -551,15 +554,16 @@ as shown above/below          如下所示
 relying on sb/sth              依靠,依赖
 To ensure its continued stability and performance       为确保其持续的稳定性和性能
 please address it at the earliest to avoid further escalation       请尽快处理此事，以免情况进一步恶化
-Make your work easier, faster and more effective        让您的工作变得更轻松、更快捷、更高效
+Make your work easier, faster and more effective        让您的工作变得更轻松,更快捷,更高效
 Please supplement if anything that should be included       如有遗漏内容，请予以补充
 Let's hang over (the work) to jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
 It's a scenario we didn't cover before/The situation wasn't covered     这情况之前未曾涉及
-
-
-
-
-
+Mask sensitive data to avoid user info leakage/exposure       打码数据，防止用户信息泄露/暴露
+left a note/remark in my calendar             在日历里添加了备注
+leave a comment             留下评论
+some access may take some time to activate           部分权限需等待一段时间方可生效
+some permissions usually take some time to go live          有些权限通常需要一段时间才能生效
+Let's wait and see              我们先等等看
 
 
 
@@ -583,6 +587,12 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+mask (out)        打码,掩饰，伪装,掩码,口罩,面具/屏蔽 v
+mark                标记,做记号 v
+remark                          谈论 v/言论,评语,备注 n
+remarkable                      引人注目的 adj
+
+special character
 Underscore/underline        下划线_
 hyphen      /ˈhaɪfn/        连字符,中划线-
 (single/double) quote       /kwəʊt/     引号 n
@@ -600,9 +610,9 @@ This error keeps popping up                         这个报错老是弹出来
 things like this always happen                      这样的事情经常发生
 
 store                       储存 v/商店 n
-storage                     存储空间,储存 n
+storage                     储存,存储空间 n
 restore                     恢复,还原 v         把东西变回原来的状态,原样
-resume                      恢复 v            停下后(人)继续干
+resume                      恢复,简历 v            停下后(人)继续干
 
 Would like to understand
 I wonder 句子(if/疑问词)                                      想知道(随口)

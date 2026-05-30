@@ -463,15 +463,11 @@ relax    v 放松
 release             释放 v/n
 reliable                                        可靠的,可信赖的 adj
 rely                                    相信,依赖 v
-remark              谈论 v        备注 n
-remarkable                      引人注目的 adj
-repeat    v 重复
-repeated/repeatedly                     重复地 adj/adv
+repeat/repeated/repeatedly                     重复 v/重复地 adj/adv
 research                    研究 n/v
 reset                           调整,重新设置 v/n
 respect                尊敬
-reward                      奖励 n/v
-rewarding                                       值得的,有意义的 adj
+reward/rewarding                      奖励 n/v 值得的,有意义的 adj
 rightful                        合法的,公正的
 risk                            危险,风险 n             使遭受...危险,冒...的危险 v
 risky                               有危险的,有风险的 adj
@@ -496,14 +492,12 @@ sell/sold out            卖完
 share with sb
 shortly                             不久,很快 adv
 shy                                 害羞的,腼腆的 adj
-sign in                                 登录 v
-sign up                                 注册
+sign in/up                                 登录 v/注册
 significant 重要的
 silently                            默默地,静静地 adv
 situation 情况
 skip                                    跳过 v
-smile               微笑 v/n
-smile like          微笑像
+smile (like)               微笑(像) v/n
 sneak                           偷偷地做 v
 social/society                      社会,社交的 adj/n
 some        单 某个    复 一些
@@ -515,17 +509,14 @@ specially                               专门地,特意地 adv
 specific/specifically       明确地,具体地 adj/adv
 stable/unstable                          稳定的,牢固的 adj
 stand                           忍受 v
-standard    标准
+standard                        标准
 start out                   着手
-stay focused                    保持专注
-stay overnight                          过夜 v
-stay up                             熬夜
+stay up/focused/overnight                             熬夜/保持专注/过夜 v
 steady/unsteady                                  稳定的,平稳的,持续的 adj/adv
 step by step                逐步 adv
 striking            惊人的,异常的 adj
 strength                        力量,优点 n
-stress                          压力 n
-stressful           紧张的,压力大的 adj
+stress/stressful                          压力 n/紧张的,压力大的 adj
 strongly suggest                        强烈建议 v
 structure                       结构 n
 stupid                  笨的,傻的 adj           傻瓜,笨蛋 n
