@@ -25,6 +25,7 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+Any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识，专家的意见/专家 n
 point/dot/period      /ˈpɪriəd/         小数/网址,邮箱,文件名,IP/英文句末句号
 Represent/Representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 sensitive data leakage/leak/leaked/leaking     /ˈliːkɪdʒ/      泄露 v/n
@@ -105,6 +106,7 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+impact/an impact on sb/sth                 影响 v/对sth的影响 n
 Just(totally) normal/Standard practice/Quite common       正常操作
 Alternatively/or                或者,要不
 Revised/Modify/update/change/Edit/Edited            修正过的/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
@@ -116,7 +118,6 @@ homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟；伙伴/乡�
 Looks fine/Seems all good/Looks no problem
 show/display            显示,展示 v
 Recommended action/solution      推荐操作,方案
-several/some                一些,若干
 present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 isolate/split/Divide/Separate                   隔离,孤立/拆分/均分/分离 v
 dummy/mock                       假的 adj
@@ -178,7 +179,6 @@ Edition/version                     版本 n
 Perspective/view
 Integrate/Integration/merge            合并,成为一体
 may/can
-lots(a lot) of(many/much)
 seem/look/sounds like good/fine
 Sufficient/Insufficient(Enough)                 足够的,充足的 adj/不足的,不够的 adj
 Isn't it(主语是it, right?)
@@ -197,6 +197,10 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+Capture         采集,捕获,截取 v
+Alias name/Individual other name          别名/个人别名,曾用名 n
 Natural person              自然人 n
 raw data                    原始数据 n
 Distribute/Distribution/Distributed locks          分发,分配 v/n    分布式锁 n
@@ -237,7 +241,6 @@ programmatically                通过编程方式 adv
 miss                错过,想念 v
 brief/briefly             简短的,简要的 adv
 announce/announcement                    宣布,公布 n/v
-Capture         捕获,截取 v
 standby             备用物 n
 bookmark        书签 n
 Outage                  停止供应期 n
@@ -564,6 +567,14 @@ leave a comment             留下评论
 some access may take some time to activate           部分权限需等待一段时间方可生效
 some permissions usually take some time to go live          有些权限通常需要一段时间才能生效
 Let's wait and see              我们先等等看
+Ideally, yes                理想情况下是的
+know as   也被称为
+I am thinking (if)... though        /ðəʊ/      不过我在想.../不过,可是,然而(前面说了一个意见，现在补充/转念一想另一个角度)
+
+
+
+
+
 
 
 
@@ -586,6 +597,12 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+几个
+Multiple                多个的，多种的 adj
+several/some                几个,若干(3-6个) cn/一些,若干
+numerous/lots(a lot) of/much/many           许多的,众多的 cn/un,cn/un/cn adj
+few/little                      否定：几乎没有 cn/un
+a few/little               肯定：有一点,少数几个 cn/un
 
 mask (out)        打码,掩饰，伪装,掩码,口罩,面具/屏蔽 v
 mark                标记,做记号 v
