@@ -31,7 +31,6 @@ apologize/Apologise(英式)                       道歉 v
 appearance                  外观
 apply for               申请
 apply/application               申请 vi/n
-approach                            靠近 v
 arrange                                         安排 v
 arrest                          逮捕 v/n
 arrested                        逮捕的 adj

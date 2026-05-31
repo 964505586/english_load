@@ -43,7 +43,6 @@ fact                 事实 n
 Access                          访问 v
 Adapt                           适应 v
 Adverse                         不利的 adj
-Associate                       联系 v
 assure/Assurance                       保证 v/n
 buddy                           伙伴 n
 Clarify/Clarity                         澄清,阐明 v/清晰 n
@@ -98,7 +97,6 @@ Observation                         观察 n
 one-off                  一次性的
 Ordinary                普通的,平常的 adj
 Partial                 部分的 adj
-pause                   暂停,停顿 n/v
 Permanently                 永久地/adv
 Populate                 填充 v
 pop-up                      弹窗,弹出式的 adj/n
