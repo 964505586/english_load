@@ -25,6 +25,7 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+Preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 usage       /ˈjuːsɪdʒ/       使用量 n
 undergo     /ˌʌndəˈɡəʊ/         经历,经受 v
@@ -206,6 +207,8 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+Meeting recap/minutes         会议总结、概要(简版)/会议纪要、记录(完整版) n
+violate/Violation               违反、违背、触犯 v/违规 n
 usage-based billing model       按使用量的计费模式
 Review              查阅 v
 during the Maintenance window           维护窗口期间
@@ -244,7 +247,7 @@ Caution/With some caution             小心,谨慎 n/谨慎地 adv
 precaution                                  预防措施 n
 almost              几乎,差不多
 likely/Unlikely              可能的,很可能/不太可能的,不大可能 adj/adv
-Regulatory Compliance              监管的合规 n
+Regulatory Compliance/Compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
 freeze/freezes/froze/frozen         卡死,冻结,无响应
 introduce                   引进,引入 v
 chase/chased/chasing       跟进,催促 v

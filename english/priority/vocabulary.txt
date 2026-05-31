@@ -101,7 +101,6 @@ Permanently                 永久地/adv
 Populate                 填充 v
 pop-up                      弹窗,弹出式的 adj/n
 Possibility                 可能性 n
-Preferably                  最好是 adv
 Prefix/suffix                           前/后 缀 n
 Proceed                     继续,行进 v
 program                         程序,节目 n
@@ -139,7 +138,6 @@ unzip                 解压 v
 up 向上
 Upcoming                即将来临的 adj
 Usage                   用途 n
-Violation               违规 n
 vulnerability                 漏洞 n
 willing                 愿意的,乐意的 adj
 particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
