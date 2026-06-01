@@ -18,7 +18,6 @@ ahead                       在前面的,提前的 adv/adj
 aim                 目标 n        瞄准 v
 aim at                  针对
 alcohol                         酒
-alternatively                                   要不,或者 adv
 amaze/amazing                 使惊奇,使惊愕 v/惊人的,令人惊讶的 adj
 analyse/analyze                             分析 v
 annoy                   使恼怒,使烦恼 v
@@ -96,7 +95,6 @@ close down                          倒闭
 coincidence                         巧合 n
 collective                              集体的
 comfort/comfortable                     安慰 n/v/舒服的 n
-coming                                  到来 n
 common sense                        常识 n
 common/uncommon                     常见的,普遍的 adj
 commonly                                        通常 adv
@@ -159,7 +157,6 @@ eased                                           放松的 adj
 economic 经济的,节约的
 electricity                 电 n
 elegant    优雅
-eligible/eligibility                            符合条件的,合格的 adj/资格,合格 n
 embarrass/embarrassing               使尴尬,使难堪 v/使人尴尬的 adj
 emergency                   紧急情况 n/adj
 emotion                     感情,情感,情绪 n
@@ -288,7 +285,6 @@ in place of                                     代替
 in recent days(years)                  最近几天
 in rush hours                                   在高峰期
 in sight                        在视线范围内
-in the coming years                    在未来几年
 in the first place                  首先
 including                       包含 prep
 inclusiveness                   包容,包容性 n
@@ -426,7 +422,6 @@ pollute/pollution                 污染 v/n
 popularity 人气
 positive                乐观的,积极的 adj
 possess                                         拥有,持有 v
-practical                                   真实的,实际的 adj
 praise                  赞美,表扬 v/n
 prescription                处方 n
 prescriptive                    规定的,指定的 adj
@@ -460,7 +455,6 @@ relationship        关系 n
 relative                                亲戚 n/相对的,相比较而言的 adj
 relax    v 放松
 release             释放 v/n
-reliable                                        可靠的,可信赖的 adj
 rely                                    相信,依赖 v
 repeat/repeated/repeatedly                     重复 v/重复地 adj/adv
 research                    研究 n/v
@@ -560,7 +554,6 @@ understanding                   善解人意 n
 undertake                                       承担,答应 v
 unethical                               不道德的 adj
 unique                                  独特的,独一无二的
-urge                        敦促,催促 v
 urgent/urgently             紧急的,急切的
 vacation                        假期
 variable                            易变的,多变的 adj
@@ -607,7 +600,6 @@ prepare/preparation     准备 v/n
 mission                 使命 n
 Determine                  决定 v
 judge/Judgment                           判断,评价 v/判断 n
-Practical               实用的 adj
 and then                    于是,然后
 
 

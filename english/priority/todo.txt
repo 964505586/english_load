@@ -25,6 +25,13 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+(system) entry/front door       /ˈentri/        系统入口 n
+attendee            /əˌtenˈdiː/         出席者；在场者
+reliable        /rɪˈlaɪəb(ə)l/          可靠的,可信赖的 adj
+Facilitate/push              /fəˈsɪlɪteɪt/       促进，推动,使更容易 v
+eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
+Revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正，矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
+Meeting recap/minutes       /ˈriːkæp/         会议总结、概要(简版)/会议纪要、记录(完整版) n
 Preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 usage       /ˈjuːsɪdʒ/       使用量 n
@@ -78,7 +85,7 @@ angle           /ˈæŋɡ(ə)l/      角度 n
 manage          /ˈmænɪdʒ/       设法做到,管理
 bother          /ˈbɒðə(r)/      打扰
 Statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
-approximately           /əˈprɒksɪmətli/           大约,大概 adv
+approximately/around/about           /əˈprɒksɪmətli/           大约,大概 adv
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
 Resolution    /ˌrezəˈluːʃ(ə)n/          决议,解决 n
@@ -112,12 +119,19 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+engage/Engagement/working                      参与,投入 v/参与度,投入度
+isolate/split/Divide/Separate/Separately                   隔离,孤立/拆分/均分/分离 v/单独的,独立的,分开的 adj,分别地 adv
+As much/early as possible                   尽可能 多/早
+product/production/produce                 产品 n/生产 n/生产 v,农产品 n
+workday/working/Business Days               工作日 n
+in the coming/upcoming months/years                    在未来几个月/年
+whole(entire)/overall/overview            全部的，整个的 adj/总的,全面的 adj,adv/概述 n/v
+Alternatively(or)/Alternative (solution)            或者,要不 adv/可替代的，备选的 adj/替代物 n/替代方案
+Subsequent/Follow-up (actions)             随后的，接着的 adj/后续的 adj/后续行动
+underlying/low-level/foundation code                底层代码 n
 Approach/method                 方式,靠近,接近/方法 v
 impact/an impact on sb/sth                 影响 v/对sth的影响 n
 Just(totally) normal/Standard practice/Quite common       正常操作
-Alternatively/or                或者,要不
-Revised/Modify/update/change/Edit/Edited            修正过的/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
-engage/Engagement/working                      参与,投入 v/参与度,投入度
 chase/push/urge sb to do(for sth)             催促 v
 consolidate/consolidated/merge                合并,使巩固 v/巩固的,统一的 adj
 Problem statement/description                   说明,陈述,声明
@@ -126,10 +140,9 @@ Looks fine/Seems all good/Looks no problem
 show/display            显示,展示 v
 Recommended action/solution      推荐操作,方案
 present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
-isolate/split/Divide/Separate                   隔离,孤立/拆分/均分/分离 v
 dummy/mock                       假的 adj
-ideal/normal
-Involve/Include/Contain             涉及
+ideal/normal                        理想的，最佳的/正常的，标准的 adj
+Involve/Include/Contain             涉及 v
 at your convenience/if you get a chance     你有空的时候
 self/internal/(my/our own) check            自测
 with n/there is ...
@@ -141,7 +154,6 @@ mention/say            提到,谈到 v
 lead/led to n(cause)                           导致
 Classify/Categorize             分类,分级,归类/归类,分组 v
 uncheck/unselected         取消勾选,去掉勾选/未被选中的,未勾选的
-Separate/Separately                 分离 v/单独的,独立的,分开的 adj/分别地 adv
 Notice/saw
 identify/identified(found)              识别 v
 detect/check                  检测,探测/检查 v
@@ -207,7 +219,19 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-Meeting recap/minutes         会议总结、概要(简版)/会议纪要、记录(完整版) n
+
+
+
+onboarding          接入，上线 v
+upcoming                即将来临的 adj
+go live                 上线 v
+Align/alignment                  对齐 v/n
+Foundational            基础的；基本的 adj
+(core) concept       (核心)概念 n
+practical                       实用的,针对性的,真实的,实际的 adj
+Outline                 概述,简述 v
+Feasible/Feasibility                可行的 adj/可行性 n
+Sequence diagram                时序图,顺序图 n
 violate/Violation               违反、违背、触犯 v/违规 n
 usage-based billing model       按使用量的计费模式
 Review              查阅 v
@@ -304,7 +328,6 @@ frequent/frequently(often)          经常地,频繁地 adj/adv
 Short notice                紧急通知
 Organize            整理,组织,安排
 headphone(microphone)               双耳式耳机
-Follow-up actions           后续行动
 symbol          象征,符号,标志 n
 whatever        无论什么
 anyway          总之,反正
@@ -377,7 +400,7 @@ someone             有人
 Newly added columns             新增的列
 Please press Ctrl and C on your keyboard    请在键盘上按下“Ctrl”和“C”键
 Logs are only kept for one or two days              日志只保存一天或两天
-Is/Isn't this what we expected?
+Is/Isn't this what we expected?             这难道不是我们所期望的吗？
 issue identified                            识别到的问题
 Wait a minute. Let me quickly check the dictionary to see how to say it     我查下字段
 Could you tell me who I should contact?         你可以告诉我应该联系谁吗？
@@ -599,21 +622,31 @@ TL;DR               Too Long; Didn't Read 一句话总结,摘要
 guides are available here          在此处可用,可查看
 package manager tool            包管理工具
 refer to sth                 参考,查阅 n
+I'll meet Jack offline           线下会面
+I am writing to             我写信是为了
+The first three are             前三个是
+This is to notify (you) that ...            特此通知 ...
+depends on their current capacity             取决于他们当前的 工作量/负载/产能 n
+retry up to 3 times on failure              失败时最多重试3次
+the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
+table onboarding may be delayed for a month or even longer          数据接入可能延期一个月或更久
+Without breaking the existing feature/environment               不破坏现有 功能/环境
 
 
 
+immediately/at once/right now(away)/straight away       /streɪt əˈweɪ/         立刻,马上
+
+
+enablement and adoption sessions            赋能培训 & 落地推广会议
+hands-on            实操的,动手的，实际操作的 adj
 
 
 
-
-
-
-
-
-
-
-
-
+Forwards
+map
+leave with clear next steps you can apply straight away
+upon failure
+unblock delivery
 
 
 
@@ -634,6 +667,9 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+doing sth is expected to take a similar amount of time      预计花费相似的时长
+doing sth involves sth (adding data to DB involves two stages)        添加数据库到DB涉及两个阶段
+if doing sth is needed/feasible (using an alternative solution is needed)       如果需要替代方案
 
 几个
 Multiple                多个的,多种的 adj
@@ -704,7 +740,7 @@ from now on/going(moving) forward/in the future
 3,到目前为止
 so far/up to now/until now
 4,立刻,马上
-immediately/at once/right now/right away
+immediately/at once/right now/right away/straight away       /streɪt əˈweɪ/
 
 You'd better see        你最好看看
 (it's) better to do                     最好做sth

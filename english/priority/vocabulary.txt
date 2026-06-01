@@ -10,7 +10,6 @@ Cluster                         集群
 Command                         命令 n
 Algorithm                       算法 n
 Alias                           别名 n
-Align/alignment                  对齐
 Architecture                  架构
 Decision/decide             决定 n/v
 Define/definition                  定义 v/n
@@ -136,7 +135,6 @@ Transparent                 透明的 adj
 uninstall                 卸载 v
 unzip                 解压 v
 up 向上
-Upcoming                即将来临的 adj
 Usage                   用途 n
 vulnerability                 漏洞 n
 willing                 愿意的,乐意的 adj
@@ -160,7 +158,6 @@ Constantly          总是,经常地,不断地
 Seek                    寻找 v
 annotation                                  注释 n
 Combine/combination                  结合,合并
-Feasible/Feasibility                可行的 adj/可行性 n
 work out            制定,梳理,敲定
 suffer (from)                         遭受,受苦(长期)
 absent                      缺勤的,缺席的 adj
