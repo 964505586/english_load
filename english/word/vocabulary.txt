@@ -223,7 +223,6 @@ form v 形成 n 形式,表单
 formal/informal                  正式的,规范的,合法的 adj
 former                      以前的,旧时的
 fortunate/fortunately/unfortunately                       幸运的/不幸的 adj/adv
-forward/forwards                     向前,今后 adv        向前的 adj         转交 v
 freedom 自由权
 from then on 从那时起
 from time to time 时不时地 adv

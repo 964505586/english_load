@@ -25,13 +25,16 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+immediately/at once/right now(away)/straight away       /streɪt əˈweɪ/         立刻,马上
+upon/on (success/failure/completion/receipt)    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
+Receive/receipt         /rɪˈsiːt/           获得,得到,收到 v/接收 n
 (system) entry/front door       /ˈentri/        系统入口 n
 attendee            /əˌtenˈdiː/         出席者；在场者
 reliable        /rɪˈlaɪəb(ə)l/          可靠的,可信赖的 adj
 Facilitate/push              /fəˈsɪlɪteɪt/       促进，推动,使更容易 v
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
 Revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正，矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
-Meeting recap/minutes       /ˈriːkæp/         会议总结、概要(简版)/会议纪要、记录(完整版) n
+Meeting recap/minutes       /ˈriːkæp/         会议总结,概要(简版)/会议纪要,记录(完整版) n
 Preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 usage       /ˈjuːsɪdʒ/       使用量 n
@@ -221,7 +224,9 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-
+unblock (delivery)            扫清阻碍,解除阻塞 v/扫清交付卡点
+forward             向前,今后 adv/向前的 adj/转交 v
+map/maps/mapped/mapping         地图；分布图,映射 v
 onboarding          接入，上线 v
 upcoming                即将来临的 adj
 go live                 上线 v
@@ -232,15 +237,14 @@ practical                       实用的,针对性的,真实的,实际的 adj
 Outline                 概述,简述 v
 Feasible/Feasibility                可行的 adj/可行性 n
 Sequence diagram                时序图,顺序图 n
-violate/Violation               违反、违背、触犯 v/违规 n
+violate/Violation               违反,违背,触犯 v/违规 n
 usage-based billing model       按使用量的计费模式
 Review              查阅 v
 during the Maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
 outage notification         断网,服务中断通知
-Associated guidance     相关指引、配套说明
-Associate/Associated                       联系 v/相关的、关联的、配套的 adj
-Receive             获得,得到,收到 v
+Associated guidance     相关指引,配套说明
+Associate/Associated                       联系 v/相关的,关联的,配套的 adj
 use             使用,使用行为 n
 Measure         统计 v/统计,措施,办法 n
 alerts      通知 v/警报,告警 n
@@ -631,22 +635,12 @@ retry up to 3 times on failure              失败时最多重试3次
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
 table onboarding may be delayed for a month or even longer          数据接入可能延期一个月或更久
 Without breaking the existing feature/environment               不破坏现有 功能/环境
-
-
-
-immediately/at once/right now(away)/straight away       /streɪt əˈweɪ/         立刻,马上
-
-
 enablement and adoption sessions            赋能培训 & 落地推广会议
-hands-on            实操的,动手的，实际操作的 adj
 
 
 
-Forwards
-map
-leave with clear next steps you can apply straight away
-upon failure
-unblock delivery
+
+
 
 
 
