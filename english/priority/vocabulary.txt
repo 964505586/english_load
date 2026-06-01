@@ -104,7 +104,6 @@ Prefix/suffix                           前/后 缀 n
 Proceed                     继续,行进 v
 program                         程序,节目 n
 Promotion                 晋升 n
-Quarantine                              隔离 v/n
 Recommend/recommendation                   建议,劝告,推荐 v/n
 reduce                 降低
 refactor                  重构 v
@@ -120,7 +119,6 @@ Scalability         可扩展性 n
 seriousness/serious/seriously           严重性 n/严重的,重要的 adj/adv
 Slightly                稍微,轻微地 adv
 slot                                    时间段,时段 n
-Specify/Specified/Specific/Specification                  指定 v/规定,指定的 adj/具体,特定的 adj/规格说明 n
 Stability                   稳定性 n
 Stage                       阶段
 Stakeholder                  利益相关者

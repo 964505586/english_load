@@ -358,7 +358,7 @@ movement            动作 n
 moving                              感人的 adj
 national                            国家的 adj
 natura/natural/naturally               自然 n/adj/adv
-nearby                  附近的 adj         在附近 adv
+nearby                  附近的 adj/在附近 adv
 necessary 必要,必需
 needed                                      需要的 adj
 negative                                    悲观的,消极的 adj
@@ -497,8 +497,6 @@ someday             有一天,有朝一日
 somewhat            稍微,有点 adv
 spare                                           备用的,空闲的 adj
 specialize in                       专攻
-specially                               专门地,特意地 adv
-specific/specifically       明确地,具体地 adj/adv
 stable/unstable                          稳定的,牢固的 adj
 stand                           忍受 v
 standard                        标准
@@ -531,7 +529,7 @@ temptation                          引诱,诱惑 n
 terribly                            非常,极其 adv
 thankless                               吃力不讨好 adj
 that if                                 如果
-the main thing/reason 主要的事情
+the main thing/reason               主要的事情
 the other day                   几天前
 then                                那个时候 adv
 therefore          因此,所以 adv
