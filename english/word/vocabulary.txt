@@ -285,8 +285,7 @@ in recent days(years)                  最近几天
 in rush hours                                   在高峰期
 in sight                        在视线范围内
 in the first place                  首先
-including                       包含 prep
-inclusiveness                   包容,包容性 n
+including/inclusiveness                       包含 prep/包容,包容性 n
 income                      收入 n
 increase                      增长,增强,增大 v
 increasing                  越来越多的 adj           增长,增强 v
@@ -353,8 +352,7 @@ mix                         混合 v
 mock                                    模拟 v/adj/n
 modify                     修改,改进 v
 moment                              瞬间,此刻 n
-move                    措施 n
-movement            动作 n
+move/movement                    措施 n/动作 n
 moving                              感人的 adj
 national                            国家的 adj
 natura/natural/naturally               自然 n/adj/adv
@@ -468,10 +466,8 @@ role-play               角色扮演
 roommate                                室友 n
 routine                             常规,惯例 n
 row/column                          行/纵列
-rudely    无礼的
-rudeness                    无礼 n
-run after                           追赶
-run free                解脱
+rudely/rudeness    无礼的 adj/无礼 n
+run free/after                解脱/追赶
 same as                             等同于
 schedule                        计划,进度表 n
 screen                      屏蔽 v        屏幕 n
