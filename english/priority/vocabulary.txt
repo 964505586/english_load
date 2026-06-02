@@ -28,7 +28,6 @@ indicator                 指标 n
 ingest                 摄取 v
 initial             最初的
 emphasize                   强调 v
-Enhancement                 增强
 find                 查收 v
 Fraud                 欺诈 n
 Conclude/Conclusion                 结束,结论 v/n
@@ -77,7 +76,6 @@ Function                 起作用,运转 v/功能 n
 generic             通用的 adj
 get rid of n                         摆脱sth
 gone                            消失
-highlight           突出,强调 v
 hit                 匹配项 n
 incorporate                 合并 v
 Intentionally                       故意地,有意地 adv
