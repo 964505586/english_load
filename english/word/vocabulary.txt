@@ -146,7 +146,6 @@ diy                                             Do It Yourself
 domestic/domestically                           国内的 adj/adv
 dormitory    宿舍
 double                      两倍的 adj/adv/n       加倍 v
-draft                                   草稿 n
 dramatically                            明显地,剧烈地,夸张地 adv
 duplicate/duplication                               复制 v/adj/重复 n
 dynamic                 充满活力的 adj/动力,活力 n
@@ -207,7 +206,6 @@ flaunt                          炫耀 n/vt/vi
 flinch                      退缩
 floor                       地板,地面 n
 fluent                      流利的,熟练的 adj
-focus on                                        专注于 v
 follow up                           跟进
 following                adj 以下的
 fond        adj 喜爱的
@@ -567,7 +565,6 @@ within                                      在...之内
 within 1 hour                               1小时内
 work on                                     从事,致力于
 work overtime                               加班
-workload                                    工作量
 workplace                                   办公室,工厂
 worry-free                                  无忧无虑的 adj
 worth                                       值得的 adj/价值 n

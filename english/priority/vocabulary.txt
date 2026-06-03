@@ -161,7 +161,6 @@ absent                      缺勤的,缺席的 adj
 revisit             再访 v/n
 Fluctuation             波动 n
 priority                    优先,优先权 n/优先的 adj
-follow-up           后续的 adj
 Abnormal                反常的 adj
 precondition            前置条件,前提状态 n
 radio/checkbox (button)                           单选/复选框 n

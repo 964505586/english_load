@@ -25,6 +25,11 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+Comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
+whole(entire)/overall/overview/comprehensive    /ˌkɒmprɪˈhensɪv/    全部的,整个的 adj/总的,全面的 adj,adv/概述 n,v/综合性的，全面的 adj
+Contingency         /kənˈtɪndʒənsi/         应急措施,可能发生的事 n
+Protocol            /ˈprəʊtəkɒl/            规范、协议
+Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 reusable        /riːˈjuːzəb(ə)l/       可重复使用的,可以再度使用的 adj
 bootcamp        /ˈbuːtkæmp/         集训营 n
@@ -61,7 +66,6 @@ figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄�
 fill in      /fɪl ɪn/             填写 v
 purge       /pɜːdʒ/           清除 v
 Compile     /kəmˈpaɪl/         编译,编制 v
-proprietary     /prəˈpraɪət(ə)ri/       专有的,所有的 adj
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 lag/delay/Postpone/Postponing       /pəˈspəʊn/      延迟,滞后/推迟,延缓 v/n
@@ -91,7 +95,6 @@ Multiple                    /ˈmʌltɪp(ə)l/
 linkage                     /ˈlɪŋkɪdʒ/          联系 n
 Parallel/Parallelly/In parallel(In the meanwhile)             /ɪn ˈpærəlel/                 平行的,并行的 adj/adv
 Accuracy                /ˈækjərəsi/         准确性 n
-Dedicated           /ˈdedɪkeɪtɪd/           专用的,专属的 adj
 Withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
 Majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
@@ -132,6 +135,10 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+
+
+Focus/focus on          重点 n/专注于 v
+swap/switch/replace             替换、切换 v
 engage/Engagement/working                      参与,投入 v/参与度,投入度
 split/Divide/Separate/Separately            拆分/均分/分离 v/单独的,独立的,分开的 adj,分别地 adv
 isolate/Quarantine              隔离,孤立 v/隔离 v/n
@@ -139,9 +146,8 @@ As much/early as possible                   尽可能 多/早
 product/production/produce                 产品 n/生产 n/生产 v,农产品 n
 workday/working/Business Days               工作日 n
 in the coming/upcoming months/years                    在未来几个月/年
-whole(entire)/overall/overview            全部的,整个的 adj/总的,全面的 adj,adv/概述 n/v
 Alternatively(or)/Alternative (solution)            或者,要不 adv/可替代的,备选的 adj/替代物 n/替代方案
-Subsequent/Follow-up (actions)             随后的,接着的 adj/后续的 adj/后续行动
+Subsequent/Follow-up/next (step/actions)             随后的,接着的 adj/后续的 adj/后续行动
 underlying/low-level/foundation code                底层代码 n
 Approach/method                 方式,靠近,接近/方法 v
 impact/an impact on sb/sth                 影响 v/对sth的影响 n
@@ -163,7 +169,6 @@ with n/there is ...
 alright(all right)
 I'll reboot/restart it. it's freezing badly(super laggy /ˈlæɡi/)        重新启动 v/n(我要重启下,卡的不行了)
 any concerns(question)          任何顾虑
-simply/just                          仅仅
 mention/say            提到,谈到 v
 lead/led to n(cause)                           导致
 Classify/Categorize             分类,分级,归类/归类,分组 v
@@ -233,6 +238,19 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+
+outcome         结果 n
+Deadline/due date            截止日期 n
+open(to do) item                   待处理事项 n
+target/Objective               目的，目标 n
+Responsible owners          负责人
+work together           协同配合
+draft                                   起草，草拟 v/草稿 n
+(Estimated) Duration      (预估的)持续时间 n
+Phase           阶段 n
+simply/just/exclusively                          仅仅/只、仅仅,排他地、独有地 adv
 visibility      可见性,能见度 n
 rolling restart     滚动重启 n
 1H/2H 2026/achievements     2026下半年/上半年成绩
@@ -303,7 +321,7 @@ introduce                   引进,引入 v
 chase/chased/chasing       跟进,催促 v
 logical             合情合理的,合乎逻辑的 adj
 Modernization
-workload                    工作量,工作负荷 n
+workload/capacity                    工作量,工作负荷/产能 n
 real-time/in real time                 实时的 adj/adv
 Address                 解决,处理 v
 In detail           详细地 adv
@@ -652,7 +670,7 @@ I'll meet Jack offline           线下会面
 I am writing to             我写信是为了
 The first three are             前三个是
 This is to notify (you) that ...            特此通知 ...
-depends on their current capacity             取决于他们当前的 工作量/负载/产能 n
+depends on their current capacity/workload             取决于他们当前的 产能/工作量 n
 retry up to 3 times on failure              失败时最多重试3次
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
 table onboarding may be delayed for a month or even longer          数据接入可能延期一个月或更久
@@ -662,15 +680,6 @@ From Concepts to Implementation         从概念到落地实施
 To avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 stick to the original plan            坚持 v
 (all services) are up and running       系统正常运行、服务就绪
-
-
-
-
-
-
-
-
-
 
 
 
