@@ -124,7 +124,6 @@ Stick/Stuck/Stuck                   卡住 v
 strange/strangely/strangeness                        奇怪的,陌生的 adj/奇怪地,奇怪的是 adv/奇怪,陌生感 n
 strategy                                        战略,策略 n
 strongly                            坚定地,强有力地,强烈地 adv
-temporary/temporarily               暂时地,临时地 adj/adv
 touch v                     触动,感动
 trainee                                     实习生 n
 Transparent                 透明的 adj
