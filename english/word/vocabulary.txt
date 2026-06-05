@@ -238,7 +238,6 @@ go/went away                走了,走开,离开
 gold 金
 grace/graceful/gracefully                   优美,优雅 n/adj/adv
 graciously                          和蔼地,仁慈地 adv
-gradually 逐渐的
 grateful        感激的
 greatly    极大的
 greed/greedy                   贪婪,贪欲 n/adj
@@ -453,7 +452,6 @@ rely                                    相信,依赖 v
 repeat/repeated/repeatedly                     重复 v/重复地 adj/adv
 research                    研究 n/v
 reset                           调整,重新设置 v/n
-respect                尊敬
 reward/rewarding                      奖励 n/v 值得的,有意义的 adj
 rightful                        合法的,公正的
 risk                            危险,风险 n             使遭受...危险,冒...的危险 v

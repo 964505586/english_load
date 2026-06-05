@@ -16,7 +16,6 @@ head                            领导,带领 v
 hear                            听说 v
 issue                           颁布,分发,分配 v
 know                            认识,懂
-last                            持续 v
 little                          少
 look                            神情 n
 meet                            满足 v

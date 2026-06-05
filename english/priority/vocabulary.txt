@@ -1,12 +1,10 @@
 Agenda                          议程
 Alert                           警报
 Adjust/adjustment               调整 v/n
-batch                           批
 Bottom              底部
 Calculate                       计算 v
 Challenge                       质疑,挑战 v/n
 Chance                          机会 n
-Cluster                         集群
 Command                         命令 n
 Algorithm                       算法 n
 Alias                           别名 n

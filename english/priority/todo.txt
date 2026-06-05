@@ -25,13 +25,22 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+circumstance            /ˈsɜːkəmstəns/          条件,情况 n
+extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
+accomplishment      /əˈkʌmplɪʃmənt/     实现(功能落地、开发实现) n
+(at) minimum        /ˈmɪnɪməm/          最小值 n/最小的 adj/最低,至少 adv
+spotlight       /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 v
+quarter         /ˈkwɔːtə(r)/            季度
+bypass      /ˈbaɪpɑːs/          绕过，避开 v
+traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
+persist/persistent      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj
 boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升、增强 v/强化、加固 v
 Accuracy/Precise        /prɪˈsaɪs/            准确性 n/精确的 adj
 Tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
 start up(issues occurs when starting up the backend project)     /ˈstɑːt ʌp/      启动(服务/项目专用)
 Comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
 whole/entire            全部的,整个的 adj
-overview/overall/comprehensive    /ˌkɒmprɪˈhensɪv/    概述 n,v/总的,全面的 adj,adv/综合性的，全面的 adj
+overview/overall/comprehensive    /ˌkɒmprɪˈhensɪv/    概述 n,v/总的,全面的 adj,adv/综合性的,全面的 adj
 Contingency (measure)         /kənˈtɪndʒənsi/         应急措施,可能发生的事 n
 Protocol/terms            /ˈprəʊtəkɒl/            规范、协议 n/条款 n
 Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
@@ -40,7 +49,7 @@ reusable        /riːˈjuːzəb(ə)l/       可重复使用的,可以再度使�
 bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
 reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
-retrieve/search/query/retrieval     /rɪˈtriːvl/         检索 v/n
+retrieve/search/query/retrieval/retrievable     /rɪˈtriːvl/         检索 v/n/可检索的 adj
 blueprint       /ˈbluːprɪnt/        方案、蓝图 n
 alongside/with       /əˌlɒŋˈsaɪd/        连同、搭配 prep
 immediately/at once/right now(away)/straight away       /streɪt əˈweɪ/         立刻,马上
@@ -114,7 +123,6 @@ paste (here)       /peɪst/         粘贴 v
 scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 urge        /ɜːdʒ/            敦促,催促 v
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
-edge case/scenario          /edʒ/               极端,边界场景
 Obtain/gain/get                  /əbˈteɪn/   得到,获得
 Redundant               /rɪˈdʌndənt/        多余的 adj
 shown                   /ʃəʊn/
@@ -138,7 +146,9 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
-Remember/Don't forget
+Cluster/Grid            集群 n
+please/kindly
+Remember/Don't forget/kind(gentle/a warm) reminder      记得做sth
 To be precise/More accurately/Strictly speaking     准确来说/严格,严谨的说
 Focus/focus on          重点 n/专注于 v
 swap/switch/replace             替换、切换 v
@@ -244,14 +254,32 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-anything urgent             紧急事项 n
+
+
+
+actor       操作主体 n
+underway            在进行中的 adj
+gradually           逐渐地,逐步地 adv
+User Access Review          用户访问权限审核
 outcome         结果 n
+end-to-end          端对端的 adj/adv
+built-in                内置的 adj
+on your calendar            你的日程
+ahead           在前的,提前的,未来的,即将到来的 adj
+including at minimum            至少包含 n
+identifier              标识符 n
+audit/auditable           审计 v,n/可审计的 adj
+last            最后的,最近的 adj/持续 v
+exceed              超过，超出 v
+subset              子集 n
+respect             遵循,尊敬 v/尊敬 n
+anything urgent             紧急事项 n
 Deadline/due date            截止日期 n
 open(to do) item                   待处理事项 n
-target/Objective               目的，目标 n
+target/Objective               目的,目标 n
 Responsible owners          负责人
 work together           协同配合
-draft                                   起草，草拟 v/草稿 n
+draft                                   起草,草拟 v/草稿 n
 (Estimated) Duration      (预估的)持续时间 n
 Phase           阶段 n
 simply/just/exclusively                          仅仅/只、仅仅,排他地、独有地 adv
@@ -684,18 +712,7 @@ From Concepts to Implementation         从概念到落地实施
 To avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 stick to the original plan            坚持 v
 (all services) are up and running       系统正常运行、服务就绪
-
-
-
-
-
-
-
-
-
-
-
-
+multiple staff’s requests within a single submission
 
 
 
