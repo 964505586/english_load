@@ -25,24 +25,39 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+illustrate      /ˈɪləstreɪt/        说明，阐明 v
+seek/sought/seeking     /sɔːt/      寻找；寻求 v
+Stability/Scalability/maintenance/Maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
+arise/arose     /əˈraɪz/ /əˈrəʊz/        产生，出现 v
+note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
+initiate        /ɪˈnɪʃieɪt/        发起 v
+aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
+(Related) Parties/participant   /pɑːˈtɪsɪpənt/    当事方,参与方,聚会,派对(相关方) n/参加者，参与者 n
+middleware      /ˈmɪdlweə(r)/       中间件 n
+contextual      /kənˈtekstʃuəl/     场景相关的 adj
+simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简、优化 v
+inquire     /ɪnˈkwaɪə(r)/       询问 v
+fallback/contingency (measure)  /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
+loop sb in/looping Jack in for visibility/Awareness     /luːp/     把sb拉进圈子/让Jack参与进来
+Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏，不足,缺陷 n
+Mobilize/Coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
 circumstance            /ˈsɜːkəmstəns/          条件,情况 n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
-accomplishment      /əˈkʌmplɪʃmənt/     实现(功能落地、开发实现) n
+accomplishment      /əˈkʌmplɪʃmənt/     实现(功能落地,开发实现) n
 (at) minimum        /ˈmɪnɪməm/          最小值 n/最小的 adj/最低,至少 adv
 spotlight       /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 v
 quarter         /ˈkwɔːtə(r)/            季度
-bypass      /ˈbaɪpɑːs/          绕过，避开 v
+bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
 persist/persistent      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj
-boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升、增强 v/强化、加固 v
-Accuracy/Precise        /prɪˈsaɪs/            准确性 n/精确的 adj
+boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
+Accuracy/Precise        /ˈækjərəsi/ /prɪˈsaɪs/      准确性 n/精确的 adj
 Tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
 start up(issues occurs when starting up the backend project)     /ˈstɑːt ʌp/      启动(服务/项目专用)
 Comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
 whole/entire            全部的,整个的 adj
 overview/overall/comprehensive    /ˌkɒmprɪˈhensɪv/    概述 n,v/总的,全面的 adj,adv/综合性的,全面的 adj
-Contingency (measure)         /kənˈtɪndʒənsi/         应急措施,可能发生的事 n
-Protocol/terms            /ˈprəʊtəkɒl/            规范、协议 n/条款 n
+Protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
 Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 reusable        /riːˈjuːzəb(ə)l/       可重复使用的,可以再度使用的 adj
@@ -50,15 +65,15 @@ bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
 reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
 retrieve/search/query/retrieval/retrievable     /rɪˈtriːvl/         检索 v/n/可检索的 adj
-blueprint       /ˈbluːprɪnt/        方案、蓝图 n
-alongside/with       /əˌlɒŋˈsaɪd/        连同、搭配 prep
+blueprint       /ˈbluːprɪnt/        方案,蓝图 n
+alongside/with       /əˌlɒŋˈsaɪd/        连同,搭配 prep
 immediately/at once/right now(away)/straight away       /streɪt əˈweɪ/         立刻,马上
-upon/on (success/failure/completion/receipt)    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
+upon n(success/failure/completion/receipt)/once adj/句子    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
 Receive/receipt         /rɪˈsiːt/           获得,得到,收到 v/接收 n
 (system) entry/front door       /ˈentri/        系统入口 n
 attendee            /əˌtenˈdiː/         出席者,在场者
 reliable        /rɪˈlaɪəb(ə)l/          可靠的,可信赖的 adj
-Facilitate/push              /fəˈsɪlɪteɪt/       促进,推动,使更容易 v
+Facilitate/push/could you please help push the matter   /fəˈsɪlɪteɪt/       促进,推动,使更容易 v/帮忙推动这事
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
 Revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
 Meeting recap/minutes       /ˈriːkæp/         会议总结,概要(简版)/会议纪要,记录(完整版) n
@@ -81,7 +96,7 @@ Compile     /kəmˈpaɪl/         编译,编制 v
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 lag/delay/Postpone/Postponing       /pəˈspəʊn/      延迟,滞后/推迟,延缓 v/n
-conduct/keep monitoring Closely     /kənˈdʌkt/         实施,进行密切监控 v
+conduct/keep monitoring Closely     /kənˈdʌkt/         实施,进行 密切监控 v
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
 Pose a minor risk       /pəʊz/          造成,引起 v
 Casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
@@ -91,7 +106,7 @@ pros and cons       /prəʊz/ /kɒnz/      利弊
 merits and demerits     /ˈmerɪts/       优劣
 failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败
 Figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
-leverage        /ˈliːvərɪdʒ/            利用 v
+leverage/leverage Spring Boot to simplify development   /ˈliːvərɪdʒ/    利用 v/利用Spring Boot来简化开发
 snipaste
 Hallucination           /həˌluːsɪˈneɪʃ(ə)n/         幻觉,幻想,错觉 n
 supplement          /ˈsʌplɪmənt/              补充,增加,增补 v
@@ -106,7 +121,6 @@ stare/stares/stared/staring             /ˈsteərɪŋ/             凝视,盯着
 Multiple                    /ˈmʌltɪp(ə)l/
 linkage                     /ˈlɪŋkɪdʒ/          联系 n
 Parallel/Parallelly/In parallel(In the meanwhile)             /ɪn ˈpærəlel/                 平行的,并行的 adj/adv
-Accuracy                /ˈækjərəsi/         准确性 n
 Withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
 Majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
@@ -146,12 +160,15 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+(in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
+Proceed/conduct/perform/performance         继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
+commit to/promise(make a promise)      承诺 v
 Cluster/Grid            集群 n
 please/kindly
 Remember/Don't forget/kind(gentle/a warm) reminder      记得做sth
 To be precise/More accurately/Strictly speaking     准确来说/严格,严谨的说
 Focus/focus on          重点 n/专注于 v
-swap/switch/replace             替换、切换 v
+swap/switch/replace             替换,切换 v
 engage/Engagement/working                      参与,投入 v/参与度,投入度
 split/Divide/Separate/Separately            拆分/均分/分离 v/单独的,独立的,分开的 adj,分别地 adv
 isolate/Quarantine              隔离,孤立 v/隔离 v/n
@@ -257,6 +274,20 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+Feasible/Feasibility                可行的 adj/可行性 n
+somewhat            稍微,有点 adv
+maintain                            保持,维持,维护 v
+Clarify/Clarity                         澄清,阐明,明确 v/清晰 n
+role                角色；作用，职责 n
+indicate/indicator            表明,指出 v/指标 n
+while       同时,然而,当...时候
+the following day           第二天,翌日 n
+in place of         代替
+be in place         已就绪,配置到位
+given n/that/time                    鉴于,考虑到.../给定的时间
+LHS/RHS         left/right-hand side 左手边
+presence        出席 n
+Suspect/Suspicious         怀疑 v/感到怀疑的,可疑的 adj
 actor       操作主体 n
 underway            在进行中的 adj
 gradually           逐渐地,逐步地 adv
@@ -270,7 +301,7 @@ including at minimum            至少包含 n
 identifier              标识符 n
 audit/auditable           审计 v,n/可审计的 adj
 last            最后的,最近的 adj/持续 v
-exceed              超过，超出 v
+exceed              超过,超出 v
 subset              子集 n
 respect             遵循,尊敬 v/尊敬 n
 anything urgent             紧急事项 n
@@ -282,18 +313,17 @@ work together           协同配合
 draft                                   起草,草拟 v/草稿 n
 (Estimated) Duration      (预估的)持续时间 n
 Phase           阶段 n
-simply/just/exclusively                          仅仅/只、仅仅,排他地、独有地 adv
+simply/just/exclusively                          仅仅/只,仅仅,排他地,独有地 adv
 visibility      可见性,能见度 n
 rolling restart     滚动重启 n
 1H/2H 2026/achievements     2026下半年/上半年成绩
 achievement             成绩,成就 n
-in practice         在实践中,实际上
 highlight           突出,强调 v
 lower           降低,减少 v
 compete/competed/competing       竞争 v
 improving context       优化上下文
-implement           落地、部署 n
-disconnected            割裂的、零散的 adj
+implement           落地,部署 n
+disconnected            割裂的,零散的 adj
 session         课程场次,会议 n
 Specify/Specified/Specification/specific/specifically           指定 v/规定,指定的 adj/规格说明 n/明确地,具体地,特定的 adj/adv
 unblock (delivery)            扫清阻碍,解除阻塞 v/扫清交付卡点
@@ -305,9 +335,7 @@ go live                 上线 v
 Align/alignment                  对齐 v/n
 Foundational            基础的,基本的 adj
 (core) concept       (核心)概念 n
-practical                       实用的,针对性的,真实的,实际的 adj
 Outline                 概述,简述 v
-Feasible/Feasibility                可行的 adj/可行性 n
 Sequence diagram                时序图,顺序图 n
 violate/Violation               违反,违背,触犯 v/违规 n
 usage-based billing model       按使用量的计费模式
@@ -332,17 +360,14 @@ Distribute/Distribution/Distributed locks          分发,分配 v/n    分布�
 terminate/terminal      终止 v    终端 adj/n
 OpCo        operating company       运营公司 n
 Terms of reference      职权范围 n
-aim/aimed       旨在 v
 Federated       联邦的 adj
 data Ingestion          数据接入,摄取 n
 map/mapped/mapping         地图,映射 n/映射 v
 (work) handover item/content/object            工作交接/交接项,内容,对象 n
 continued               持续的 adj
-perform/performance         开展,执行,表演,演出 v/性能,表演,表现 n
 inaccessible            不可及的 adj
 user base           用户群
 Retrospective           追溯性,回顾的 adj
-(Related) Parties             当事方,参与方,聚会,派对/相关方 n
 Caution/With some caution             小心,谨慎 n/谨慎地 adv
 precaution             预防措施 n
 almost              几乎,差不多
@@ -373,7 +398,6 @@ only               唯一的 adj
 queue               排队 v
 Time-saving/consuming           耗时的/省时的 adj
 per                     每,每一,按照,根据
-simplify                    使简易,简化 v
 reverse                     相反的 adj
 range                       处于...之间 v
 guide           指导,引导 v/指南 n
@@ -382,7 +406,6 @@ familiar            熟悉的 adj
 email chain             邮件往来
 saving              节约,节省 n/节约的,节省的 adj
 (The risk of) human error             人为失误
-Coordinate          协调,配合 v
 deliver                提供,交付 v
 Existing                 现有的 adj
 sort                整理,分类,排序 v
@@ -393,7 +416,6 @@ Accumulated             累积的 adj
 relatively (complex)                             相当地,相对地(复杂) adv
 problematic code            有问题的代码
 Utilize(Utilise 英式)                 利用,使用 v
-Suspicious              感到怀疑的,可疑的 adj
 succeed             成功 v
 by default          默认情况下 adv
 in use      在使用中 adv
@@ -410,7 +432,6 @@ anyway          总之,反正
 Hold on            等一下,坚持住
 The current conclusion          目前的结论/现阶段结论
 Acknowledge/Acknowledged                         承认,感谢 v
-Suspect 句子         怀疑 v
 Assume              假设 v(主观认定)
 (if) suppose that                       假设
 be supposed to do                       应该做sth
@@ -449,7 +470,7 @@ I know about this           我知道这件事
 I'm aware of this           我了解这件事
 How/Why/What is it?              怎么样/为什么/这是什么
 (so Can i understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
-this is just(simply) my personal perspective            这仅仅是我个人的看法。
+this is just/simply my personal perspective            这仅仅是我个人的看法。
 will it work？
 not sure if John will join the call？            不确定托尼是否会参加这次通话？
 In that case, I think everything will be fine/all right     既然如此,我觉得一切都会顺利的
@@ -547,7 +568,7 @@ at any time/moment(feel free to)                      随时
 at least/most/best/worst                至少/至多/顶多/最坏
 at (exactly) that moment                          就在那一刻/恰恰就在那一刻
 When did your last restart?                     你上次重启是啥时候？
-proceed with sth(release)               继续做某事,开始推进某事
+Proceed with sign-off/production release            继续做某事,开始推进某事
 If program works well/as expected(all tests pass)      如果逻辑运行正常
 As a short/long-term solution               作为 短期/长期 方案
 Has your part of this change been released/deployed to prod env ?       你的那部分发布到生产环境了吗？
@@ -574,7 +595,6 @@ In the first/second iteration(for loop)                 在第一次循环中
 We need your team's support to keep pressing the CA team for the CE upgrade, as it has been out of service for two years now
 You may prioritize other ticket for now/you may work on other tickets first         可以优先做其他ticket
 We're (just) counting on you               我们就靠你了(指望)
-We leverage Spring Boot to simplify development         我们利用Spring Boot来简化开发
 We utilize asynchronous tasks to improve performance        我们利用异步任务来提升性能
 Could you have(help take) a look at this?             你能看一下xxx吗？
 When in doubt, use the reboot trick!             遇事不决,重启大法
@@ -600,7 +620,6 @@ about/around 数字/时间                     大约,大概,左右
 Troubleshooting is ongoing. No ETA for resolution has been confirmed at this time(Troubleshooting ongoing, no ETA yet)           问题正在排查中,目前暂未确认解决时间
 self-check link or tools                自查链接或工具
 It will be a time-consuming effort For all of us            对我们所有人,都是一项耗时的工作
-could you please help push the matter？          您能否帮忙推动这事呢
 Further updates will be shared as progress is made          有进展后会同步更多更新
 Better to save this link as a bookmark—you'll use it often              最好保存书签,你会经常用的
 Applicable to this scenario only                只适用于该场景
@@ -664,12 +683,9 @@ If the error persists/if still same error(the same error still occurs)          
 if error has not been resolved              如果错误尚未得到解决
 What id did you use             你用的是什么id？
 We're on it            我们正在处理
-given n/that                    鉴于,考虑到...
-looping Jack in for visibility/Awareness            让Jack参与进来
 or What would be the next step          接下来该怎么做呢
 Seeking the next step           等待下一步指示
 Rescheduling the slot to accommodate the UK team member, as the current slot overlaps/conflicts with their lunch hour           重新安排时间以容纳英国团队成员,因为当前的时间安排与他们的午餐时间有冲突/重叠
-Proceed with sign-off(production release)
 Please find all the details below
 There will be downtime around 1 to 2 hours required to complete the patching activity from pre-check and post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
 So that you can (better) understand the Project (more)          以至于你能更好地理解这个项目
@@ -711,8 +727,16 @@ enablement and adoption sessions            赋能培训 & 落地推广会议
 From Concepts to Implementation         从概念到落地实施
 To avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 stick to the original plan            坚持 v
-(all services) are up and running       系统正常运行、服务就绪
+(all services) are up and running       系统正常运行,服务就绪
 multiple staff’s requests within a single submission
+I didn’t catch your last sentence/understand what you said at the end   没听懂你最后一句话
+in turn/Service A calls B, which in turn queries DB     继而,进而(插入性状语)/服务A调B，B继而去查询DB
+without doing sth       不做sth
+主句 with n doing     其中某人补充说明一件事，用来附带补充,拆分主次
+
+
+
+
 
 
 
@@ -728,6 +752,20 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+
+
+
+other than      而不是
+rather than     代替,而不是
+instead of      除...以外(except)
+
+consists of/The plan consists of two phases         由...组成
+made up of                                  由...组成
+be composed of                              由...组成
+
+defect/strength                     缺陷,bug,缺点/长处,优势,体力,力量, n
+weak/strong point                                      弱点/优点
+advantage/disadvantage                          优点,优势 n/有利于,有助于 v
 
 Enhancement/Enhance (feature)         增强 v/n
 Optimization/boost/strengthen/improve/Optimize (performance)       优化 v/n
