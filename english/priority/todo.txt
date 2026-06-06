@@ -24,20 +24,21 @@ For all of us               /fɔː(r) ɔːl əv əs/
 Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
+
 Pronunciation
-illustrate      /ˈɪləstreɪt/        说明，阐明 v
-seek/sought/seeking     /sɔːt/      寻找；寻求 v
+illustrate/state/statement      /ˈɪləstreɪt/        说明，阐明 v/陈述，说明 v/n
+seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找；寻求 v
 Stability/Scalability/maintenance/Maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
 arise/arose     /əˈraɪz/ /əˈrəʊz/        产生，出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
 initiate        /ɪˈnɪʃieɪt/        发起 v
 aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
-(Related) Parties/participant   /pɑːˈtɪsɪpənt/    当事方,参与方,聚会,派对(相关方) n/参加者，参与者 n
+attendee/participant/(Related) Parties      /pɑːˈtɪsɪpənt/ /əˌtenˈdiː/      出席者,在场者/参加者，参与者 n/当事方,参与方,聚会,派对(相关方) n
 middleware      /ˈmɪdlweə(r)/       中间件 n
 contextual      /kənˈtekstʃuəl/     场景相关的 adj
 simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简、优化 v
 inquire     /ɪnˈkwaɪə(r)/       询问 v
-fallback/contingency (measure)  /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
+fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     把sb拉进圈子/让Jack参与进来
 Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏，不足,缺陷 n
 Mobilize/Coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
@@ -71,7 +72,6 @@ immediately/at once/right now(away)/straight away       /streɪt əˈweɪ/      
 upon n(success/failure/completion/receipt)/once adj/句子    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
 Receive/receipt         /rɪˈsiːt/           获得,得到,收到 v/接收 n
 (system) entry/front door       /ˈentri/        系统入口 n
-attendee            /əˌtenˈdiː/         出席者,在场者
 reliable        /rɪˈlaɪəb(ə)l/          可靠的,可信赖的 adj
 Facilitate/push/could you please help push the matter   /fəˈsɪlɪteɪt/       促进,推动,使更容易 v/帮忙推动这事
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
@@ -165,11 +165,11 @@ Proceed/conduct/perform/performance         继续,行进 v/实施,进行 v/开�
 commit to/promise(make a promise)      承诺 v
 Cluster/Grid            集群 n
 please/kindly
-Remember/Don't forget/kind(gentle/a warm) reminder      记得做sth
+Remember/Don't forget/kind(gentle/a warm) reminder to      记得做sth
 To be precise/More accurately/Strictly speaking     准确来说/严格,严谨的说
 Focus/focus on          重点 n/专注于 v
-swap/switch/replace             替换,切换 v
-engage/Engagement/working                      参与,投入 v/参与度,投入度
+swap/switch/replace     /swɒp/      替换,切换 v
+engage/Engagement/working                      参与,投入 v/参与度,投入度 n
 split/Divide/Separate/Separately            拆分/均分/分离 v/单独的,独立的,分开的 adj,分别地 adv
 isolate/Quarantine              隔离,孤立 v/隔离 v/n
 As much/early as possible                   尽可能 多/早
@@ -734,6 +734,11 @@ in turn/Service A calls B, which in turn queries DB     继而,进而(插入性�
 without doing sth       不做sth
 主句 with n doing     其中某人补充说明一件事，用来附带补充,拆分主次
 
+
+
+
+
+illustrate  /??l?stre?t/说明，阐明 v
 
 
 
