@@ -28,23 +28,23 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 Pronunciation
 Alternatively(or)/Alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 expedite/accelerate/speed up        /spiːd ʌp/        加快
-(in the) interim        /ˈɪntərɪm/     过渡期，中间期 n
+(in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
 Meeting recap/minutes       /ˈriːkæp/         会议总结,概要(简版)/会议纪要,记录(完整版) n/将sth写进会议记录 v
-illustrate/state/statement      /ˈɪləstreɪt/        说明，阐明 v/陈述，说明 v/n
+illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找；寻求 v
 Stability/Scalability/maintenance/Maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
-arise/arose     /əˈraɪz/ /əˈrəʊz/        产生，出现 v
+arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
 initiate        /ɪˈnɪʃieɪt/        发起 v
 aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
-attendee/participant/(Related) Parties      /pɑːˈtɪsɪpənt/ /əˌtenˈdiː/      出席者,在场者/参加者，参与者 n/当事方,参与方,聚会,派对(相关方) n
+attendee/participant/(Related) Parties      /pɑːˈtɪsɪpənt/ /əˌtenˈdiː/      出席者,在场者/参加者,参与者 n/当事方,参与方,聚会,派对(相关方) n
 middleware      /ˈmɪdlweə(r)/       中间件 n
 contextual      /kənˈtekstʃuəl/     场景相关的 adj
 simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v
 inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     把sb拉进圈子/让Jack参与进来
-Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏，不足,缺陷 n
+Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
 Mobilize/Coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
 circumstance            /ˈsɜːkəmstəns/          条件,情况 n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
@@ -163,7 +163,7 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
-pending/ongoing/in progress        待定的，待处理的/仍在进行的 adj
+pending/ongoing/in progress        待定的,待处理的/仍在进行的 adj
 a row/column filter         行/列 筛选器
 monitored/an External monitor       受监控的 adj/外接显示器 n
 continuous/continuously(in a row)       连续地,持续不断地 adj/adv
@@ -284,7 +284,7 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-instead     代替，顶替，反而 adv
+instead     代替,顶替,反而 adv
 email chain             邮件往来记录,邮件链 n
 codebase            代码库 n
 snippet         小片；片断	 n
@@ -295,7 +295,7 @@ Feasible/Feasibility                可行的 adj/可行性 n
 somewhat            稍微,有点 adv
 maintain                            保持,维持,维护 v
 Clarify/Clarity                         澄清,阐明,明确 v/清晰 n
-role                角色；作用，职责 n
+role                角色；作用,职责 n
 indicate/indicator            表明,指出 v/指标 n
 while       同时,然而,当...时候
 the following day           第二天,翌日 n
@@ -474,7 +474,7 @@ If everything goes well         如果一切顺利
 Maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
 Let's extract an extra method for the piece of code             让我们为这段代码添加一个额外的方法
-Let's pause(hold on) here. For the introduction and process I mentioned previously. Is there any question? alright, let's move on          让我们在此暂停一下(稍等)。对于我之前提到的介绍和流程部分。有什么问题吗？
+Let's pause(hold on) here. For the introduction and process I mentioned previously. Is there any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
 Why/How did you navigate to(land on) that page?         您是如何访问(到达)那个页面的？
 My pleasure
 These two fields are reversed                这两个字段的值颠倒了
@@ -486,7 +486,7 @@ I know about this           我知道这件事
 I'm aware of this           我了解这件事
 How/Why/What is it?              怎么样/为什么/这是什么
 (so Can i understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
-this is just/simply my personal perspective            这仅仅是我个人的看法。
+this is just/simply my personal perspective            这仅仅是我个人的看法
 will it work？
 not sure if John will join the call？            不确定托尼是否会参加这次通话？
 In that case, I think everything will be fine/all right     既然如此,我觉得一切都会顺利的
@@ -520,9 +520,9 @@ Could you tell me who I should contact?         你可以告诉我应该联系�
 Out of the scope                    超出范围
 this has never been done before        以前从没人干过
 Data discrepancy conclusion                     数据差异结论
-Develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an ES index             编写一个脚本来识别特定索引中的数据差异。如果发现差异,将结论保存到ES索引中
+Develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an ES index             编写一个脚本来识别特定索引中的数据差异如果发现差异,将结论保存到ES索引中
 This is an automatically generated notification from Confluence             这是Confluence自动生成的通知
-I'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline         我正在准备为 Spark 项目创建一个示例。完成后,我会制定详细的时间表
+I'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline         我正在准备为 Spark 项目创建一个示例完成后,我会制定详细的时间表
 Whose responsibility is it？                 这是谁的责任？
 Actually, it's afternoon in China               实际上,中国现在是下午
 What time do you start work in the morning          你早上几点开始工作
@@ -531,7 +531,7 @@ The issue had always existed. However, it wasn't discovered before              
 This problem was caused while developing backend feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
 Adjust/Modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
 As (we) discussed (with Jack)                   正如我与Jack所讨论的那样
-Please help check the email draft, i'm preparing to send to kevin and Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明。
+Please help check the email draft, i'm preparing to send to kevin and Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明
 Everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
 sth be Pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
@@ -542,7 +542,7 @@ Just add a space anywhere (you like)                    随便添加个空格
 This field is not editable                  此字段不可编辑
 Set the field to uneditable
 I have 2 tickets (which are) assigned to me/there are 2 tickets assigned to me      有两张票分给我了
-feel free to join the call or skip as you prefer                自由选择加入或者跳过,随您喜好。
+feel free to join the call or skip as you prefer                自由选择加入或者跳过,随您喜好
 I see/get/know/understand what you mean                         我明白您的意思
 I believe i understand your point          我想我明白你的意思了
 we are talking about the same issue?                            我们说的是一个问题？
@@ -576,7 +576,7 @@ At 17:00 hours
 at a time               一次
 (This is) a recurring error/issue               反复出现的 adj
 I'm a Java developer, but since there isn't much Java work in our team right now, I sometimes also take on big data tasks               我是Java开发,但我们团队目前没有太多Java的工作,所以我有时也会做一些大数据相关的任务
-We have (encountered) a new issue currently. Jack needs to modify the code in backend to fix it. I've added relevant comments in the ticket           目前我们遇到了一个新的问题。Jack需要修改backend的代码来解决这个问题。我在工单中添加了相关的comment
+We have (encountered) a new issue currently. Jack needs to modify the code in backend to fix it. I've added relevant comments in the ticket           目前我们遇到了一个新的问题Jack需要修改backend的代码来解决这个问题我在工单中添加了相关的comment
 The day before yesterday                前天
 The day after tomorrow                  后天
 the week after next week                下下周
@@ -683,7 +683,7 @@ In either of these columns          在这两列中的任意一列里
 It will be considered (as) a failure                它会被视为失败
 For your convenience, answers to frequently asked questions can be found here           为方便您查阅,常见问题解答可在此查看
 Especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
-Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我。若无疑问,烦请确认并签字审批
+Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我若无疑问,烦请确认并签字审批
 It shouldn't ideally have any impact               理想情况,它不应产生任何影响
 For reference only/This is for informational purposes only          此内容仅供参考
 I think it may not be so straightforward                            我觉得这事可能没那么简单
@@ -745,12 +745,17 @@ stick to the original plan            坚持 v
 (all services) are up and running       系统正常运行,服务就绪
 multiple staff’s requests within a single submission
 I didn’t catch your last sentence/understand what you said at the end   没听懂你最后一句话
-in turn/Service A calls B, which in turn queries DB     继而,进而(插入性状语)/服务A调B，B继而去查询DB
+in turn/Service A calls B, which in turn queries DB     继而,进而(插入性状语)/服务A调B,B继而去查询DB
 without doing sth       不做sth
-主句 with n doing     其中某人补充说明一件事，用来附带补充,拆分主次
+主句 with n doing     其中某人补充说明一件事,用来附带补充,拆分主次
 too ... to/Jack has been too busy to send any emails        太什么...以至于不能
-As much as I would like to go, I have insufficient capacity     虽然我很想去，但我实在分身乏术
+As much as I would like to go, I have insufficient capacity     虽然我很想去,但我实在分身乏术
 Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
+
+
+
+
+
 
 
 
@@ -833,7 +838,7 @@ I wonder 句子(if/疑问词)                 想知道(随口)
 I'm wondering 句子         我现在在想
 i've been wondering 句子               我一直在想(从过去到现在)
 
-You said before that we should do it. Do you remember           你之前说我们应该这么做。你还记得吗？
+You said before that we should do it. Do you remember           你之前说我们应该这么做你还记得吗？
 (regarding) The process I mentioned earlier                     关于之前提到的
 as(like) Jack said/mentioned/proposed before/earlier, it's a business issue               正如Jack之前 说的/提到的/提议,提出(暗示他不仅说了,还给出了观点或方案)
 
