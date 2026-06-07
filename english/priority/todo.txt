@@ -26,6 +26,10 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+product/production/produce      /ˈprɒdʌkt/      产品 n/生产 n/生产 v,农产品 n
+Proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
+swap/switch/replace     /swɒp/      替换,切换 v
+isolate/Quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
 decent      /ˈdiːsnt/      像样的 adj
 Compile     /kəmˈpaɪl/         编译,编制 v
 quartermaster info      /ˈkwɔːtəmɑːstə(r)/          统筹,后勤信息
@@ -102,7 +106,6 @@ purge       /pɜːdʒ/           清除 v
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 lag/delay/Postpone/Postponing       /pəˈspəʊn/      延迟,滞后/推迟,延缓 v/n
-conduct/keep monitoring Closely     /kənˈdʌkt/         实施,进行 密切监控 v
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
 Pose a minor risk       /pəʊz/          造成,引起 v
 Casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
@@ -166,6 +169,7 @@ preRequisite            先决条件,必备条件 n/adj
 
 Replace:
 
+conduct/keep monitoring Closely              实施,进行 密切监控 v
 I will be off/away/on leave next week           下周我将请假
 prepare(organize/sort out) document/put together documentation       整理文档
 Proceed with(carry on) sign-off/production release            继续做,接着推进 v
@@ -174,19 +178,15 @@ a row/column filter         行/列 筛选器
 monitored/an External monitor       受监控的 adj/外接显示器 n
 continuous/continuously(in a row)       连续地,持续不断地 adj/adv
 (in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
-Proceed/conduct/perform/performance         继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
 commit to/promise(make a promise)      承诺 v
 Cluster/Grid            集群 n
 please/kindly
 Remember/Don't forget/kind(gentle/a warm) reminder to      记得做sth
 To be precise/More accurately/Strictly speaking     准确来说/严格,严谨的说
 Focus/focus on          重点 n/专注于 v
-swap/switch/replace     /swɒp/      替换,切换 v
 engage/Engagement/working                      参与,投入 v/参与度,投入度 n
 split/Divide/Separate/Separately            拆分/均分/分离 v/单独的,独立的,分开的 adj,分别地 adv
-isolate/Quarantine              隔离,孤立 v/隔离 v/n
 As much/early as possible                   尽可能 多/早
-product/production/produce                 产品 n/生产 n/生产 v,农产品 n
 workday/working/Business Days               工作日 n
 in the coming/upcoming months/years                    在未来几个月/年
 Subsequent/Follow-up/next (step/actions)             随后的,接着的 adj/后续的 adj/后续行动
@@ -760,6 +760,10 @@ without doing sth       不做sth
 too ... to/Jack has been too busy to send any emails        太什么...以至于不能
 As much as I would like to go, I have insufficient capacity     虽然我很想去,但我实在分身乏术
 Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
+
+
+
+
 
 
 
