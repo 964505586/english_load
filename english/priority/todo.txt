@@ -26,6 +26,10 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+Alternatively(or)/Alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
+expedite/accelerate/speed up        /spiːd ʌp/        加快
+(in the) interim        /ˈɪntərɪm/     过渡期，中间期 n
+Meeting recap/minutes       /ˈriːkæp/         会议总结,概要(简版)/会议纪要,记录(完整版) n/将sth写进会议记录 v
 illustrate/state/statement      /ˈɪləstreɪt/        说明，阐明 v/陈述，说明 v/n
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找；寻求 v
 Stability/Scalability/maintenance/Maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
@@ -36,7 +40,7 @@ aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
 attendee/participant/(Related) Parties      /pɑːˈtɪsɪpənt/ /əˌtenˈdiː/      出席者,在场者/参加者，参与者 n/当事方,参与方,聚会,派对(相关方) n
 middleware      /ˈmɪdlweə(r)/       中间件 n
 contextual      /kənˈtekstʃuəl/     场景相关的 adj
-simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简、优化 v
+simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v
 inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     把sb拉进圈子/让Jack参与进来
@@ -76,7 +80,6 @@ reliable        /rɪˈlaɪəb(ə)l/          可靠的,可信赖的 adj
 Facilitate/push/could you please help push the matter   /fəˈsɪlɪteɪt/       促进,推动,使更容易 v/帮忙推动这事
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
 Revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
-Meeting recap/minutes       /ˈriːkæp/         会议总结,概要(简版)/会议纪要,记录(完整版) n
 Preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 usage       /ˈjuːsɪdʒ/       使用量 n
@@ -160,6 +163,10 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+pending/ongoing/in progress        待定的，待处理的/仍在进行的 adj
+a row/column filter         行/列 筛选器
+monitored/an External monitor       受监控的 adj/外接显示器 n
+continuous/continuously(in a row)       连续地,持续不断地 adj/adv
 (in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
 Proceed/conduct/perform/performance         继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
 commit to/promise(make a promise)      承诺 v
@@ -176,7 +183,6 @@ As much/early as possible                   尽可能 多/早
 product/production/produce                 产品 n/生产 n/生产 v,农产品 n
 workday/working/Business Days               工作日 n
 in the coming/upcoming months/years                    在未来几个月/年
-Alternatively(or)/Alternative (solution)            或者,要不 adv/可替代的,备选的 adj/替代物 n/替代方案
 Subsequent/Follow-up/next (step/actions)             随后的,接着的 adj/后续的 adj/后续行动
 underlying/low-level/foundation code                底层代码 n
 Approach/method                 方式,靠近,接近/方法 v
@@ -228,7 +234,6 @@ Make a code change(Change code)                  做一次代码修改(正式)
 leave/left
 in fact/To be honest/frank(Actually) (with sb)
 Purpose/destination                     有意,打算 v/目的 n
-ongoing(in progress)        仍在进行的 adj
 tips/tricks/recommendations/Kind(A warm) reminder                 小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
 remediate/Investigate/fix              补救,修复 v
 fetch/extract/read             获取,拉取 v/提取,抽取 v
@@ -274,6 +279,18 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+
+
+
+instead     代替，顶替，反而 adv
+email chain             邮件往来记录,邮件链 n
+codebase            代码库 n
+snippet         小片；片断	 n
+datapoint           数据点 n
+re-platform         平台重构,系统迁移 n
+building block       基础模块,核心组件,积木块 n
 Feasible/Feasibility                可行的 adj/可行性 n
 somewhat            稍微,有点 adv
 maintain                            保持,维持,维护 v
@@ -378,7 +395,7 @@ introduce                   引进,引入 v
 chase/chased/chasing       跟进,催促 v
 logical             合情合理的,合乎逻辑的 adj
 Modernization
-workload/capacity                    工作量,工作负荷/产能 n
+workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
 real-time/in real time                 实时的 adj/adv
 Address                 解决,处理 v
 In detail           详细地 adv
@@ -403,7 +420,6 @@ range                       处于...之间 v
 guide           指导,引导 v/指南 n
 rework      返工 v/n
 familiar            熟悉的 adj
-email chain             邮件往来
 saving              节约,节省 n/节约的,节省的 adj
 (The risk of) human error             人为失误
 deliver                提供,交付 v
@@ -718,7 +734,6 @@ I'll meet Jack offline           线下会面
 I am writing to             我写信是为了
 The first three are             前三个是
 This is to notify (you) that ...            特此通知 ...
-depends on their current capacity/workload             取决于他们当前的 产能/工作量 n
 retry up to 3 times on failure              失败时最多重试3次
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
 table onboarding may be delayed for a month or even longer          数据接入可能延期一个月或更久
@@ -733,12 +748,12 @@ I didn’t catch your last sentence/understand what you said at the end   没听
 in turn/Service A calls B, which in turn queries DB     继而,进而(插入性状语)/服务A调B，B继而去查询DB
 without doing sth       不做sth
 主句 with n doing     其中某人补充说明一件事，用来附带补充,拆分主次
+too ... to/Jack has been too busy to send any emails        太什么...以至于不能
+As much as I would like to go, I have insufficient capacity     虽然我很想去，但我实在分身乏术
+Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
 
 
 
-
-
-illustrate  /??l?stre?t/说明，阐明 v
 
 
 

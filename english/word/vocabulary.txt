@@ -107,7 +107,6 @@ consequently                因此,结果 adv
 considerate         体贴的,考虑周到的 adj
 contain            包含
 content         满足,满意,内容 n     满足的,满意的 adj         使满意,使满足 v
-continuously(in a row)                    连续地 adv
 core                            核心 n
 correctly                           正确地 adv
 cost performance                        性价比
