@@ -26,6 +26,10 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+decent      /ˈdiːsnt/      像样的 adj
+Compile     /kəmˈpaɪl/         编译,编制 v
+quartermaster info      /ˈkwɔːtəmɑːstə(r)/          统筹,后勤信息
+manage (to)/I managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/我成功解决了这个问题
 Alternatively(or)/Alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 expedite/accelerate/speed up        /spiːd ʌp/        加快
 (in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
@@ -95,7 +99,6 @@ user info exposure/expose/exposed/exposing      /ɪkˈspəʊʒə(r)/ /ɪkˈspə�
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 fill in      /fɪl ɪn/             填写 v
 purge       /pɜːdʒ/           清除 v
-Compile     /kəmˈpaɪl/         编译,编制 v
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 lag/delay/Postpone/Postponing       /pəˈspəʊn/      延迟,滞后/推迟,延缓 v/n
@@ -127,7 +130,6 @@ Parallel/Parallelly/In parallel(In the meanwhile)             /ɪn ˈpærəlel/ 
 Withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
 Majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
-manage          /ˈmænɪdʒ/       设法做到,管理
 bother          /ˈbɒðə(r)/      打扰
 Statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
 approximately/around/about           /əˈprɒksɪmətli/           大约,大概 adv
@@ -163,6 +165,10 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+
+I will be off/away/on leave next week           下周我将请假
+prepare(organize/sort out) document/put together documentation       整理文档
+Proceed with(carry on) sign-off/production release            继续做,接着推进 v
 pending/ongoing/in progress        待定的,待处理的/仍在进行的 adj
 a row/column filter         行/列 筛选器
 monitored/an External monitor       受监控的 adj/外接显示器 n
@@ -284,6 +290,11 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+final bit of work           收尾工作 n
+slide           幻灯片,PPT
+close down           收尾,完成 v
 instead     代替,顶替,反而 adv
 email chain             邮件往来记录,邮件链 n
 codebase            代码库 n
@@ -584,7 +595,6 @@ at any time/moment(feel free to)                      随时
 at least/most/best/worst                至少/至多/顶多/最坏
 at (exactly) that moment                          就在那一刻/恰恰就在那一刻
 When did your last restart?                     你上次重启是啥时候？
-Proceed with sign-off/production release            继续做某事,开始推进某事
 If program works well/as expected(all tests pass)      如果逻辑运行正常
 As a short/long-term solution               作为 短期/长期 方案
 Has your part of this change been released/deployed to prod env ?       你的那部分发布到生产环境了吗？
@@ -649,7 +659,6 @@ They’re not doing their jobs                他们没在干活,没履行职责
 Please release after 16:00 cutoff batch         请在16:00后进行release
 This change involves lots of underlying code            这改动涉及大量底层代码
 The contact person from SAS team                SAS团队的联系人
-I managed to solve the problem          我成功解决了这个问题
 Sorry to keep bothering you         很抱歉一次次打扰你
 There's no good solution (on this)           没什么好办法
 Same old problem, Jenkins is constantly unstable                    还是老问题,Jenkins 一直不稳定
@@ -751,13 +760,6 @@ without doing sth       不做sth
 too ... to/Jack has been too busy to send any emails        太什么...以至于不能
 As much as I would like to go, I have insufficient capacity     虽然我很想去,但我实在分身乏术
 Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
-
-
-
-
-
-
-
 
 
 
