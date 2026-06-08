@@ -26,6 +26,8 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+prolong     /prəˈlɒŋ/         延长 v
+Crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
 product/production/produce      /ˈprɒdʌkt/      产品 n/生产 n/生产 v,农产品 n
 Proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
 swap/switch/replace     /swɒp/      替换,切换 v
@@ -168,7 +170,10 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
-
+balance exercise            平衡考量、折中方案 n
+tidy/tidier/tidiest         整洁的 adj
+Conclude/Conclusion                 得出结论,敲定,结束 v/结论 n
+refine/Refinery          细化,优化,改进 v/细化,精修,优化 n
 conduct/keep monitoring Closely              实施,进行 密切监控 v
 I will be off/away/on leave next week           下周我将请假
 prepare(organize/sort out) document/put together documentation       整理文档
@@ -292,6 +297,7 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+please bear with us(our upstream team)          请耐心等待,请多包涵
 final bit of work           收尾工作 n
 slide           幻灯片,PPT
 close down           收尾,完成 v
@@ -353,7 +359,7 @@ improving context       优化上下文
 implement           落地,部署 n
 disconnected            割裂的,零散的 adj
 session         课程场次,会议 n
-Specify/Specified/Specification/specific/specifically           指定 v/规定,指定的 adj/规格说明 n/明确地,具体地,特定的 adj/adv
+Specify/Specified/Specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确地,具体地,特定的(特意) adj/adv
 unblock (delivery)            扫清阻碍,解除阻塞 v/扫清交付卡点
 forward             向前,今后 adv/向前的 adj/转交 v
 map/maps/mapped/mapping         地图,分布图,映射 v
@@ -413,7 +419,6 @@ In detail           详细地 adv
 oversee                     统筹,监督 v
 take/took/taken
 Frequently asked questions(FAQ/FAQs)            常见问题
-Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
 direct/directly/indirect/indirectly                  直接的/间接的
 programmatically                通过编程方式 adv
 miss                错过,想念 v
@@ -760,6 +765,13 @@ without doing sth       不做sth
 too ... to/Jack has been too busy to send any emails        太什么...以至于不能
 As much as I would like to go, I have insufficient capacity     虽然我很想去,但我实在分身乏术
 Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
+My backend won't start. will see if your local can connect to the pre-prod env and run normally?
+Can your local connect to pre-prod env and start the project ? will see if same issue
+The backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
+Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
+
+
+
 
 
 

@@ -28,7 +28,6 @@ initial             最初的
 emphasize                   强调 v
 find                 查收 v
 Fraud                 欺诈 n
-Conclude/Conclusion                 结束,结论 v/n
 confuse/Confusion               使困惑,使混乱 v/困惑,混乱 n
 Commercial                      商业的 adj
 insert          插入 v
@@ -44,7 +43,6 @@ buddy                           伙伴 n
 Classify/Classical                      分类,归类 v/经典的 adj
 Concise                     简洁的
 Confidential                  机密的 adj
-Crash                       崩溃 n
 Critical                    关键的,严重的 adj
 Data set                    数据集 n
 Deny/denied                  否定 v
@@ -156,6 +154,7 @@ Abnormal                反常的 adj
 precondition            前置条件,前提状态 n
 radio/checkbox (button)                           单选/复选框 n
 Transform               使转化 v
+Segmentation fault         段错误
 
 
 
