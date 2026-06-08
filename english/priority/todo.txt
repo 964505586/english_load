@@ -26,6 +26,7 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong     /prəˈlɒŋ/         延长 v
 Crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
 product/production/produce      /ˈprɒdʌkt/      产品 n/生产 n/生产 v,农产品 n
@@ -171,17 +172,17 @@ preRequisite            先决条件,必备条件 n/adj
 
 Replace:
 balance exercise            平衡考量、折中方案 n
-tidy/tidier/tidiest         整洁的 adj
 Conclude/Conclusion                 得出结论,敲定,结束 v/结论 n
 refine/Refinery          细化,优化,改进 v/细化,精修,优化 n
 conduct/keep monitoring Closely              实施,进行 密切监控 v
 I will be off/away/on leave next week           下周我将请假
 prepare(organize/sort out) document/put together documentation       整理文档
 Proceed with(carry on) sign-off/production release            继续做,接着推进 v
-pending/ongoing/in progress        待定的,待处理的/仍在进行的 adj
+pending/TBD         待定的,待处理的 adj
+ongoing/in progress         在进行的 adj
 a row/column filter         行/列 筛选器
 monitored/an External monitor       受监控的 adj/外接显示器 n
-continuous/continuously(in a row)       连续地,持续不断地 adj/adv
+continuous/continuously(in a row)       持续的，连续不断的 adj/连续不断地 adv
 (in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
 commit to/promise(make a promise)      承诺 v
 Cluster/Grid            集群 n
@@ -769,6 +770,7 @@ My backend won't start. will see if your local can connect to the pre-prod env a
 Can your local connect to pre-prod env and start the project ? will see if same issue
 The backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
 Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
+
 
 
 
