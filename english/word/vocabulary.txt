@@ -1,6 +1,5 @@
 Citizenship                                     公民身份 n
 abandoned                   被抛弃的,废弃的 adj/抛弃,遗弃 v
-ability                 能力 n
 absolutely                      绝对地,完全地 adv
 absorb                              吸收 v
 accessible                                  平易近人的 adj
@@ -145,7 +144,6 @@ dormitory    宿舍
 double                      两倍的 adj/adv/n       加倍 v
 dramatically                            明显地,剧烈地,夸张地 adv
 duplicate/duplication                               复制 v/adj/重复 n
-dynamic                 充满活力的 adj/动力,活力 n
 early/earlier/earliest                          早的/更早的/最早的 adj/adv
 ease                                            减轻,缓和 v
 eased                                           放松的 adj
@@ -257,7 +255,6 @@ highly                          极其,钦佩地,赞赏地,高度地,高水平�
 hold/held 举行
 holiday                     假日 n                度假 v
 horizon                     眼界
-host                    主人 n            主办,做东 v
 housing fund                        住房公积金
 humorous                        幽默的
 hurriedly(in a hurry)                      匆忙地 adv
@@ -388,8 +385,6 @@ pay sb back in his own coin          以其人之道还其人之身
 payment/Prepayment                             支付款项,支付额,付款,支付 n/预付款 n
 peer                                    同行 n
 pension                         养老金,退休金 n
-percent                                         百分之... n/adj
-percentage                                      百分比,百分率 n
 perhaps 可能
 period                  一段时间,时期 n
 permit                                  批准,许可 v
@@ -413,7 +408,6 @@ prescription                处方 n
 prescriptive                    规定的,指定的 adj
 pretend                         伪装,假装 v
 prevent    阻止
-privacy                             隐私 n
 probably 大概,可能
 professional    专业的 adj
 proficiency                                     熟练,精通 n

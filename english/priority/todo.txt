@@ -26,6 +26,13 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+(It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
+privacy         /ˈprɪvəsi/          隐私 n
+conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
+no matter what/who/whether ...(Irrespective of whether A or B)  /ˌɪrɪˈspektɪv/  不考虑,不顾 adj
+Probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
+probability/Possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
+capability/capabilities/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/能力 n
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong     /prəˈlɒŋ/         延长 v
 Crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
@@ -42,7 +49,7 @@ expedite/accelerate/speed up        /spiːd ʌp/        加快
 (in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
 Meeting recap/minutes       /ˈriːkæp/         会议总结,概要(简版)/会议纪要,记录(完整版) n/将sth写进会议记录 v
 illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
-seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找；寻求 v
+seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
 Stability/Scalability/maintenance/Maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
 arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
@@ -171,6 +178,9 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+dynamic/Static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
+percent/percentage          百分之... n/adj/adv/百分比,百分率 n
+tap/click               点(移动/PC端)
 balance exercise            平衡考量、折中方案 n
 Conclude/Conclusion                 得出结论,敲定,结束 v/结论 n
 refine/Refinery          细化,优化,改进 v/细化,精修,优化 n
@@ -182,7 +192,7 @@ pending/TBD         待定的,待处理的 adj
 ongoing/in progress         在进行的 adj
 a row/column filter         行/列 筛选器
 monitored/an External monitor       受监控的 adj/外接显示器 n
-continuous/continuously(in a row)       持续的，连续不断的 adj/连续不断地 adv
+continuous/continuously(in a row)       持续的,连续不断的 adj/连续不断地 adv
 (in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
 commit to/promise(make a promise)      承诺 v
 Cluster/Grid            集群 n
@@ -293,11 +303,10 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-
-
-
-
-
+sort                整理,分类,排序,解决 v
+recommended learning path           推荐学习路线 n
+junk            垃圾
+host/hosted/hosting             主办,举行,做东 v/主人,主持人 n
 please bear with us(our upstream team)          请耐心等待,请多包涵
 final bit of work           收尾工作 n
 slide           幻灯片,PPT
@@ -305,7 +314,7 @@ close down           收尾,完成 v
 instead     代替,顶替,反而 adv
 email chain             邮件往来记录,邮件链 n
 codebase            代码库 n
-snippet         小片；片断	 n
+snippet         小片,片断	 n
 datapoint           数据点 n
 re-platform         平台重构,系统迁移 n
 building block       基础模块,核心组件,积木块 n
@@ -313,7 +322,7 @@ Feasible/Feasibility                可行的 adj/可行性 n
 somewhat            稍微,有点 adv
 maintain                            保持,维持,维护 v
 Clarify/Clarity                         澄清,阐明,明确 v/清晰 n
-role                角色；作用,职责 n
+role                角色,作用,职责 n
 indicate/indicator            表明,指出 v/指标 n
 while       同时,然而,当...时候
 the following day           第二天,翌日 n
@@ -406,7 +415,6 @@ Retrospective           追溯性,回顾的 adj
 Caution/With some caution             小心,谨慎 n/谨慎地 adv
 precaution             预防措施 n
 almost              几乎,差不多
-likely/Unlikely              可能的,很可能/不太可能的,不大可能 adj/adv
 Regulatory Compliance/Compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
 freeze/freezes/froze/frozen         卡死,冻结,无响应
 introduce                   引进,引入 v
@@ -441,7 +449,6 @@ saving              节约,节省 n/节约的,节省的 adj
 (The risk of) human error             人为失误
 deliver                提供,交付 v
 Existing                 现有的 adj
-sort                整理,分类,排序 v
 Outdated                过时的 adj
 trick                   技巧,小妙招,小窍门
 sync(synchronize)           同步 v/n
@@ -463,7 +470,7 @@ symbol          象征,符号,标志 n
 whatever        无论什么
 anyway          总之,反正
 Hold on            等一下,坚持住
-The current conclusion          目前的结论/现阶段结论
+The current conclusion/Data discrepancy conclusion          目前的结论,现阶段结论/数据差异结论
 Acknowledge/Acknowledged                         承认,感谢 v
 Assume              假设 v(主观认定)
 (if) suppose that                       假设
@@ -536,7 +543,6 @@ Wait a minute. Let me quickly check the dictionary to see how to say it     我�
 Could you tell me who I should contact?         你可以告诉我应该联系谁吗？
 Out of the scope                    超出范围
 this has never been done before        以前从没人干过
-Data discrepancy conclusion                     数据差异结论
 Develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an ES index             编写一个脚本来识别特定索引中的数据差异如果发现差异,将结论保存到ES索引中
 This is an automatically generated notification from Confluence             这是Confluence自动生成的通知
 I'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline         我正在准备为 Spark 项目创建一个示例完成后,我会制定详细的时间表
@@ -572,8 +578,6 @@ Would like to clarify some points/details about backend with you
 I'd like to tell you something      我想告诉你一些事情
 I hardly ever use the method(command line) to operate Git          我几乎不用sth
 then talk to Jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟Jack说
-Probably the train              大概率是sth
-It probably won't work          大概率不行
 This is redundant               这是多余的
 still have one more day             还有一天呢
 Please verify if the issue also occurs in UAT(Also check the UAT env for the issue)        看下uat env有没有这个问题
@@ -687,7 +691,6 @@ as far as I know(can see)           据我所 知/见
 good/great/excellent question                   好问题
 If the issue can't be resolved Promptly/quickly, I'll raise a related ticket later          如果这问题不能迅速解决,我将会提交一个相关的工单
 (you just) follow suit with sth                    效仿sth(依葫芦画瓢)
-probably today(when target)
 It can make tracking much easier(It can be easier for the tracking of progress)             这能让追踪工作简单很多
 You're gonna say something else?                    你要说点别的?
 please kindly provide your sign-off             若无疑问,烦请确认签收/办结
@@ -770,6 +773,8 @@ My backend won't start. will see if your local can connect to the pre-prod env a
 Can your local connect to pre-prod env and start the project ? will see if same issue
 The backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
 Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
+Feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
+
 
 
 
@@ -799,6 +804,10 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+High probability of a conflict          冲突的可能性很高
+it's probably the same                              可能是一样的
+Probably the train/today(when target)              大概率是sth
+It probably won't work          大概率不行
 
 other than      而不是
 rather than     代替,而不是
