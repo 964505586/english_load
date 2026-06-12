@@ -38,7 +38,7 @@ attack                                  攻击 v
 attitude                                态度 n
 audience                                观众,听众 n
 automatic/automatically             自动的 adj/adv
-available/availability/unavailable/unavailability          adj/n           可用
+available/availability/unavailable/unavailability       adj/n       可用的 adj/可用性 n
 avoid                                   避免 v
 back-up                                 备份 n
 backward/backwards                      向后的 adj/adv

@@ -26,6 +26,20 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+snooze      /snuːz/     小睡，打盹儿,延后提醒 v/n
+Postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期，推迟 v)
+progressive         /prəˈɡresɪv/        逐步发生的，逐步发展的 adj
+rollout     /ˈrəʊlaʊt/         推广,试运行 n
+Nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
+register/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册，登记 v/注册,报名 v
+login/sign in       /saɪn ɪn/       登录 v
+log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出、退出 v
+logistics       /ləˈdʒɪstɪks/       运维、后勤资源 n
+cascade         /kæˈskeɪd/          逐级下发,连续传递 v
+attest      /əˈtest/      证明，表明,确认，作证，承诺遵守 v
+guardrail   /ˈɡɑːdreɪl/       管控规则，约束条款,护栏；栏杆 n
+solely      /ˈsəʊlli/       单独地，仅有地,仅仅，唯独 adv
+transit     /ˈtrænzɪt/          运输，运送 n
 (It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
 privacy         /ˈprɪvəsi/          隐私 n
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
@@ -34,7 +48,7 @@ Probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能
 probability/Possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
 capability/capabilities/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/能力 n
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
-prolong     /prəˈlɒŋ/         延长 v
+prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的，延长的 adj
 Crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
 product/production/produce      /ˈprɒdʌkt/      产品 n/生产 n/生产 v,农产品 n
 Proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
@@ -115,7 +129,6 @@ fill in      /fɪl ɪn/             填写 v
 purge       /pɜːdʒ/           清除 v
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
-lag/delay/Postpone/Postponing       /pəˈspəʊn/      延迟,滞后/推迟,延缓 v/n
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
 Pose a minor risk       /pəʊz/          造成,引起 v
 Casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
@@ -178,6 +191,11 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+
+
+
+
+lag/delay       延迟,推迟,延期 v/n
 dynamic/Static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
 tap/click               点(移动/PC端)
@@ -303,6 +321,13 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+progressive rollout         逐步部署,分阶段上线部署
+weekly          每周，每星期 adv
+driven by n     被n驱动,主导,制约
+revoke/revocation                 撤销 v/取消；撤回 n
+value                           价值,价值观 n
 sort                整理,分类,排序,解决 v
 recommended learning path           推荐学习路线 n
 junk            垃圾
@@ -776,19 +801,7 @@ Conduct Integration/Regression(performance and stress) testing         进行 �
 Feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+in line with n      遵照，符合
 
 
 

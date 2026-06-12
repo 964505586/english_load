@@ -35,7 +35,6 @@ stream                          小河,小溪
 study                           学业,研究 n/研究 v
 such                            像
 tire                            厌烦,累
-value                           价值
 consideration                   注意事项
 break                           出错 v
 keep                            老是 v
