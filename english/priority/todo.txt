@@ -26,20 +26,52 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
-snooze      /snuːz/     小睡，打盹儿,延后提醒 v/n
-Postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期，推迟 v)
-progressive         /prəˈɡresɪv/        逐步发生的，逐步发展的 adj
+
+undergo     /ˌʌndəˈɡəʊ/         经历,经受 v
+use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
+ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
+Principle       /ˈprɪnsəp(ə)l/           准则,原则 n
+fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
+bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
+emerging        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
+adhering        /ədˈhɪərɪŋ/         附着,粘附性的 adj
+anomalous       /əˈnɒmələs/         异常的,不规则的,不恰当的 adj
+enterprise      /ˈentəpraɪz/        企业,事业单位
+malicious       /məˈlɪʃəs/          恶意的 adj
+mechanism       /ˈmekənɪzəm/        机制,机械装置,机件 n
+destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
+removal     /rɪˈmuːv(ə)l/           移走,去掉,消除,清除 n
+interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
+prohibit/prohibited      /prəˈhɪbɪtɪd/       禁止,阻止 v
+resell/reselling        /ˌriːˈselɪŋ/        转售,转卖 v
+refrain from n      /rɪˈfreɪn/          克制、不执行 v
+commercialize/Commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商品化 v/商业的 adj
+vendor      /ˈvendə(r)/     供应商
+adhere          /ədˈhɪə(r)/
+disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
+commitment      /kəˈmɪtmənt/
+attestation     /ˌæteˈsteɪʃən/     证明,证据,证实 n
+Compliance/comply with n(obey)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
+obey/obedience(comply with)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v
+Applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
+progressive/gradually     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv
+circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
+alert/advisory/advisories/notification   /ədˈvaɪzəri/       警报 n/警告,通知 n
+compete/competed/competing      /kəmˈpiːt/       竞争 v/竞争的 adj
+Act     /ækt/     行动,恪守、行事遵从,表演,演出 v
+snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
+Postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
 Nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
-register/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册，登记 v/注册,报名 v
+register/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/注册,报名 v
 login/sign in       /saɪn ɪn/       登录 v
 log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出、退出 v
 logistics       /ləˈdʒɪstɪks/       运维、后勤资源 n
 cascade         /kæˈskeɪd/          逐级下发,连续传递 v
-attest      /əˈtest/      证明，表明,确认，作证，承诺遵守 v
-guardrail   /ˈɡɑːdreɪl/       管控规则，约束条款,护栏；栏杆 n
-solely      /ˈsəʊlli/       单独地，仅有地,仅仅，唯独 adv
-transit     /ˈtrænzɪt/          运输，运送 n
+attest      /əˈtest/      证明,表明,确认,作证,承诺遵守 v
+guardrail   /ˈɡɑːdreɪl/       管控规则,约束条款,护栏,栏杆 n
+solely      /ˈsəʊlli/       单独地,仅有地,仅仅,唯独 adv
+transit     /ˈtrænzɪt/          传输,运输,运送 n
 (It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
 privacy         /ˈprɪvəsi/          隐私 n
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
@@ -48,7 +80,7 @@ Probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能
 probability/Possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
 capability/capabilities/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/能力 n
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
-prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的，延长的 adj
+prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
 Crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
 product/production/produce      /ˈprɒdʌkt/      产品 n/生产 n/生产 v,农产品 n
 Proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
@@ -78,7 +110,6 @@ fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选�
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     把sb拉进圈子/让Jack参与进来
 Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
 Mobilize/Coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
-circumstance            /ˈsɜːkəmstəns/          条件,情况 n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
 accomplishment      /əˈkʌmplɪʃmənt/     实现(功能落地,开发实现) n
 (at) minimum        /ˈmɪnɪməm/          最小值 n/最小的 adj/最低,至少 adv
@@ -114,16 +145,14 @@ eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的
 Revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
 Preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
-usage       /ˈjuːsɪdʒ/       使用量 n
-undergo     /ˌʌndəˈɡəʊ/         经历,经受 v
 Suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 suppress/suppressed     /səˈpres/      镇压,压制,阻止 v/抑制的 adj
 Starting/effective 1 June 2026          自6月1日起
 Any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 point/dot/period      /ˈpɪriəd/         小数/网址,邮箱,文件名,IP/英文句末句号
 Represent/Representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
-sensitive data leakage/leak/leaked/leaking     /ˈliːkɪdʒ/      泄露 v/n
-user info exposure/expose/exposed/exposing      /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/          暴露 n
+sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
+user info exposure/expose/exposed/exposing(leak)      /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/          暴露,泄露 n
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 fill in      /fɪl ɪn/             填写 v
 purge       /pɜːdʒ/           清除 v
@@ -192,9 +221,16 @@ preRequisite            先决条件,必备条件 n/adj
 
 Replace:
 
-
-
-
+Developer Usage Acknowledgement         开发者使用 声明/承诺书
+sanction/sanctioned/unsanctioned    认可,准许,制裁,处罚 v/制裁,处罚,许可,批准/未获批的 adj
+Escalate/Escalation                 上报,升级 v
+cyber       网络的 adj
+pilot        试点的 adj
+notice/(outage) notification                 意识,注意 v/通知 n/断网,服务中断通知
+(express) license     执照，许可证 n/正式书面授权
+express/expression          明确的 adj/表达 v/n
+Third-party     第三方
+Regulatory Compliance/Compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
 lag/delay       延迟,推迟,延期 v/n
 dynamic/Static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
@@ -283,7 +319,7 @@ marked/highlighted part/area/Section/paragraph             高亮 部分/区域,
 occur/appear/happen
 as usual/planned/expected                       像往常一样/按计划/按预期
 In case of n(if)                万一n,在n情况下
-Consistent/Consistency(align)                  一致的 adj/一致性 n
+Consistency/Consistent/Consistently/align                  一致性 n/一致的 adj/adv
 Discrepancy/difference                 差异 n
 Obstacle(block v/n)                障碍,阻碍,困难 n
 Edition/version                     版本 n
@@ -324,9 +360,9 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 progressive rollout         逐步部署,分阶段上线部署
-weekly          每周，每星期 adv
+weekly          每周,每星期 adv
 driven by n     被n驱动,主导,制约
-revoke/revocation                 撤销 v/取消；撤回 n
+revoke/revocation                 撤销 v/取消,撤回 n
 value                           价值,价值观 n
 sort                整理,分类,排序,解决 v
 recommended learning path           推荐学习路线 n
@@ -351,15 +387,13 @@ role                角色,作用,职责 n
 indicate/indicator            表明,指出 v/指标 n
 while       同时,然而,当...时候
 the following day           第二天,翌日 n
-in place of         代替
+in place of n         代替
 be in place         已就绪,配置到位
 given n/that/time                    鉴于,考虑到.../给定的时间
 LHS/RHS         left/right-hand side 左手边
 presence        出席 n
 Suspect/Suspicious         怀疑 v/感到怀疑的,可疑的 adj
-actor       操作主体 n
 underway            在进行中的 adj
-gradually           逐渐地,逐步地 adv
 User Access Review          用户访问权限审核
 outcome         结果 n
 end-to-end          端对端的 adj/adv
@@ -389,7 +423,6 @@ rolling restart     滚动重启 n
 achievement             成绩,成就 n
 highlight           突出,强调 v
 lower           降低,减少 v
-compete/competed/competing       竞争 v
 improving context       优化上下文
 implement           落地,部署 n
 disconnected            割裂的,零散的 adj
@@ -411,10 +444,8 @@ usage-based billing model       按使用量的计费模式
 Review              查阅 v
 during the Maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
-outage notification         断网,服务中断通知
 Associated guidance     相关指引,配套说明
 Associate/Associated                       联系 v/相关的,关联的,配套的 adj
-use             使用,使用行为 n
 Measure         统计 v/统计,措施,办法 n
 alerts      通知 v/警报,告警 n
 flood       泛滥 n
@@ -440,7 +471,6 @@ Retrospective           追溯性,回顾的 adj
 Caution/With some caution             小心,谨慎 n/谨慎地 adv
 precaution             预防措施 n
 almost              几乎,差不多
-Regulatory Compliance/Compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
 freeze/freezes/froze/frozen         卡死,冻结,无响应
 introduce                   引进,引入 v
 chase/chased/chasing       跟进,催促 v
@@ -683,7 +713,6 @@ self-check link or tools                自查链接或工具
 It will be a time-consuming effort For all of us            对我们所有人,都是一项耗时的工作
 Further updates will be shared as progress is made          有进展后会同步更多更新
 Better to save this link as a bookmark—you'll use it often              最好保存书签,你会经常用的
-Applicable to this scenario only                只适用于该场景
 Do I need to refresh the page                   需要刷新页面吗？
 Hope it/this/that helps(Hope this clarifies)                 希望这有帮助/希望这能解释清楚
 just noticed that                   刚注意到
@@ -753,7 +782,6 @@ Outside the firewall                防火墙外
 Nice tip/learned a useful trick/That’s useful, learned something new
 Not too busy today              今天不太忙
 as shown above/below          如下所示
-relying on sb/sth              依靠,依赖
 To ensure its continued stability and performance       为确保其持续的稳定性和性能
 please address it at the earliest to avoid further escalation       请尽快处理此事,以免情况进一步恶化
 Make your work easier, faster and more effective        让您的工作变得更轻松,更快捷,更高效
@@ -799,9 +827,23 @@ Can your local connect to pre-prod env and start the project ? will see if same 
 The backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
 Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
 Feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
+sth be subject to       将会遭受、服从、有可能被
+sb suffer (from)        遭受,受苦(长期)
+in line with n(obey/comply with)      遵照,符合
+stay current with n         持续跟进更新n
+relying on sb/sth              依靠,依赖
 
 
-in line with n      遵照，符合
+
+
+
+
+
+
+
+
+
+
 
 
 

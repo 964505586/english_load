@@ -180,11 +180,8 @@ experiment                              实验 n
 expire                              到期,失效 v
 explain/explanation                 解释 v/n
 exploit                             剥削,压榨 v
-express/expression                  表达 v/n
 extra                                           额外的 adj
 eye-catching/eye-catcher                         引人注目的 adj/引人注目的东西 n
-facial expression                   面部表情
-fair                                    公平的,合理的,公正的 adj/adv
 fake                伪造的,虚假的 adj         假货,贋品 n         伪造,冒充,假装 v
 fantastic                   极好的 adj
 favour                              支持,帮忙,喜爱 n
@@ -435,7 +432,6 @@ relationship        关系 n
 relative                                亲戚 n/相对的,相比较而言的 adj
 relax    v 放松
 release             释放 v/n
-rely                                    相信,依赖 v
 repeat/repeated/repeatedly                     重复 v/重复地 adj/adv
 research                    研究 n/v
 reset                           调整,重新设置 v/n
@@ -465,7 +461,6 @@ shy                                 害羞的,腼腆的 adj
 sign in/up                                 登录 v/注册
 significant 重要的
 silently                            默默地,静静地 adv
-situation 情况
 skip                                    跳过 v
 smile (like)               微笑(像) v/n
 sneak                           偷偷地做 v

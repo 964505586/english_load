@@ -13,7 +13,6 @@ Decision/decide             决定 n/v
 Define/definition                  定义 v/n
 Conflict                    冲突 n/v
 Notebook            笔记本,笔记本电脑 n
-Scenario                 场景 n
 Sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n
 status(情况, state/states)
 such                这种
@@ -21,7 +20,6 @@ validate                 验证v
 restriction                  限制
 respond/response                 响应 v/n
 Proxy                 代理
-notice/notification                 意识,注意 v/通知 n
 indicator                 指标 n
 ingest                 摄取 v
 initial             最初的
@@ -29,7 +27,6 @@ emphasize                   强调 v
 find                 查收 v
 Fraud                 欺诈 n
 confuse/Confusion               使困惑,使混乱 v/困惑,混乱 n
-Commercial                      商业的 adj
 insert          插入 v
 fact                 事实 n
 
@@ -58,7 +55,6 @@ effective (action/measures)         有效的 adj
 efficiency                      效率 n
 Efficient/Inefficient                 高效的 adj/低效的
 Entity                 实体
-Escalate                 升级v
 Estimate                                        估计,判断,评价 v
 Exchange                 交换 v/n
 Extension                 扩展
@@ -119,7 +115,6 @@ Transparent                 透明的 adj
 uninstall                 卸载 v
 unzip                 解压 v
 up 向上
-Usage                   用途 n
 vulnerability                 漏洞 n
 willing                 愿意的,乐意的 adj
 particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
@@ -128,7 +123,6 @@ elementary problem                  低级问题
 explore/exploration             探索,探究,研究,排查 v/n
 Disable(enable)                 禁用,关闭,使失效/启用,开启 v
 Finalize/finalized                                    最终确定,敲定,完成 v
-Applicable              适用的,可应用的 adj
 Laptop              笔记本电脑 n
 Inherit                 继承 v
 Correct             纠错 v
@@ -142,7 +136,6 @@ Seek                    寻找 v
 annotation                                  注释 n
 Combine/combination                  结合,合并
 work out            制定,梳理,敲定
-suffer (from)                         遭受,受苦(长期)
 absent                      缺勤的,缺席的 adj
 (harsh) complaint/complaints n          (激烈)抱怨
 revisit             再访 v/n
@@ -153,6 +146,7 @@ precondition            前置条件,前提状态 n
 radio/checkbox (button)                           单选/复选框 n
 Transform               使转化 v
 Segmentation fault         段错误
+facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情
 
 
 
