@@ -46,7 +46,6 @@ bad luck                                        厄运
 bad/worse/worst                             坏的/更坏的/最坏的
 badly                                   恶劣的 adj
 balance                                     平衡,余额,余款 n           保持平衡 v
-ban             禁止 n/v
 base on                             基于
 beauty                          美丽,漂亮 n
 beginner                            初学者,新手 n
@@ -79,7 +78,6 @@ celebrate   庆祝
 central                             中央的,中心的 adj
 certain/certainly                 必然的,确定的
 certificate                         证书
-change/changeable                          变化 n/多变的 adj
 character               性格 n
 characteristic                          特征,特点 n
 charge              收费,承担责任 v
@@ -131,7 +129,7 @@ desire/desired                                  渴望,渴望的 n/v
 destination                             目的地 n/adj
 detailedly(in detail)            详细地 adv
 diet/dietary                            饮食/饮食的 n/adj
-direct 直接的      | dəˈrekt |
+direct 直接的      |dəˈrekt|
 disappoint/disappointed/disappointing                          使失望 v/失望的 adj/令人失望的 adj
 discover/discovery                    发现 v/n
 disease                         疾病 n    传染 v
@@ -289,13 +287,12 @@ intelligent                                     聪明的 adj
 intend                      打算 v
 interest        利息,兴趣 n         使感兴趣 v
 interview                           面试 v/n
-introvert               内向的 | vɜːt |
+introvert               内向的 |vɜːt|
 invite 邀请
 is far beyond               远远超出了
 jam             堵塞,拥挤 n             塞满,挤满 v
 joke                                笑话
 joy/rejoice                 欢欣,高兴 n/感到高兴,感到欣喜 v
-judge                       评判 v
 keep fighting                           继续战斗
 keep on                                 热衷于
 keep quiet
@@ -567,7 +564,7 @@ capitalist                 资本家 n
 prepare/preparation     准备 v/n
 mission                 使命 n
 Determine                  决定 v
-judge/Judgment                           判断,评价 v/判断 n
+judge/Judgment          评判,判断,评价 v/判断 n
 and then                    于是,然后
 
 

@@ -27,49 +27,43 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 Pronunciation
 
+
+guardrail   /ˈɡɑːdreɪl/       管控规则,约束条款,护栏,栏杆 n
+commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
+prohibit/prohibited/forbid/ban      /prəˈhɪbɪtɪd/ /bæn/       禁止,阻止 v/禁止 n/v(弱中强)
 undergo     /ˌʌndəˈɡəʊ/         经历,经受 v
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
 ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
 Principle       /ˈprɪnsəp(ə)l/           准则,原则 n
 fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
-bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
-emerging        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
-adhering        /ədˈhɪərɪŋ/         附着,粘附性的 adj
+(unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
+emerging/newly        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
 anomalous       /əˈnɒmələs/         异常的,不规则的,不恰当的 adj
-enterprise      /ˈentəpraɪz/        企业,事业单位
-malicious       /məˈlɪʃəs/          恶意的 adj
-mechanism       /ˈmekənɪzəm/        机制,机械装置,机件 n
+enterprise/Corporation/Company      /ˈentəpraɪz/        企业,事业单位
+malicious       /məˈlɪʃəs/          恶意的,恶毒的 adj
+mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备
 destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
 removal     /rɪˈmuːv(ə)l/           移走,去掉,消除,清除 n
 interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
-prohibit/prohibited      /prəˈhɪbɪtɪd/       禁止,阻止 v
 resell/reselling        /ˌriːˈselɪŋ/        转售,转卖 v
-refrain from n      /rɪˈfreɪn/          克制、不执行 v
+refrain from n      /rɪˈfreɪn/          克制,放弃,不执行 v
 commercialize/Commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商品化 v/商业的 adj
 vendor      /ˈvendə(r)/     供应商
-adhere          /ədˈhɪə(r)/
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
-commitment      /kəˈmɪtmənt/
-attestation     /ˌæteˈsteɪʃən/     证明,证据,证实 n
-Compliance/comply with n(obey)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
-obey/obedience(comply with)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v
 Applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
 progressive/gradually     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv
 circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
 alert/advisory/advisories/notification   /ədˈvaɪzəri/       警报 n/警告,通知 n
 compete/competed/competing      /kəmˈpiːt/       竞争 v/竞争的 adj
-Act     /ækt/     行动,恪守、行事遵从,表演,演出 v
 snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
 Postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
 Nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
 register/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/注册,报名 v
 login/sign in       /saɪn ɪn/       登录 v
-log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出、退出 v
-logistics       /ləˈdʒɪstɪks/       运维、后勤资源 n
+log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
+logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
 cascade         /kæˈskeɪd/          逐级下发,连续传递 v
-attest      /əˈtest/      证明,表明,确认,作证,承诺遵守 v
-guardrail   /ˈɡɑːdreɪl/       管控规则,约束条款,护栏,栏杆 n
 solely      /ˈsəʊlli/       单独地,仅有地,仅仅,唯独 adv
 transit     /ˈtrænzɪt/          传输,运输,运送 n
 (It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
@@ -149,10 +143,10 @@ Suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,�
 suppress/suppressed     /səˈpres/      镇压,压制,阻止 v/抑制的 adj
 Starting/effective 1 June 2026          自6月1日起
 Any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
-point/dot/period      /ˈpɪriəd/         小数/网址,邮箱,文件名,IP/英文句末句号
+point/dot/period      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP,.com/英文句末句号
 Represent/Representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
-user info exposure/expose/exposed/exposing(leak)      /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/          暴露,泄露 n
+(data) exposure/expose/exposed/exposingleak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 fill in      /fɪl ɪn/             填写 v
 purge       /pɜːdʒ/           清除 v
@@ -167,7 +161,7 @@ pros and cons       /prəʊz/ /kɒnz/      利弊
 merits and demerits     /ˈmerɪts/       优劣
 failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败
 Figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
-leverage/leverage Spring Boot to simplify development   /ˈliːvərɪdʒ/    利用 v/利用Spring Boot来简化开发
+leverage (Spring Boot to simplify development)   /ˈliːvərɪdʒ/    利用 v/利用Spring Boot来简化开发
 snipaste
 Hallucination           /həˌluːsɪˈneɪʃ(ə)n/         幻觉,幻想,错觉 n
 supplement          /ˈsʌplɪmənt/              补充,增加,增补 v
@@ -221,13 +215,16 @@ preRequisite            先决条件,必备条件 n/adj
 
 Replace:
 
-Developer Usage Acknowledgement         开发者使用 声明/承诺书
-sanction/sanctioned/unsanctioned    认可,准许,制裁,处罚 v/制裁,处罚,许可,批准/未获批的 adj
+contribute (to)/contribution         捐赠,为...做贡献 v/有助于,促成/贡献,捐款,捐助 n
+change/changeable                          变化,变更 n/多变的 adj
+in/on time/timely/Promptly/quickly        及时,按时/及时的,适时的 adj/及时地,迅速地 adv
+exceed/beyond              超过,超出 v
+sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
 Escalate/Escalation                 上报,升级 v
 cyber       网络的 adj
-pilot        试点的 adj
+pilot        试点的 adj/试点 n
 notice/(outage) notification                 意识,注意 v/通知 n/断网,服务中断通知
-(express) license     执照，许可证 n/正式书面授权
+(express) license     执照,许可证 n/正式书面授权
 express/expression          明确的 adj/表达 v/n
 Third-party     第三方
 Regulatory Compliance/Compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
@@ -235,7 +232,7 @@ lag/delay       延迟,推迟,延期 v/n
 dynamic/Static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
 tap/click               点(移动/PC端)
-balance exercise            平衡考量、折中方案 n
+balance exercise            平衡考量,折中方案 n
 Conclude/Conclusion                 得出结论,敲定,结束 v/结论 n
 refine/Refinery          细化,优化,改进 v/细化,精修,优化 n
 conduct/keep monitoring Closely              实施,进行 密切监控 v
@@ -324,7 +321,7 @@ Discrepancy/difference                 差异 n
 Obstacle(block v/n)                障碍,阻碍,困难 n
 Edition/version                     版本 n
 Perspective/view
-Integrate/Integration/merge            合并,成为一体
+Integrate/Integration/merge            集成,合并,成为一体 v/n
 may/can
 seem/look/sounds like good/fine
 Sufficient/Insufficient(Enough)                 足够的,充足的 adj/不足的,不够的 adj
@@ -359,6 +356,14 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+development         制定,完善,构建 n
+Developer Usage Acknowledgement         开发者使用 承诺书/声明
+My Role Reference Guide         岗位职责指引/参考手册
+best practice               最佳实践
+security practices          安全规范
+failure to comply           未遵守,违规,不遵守
 progressive rollout         逐步部署,分阶段上线部署
 weekly          每周,每星期 adv
 driven by n     被n驱动,主导,制约
@@ -404,7 +409,6 @@ including at minimum            至少包含 n
 identifier              标识符 n
 audit/auditable           审计 v,n/可审计的 adj
 last            最后的,最近的 adj/持续 v
-exceed              超过,超出 v
 subset              子集 n
 respect             遵循,尊敬 v/尊敬 n
 anything urgent             紧急事项 n
@@ -444,8 +448,7 @@ usage-based billing model       按使用量的计费模式
 Review              查阅 v
 during the Maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
-Associated guidance     相关指引,配套说明
-Associate/Associated                       联系 v/相关的,关联的,配套的 adj
+Associate/Associated (guidance)     联系 v/相关的,关联的,配套的 adj/相关指引,配套说明
 Measure         统计 v/统计,措施,办法 n
 alerts      通知 v/警报,告警 n
 flood       泛滥 n
@@ -497,7 +500,6 @@ Time-saving/consuming           耗时的/省时的 adj
 per                     每,每一,按照,根据
 reverse                     相反的 adj
 range                       处于...之间 v
-guide           指导,引导 v/指南 n
 rework      返工 v/n
 familiar            熟悉的 adj
 saving              节约,节省 n/节约的,节省的 adj
@@ -509,7 +511,7 @@ trick                   技巧,小妙招,小窍门
 sync(synchronize)           同步 v/n
 Accumulated             累积的 adj
 relatively (complex)                             相当地,相对地(复杂) adv
-problematic code            有问题的代码
+problematic (code)            有问题的 adj/有问题的代码
 Utilize(Utilise 英式)                 利用,使用 v
 succeed             成功 v
 by default          默认情况下 adv
@@ -526,7 +528,7 @@ whatever        无论什么
 anyway          总之,反正
 Hold on            等一下,坚持住
 The current conclusion/Data discrepancy conclusion          目前的结论,现阶段结论/数据差异结论
-Acknowledge/Acknowledged                         承认,感谢 v
+Acknowledge/Acknowledged                         认可,承认,感谢 v
 Assume              假设 v(主观认定)
 (if) suppose that                       假设
 be supposed to do                       应该做sth
@@ -569,7 +571,6 @@ this is just/simply my personal perspective            这仅仅是我个人的�
 will it work？
 not sure if John will join the call？            不确定托尼是否会参加这次通话？
 In that case, I think everything will be fine/all right     既然如此,我觉得一切都会顺利的
-The change will only take effect after the end date                 end_date后才生效
 You need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与HK保持一致
 Look/sounds like your situation is different(not same) from mine                看起来/听起来您的情况与我的情况不同
 No further error so far                     到目前为止没有再出现错误
@@ -663,7 +664,6 @@ When did your last restart?                     你上次重启是啥时候？
 If program works well/as expected(all tests pass)      如果逻辑运行正常
 As a short/long-term solution               作为 短期/长期 方案
 Has your part of this change been released/deployed to prod env ?       你的那部分发布到生产环境了吗？
-Potential a change at backend level         后端层面可能会有change
 Please follow the guide(follow it up)           请跟随这guide
 the issue might be a bit complicated            这问题可能有点复杂
 since it's a bit urgent            因为有点急
@@ -721,7 +721,6 @@ What does “VIP” stand for               VIP 代表什么？
 it stands for sth                    它代表 sth
 They’re not doing their jobs                他们没在干活,没履行职责
 Please release after 16:00 cutoff batch         请在16:00后进行release
-This change involves lots of underlying code            这改动涉及大量底层代码
 The contact person from SAS team                SAS团队的联系人
 Sorry to keep bothering you         很抱歉一次次打扰你
 There's no good solution (on this)           没什么好办法
@@ -735,7 +734,6 @@ When do we target to get this ready             我们预计啥时候能准备�
 I can't really pronounce those names            我实在无法正确地读出那些名字
 I ran the relevant scheduled job and obtained the latest batch of data this morning           我今早跑了相关的job,获取到最新的数据
 Just an example, no offense             就举个例子,无意冒犯
-This change might be problematic                这个改动可能有问题
 We need to find a long-term solution                我们需要找一个长期的解决方案
 Recommended that ...                        推荐...
 on the other hand/side             另一方面
@@ -748,8 +746,6 @@ If the issue can't be resolved Promptly/quickly, I'll raise a related ticket lat
 It can make tracking much easier(It can be easier for the tracking of progress)             这能让追踪工作简单很多
 You're gonna say something else?                    你要说点别的?
 please kindly provide your sign-off             若无疑问,烦请确认签收/办结
-The change is now taking effect. Going forward, please follow the new process           变更已即刻生效,后续请按新流程执行
-The change has been in effect since last Friday         这change自上周五就已经生效了
 If (there are) any of your tickets          如果你任何一张票
 In either of these columns          在这两列中的任意一列里
 It will be considered (as) a failure                它会被视为失败
@@ -827,18 +823,16 @@ Can your local connect to pre-prod env and start the project ? will see if same 
 The backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
 Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
 Feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
-sth be subject to       将会遭受、服从、有可能被
+sth be subject to n       将会遭受,服从,有可能被
 sb suffer (from)        遭受,受苦(长期)
-in line with n(obey/comply with)      遵照,符合
 stay current with n         持续跟进更新n
-relying on sb/sth              依靠,依赖
-
-
-
-
-
-
-
+rely/relying on sb/sth              依靠,依赖
+The change will only take effect after the end date                 end_date后才生效
+Potential a change at backend level         后端层面可能会有change
+This change involves lots of underlying code            这改动涉及大量底层代码
+This change might be problematic                这个改动可能有问题
+The change is now taking effect. Going forward, please follow the new process           变更已即刻生效,后续请按新流程执行
+The change has been in effect since last Friday         这change自上周五就已经生效了
 
 
 
@@ -858,6 +852,13 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+遵守
+Act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v
+attest (following guardrails)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明,确认,作证,承诺遵守 v/声明,证明,证据,证实 n
+Compliance/comply with n(obey)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
+obey/obedience(comply with)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v
+in line with enterprise's Principle(obey/comply with)      遵照,符合
+adhere/adhering (commitments made in this attestation)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 
 High probability of a conflict          冲突的可能性很高
 it's probably the same                              可能是一样的

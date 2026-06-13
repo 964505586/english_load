@@ -399,8 +399,8 @@ Equipment                   工厂设备
 Facility                 设施
 Device                  电子设备 n
 
-guide                       指南(全面,结构化的知识/流程)
-instruction                 指示(具体,步骤化的操作/要求)
+guide/guidance          指南 n(全面,结构化的知识/流程)/指导,引导 v/指导 n
+instruction             指示(具体,步骤化的操作/要求)
 
 about
 regarding                 正式
@@ -657,10 +657,8 @@ take place                              比赛,meeting(安排好举行,意料之
 debug (the code/function/program)
 troubleshooting             故障排查 n
 
-Promptly        及时地,迅速地 adv
-timely          及时的,适时的 adj
-in time            及时
-on time            按时
+
+
 
 before                  口语
 earlier                 中性
