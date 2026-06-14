@@ -26,8 +26,7 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
-
-
+Intend/Intended/Intentionally (locked down)    /ɪnˈtendɪd/     打算，想要 v/预期的,故意的,有意的 adj/故意地,有意地 adv/主动管控
 outline the task status/overview     /ˈaʊtlaɪn/      概述,简述 v
 discard/Dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
 participate/participant     /pɑːˈtɪsɪpeɪt/ /pɑːˈtɪsɪpənt/       参加,参与 v/参加者,参与者 n
@@ -165,7 +164,6 @@ closure     /ˈkləʊʒə(r)/        关闭 n
 Pose a minor risk       /pəʊz/          造成,引起 v
 Casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
 Syntax error        /ˈsɪntæks/      语法错误
-Intended        /ɪnˈtendɪd/         预期的,故意的,有意的  adj
 pros and cons       /prəʊz/ /kɒnz/      利弊
 merits and demerits     /ˈmerɪts/       优劣
 failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败
@@ -389,7 +387,6 @@ DoR         Definition of Ready 就绪准入标准
 ahead of(before) sth            在sth之前
 as of 2026/6/12     截至指定日期
 Access application process      权限申请流程 n
-Intentionally (locked down)         故意地,有意地 adv/主动管控
 fine-tune           精细调优 n/精细地,细微的 adj/调校,调整，调节 v
 control             控制 v/管控 n
 where (it's) appropriate       在合适的场景/情形下
