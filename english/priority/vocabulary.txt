@@ -20,9 +20,7 @@ validate                 验证v
 restriction                  限制
 respond/response                 响应 v/n
 Proxy                 代理
-indicator                 指标 n
 ingest                 摄取 v
-initial             最初的
 emphasize                   强调 v
 find                 查收 v
 Fraud                 欺诈 n
@@ -68,7 +66,6 @@ get rid of n                         摆脱sth
 gone                            消失
 hit                 匹配项 n
 incorporate                 合并 v
-Intentionally                       故意地,有意地 adv
 inventory                   详细目录 n
 land            登陆 v
 learn/learned(learnt 英式)           学习 v

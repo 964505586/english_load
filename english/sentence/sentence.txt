@@ -71,7 +71,6 @@ do harm to/for                                                                  
 do you feel happy                                   你感到快乐吗
 do you know the meaning of the word/sentence        你知道这个单词/句子的意思吗
 does it still hurt now?                                 现在还疼吗?
-don't bother (me)                                         不用麻烦,别烦我
 don't count on me                                       别指望我
 don't disturb                                       请勿打扰
 don't lose heart                                    不要灰心
@@ -225,7 +224,6 @@ so what(Who cares)?                                                 那又怎样
 so 助(do) I                                          我也一样
 some other time                                     改天把
 something is wrong with                             ...有问题
-stand for sth                                           代表sth
 sth be expected to do                               期望做sth
 sth be put off                                      sth被推迟
 sth go well with sth                                                        和...很搭

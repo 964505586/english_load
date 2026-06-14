@@ -59,7 +59,6 @@ blame                   责怪 v            责备 n
 boast                               吹牛
 bonus                               奖金 n
 both 双方
-bother                  使烦恼,使担心 v    麻烦 n
 breath/breathe              呼吸 n/v      |breθ|/|briːð|
 brightly                                明亮地 adv
 brilliant                       明亮的,鲜艳的 adj
@@ -365,7 +364,6 @@ out of breath                       喘不过气来,上气不接下气
 out of order                    不按顺序的
 outlook                                         看法,态度 n
 outside/outsides                     在外面 adv         外边的 adj
-outstanding                             杰出的,优秀的 adj
 over the moon               兴高采烈,欣喜若狂
 overdue                     到期的 adj
 own                                 有,拥有 v                  自己的 adj
@@ -453,7 +451,6 @@ self-introduction
 selfish                             自私的 adj
 sell/sold out            卖完
 share with sb
-shortly                             不久,很快 adv
 shy                                 害羞的,腼腆的 adj
 sign in/up                                 登录 v/注册
 significant 重要的
