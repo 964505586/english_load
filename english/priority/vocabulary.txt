@@ -43,7 +43,6 @@ Confidential                  机密的 adj
 Critical                    关键的,严重的 adj
 Data set                    数据集 n
 Deny/denied                  否定 v
-Dismiss                  摒弃
 Diagram                  图表 n
 Directly                    直接地 adv
 Disclose                  泄露,透漏v

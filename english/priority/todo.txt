@@ -95,7 +95,6 @@ arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
 initiate        /ɪˈnɪʃieɪt/        发起 v
 aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
-attendee/participant/(Related) Parties      /pɑːˈtɪsɪpənt/ /əˌtenˈdiː/      出席者,在场者/参加者,参与者 n/当事方,参与方,聚会,派对(相关方) n
 middleware      /ˈmɪdlweə(r)/       中间件 n
 contextual      /kənˈtekstʃuəl/     场景相关的 adj
 simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v
@@ -206,7 +205,7 @@ extra
 criteria                /kraɪˈtɪəriə/
 Auto-increment ID               递增 ID
 typology                        类型学,分类体系 n
-prioritize          /praɪˈɒrətaɪz/          优先处理,把… 放在优先位置 v
+prioritize/deprioritize/prioritize this now      /praɪˈɒrətaɪz/     优先处理,把sth放在优先位置 v/降低优先级别
 @       at
 preRequisite            先决条件,必备条件 n/adj
 
@@ -441,7 +440,6 @@ go live                 上线 v
 Align/alignment                  对齐 v/n
 Foundational            基础的,基本的 adj
 (core) concept       (核心)概念 n
-Outline                 概述,简述 v
 Sequence diagram                时序图,顺序图 n
 violate/Violation               违反,违背,触犯 v/违规 n
 usage-based billing model       按使用量的计费模式
@@ -674,7 +672,6 @@ Queue times are usually long in the normal channel          正常通道的排�
 long queue times are common          排队时间长是常见
 The key points are highlighted in yellow.               重点内容已用黄色标出
 Please check the part highlighted in yellow             请查看标黄部分
-I'll prioritize this now                    我将优先做这个
 Try to follow Jack's proposal               试下Jack的提议
 Let's use this data as input                用这数据作为输入
 We can categorize the changes above into two types       我们可以将上面changes归类为2种类型
@@ -777,7 +774,6 @@ Somehow, the job ran for over 24 hours          不知怎的,这job跑了超过2
 Outside the firewall                防火墙外
 Nice tip/learned a useful trick/That’s useful, learned something new
 Not too busy today              今天不太忙
-as shown above/below          如下所示
 To ensure its continued stability and performance       为确保其持续的稳定性和性能
 please address it at the earliest to avoid further escalation       请尽快处理此事,以免情况进一步恶化
 Make your work easier, faster and more effective        让您的工作变得更轻松,更快捷,更高效
@@ -837,6 +833,13 @@ The change has been in effect since last Friday         这change自上周五就
 
 
 
+outline the task status/overview     /ˈaʊtlaɪn/      概述,简述 v
+discard/Dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉，弃置 v/摒弃,开除，解雇；不考虑，不理会 v
+participate/participant     /pɑːˈtɪsɪpeɪt/ /pɑːˈtɪsɪpənt/       参加,参与 v/参加者,参与者 n
+attendee/(Related) Parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
+
+
+as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 
 
 
