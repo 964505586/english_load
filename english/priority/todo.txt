@@ -32,7 +32,7 @@ Plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编�
 Intend/Intended/Intentionally (locked down)    /ɪnˈtendɪd/     打算，想要 v/预期的,故意的,有意的 adj/故意地,有意地 adv/主动管控
 outline the task status/overview     /ˈaʊtlaɪn/      概述,简述 v
 discard/Dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
-participate/participant     /pɑːˈtɪsɪpeɪt/ /pɑːˈtɪsɪpənt/       参加,参与 v/参加者,参与者 n
+participate/participant     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n
 attendee/(Related) Parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
 concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可落地 adj
 initial/initiate/initiative     /ɪˈnɪʃieɪt/ /ɪˈnɪʃətɪv/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n
@@ -45,14 +45,14 @@ fellow      /ˈfeləʊ/              同类的，同伴的 adj
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 guardrail   /ˈɡɑːdreɪl/       管控规则,约束条款,护栏,栏杆 n
 commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
-undergo     /ˌʌndəˈɡəʊ/         经历,经受 v
+experience(好/坏/普通)/undergo(只接艰难、痛苦、漫长、被动承受的事)   /ˌʌndəˈɡəʊ/     经历,经受 v
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
 ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
 Principle       /ˈprɪnsəp(ə)l/           准则,原则 n
 fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
 (unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
 emerging/newly        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
-anomalous       /əˈnɒmələs/         异常的,不规则的,不恰当的 adj
+anomalous/abnormal       /əˈnɒmələs/         异常的,不规则的,不恰当的 adj
 enterprise/Corporation/Company      /ˈentəpraɪz/        企业,事业单位
 malicious       /məˈlɪʃəs/          恶意的,恶毒的 adj
 mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备
@@ -863,7 +863,6 @@ Don't hardcode plaintext passwords in source files
 禁止在源码文件硬编码明文密码
 Plaintext storage of passwords in code is prohibited
 严禁在代码中明文存储密码
-
 
 
 
