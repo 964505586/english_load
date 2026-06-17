@@ -89,7 +89,6 @@ Promotion                 晋升 n
 Recommend/recommendation                   建议,劝告,推荐 v/n
 reduce                 降低
 refactor                  重构 v
-register/registration                           登记,注册 v/n
 remediate/Remediation                   补救,修复 v/补救,纠正 n
 Responsibility                  责任 n
 rest                            余下的 n
