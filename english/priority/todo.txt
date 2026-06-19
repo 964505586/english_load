@@ -26,17 +26,18 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+transit/transition     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v/n
 partner     /ˈpɑːtnə(r)/        搭档 n
 Producer        /prəˈdjuːsə(r)/     生产者,产出方,提供方 n
-mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备
-throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及，到处；自始至终，贯穿整个时期 adv/prep
-demo/demonstrate/demonstrating       /ˈdemənstreɪt/          证明；示范，演示 v/n
+(retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
+throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及,到处,自始至终,贯穿整个时期 adv/prep
+demo/demonstrate/demonstrating       /ˈdemənstreɪt/          证明,示范,演示 v/n
 Semantic        /sɪˈmæntɪk/        语义的 adj
 thorough/overall        /ˈθɜːroʊ/       彻底的,全面的 adj
 consumption     /kənˈsʌmpʃ(ə)n/         调用,使用 n
 concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可落地 adj
 Subsequent/Follow-up/next (steps/actions)        /ˈsʌbsɪkwənt/       随后的,接着的 adj/后续的 adj/后续行动
-accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就，成绩(功能落地,开发实现) n/
+accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就,成绩(功能落地,开发实现) n/
 supply/supplement       /ˈsʌplɪmənt/     供应,提供 v/补充,增加,增补 v
 occur/Occurrence/reoccur/recurrence     /əˈkʌrəns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n
 govern/governed/governing/governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统治,支配,控制 adj/数据治理
@@ -71,7 +72,7 @@ destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
 removal     /rɪˈmuːv(ə)l/           移走,去掉,消除,清除 n
 interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
 resell/reselling        /ˌriːˈselɪŋ/        转售,转卖 v
-refrain from n      /rɪˈfreɪn/          克制,放弃,不执行 v
+refrain from n      /rɪˈfreɪn/          克制,杜绝,不得做某事,放弃,不执行 v
 commercialize/Commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商品化 v/商业的 adj
 vendor      /ˈvendə(r)/     供应商
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
@@ -90,7 +91,6 @@ log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
 cascade         /kæˈskeɪd/          逐级下发,连续传递 v
 solely      /ˈsəʊlli/       单独地,仅有地,仅仅,唯独 adv
-transit     /ˈtrænzɪt/          传输,运输,运送 n
 (It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
 privacy         /ˈprɪvəsi/          隐私 n
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
@@ -235,9 +235,9 @@ Replace:
 Architecture/framework                  架构/框架
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
-engineering     工程，工程学 n
-powerful            强大的，有影响力的 adj
-advance/advanced             使前进 v/前进 n/先进的；高级的，高等的；晚期的 adj
+engineering     工程,工程学 n
+powerful            强大的,有影响力的 adj
+advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 flag/report                给...做标记,上报,提报 v/标志,标记 n
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
 Foundational (branch)            基础的,基本的 adj
@@ -399,11 +399,11 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-
+adoption        采用，接受 n
 corrective (action)       纠正的,矫正的 adj/整改措施
 contain            包含,遏制 v
 key take-aways          会议核心要点,关键结论
-entry (prerequisite)       进入，加入 n/准入前置条件
+entry (prerequisite)       进入,加入 n/准入前置条件
 lead time           任务耗时,处理时长 n
 hands-on (guidance)     实操指导
 apply straight away     直接落地,立刻投入使用 v
@@ -509,7 +509,6 @@ alerts      通知 v/警报,告警 n
 flood       泛滥 n
 trigger     触发(器) v/n
 against         针对,面向,抵御,对照,对比,反对 v
-transition      过渡,转变 v/n
 Capture         采集,捕获,截取 v
 Alias name/Individual other name          别名/个人别名,曾用名 n
 Natural person              自然人 n
