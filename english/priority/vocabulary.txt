@@ -8,7 +8,6 @@ Chance                          机会 n
 Command                         命令 n
 Algorithm                       算法 n
 Alias                           别名 n
-Architecture                  架构
 Decision/decide             决定 n/v
 Define/definition                  定义 v/n
 Conflict                    冲突 n/v

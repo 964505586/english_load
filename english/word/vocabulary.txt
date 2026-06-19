@@ -8,7 +8,6 @@ accustom                            使习惯于,使适应于 v
 act as         扮演
 actual/actually         adj/adv
 actually not                                    实际上不是
-advance                                         使前进 v                       前进 n
 afterward/afterwards                      过后,后来 adv
 again and again                         一次又一次,反复地
 agreement                       协议,协定 n
@@ -101,7 +100,6 @@ congratulate/congratulation            祝贺 v/n
 conscience                              良心 n
 consequently                因此,结果 adv
 considerate         体贴的,考虑周到的 adj
-contain            包含
 content         满足,满意,内容 n     满足的,满意的 adj         使满意,使满足 v
 core                            核心 n
 correctly                           正确地 adv
@@ -178,14 +176,14 @@ explain/explanation                 解释 v/n
 exploit                             剥削,压榨 v
 extra                                           额外的 adj
 eye-catching/eye-catcher                         引人注目的 adj/引人注目的东西 n
-fake                伪造的,虚假的 adj         假货,贋品 n         伪造,冒充,假装 v
+fake                伪造的,虚假的 adj         假货,贋品 n/伪造,冒充,假装 v
 fantastic                   极好的 adj
 favour                              支持,帮忙,喜爱 n
-feedback                                        反馈意见 n
+feedback                反馈意见 n
 festival                        节日 n/adj
-fight                           与...作斗争 v        斗争 n
+fight                           与...作斗争 v/斗争 n
 financial                       财政的 adj
-fine                            令人满意的 adj           罚款 v/n
+fine                            令人满意的 adj/罚款 v/n
 fire-proof                      防火的
 firm                            稳固的,严厉的,坚硬的 adj
 firstly                         首先,第一
@@ -207,11 +205,11 @@ forgive                             原谅 v
 form v 形成 n 形式,表单
 formal/informal                  正式的,规范的,合法的 adj
 former                      以前的,旧时的
-fortunate/fortunately/unfortunately                       幸运的/不幸的 adj/adv
+fortunate/fortunately/unfortunately         幸运的/不幸的 adj/adv
 freedom 自由权
 from then on 从那时起
 from time to time 时不时地 adv
-fund                        基金 n            资助 v
+fund                        基金 n/资助 v
 future                                  未来 n/adj
 gas                     气体
 genetically                     基因地,遗传地 adv
@@ -424,7 +422,7 @@ regular/regularly                         定期地,有规律地 adj/adv
 relationship        关系 n
 relative                                亲戚 n/相对的,相比较而言的 adj
 relax    v 放松
-release             释放 v/n
+release/unlock             释放 v/n
 repeat/repeated/repeatedly                     重复 v/重复地 adj/adv
 research                    研究 n/v
 reset                           调整,重新设置 v/n
@@ -548,7 +546,6 @@ youth                                       青春 n
 convince                                    使确信,使信服 v
 virtual                                     虚拟的 adj
 executive                                   执行的 adj
-framework                                   框架
 specialized                                 专业的 adj
 tasty/yummy/delicious                   美味的
 on earth                究竟,到底(疑问句)
