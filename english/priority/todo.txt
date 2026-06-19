@@ -26,9 +26,11 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+recruit         /rɪˈkruːt/      招聘，招收,招募 v
+legitimate      /lɪˈdʒɪtɪmət/        合法合规的 adj
+raise funds     /fʌnd/         募资,融资
 transit/transition     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v/n
 partner     /ˈpɑːtnə(r)/        搭档 n
-Producer        /prəˈdjuːsə(r)/     生产者,产出方,提供方 n
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及,到处,自始至终,贯穿整个时期 adv/prep
 demo/demonstrate/demonstrating       /ˈdemənstreɪt/          证明,示范,演示 v/n
@@ -43,7 +45,7 @@ occur/Occurrence/reoccur/recurrence     /əˈkʌrəns/     发生,出现 v/出�
 govern/governed/governing/governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统治,支配,控制 adj/数据治理
 retriable        /rɪˈtraɪəbl/           可重试的 adj
 Plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编码 v
-Intend/Intended/Intentionally (locked down)    /ɪnˈtendɪd/     打算,想要 v/预期的,故意的,有意的 adj/故意地,有意地 adv/主动管控
+Intend/Intended/Intentionally (locked down)    /ɪnˈtendɪd/     打算,想要 v/预期的,故意的,有意的 adj/故意地,有意地,有规划地 adv/主动管控
 outline the task status/overview     /ˈaʊtlaɪn/      概述,简述 v
 discard/Dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
 participate/participant     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n
@@ -77,7 +79,7 @@ commercialize/Commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商�
 vendor      /ˈvendə(r)/     供应商
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
 Applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
-progressive/gradually     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv
+progressive/gradually/step by step     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv/逐步 adv
 circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
 alert/advisory/advisories/notification   /ədˈvaɪzəri/       警报 n/警告,通知 n
 compete/competed/competing      /kəmˈpiːt/       竞争 v/竞争的 adj
@@ -86,7 +88,7 @@ Postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
 Nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
 register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/n/注册,报名 v
-login/sign in       /saɪn ɪn/       登录 v
+login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
 log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
 cascade         /kæˈskeɪd/          逐级下发,连续传递 v
@@ -101,7 +103,7 @@ capability/capabilities/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/�
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
 Crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
-product/production/produce      /ˈprɒdʌkt/      产品 n/生产 n/生产 v,农产品 n
+product/production/produce/Producer/Productivity      /ˈprɒdʌkt/ /prəˈdjuːsə(r)/      产品 n/生产 n/生产 v,农产品 n/生产者,产出方,提供方 n/生产力,生产率 n
 Proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
 swap/switch/replace     /swɒp/      替换,切换 v
 isolate/Quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
@@ -232,6 +234,9 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+inspire/inspired            激励，鼓舞 v/受启发/鼓舞的,能力卓越的 adj
+actionable ideas/practical next steps/concrete plan        可行的想法,可落地的实操方案
+move/movement                    移动，措施，转移 n/动作 n
 Architecture/framework                  架构/框架
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
@@ -350,7 +355,7 @@ as usual/planned/expected                       像往常一样/按计划/按预
 In case of n(if)                万一n,在n情况下
 Consistency/Consistent/Consistently/align                  一致性 n/一致的 adj/adv
 Discrepancy/difference                 差异 n
-Obstacle(block v/n)                障碍,阻碍,困难 n
+Obstacle/friction(block v/n)                障碍,阻碍,困难 n/阻碍,摩擦阻力,繁琐卡点
 Edition/version                     版本 n
 Perspective/view
 Integrate/Integration/merge            集成,合并,成为一体 v/n
@@ -399,6 +404,15 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+confidence          自信，信心,信任 n
+workshop            车间，工场，作坊 n
+shell company       空壳公司
+money mule          资金骡(洗钱中转人/中转企业)
+go public           上市,公开募股
+criminal            犯法的，犯罪的 adj/罪犯 n
+knowingly/unknowingly         不知情地,不知不觉地 adv
 adoption        采用，接受 n
 corrective (action)       纠正的,矫正的 adj/整改措施
 contain            包含,遏制 v
@@ -489,7 +503,7 @@ improving context       优化上下文
 disconnected            割裂的,零散的 adj
 session         课程场次,会议 n
 Specify/Specified/Specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确地,具体地,特定的(特意) adj/adv
-unblock (delivery)            扫清阻碍,解除阻塞 v/扫清交付卡点
+unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
 forward             向前,今后 adv/向前的 adj/转交 v
 map/maps/mapped/mapping         地图,分布图,映射 v
 onboarding          接入,上线 v
@@ -884,6 +898,10 @@ What does “VIP” stand for/it stands for sth         VIP代表什么?/它代�
 Don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
 Plaintext storage of passwords in code is prohibited        严禁在代码中明文存储密码
 You’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
+You’ll leave with sth(walk away with)       你会带着
+
+
+
 
 
 

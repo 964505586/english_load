@@ -298,7 +298,7 @@ lady first
 learn about        了解
 leave                                       假期 n
 leftover                        剩饭,剩菜 n                 剩下的,多余的 adj
-legal/illegal                           合法的 adj
+legal/illegal/illegally                           合法的 adj
 less and less        越来越少
 less 更少的 adv
 lifelong                            终身的 adj
@@ -327,7 +327,6 @@ mix                         混合 v
 mock                                    模拟 v/adj/n
 modify                     修改,改进 v
 moment                              瞬间,此刻 n
-move/movement                    措施 n/动作 n
 moving                              感人的 adj
 national                            国家的 adj
 natura/natural/naturally               自然 n/adj/adv
@@ -465,7 +464,6 @@ standard                        标准
 start out                   着手
 stay up/focused/overnight                             熬夜/保持专注/过夜 v
 steady/unsteady                                  稳定的,平稳的,持续的 adj/adv
-step by step                逐步 adv
 striking            惊人的,异常的 adj
 strength                        力量,优点 n
 stress/stressful                          压力 n/紧张的,压力大的 adj
