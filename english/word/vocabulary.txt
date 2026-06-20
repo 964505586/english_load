@@ -137,7 +137,6 @@ domestic/domestically                           国内的 adj/adv
 dormitory    宿舍
 double                      两倍的 adj/adv/n       加倍 v
 dramatically                            明显地,剧烈地,夸张地 adv
-duplicate/duplication                               复制 v/adj/重复 n
 early/earlier/earliest                          早的/更早的/最早的 adj/adv
 ease                                            减轻,缓和 v
 eased                                           放松的 adj
@@ -203,7 +202,6 @@ forecast                            预测,预报 v/n
 forever                     永远 adv
 forgive                             原谅 v
 form v 形成 n 形式,表单
-formal/informal                  正式的,规范的,合法的 adj
 former                      以前的,旧时的
 fortunate/fortunately/unfortunately         幸运的/不幸的 adj/adv
 freedom 自由权
@@ -298,7 +296,6 @@ lady first
 learn about        了解
 leave                                       假期 n
 leftover                        剩饭,剩菜 n                 剩下的,多余的 adj
-legal/illegal/illegally                           合法的 adj
 less and less        越来越少
 less 更少的 adv
 lifelong                            终身的 adj
@@ -404,7 +401,6 @@ pursue                              追求,致力于 v
 quality    素质,质量
 random/randomly                                          随意,随机 n/任意的,随机的 adj/随机地 adv
 rapid/rapidly                   快速地 adj/adv
-rare/rarely                     极少地 adj/adv
 rate                            速度,比率 n
 rather    adv 相当,宁愿
 react                       反应 v
@@ -426,13 +422,11 @@ repeat/repeated/repeatedly                     重复 v/重复地 adj/adv
 research                    研究 n/v
 reset                           调整,重新设置 v/n
 reward/rewarding                      奖励 n/v 值得的,有意义的 adj
-rightful                        合法的,公正的
 risk                            危险,风险 n             使遭受...危险,冒...的危险 v
 risky                               有危险的,有风险的 adj
 rival       对手 n        竞争的 adj
 role-play               角色扮演
 roommate                                室友 n
-routine                             常规,惯例 n
 row/column                          行/纵列
 rudely/rudeness    无礼的 adj/无礼 n
 run free/after                解脱/追赶
@@ -440,7 +434,6 @@ same as                             等同于
 schedule                        计划,进度表 n
 screen                      屏蔽 v        屏幕 n
 seem                        似乎
-seldom 很少
 select/selection                                选择,挑选 v/n
 self-introduction
 selfish                             自私的 adj
@@ -543,7 +536,6 @@ you two                                         你俩
 youth                                       青春 n
 convince                                    使确信,使信服 v
 virtual                                     虚拟的 adj
-executive                                   执行的 adj
 specialized                                 专业的 adj
 tasty/yummy/delicious                   美味的
 on earth                究竟,到底(疑问句)

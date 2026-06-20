@@ -26,17 +26,25 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
-recruit         /rɪˈkruːt/      招聘，招收,招募 v
-legitimate      /lɪˈdʒɪtɪmət/        合法合规的 adj
+slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,PPT/一整套
+execution/executive/        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj
+consumption     /kənˈsʌmpʃ(ə)n/         消费,消耗,调用,使用 n
+privacy/private         /ˈprɪvəsi/          隐私 n/私有的 adj
+firmware        /ˈfɜːmweə(r)/        固件,硬件 n
+rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      使旋转,使转动 v/值班名册,轮值表 n
+duplicate/replicate/duplication/replication (factor)    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/因子,系数,要素,份数 n
+legal/illegal/illegally/legitimate/rightful/formal      /lɪˈdʒɪtɪmət/       合法的 adj/正当的,合理的,合法的 adj
+(security) hygiene      /ˈhaɪdʒiːn/         卫生 n/安全基线,安全合规
+startup (company)       /ˈstɑːtʌp/     新成立的,刚创办的 adj/初创企业,初创公司
+transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v,n/转变,转换 n
+recruit         /rɪˈkruːt/      招聘,招收,招募 v
 raise funds     /fʌnd/         募资,融资
-transit/transition     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v/n
 partner     /ˈpɑːtnə(r)/        搭档 n
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及,到处,自始至终,贯穿整个时期 adv/prep
 demo/demonstrate/demonstrating       /ˈdemənstreɪt/          证明,示范,演示 v/n
 Semantic        /sɪˈmæntɪk/        语义的 adj
 thorough/overall        /ˈθɜːroʊ/       彻底的,全面的 adj
-consumption     /kənˈsʌmpʃ(ə)n/         调用,使用 n
 concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可落地 adj
 Subsequent/Follow-up/next (steps/actions)        /ˈsʌbsɪkwənt/       随后的,接着的 adj/后续的 adj/后续行动
 accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就,成绩(功能落地,开发实现) n/
@@ -94,7 +102,6 @@ logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
 cascade         /kæˈskeɪd/          逐级下发,连续传递 v
 solely      /ˈsəʊlli/       单独地,仅有地,仅仅,唯独 adv
 (It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
-privacy         /ˈprɪvəsi/          隐私 n
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
 no matter what/who/whether ...(Irrespective of whether A or B)  /ˌɪrɪˈspektɪv/  不考虑,不顾 adj
 Probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
@@ -234,9 +241,14 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
-inspire/inspired            激励，鼓舞 v/受启发/鼓舞的,能力卓越的 adj
+
+
+update/progress      进展 n
+formal/informal/official        正式的,规范的,合法的 adj/非正式的 adj
+almost/nearly/hardly/barely         几乎 adv/几乎不 adv
+inspire/inspired            激励,鼓舞 v/受启发/鼓舞的,能力卓越的 adj
 actionable ideas/practical next steps/concrete plan        可行的想法,可落地的实操方案
-move/movement                    移动，措施，转移 n/动作 n
+move/movement                    移动,措施,转移 n/动作 n
 Architecture/framework                  架构/框架
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
@@ -406,14 +418,19 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-confidence          自信，信心,信任 n
-workshop            车间，工场，作坊 n
+
+
+patch/patching       补丁,补片 n
+routine (maintenance)           常规,惯例 n/常规维护,日常保养
+disk            磁盘 n
+confidence          自信,信心,信任 n
+workshop            车间,工场,作坊 n
 shell company       空壳公司
 money mule          资金骡(洗钱中转人/中转企业)
 go public           上市,公开募股
-criminal            犯法的，犯罪的 adj/罪犯 n
+criminal            犯法的,犯罪的 adj/罪犯 n
 knowingly/unknowingly         不知情地,不知不觉地 adv
-adoption        采用，接受 n
+adoption        采用,接受 n
 corrective (action)       纠正的,矫正的 adj/整改措施
 contain            包含,遏制 v
 key take-aways          会议核心要点,关键结论
@@ -454,7 +471,6 @@ recommended learning path           推荐学习路线 n
 junk            垃圾
 host/hosted/hosting             主办,举行,做东 v/主人,主持人 n
 final bit of work           收尾工作 n
-slide           幻灯片,PPT
 close down           收尾,完成 v
 instead     代替,顶替,反而 adv
 email chain             邮件往来记录,邮件链 n
