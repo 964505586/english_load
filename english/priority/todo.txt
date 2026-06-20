@@ -26,6 +26,7 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+cascade (down further)         /kæˈskeɪd/          逐级下发,连续传递 v
 bandwidth       /ˈbændwɪdθ/         带宽、吞吐能力 n
 contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
 noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnəs/      显而易见的,明显的 adj/缓慢,迟钝 n/持续数分钟卡顿
@@ -103,7 +104,6 @@ register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,
 login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
 log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
-cascade         /kæˈskeɪd/          逐级下发,连续传递 v
 solely      /ˈsəʊlli/       单独地,仅有地,仅仅,唯独 adv
 (It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
