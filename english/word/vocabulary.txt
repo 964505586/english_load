@@ -431,7 +431,6 @@ row/column                          行/纵列
 rudely/rudeness    无礼的 adj/无礼 n
 run free/after                解脱/追赶
 same as                             等同于
-schedule                        计划,进度表 n
 screen                      屏蔽 v        屏幕 n
 seem                        似乎
 select/selection                                选择,挑选 v/n

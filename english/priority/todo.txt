@@ -26,6 +26,11 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+bandwidth       /ˈbændwɪdθ/         带宽、吞吐能力 n
+contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
+noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnəs/      显而易见的,明显的 adj/缓慢,迟钝 n/持续数分钟卡顿
+(On-Demand) Burst/Bursting          /bɜːst/         爆炸,猛冲,涨满,突发扩容,瞬时带宽扩容 n/按需的 adj
+progressive/progressively/gradually/step by step     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv/逐步 adv
 slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,PPT/一整套
 execution/executive/        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj
 consumption     /kənˈsʌmpʃ(ə)n/         消费,消耗,调用,使用 n
@@ -87,10 +92,9 @@ commercialize/Commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商�
 vendor      /ˈvendə(r)/     供应商
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
 Applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
-progressive/gradually/step by step     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv/逐步 adv
 circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
 alert/advisory/advisories/notification   /ədˈvaɪzəri/       警报 n/警告,通知 n
-compete/competed/competing      /kəmˈpiːt/       竞争 v/竞争的 adj
+compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 adj
 snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
 Postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
@@ -243,6 +247,12 @@ preRequisite            先决条件,必备条件 n/adj
 Replace:
 
 
+
+
+
+internal/external           内部的/外部的 adj
+As per n/according to n      根据
+thread/email chain             邮件会话、邮件串联对话 n/邮件往来记录,邮件链 n
 update/progress      进展 n
 formal/informal/official        正式的,规范的,合法的 adj/非正式的 adj
 almost/nearly/hardly/barely         几乎 adv/几乎不 adv
@@ -420,6 +430,13 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+schedule/scheduled              计划,进度表 n/计划内的,预定的 adj
+shortening      缩短,变短,缩写 v
+go through      逐条梳理、过一遍
+half        一半，二分之一 n
+revert                 恢复,回复 v
 patch/patching       补丁,补片 n
 routine (maintenance)           常规,惯例 n/常规维护,日常保养
 disk            磁盘 n
@@ -469,11 +486,10 @@ value                           价值,价值观 n
 sort                整理,分类,排序,解决 v
 recommended learning path           推荐学习路线 n
 junk            垃圾
-host/hosted/hosting             主办,举行,做东 v/主人,主持人 n
+host/hosted/hosting             主办,举行,做东,托管,部署 v/主人,主持人 n
 final bit of work           收尾工作 n
 close down           收尾,完成 v
 instead     代替,顶替,反而 adv
-email chain             邮件往来记录,邮件链 n
 codebase            代码库 n
 snippet         小片,片断	 n
 datapoint           数据点 n
@@ -915,10 +931,6 @@ Don't hardcode plaintext passwords in source files          禁止在源码文�
 Plaintext storage of passwords in code is prohibited        严禁在代码中明文存储密码
 You’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
 You’ll leave with sth(walk away with)       你会带着
-
-
-
-
 
 
 

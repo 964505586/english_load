@@ -60,7 +60,7 @@ Let's call it a day                 今天就到此为止
 let's catch up later
 let's go to the first one               我们去第一个吧
 Made a correction on n                              对n进行了修正
-on a 30% basis                                      在30%的基础上
+(on a 30%) basis                                      在30%的基础上/基础，要素；基准 n
 that will be more complicated       那将会更复杂
 That's exactly what we're going to do                这正是我们要做的.
 That's not what you thought it was              那不是你所想的那样
