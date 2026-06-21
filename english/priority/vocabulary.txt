@@ -41,7 +41,6 @@ Critical                    关键的,严重的 adj
 Data set                    数据集 n
 Deny/denied                  否定 v
 Diagram                  图表 n
-Directly                    直接地 adv
 Disclose                  泄露,透漏v
 distinguish                     认出,区别 v
 Domain                 领域 n

@@ -29,12 +29,14 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
-evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n
-manifest/configuration file        /ˈmænɪfest/         清单，配置文件 n
-embed/embedding         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入，内置 v
-orchestration       /ˌɔːrkɪˈstreɪʃn/        流程编排，调度
+thread/email chain      /θred/          邮件会话,邮件串联对话 n/邮件往来记录,邮件链 n
+merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
+(three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n
+manifest/configuration file        /ˈmænɪfest/         清单,配置文件 n
+embed/embedding         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
+orchestration       /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
 cascade (down further)         /kæˈskeɪd/          逐级下发,连续传递 v
-bandwidth       /ˈbændwɪdθ/         带宽、吞吐能力 n
+bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
 noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnəs/      显而易见的,明显的 adj/缓慢,迟钝 n/持续数分钟卡顿
 (On-Demand) Burst/Bursting          /bɜːst/         爆炸,猛冲,涨满,突发扩容,瞬时带宽扩容 n/按需的 adj
@@ -111,7 +113,6 @@ register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,
 login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
 log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
-solely      /ˈsəʊlli/       单独地,仅有地,仅仅,唯独 adv
 (It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
 no matter what/who/whether ...(Irrespective of whether A or B)  /ˌɪrɪˈspektɪv/  不考虑,不顾 adj
@@ -251,33 +252,23 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
-
-
-
-
-
+direct/directly/indirect/indirectly         调度,指挥 v/直接的/间接的 adj/adv
+go/work/walk through          经历,逐条梳理,过一遍/解决/完整讲解,分步演示
 internal/external           内部的/外部的 adj
 As per n/according to n      根据
-thread/email chain             邮件会话、邮件串联对话 n/邮件往来记录,邮件链 n
 update/progress      进展 n
 formal/informal/official        正式的,规范的,合法的 adj/非正式的 adj
 almost/nearly/hardly/barely         几乎 adv/几乎不 adv
 inspire/inspired            激励,鼓舞 v/受启发/鼓舞的,能力卓越的 adj
-actionable ideas/practical next steps/concrete plan        可行的想法,可落地的实操方案
-move/movement                    移动,措施,转移 n/动作 n
+actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的想法,可落地的实操方案
 Architecture/framework                  架构/框架
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
-engineering     工程,工程学 n
-powerful            强大的,有影响力的 adj
-advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 flag/report                给...做标记,上报,提报 v/标志,标记 n
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
-Foundational (branch)            基础的,基本的 adj
-oops        哎哟,啊呀,糟糕
 near/short-term           近期的,短期的 adj
 Moreover/in addition                另外,此外
-discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
+discover/discovery/explore/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 explore/exploration/discover             探索,探究,研究,排查 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 indicate/indicator/mean/Represent/stand for sth           表明,指出 v/指标 n/代表sth
@@ -288,13 +279,7 @@ change/changeable                          变化,变更 n/多变的 adj
 in/on time/timely/Promptly/quickly        及时,按时/及时的,适时的 adj/及时地,迅速地 adv
 exceed/beyond              超过,超出 v
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
-Escalate/Escalation                 上报,升级 v
-cyber       网络的 adj
-pilot        试点的 adj/试点 n
 notice/(outage) notification                 意识,注意 v/通知 n/断网,服务中断通知
-(express) license     执照,许可证 n/正式书面授权
-express/expression          明确的 adj/表达 v/n
-Third-party     第三方
 Regulatory Compliance/Compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
 lag/delay       延迟,推迟,延期 v/n
 dynamic/Static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
@@ -419,29 +404,23 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(express) license     执照,许可证 n/正式书面授权
+express/expression          明确的 adj/表达 v/n
+Third-party     第三方
+Escalate/Escalation                 上报,升级 v
+cyber       网络的 adj
+pilot        试点的 adj/试点 n
+Foundational (branch)            基础的,基本的 adj
+oops        哎哟,啊呀,糟糕
+move/movement                    移动,措施,转移 n/动作 n
+engineering     工程,工程学 n
+powerful            强大的,有影响力的 adj
+advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
+production-ready        可上线投产的 adj
+shape/shaping           塑造,打造 v/形状,外形 n
+scale/scalable/Scalability       扩容,规模化部署 v/可扩展的 adj/可扩展性 n
 schedule/scheduled              计划,进度表 n/计划内的,预定的 adj
 shortening      缩短,变短,缩写 v
-go through      逐条梳理、过一遍
 half        一半,二分之一 n
 revert                 恢复,回复 v
 patch/patching       补丁,补片 n
@@ -533,7 +512,6 @@ work together           协同配合
 draft                                   起草,草拟 v/草稿 n
 (Estimated) Duration      (预估的)持续时间 n
 Phase           阶段 n
-simply/just/exclusively                          仅仅/只,仅仅,排他地,独有地 adv
 visible/visibility      可见的 adj/可见性,能见度 n
 rolling restart     滚动重启 n
 1H/2H 2026/achievements     2026下半年/上半年成绩
@@ -593,7 +571,6 @@ In detail           详细地 adv
 oversee                     统筹,监督 v
 take/took/taken
 FAQ/FAQs            Frequently asked questions      常见问题
-direct/directly/indirect/indirectly                  直接的/间接的
 programmatically                通过编程方式 adv
 miss                错过,想念 v
 brief/briefly             简短的,简要的 adv
@@ -938,13 +915,21 @@ Don't hardcode plaintext passwords in source files          禁止在源码文�
 Plaintext storage of passwords in code is prohibited        严禁在代码中明文存储密码
 You’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
 You’ll leave with sth(walk away with)       你会带着
+move beyond A to B              超越A，转而成为B
 
 
 
 
 
 
-shape/shaping           塑造,打造 v/形状,外形 n
+
+
+Architecture/framework   架构/框架
+Architect
+
+
+
+
 
 
 
