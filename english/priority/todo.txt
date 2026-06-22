@@ -29,6 +29,7 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 thread/email chain      /θred/          邮件会话,邮件串联对话 n/邮件往来记录,邮件链 n
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
 (three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n
@@ -113,7 +114,6 @@ register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,
 login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
 log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
-(It’s) nothing, I barely helped at all/didn’t help much anyway  /ˈbeəli/    勉强才能,几乎不 adv(几乎没帮上忙,并未提供多少帮助)
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
 no matter what/who/whether ...(Irrespective of whether A or B)  /ˌɪrɪˈspektɪv/  不考虑,不顾 adj
 Probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
@@ -252,31 +252,31 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓越的 adj
+retry/take/allow up to 3 times/hours on failure   (失败时)最多重试3次/最多占用/预留至多
+near(short)-term/recent      近期的,短期的 adj/最近的，最新的 adj
+Architect/Architecture/framework   架构师/架构/框架
+As per n/according to n/based on n             根据/基于 n
+(It’s) nothing, I barely helped at all/didn’t help much anyway      几乎没帮上忙,并未提供多少帮助
+flag/report         给...做标记,上报,提报 v/标志,标记 n
 Assume/suppose/if              假设 v
 given this/in the case(way)/So that
-Architect/Architecture/framework   架构师/架构/框架
 up-to-date/latest           新式的,与时俱进的/最新的
 direct/directly/indirect/indirectly         调度,指挥 v/直接的/间接的 adj/adv
 go/work/walk through          经历,逐条梳理,过一遍/解决/完整讲解,分步演示
 internal/external           内部的/外部的 adj
-As per n/according to n      根据
 update/progress      进展 n
 formal/informal/official        正式的,规范的,合法的 adj/非正式的 adj
-almost/nearly/hardly/barely         几乎 adv/几乎不 adv
-inspire/inspired            激励,鼓舞 v/受启发/鼓舞的,能力卓越的 adj
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的想法,可落地的实操方案
-Architecture/framework                  架构/框架
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
 flag/report                给...做标记,上报,提报 v/标志,标记 n
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
-near/short-term           近期的,短期的 adj
 Moreover/in addition                另外,此外
 discover/discovery/explore/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 explore/exploration/discover             探索,探究,研究,排查 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 indicate/indicator/mean/Represent/stand for sth           表明,指出 v/指标 n/代表sth
-retry/take/allow up to 3 times on failure   (失败时)最多重试3次/最多占用/预留至多
 post-upgrade/after upgrade          版本升级后
 contribute (to)/contribution         捐赠,为...做贡献 v/有助于,促成/贡献,捐款,捐助 n
 change/changeable                          变化,变更 n/多变的 adj
@@ -804,7 +804,6 @@ I ran the relevant scheduled job and obtained the latest batch of data this morn
 Just an example, no offense             就举个例子,无意冒犯
 We need to find a long-term solution                我们需要找一个长期的解决方案
 Recommended that ...                        推荐...
-on the other hand/side             另一方面
 From another angle(point of view)              从另一个角度来看
 I'm slowly combing through my notes             我正在慢慢梳理我的笔记
 as far as I know(can see)           据我所 知/见
@@ -929,11 +928,13 @@ We likely need to           我们可能需要
 
 
 
-
-
 provision/Provisioning              提供,供应 v/配置 ?
 
 
+
+
+Moreover/in addition/BTW/besides            另外,此外 adv
+on the other hand/side             另一方面
 
 identity                                身份 n
 identical                               完全相同 adj
