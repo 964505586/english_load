@@ -252,6 +252,10 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+Assume/suppose/if              假设 v
+given this/in the case(way)/So that
+Architect/Architecture/framework   架构师/架构/框架
+up-to-date/latest           新式的,与时俱进的/最新的
 direct/directly/indirect/indirectly         调度,指挥 v/直接的/间接的 adj/adv
 go/work/walk through          经历,逐条梳理,过一遍/解决/完整讲解,分步演示
 internal/external           内部的/外部的 adj
@@ -352,7 +356,6 @@ desired/needed
 deal with(handle)
 Apply/request
 via/by/through
-in case 句子/to avoid n                     以防...
 I noticed/saw that
 Make a code change(Change code)                  做一次代码修改(正式)
 leave/left
@@ -366,7 +369,6 @@ Launch/release version(new feature)         启动,发起,推出,执行 v
 marked/highlighted part/area/Section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
 occur/appear/happen
 as usual/planned/expected                       像往常一样/按计划/按预期
-In case of n(if)                万一n,在n情况下
 Consistency/Consistent/Consistently/align                  一致性 n/一致的 adj/adv
 Discrepancy/difference                 差异 n
 Obstacle/friction(block v/n)                障碍,阻碍,困难 n/阻碍,摩擦阻力,繁琐卡点
@@ -377,7 +379,6 @@ may/can
 seem/look/sounds like good/fine
 Sufficient/Insufficient(Enough)                 足够的,充足的 adj/不足的,不够的 adj
 Isn't it(主语是it, right?)
-In this way/in the case(So that)
 see/catch you later
 by today/tomorrow/afternoon(by the end of day)               今天之内,明天下午前
 due to n/since 句子(because/because of)
@@ -391,19 +392,10 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+portal          门户 n
+block/blocker         阻碍 v/n
+Comment (this piece of code)          注释、加注解 v/注释这段代码
+(Request) payload         有效负载 n
 (express) license     执照,许可证 n/正式书面授权
 express/expression          明确的 adj/表达 v/n
 Third-party     第三方
@@ -613,9 +605,6 @@ anyway          总之,反正
 Hold on            等一下,坚持住
 The current conclusion/Data discrepancy conclusion          目前的结论,现阶段结论/数据差异结论
 Acknowledge/Acknowledged                         认可,承认,感谢 v
-Assume              假设 v(主观认定)
-(if) suppose that                       假设
-be supposed to do                       应该做sth
 句末: 肯 too; 否 either
 As long as(once) we click here       连词,只要...
 (it's) no wonder why/that                难怪
@@ -916,6 +905,8 @@ Plaintext storage of passwords in code is prohibited        严禁在代码中�
 You’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
 You’ll leave with sth(walk away with)       你会带着
 move beyond A to B              超越A，转而成为B
+be supposed to do                       应该做sth
+We likely need to           我们可能需要
 
 
 
@@ -924,8 +915,8 @@ move beyond A to B              超越A，转而成为B
 
 
 
-Architecture/framework   架构/框架
-Architect
+
+
 
 
 
