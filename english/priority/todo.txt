@@ -29,6 +29,10 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+truncate        /ˈtrʌŋkeɪt/        截断、截短 v
+Prematurely/in advance         /ˌpriːməˈtʃʊrli/        过早地 adv/提前地 adv
+reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用，重复使用 v/可重复使用的,可以再度使用的 adj
+Minimized/(at) minimum      /ˈmɪnɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 thread/email chain      /θred/          邮件会话,邮件串联对话 n/邮件往来记录,邮件链 n
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
@@ -133,7 +137,6 @@ manage (to)/I managed to solve the problem      /ˈmænɪdʒ/       设法做到
 Alternatively(or)/Alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 expedite/accelerate/speed up        /spiːd ʌp/        加快
 (in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
-Meeting recap/minutes       /ˈriːkæp/         会议总结,概要(简版)/会议纪要,记录(完整版) n/将sth写进会议记录 v
 illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
 Stability/Scalability/maintenance/Maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
@@ -148,7 +151,6 @@ loop sb in/looping Jack in for visibility/Awareness     /luːp/     把sb拉进�
 Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
 Mobilize/Coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
-(at) minimum        /ˈmɪnɪməm/          最小值 n/最小的 adj/最低,至少 adv
 spotlight/gather        /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 v
 quarter         /ˈkwɔːtə(r)/            季度
 bypass      /ˈbaɪpɑːs/          绕过,避开 v
@@ -164,7 +166,6 @@ overview/overall/comprehensive    /ˌkɒmprɪˈhensɪv/    概述 n,v/总的,全
 Protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
 Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
-reusable        /riːˈjuːzəb(ə)l/       可重复使用的,可以再度使用的 adj
 bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
 reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
@@ -270,7 +271,6 @@ formal/informal/official        正式的,规范的,合法的 adj/非正式的 a
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的想法,可落地的实操方案
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
-flag/report                给...做标记,上报,提报 v/标志,标记 n
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
 Moreover/in addition                另外,此外
 discover/discovery/explore/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
@@ -392,6 +392,11 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+
+common used         常用
+advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 portal          门户 n
 block/blocker         阻碍 v/n
 Comment (this piece of code)          注释、加注解 v/注释这段代码
@@ -407,7 +412,6 @@ oops        哎哟,啊呀,糟糕
 move/movement                    移动,措施,转移 n/动作 n
 engineering     工程,工程学 n
 powerful            强大的,有影响力的 adj
-advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 production-ready        可上线投产的 adj
 shape/shaping           塑造,打造 v/形状,外形 n
 scale/scalable/Scalability       扩容,规模化部署 v/可扩展的 adj/可扩展性 n
@@ -428,7 +432,6 @@ knowingly/unknowingly         不知情地,不知不觉地 adv
 adoption        采用,接受 n
 corrective (action)       纠正的,矫正的 adj/整改措施
 contain            包含,遏制 v
-key take-aways          会议核心要点,关键结论
 entry (prerequisite)       进入,加入 n/准入前置条件
 lead time           任务耗时,处理时长 n
 hands-on (guidance)     实操指导
@@ -491,7 +494,6 @@ end-to-end          端对端的 adj/adv
 built-in                内置的 adj
 on your calendar            你的日程
 ahead           在前的,提前的,未来的,即将到来的 adj
-including at minimum:            至少包含
 audit/audited/auditable           审计 v,n/受审查的c受审计的 adj/可审计的 adj
 last            最后的,最近的 adj/持续 v
 subset              子集 n
@@ -599,7 +601,6 @@ frequent/frequently(often)          经常地,频繁地 adj/adv
 Short notice                紧急通知
 Organize            整理,组织,安排
 headphone(microphone)               双耳式耳机
-symbol          象征,符号,标志 n
 whatever        无论什么
 anyway          总之,反正
 Hold on            等一下,坚持住
@@ -906,6 +907,9 @@ You’ll leave with sth(walk away with)       你会带着
 move beyond A to B              超越A，转而成为B
 be supposed to do                       应该做sth
 We likely need to           我们可能需要
+Can you reproduce this issue/Can this issue be reproduced       你能复现这个问题吗?
+including at minimum:       至少包含
+
 
 
 
@@ -932,6 +936,15 @@ provision/Provisioning              提供,供应 v/配置 ?
 
 
 
+
+
+marker          划线,打点的标记(标识，标志) n
+symbol          表意符号、象征(象征,符号,标志) n
+flag/report             给...做标记,上报,提报 v/标志,标记 n
+
+key takeaways          主要收获,会议核心要点,关键结论 n
+Meeting recap           会议总结,概要(简版)
+(Meeting) minutes       /ˈriːkæp/       将sth写进会议记录 v/会议纪要,记录(完整版) n
 
 Moreover/in addition/BTW/besides            另外,此外 adv
 on the other hand/side             另一方面
