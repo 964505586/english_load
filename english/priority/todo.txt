@@ -258,8 +258,6 @@ retry/take/allow up to 3 times/hours on failure   (失败时)最多重试3次/�
 near(short)-term/recent      近期的,短期的 adj/最近的，最新的 adj
 Architect/Architecture/framework   架构师/架构/框架
 As per n/according to n/based on n             根据/基于 n
-(It’s) nothing, I barely helped at all/didn’t help much anyway      几乎没帮上忙,并未提供多少帮助
-flag/report         给...做标记,上报,提报 v/标志,标记 n
 Assume/suppose/if              假设 v
 given this/in the case(way)/So that
 up-to-date/latest           新式的,与时俱进的/最新的
@@ -909,6 +907,9 @@ be supposed to do                       应该做sth
 We likely need to           我们可能需要
 Can you reproduce this issue/Can this issue be reproduced       你能复现这个问题吗?
 including at minimum:       至少包含
+(It’s) nothing, I barely helped at all/didn’t help much anyway      几乎没帮上忙,并未提供多少帮助
+
+
 
 
 
