@@ -2,7 +2,6 @@ Agenda                          议程
 Alert                           警报
 Adjust/adjustment               调整 v/n
 Bottom              底部
-Calculate                       计算 v
 Challenge                       质疑,挑战 v/n
 Chance                          机会 n
 Command                         命令 n
@@ -85,7 +84,6 @@ Prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
 Promotion                 晋升 n
 Recommend/recommendation                   建议,劝告,推荐 v/n
-reduce                 降低
 refactor                  重构 v
 remediate/Remediation                   补救,修复 v/补救,纠正 n
 Responsibility                  责任 n

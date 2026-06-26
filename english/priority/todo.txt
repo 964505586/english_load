@@ -29,6 +29,14 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
+differ          /ˈdɪfər/            不同于 v
+persist/persistent/Materialize      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj
+material/Materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的，非精神上的 adj/物化、落地持久化 v
+lineage         /ˈlɪniɪdʒ/          血缘、依赖链 n
+Catalyst        /ˈkætəlɪst/         优化器，催化剂
+big/large/huge/giant       /ˈdʒaɪənt/          巨大的，伟大的 adj
+compute/computation/Calculate/calculation         /kəmˈpjuːt/         运算、测算 v/计算、核算 v
 truncate        /ˈtrʌŋkeɪt/        截断、截短 v
 Prematurely/in advance         /ˌpriːməˈtʃʊrli/        过早地 adv/提前地 adv
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用，重复使用 v/可重复使用的,可以再度使用的 adj
@@ -155,7 +163,6 @@ spotlight/gather        /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 
 quarter         /ˈkwɔːtə(r)/            季度
 bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
-persist/persistent      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj
 boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
 Accuracy/Precise        /ˈækjərəsi/ /prɪˈsaɪs/      准确性 n/精确的 adj
 Tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
@@ -188,7 +195,7 @@ Starting/effective 1 June 2026          自6月1日起
 Any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 point/dot/period      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP,.com/英文句末句号
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
-(data) exposure/expose/exposed/exposingleak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
+(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 fill in      /fɪl ɪn/             填写 v
 purge       /pɜːdʒ/           清除 v
@@ -253,6 +260,12 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+
+
+
+
+serve       服务 v/n
+reduce/reduction                 降低,做聚合、执行归约 v/降低,聚合操作,归约运算 n
 inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓越的 adj
 retry/take/allow up to 3 times/hours on failure   (失败时)最多重试3次/最多占用/预留至多
 near(short)-term/recent      近期的,短期的 adj/最近的，最新的 adj
@@ -270,7 +283,6 @@ actionable ideas/practical next steps/concrete plan        可行动的 adj/可�
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
-Moreover/in addition                另外,此外
 discover/discovery/explore/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 explore/exploration/discover             探索,探究,研究,排查 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
@@ -931,8 +943,6 @@ including at minimum:       至少包含
 
 
 
-
-
 provision/Provisioning              提供,供应 v/配置 ?
 
 
@@ -947,8 +957,10 @@ key takeaways          主要收获,会议核心要点,关键结论 n
 Meeting recap           会议总结,概要(简版)
 (Meeting) minutes       /ˈriːkæp/       将sth写进会议记录 v/会议纪要,记录(完整版) n
 
+furthermore         此外，而且 adv
 Moreover/in addition/BTW/besides            另外,此外 adv
 on the other hand/side             另一方面
+And what's more, ......                                         而且,此外
 
 identity                                身份 n
 identical                               完全相同 adj

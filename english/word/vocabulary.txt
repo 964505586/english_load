@@ -310,7 +310,6 @@ lovely                        可爱的
 madness                         疯狂,愚蠢的行为 n
 manual/manually                                 手动地 adj/adv
 match/mismatch                       匹配 v/比赛 n
-material 材料
 matter n 问题,事情 v 重要
 measure                     措施,办法 n
 medical                     医疗的 adj
