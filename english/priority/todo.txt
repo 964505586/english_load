@@ -29,6 +29,8 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+activate        /ˈæktɪveɪt/         激活 v
+eliminate/eliminating           /ɪˈlɪmɪneɪt/           剔除，根除 v/排除的 adj
 Privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
 Guard/guardrail   /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 paste (in/into/here)       /peɪst/ /peɪst ɪn/         粘贴 v/粘贴进去
@@ -73,7 +75,6 @@ rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      使旋转,使转动 v/值班�
 duplicate/replicate/duplication/replication (factor)    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/因子,系数,要素,份数 n
 legal/illegal/illegally/legitimate/rightful/formal      /lɪˈdʒɪtɪmət/       合法的 adj/正当的,合理的,合法的 adj
 (security) hygiene      /ˈhaɪdʒiːn/         卫生 n/安全基线,安全合规
-startup (company)       /ˈstɑːtʌp/     新成立的,刚创办的 adj/初创企业,初创公司
 transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v,n/转变,转换 n
 recruit         /rɪˈkruːt/      招聘,招收,招募 v
 raise funds     /fʌnd/         募资,融资
@@ -173,7 +174,6 @@ traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
 boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
 Accuracy/Precise        /ˈækjərəsi/ /prɪˈsaɪs/      准确性 n/精确的 adj
 Tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
-start up(issues occurs when starting up the backend project)     /ˈstɑːt ʌp/      启动(服务/项目专用)
 Comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
 whole/entire            全部的,整个的 adj
 overview/overall/comprehensive    /ˌkɒmprɪˈhensɪv/    概述 n,v/总的,全面的 adj,adv/综合性的,全面的 adj
@@ -266,8 +266,6 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
-
-
 
 at times/sometimes        偶尔,时不时,有时 adv
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
@@ -415,6 +413,8 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+extensively         大量地、频繁地 adv
+directory       文件夹、目录 n
 desktop         桌面 n
 workstation         工作站 n
 modern/Modernization              现代的 adj/n
@@ -966,11 +966,11 @@ lean on/rely(relying) on sb/sth              依托、依靠/依靠,依赖
 
 
 
+(on) startup (company)      /ˈstɑːtʌp/     新成立的,刚创办的,(初创企业,初创公司) adj/开始，启动(开机自启) n
+start up(issues occurs when starting up the backend project)     /ˈstɑːt ʌp/      启动(服务/项目专用) v
 
-
-
-
-
+won’t bother with sth           无需处理、忽略sth
+bother to do sth                费心去做、花时间研究
 
 url         https://nexus.com/repository/download
 uri         /repository/download
