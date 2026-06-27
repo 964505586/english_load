@@ -943,6 +943,9 @@ including at minimum:       至少包含
 
 
 
+
+
+
 provision/Provisioning              提供,供应 v/配置 ?
 
 
@@ -969,7 +972,7 @@ identify/identified/Identification/identifier     /aɪˈdentɪfaɪə(r)/       �
 遵守
 Act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v
 attest (following guardrails)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明,确认,作证,承诺遵守 v/声明,证明,证据,证实 n
-Compliance/comply with n(obey)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
+(Regulatory) Compliance/comply with (regulation)/obey      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
 obey/obedience(comply with)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v
 in line with enterprise's Principle(obey/comply with)      遵照,符合
 adhere/adhering (commitments made in this attestation)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
