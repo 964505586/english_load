@@ -141,7 +141,6 @@ eased                                           放松的 adj
 economic 经济的,节约的
 electricity                 电 n
 elegant    优雅
-embarrass/embarrassing               使尴尬,使难堪 v/使人尴尬的 adj
 emergency                   紧急情况 n/adj
 emotion                     感情,情感,情绪 n
 employment                  雇用 n
@@ -535,7 +534,6 @@ virtual                                     虚拟的 adj
 specialized                                 专业的 adj
 tasty/yummy/delicious                   美味的
 on earth                究竟,到底(疑问句)
-modern              现代的 adj
 all in all          总而言之
 viewpoint                               观点,看法 n
 capitalist                 资本家 n
