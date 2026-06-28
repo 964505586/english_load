@@ -79,7 +79,6 @@ Ordinary                普通的,平常的 adj
 Partial                 部分的 adj
 Permanently                 永久地/adv
 Populate                 填充 v
-pop-up                      弹窗,弹出式的 adj/n
 Prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
 Promotion                 晋升 n

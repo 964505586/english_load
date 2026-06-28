@@ -67,7 +67,6 @@ That's not what you thought it was              那不是你所想的那样
 The column hasn't been added yet                这一列还没被加上
 The meeting might be at 3 p.m
 There is no work for SAS demise until the end of the month         在本月末之前,没有与SAS有关的工作
-This error pops/popped up                                这个报错 经常/刚 出现了
 This line/piece of code
 What action would you take?
 What have you heard                                 你听到啥了

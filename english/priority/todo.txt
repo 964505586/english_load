@@ -29,6 +29,8 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
+enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
 activate        /ˈæktɪveɪt/         激活 v
 eliminate/eliminating           /ɪˈlɪmɪneɪt/           剔除，根除 v/排除的 adj
 Privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
@@ -266,7 +268,12 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
-
+show/display/displayed            显示,展示 v/显示的 adj
+hear/listen/listen to          结果/过程 vi/vt
+As per n/according to n/based on n/as for n             根据/基于 n
+uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未被选中的,未勾选的 v
+introduce risk/cause incidents(failures)        引进,引入 v
+top/bottom left/right corner        左上角,右下角
 at times/sometimes        偶尔,时不时,有时 adv
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
 direct/directly/indirect/indirectly/direction         调度,指挥 v/直接的/间接的 adj/adv/方向，方位,指导 n
@@ -276,7 +283,6 @@ inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓�
 retry/take/allow up to 3 times/hours on failure   (失败时)最多重试3次/最多占用/预留至多
 near(short)-term/recent      近期的,短期的 adj/最近的，最新的 adj
 Architect/Architecture/framework   架构师/架构/框架
-As per n/according to n/based on n             根据/基于 n
 Assume/suppose/if              假设 v
 given this/in the case(way)/So that
 up-to-date/latest           新式的,与时俱进的/最新的
@@ -337,7 +343,6 @@ consolidate/consolidated/merge                合并,使巩固 v/巩固的,统�
 Problem statement/description                   说明,陈述,声明
 homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟,伙伴/乡亲们 n
 Looks fine/Seems all good/Looks no problem
-show/display            显示,展示 v
 Recommended action/solution      推荐操作,方案
 present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 dummy/mock                       假的 adj
@@ -352,7 +357,6 @@ any concerns(question)          任何顾虑
 mention/say            提到,谈到 v
 lead/led to n(cause)                           导致
 Classify/Categorize             分类,分级,归类/归类,分组 v
-uncheck/unselected         取消勾选,去掉勾选/未被选中的,未勾选的
 Notice/saw
 detect/check                  检测,探测/检查 v
 perhaps/maybe
@@ -413,14 +417,17 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
-extensively         大量地、频繁地 adv
-directory       文件夹、目录 n
+
+(limited) lifetime        (有限)有效期,一生 n
+shutdown        关机 n
+extensively         大量地,频繁地 adv
+directory       文件夹,目录 n
 desktop         桌面 n
 workstation         工作站 n
 modern/Modernization              现代的 adj/n
 self-service            自助服务
 read-only access            只读权限 n
-authenticate/authentication         认证 v/n
+authenticate/authentication(auth)         认证 v/n
 as a whole          总体上,总的来说,整体来看 adv
 common used         常用
 advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
@@ -581,7 +588,6 @@ Caution/With some caution             小心,谨慎 n/谨慎地 adv
 precaution             预防措施 n
 almost              几乎,差不多
 freeze/freezes/froze/frozen         卡死,冻结,无响应
-introduce                   引进,引入 v
 chase/chased/chasing       跟进,催促 v
 logical             合情合理的,合乎逻辑的 adj
 workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
@@ -936,7 +942,8 @@ including at minimum:       至少包含
 (It’s) nothing, I barely helped at all/didn’t help much anyway      几乎没帮上忙,并未提供多少帮助
 end up as sth           最终变成,最终格式为
 guide sb through sth        带sb一步步走完,逐项讲解sth
-lean on/rely(relying) on sb/sth              依托、依靠/依靠,依赖
+lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
+not a fan of sth            不推荐,不认可,不喜欢sth
 
 
 
@@ -965,12 +972,28 @@ lean on/rely(relying) on sb/sth              依托、依靠/依靠,依赖
 
 
 
+
+
+
+
+
+
+
+dialog/pop-up/prompt            大型完整配置弹窗/所有弹窗的通用统称/简短确认弹窗 n
+dialog/pop up/pop-up/prompt         对话框/弹窗,弹出式的 v,adj,n/弹窗,提示(框) v/n
+pop/popped up a prompt to remind User               弹出一个提示框以提醒用户
+Display a prompt to alert User                      显示一个提示信息以提醒用户
+Show a popup message to User                        向用户显示一个弹出消息
+The system will prompt us how to do it              系统会提示如何操作
+This error keeps popping up                         这个报错老是弹出来
+things like this always happen                      这样的事情经常发生
+This error pops/popped up                           这个报错 经常/刚 出现了
 
 (on) startup (company)      /ˈstɑːtʌp/     新成立的,刚创办的,(初创企业,初创公司) adj/开始，启动(开机自启) n
 start up(issues occurs when starting up the backend project)     /ˈstɑːt ʌp/      启动(服务/项目专用) v
 
-won’t bother with sth           无需处理、忽略sth
-bother to do sth                费心去做、花时间研究
+won’t bother with sth           无需处理,忽略sth
+bother to do sth                费心去做,花时间研究
 
 url         https://nexus.com/repository/download
 uri         /repository/download
@@ -1044,14 +1067,6 @@ hyphen      /ˈhaɪfn/        连字符,中划线-
 remain/Remaining        仍然是,保持,剩余,留下 v/剩下的,遗留的 adj
 Testing remains             测试仍在进行
 remain unchanged                保持不变
-
-prompt                  提示,弹出提示 v/提示,弹窗,提示框 n
-pop/popped up a prompt to remind User               弹出一个提示框以提醒用户
-Display a prompt to alert User                      显示一个提示信息以提醒用户
-Show a popup message to User                        向用户显示一个弹出消息
-The system will prompt us how to do it              系统会提示如何操作
-This error keeps popping up                         这个报错老是弹出来
-things like this always happen                      这样的事情经常发生
 
 store                       储存 v/商店 n
 storage                     储存,存储空间 n
