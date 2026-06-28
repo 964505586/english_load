@@ -33,7 +33,7 @@ provision/provisioning/deploy      /prəˈvɪʒ(ə)n/              部署、配�
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去、清除 v/清空、删除
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地，周期性地/定期地,有规律地 adj/adv
 approximately/roughly/around/about      /əˈprɒksɪmətli/ /ˈrʌfli/       大约,大概 adv/粗略地，大约 adv
-execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行程序 n
+execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
 definite/definitely/definition/explicitly/clearly          /ˈdefɪnət/      清晰的,肯定地,明确地 adj/adv
 purge/removal/clear       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/移走,去掉,消除,清除 n
 explicitly/clearly/definitely      /ɪkˈsplɪsɪtli/          清楚明确地 adv/清楚地,清晰地 adv
@@ -272,6 +272,7 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 Replace:
+solve/resolve/address/get sorted            解决
 show/display/displayed            显示,展示 v/显示的 adj
 hear/listen/listen to          结果/过程 vi/vt
 As per n/according to n/based on n/as for n             根据/基于 n
@@ -791,8 +792,6 @@ We can categorize the changes above into two types       我们可以将上面ch
 Sorry for the late notice(last-minute cancellation)         抱歉这么晚通知/抱歉临时取消
 Apologize for the short notice(last-minute change)          抱歉临时通知/抱歉临时做变更
 Are you wearing headphones/Do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
-Iterate through the list and collect their age              遍历列表并收集年龄
-In the first/second iteration(for loop)                 在第一次循环中
 We need your team's support to keep pressing the CA team for the CE upgrade, as it has been out of service for two years now
 You may prioritize other ticket for now/you may work on other tickets first         可以优先做其他ticket
 We're (just) counting on you               我们就靠你了(指望)
@@ -937,7 +936,7 @@ The change is now taking effect. Going forward, please follow the new process   
 The change has been in effect since last Friday         这change自上周五就已经生效了
 What does “VIP” stand for/it stands for sth         VIP代表什么?/它代表sth
 Don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
-Plaintext storage of passwords in code is prohibited        严禁在代码中明文存储密码
+Plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
 You’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
 You’ll leave with sth(walk away with)       你会带着
 move beyond A to B              超越A，转而成为B
@@ -953,12 +952,8 @@ not a fan of sth            不推荐,不认可,不喜欢sth
 
 
 
-
-
-
-solve/resolve/address/get sorted            解决
-
-
+at least
+including at minimum: 至少包含
 
 
 
@@ -983,6 +978,13 @@ solve/resolve/address/get sorted            解决
 
 
 
+
+
+
+
+
+Iterate through the list and collect their age              遍历列表并收集年龄
+In the first/second iteration(for loop)                 在第一次循环中
 
 won’t bother with sth           无需处理,忽略sth
 (won’t) bother doing(to do) sth     费心去做,花时间研究
