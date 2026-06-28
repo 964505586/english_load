@@ -29,6 +29,14 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+provision/provisioning/deploy      /prəˈvɪʒ(ə)n/              部署、配置,提供，供应 v/配置 n
+erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去、清除 v/清空、删除
+periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地，周期性地/定期地,有规律地 adj/adv
+approximately/roughly/around/about      /əˈprɒksɪmətli/ /ˈrʌfli/       大约,大概 adv/粗略地，大约 adv
+execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行程序 n
+definite/definitely/definition/explicitly/clearly          /ˈdefɪnət/      清晰的,肯定地,明确地 adj/adv
+purge/removal/clear       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/移走,去掉,消除,清除 n
+explicitly/clearly/definitely      /ɪkˈsplɪsɪtli/          清楚明确地 adv/清楚地,清晰地 adv
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
 activate        /ˈæktɪveɪt/         激活 v
@@ -69,7 +77,6 @@ noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnə
 (On-Demand) Burst/Bursting          /bɜːst/         爆炸,猛冲,涨满,突发扩容,瞬时带宽扩容 n/按需的 adj
 progressive/progressively/gradually/step by step     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv/逐步 adv
 slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,PPT/一整套
-execution/executive/        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj
 consumption     /kənˈsʌmpʃ(ə)n/         消费,消耗,调用,使用 n
 privacy/private         /ˈprɪvəsi/          隐私 n/私有的 adj
 firmware        /ˈfɜːmweə(r)/        固件,硬件 n
@@ -118,7 +125,6 @@ anomalous/abnormal       /əˈnɒmələs/         异常的,不规则的,不恰�
 enterprise/Corporation/Company      /ˈentəpraɪz/        企业,事业单位
 malicious       /məˈlɪʃəs/          恶意的,恶毒的 adj
 destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
-removal     /rɪˈmuːv(ə)l/           移走,去掉,消除,清除 n
 interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
 resell/reselling        /ˌriːˈselɪŋ/        转售,转卖 v
 refrain from n      /rɪˈfreɪn/          克制,杜绝,不得做某事,放弃,不执行 v
@@ -207,7 +213,6 @@ sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄�
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 fill in      /fɪl ɪn/             填写 v
-purge       /pɜːdʒ/           清除 v
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
@@ -236,7 +241,6 @@ Majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
 bother/don't bother (me)    /ˈbɒðə(r)/      打扰,使烦恼,使担心 v/麻烦 n/别烦我
 Statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
-approximately/around/about           /əˈprɒksɪmətli/           大约,大概 adv
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
 Resolution    /ˌrezəˈluːʃ(ə)n/          决议,解决 n
@@ -418,6 +422,10 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+
+
+automated           自动化的
+Technical stack     技术栈
 (limited) lifetime        (有限)有效期,一生 n
 shutdown        关机 n
 extensively         大量地,频繁地 adv
@@ -625,7 +633,6 @@ Utilize(Utilise 英式)                 利用,使用 v
 succeed             成功 v
 by default          默认情况下 adv
 in use      在使用中 adv
-explicitly          清楚明确地 adv
 count           计数 v
 Collect     收集 v
 frequent/frequently(often)          经常地,频繁地 adj/adv
@@ -823,7 +830,6 @@ Remediation is ongoing and (is) expected to take approximately 1-3 hours        
 They’re not doing their jobs                他们没在干活,没履行职责
 Please release after 16:00 cutoff batch         请在16:00后进行release
 The contact person from SAS team                SAS团队的联系人
-Sorry to keep bothering you         很抱歉一次次打扰你
 There's no good solution (on this)           没什么好办法
 Same old problem, Jenkins is constantly unstable                    还是老问题,Jenkins 一直不稳定
 There was some misunderstanding for sth             有点误会
@@ -950,6 +956,7 @@ not a fan of sth            不推荐,不认可,不喜欢sth
 
 
 
+solve/resolve/address/get sorted            解决
 
 
 
@@ -977,7 +984,9 @@ not a fan of sth            不推荐,不认可,不喜欢sth
 
 
 
-
+won’t bother with sth           无需处理,忽略sth
+(won’t) bother doing(to do) sth     费心去做,花时间研究
+Sorry to keep bothering you         很抱歉一次次打扰你
 
 dialog/pop-up/prompt            大型完整配置弹窗/所有弹窗的通用统称/简短确认弹窗 n
 dialog/pop up/pop-up/prompt         对话框/弹窗,弹出式的 v,adj,n/弹窗,提示(框) v/n
@@ -991,9 +1000,6 @@ This error pops/popped up                           这个报错 经常/刚 出�
 
 (on) startup (company)      /ˈstɑːtʌp/     新成立的,刚创办的,(初创企业,初创公司) adj/开始，启动(开机自启) n
 start up(issues occurs when starting up the backend project)     /ˈstɑːt ʌp/      启动(服务/项目专用) v
-
-won’t bother with sth           无需处理,忽略sth
-bother to do sth                费心去做,花时间研究
 
 url         https://nexus.com/repository/download
 uri         /repository/download
@@ -1121,7 +1127,6 @@ useless         无用的,无效的 adj
 unused          未使用的,闲置的 adj
 valid/invalid       有效的 adj
 
-provision/Provisioning              提供,供应 v/配置 ?
 
 
 

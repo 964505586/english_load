@@ -80,7 +80,6 @@ characteristic                          特征,特点 n
 charge              收费,承担责任 v
 chief                               首要的,主要的 adj
 childhood                           童年 n
-clearly                             清楚地,清晰地 adv
 climate                             氛围,气候
 close down                          倒闭
 coincidence                         巧合 n
@@ -118,7 +117,6 @@ deceive                     欺骗 v
 declaration                                     声明 n
 declare                                         宣布,声明 v
 deeply                      深刻的
-definite/definitely                                清晰的,肯定地,明确地 adj/adv
 describe/description                    描述 v/n
 deserve                                 值得 v
 desire/desired                                  渴望,渴望的 n/v
@@ -409,7 +407,6 @@ recover/recovery                 恢复 v/n
 recycle         回收利用 v/n
 regard                              把...看作
 regret                      n 后悔(做了的),遗憾(未做的)
-regular/regularly                         定期地,有规律地 adj/adv
 relationship        关系 n
 relative                                亲戚 n/相对的,相比较而言的 adj
 relax    v 放松
