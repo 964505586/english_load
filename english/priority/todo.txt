@@ -431,6 +431,8 @@ I misunderstood(I got it/you wrong)             我理解错了/我理解错你�
 
 
 
+know as   也被称为
+TL;DR               Too Long; Didn't Read 一句话总结,摘要
 automated           自动化的
 Technical stack     技术栈
 (limited) lifetime        (有限)有效期,一生 n
@@ -900,9 +902,7 @@ some access may take some time to activate           部分权限需等待一段
 some permissions usually take some time to go live          有些权限通常需要一段时间才能生效
 Let's wait and see              我们先等等看
 Ideally, yes                理想情况下是的
-know as   也被称为
 I am thinking (if)... though        /ðəʊ/      不过我在想.../不过,可是,然而(前面说了一个意见,现在补充/转念一想另一个角度)
-TL;DR               Too Long; Didn't Read 一句话总结,摘要
 guides are available here          在此处可用,可查看
 package manager tool            包管理工具
 refer to sth                 参考,查阅 n
@@ -921,8 +921,7 @@ stick to the original plan            坚持 v
 multiple staff’s requests within a single submission
 I didn’t catch your last sentence/understand what you said at the end   没听懂你最后一句话
 in turn/Service A calls B, which in turn queries DB     继而,进而(插入性状语)/服务A调B,B继而去查询DB
-without doing sth       不做sth
-主句 with n doing     其中某人补充说明一件事,用来附带补充,拆分主次
+主句 with n doing/without doing sth     其中某人补充说明一件事,用来附带补充,拆分主次/不做sth
 too ... to/Jack has been too busy to send any emails        太什么...以至于不能
 As much as I would like to go, I have insufficient capacity     虽然我很想去,但我实在分身乏术
 Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
@@ -931,8 +930,7 @@ Can your local connect to pre-prod env and start the project ? will see if same 
 The backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
 Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
 Feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
-sth be subject to n       将会遭受,服从,有可能被
-sb suffer (from)        遭受,受苦(长期)
+sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,服从,有可能被
 stay current with n         持续跟进更新n
 The change will only take effect after the end date                 end_date后才生效
 Potential a change at backend level         后端层面可能会有change
