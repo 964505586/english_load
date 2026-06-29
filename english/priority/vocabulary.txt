@@ -26,7 +26,6 @@ Escalate/Escalation                 上报,升级 v
 cyber       网络的 adj
 pilot        试点的 adj/试点 n
 Foundational (branch)            基础的,基本的 adj
-oops        哎哟,啊呀,糟糕
 move/movement                    移动,措施,转移 n/动作 n
 engineering     工程,工程学 n
 powerful            强大的,有影响力的 adj
