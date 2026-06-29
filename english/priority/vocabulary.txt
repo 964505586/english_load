@@ -1,170 +1,224 @@
-Agenda                          议程
-Alert                           警报
-Adjust/adjustment               调整 v/n
-Bottom              底部
-Challenge                       质疑,挑战 v/n
-Chance                          机会 n
-Command                         命令 n
-Algorithm                       算法 n
-Alias                           别名 n
-Decision/decide             决定 n/v
-Define/definition                  定义 v/n
-Conflict                    冲突 n/v
-Notebook            笔记本,笔记本电脑 n
-Sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n
-status(情况, state/states)
-such                这种
-validate                 验证v
-restriction                  限制
-respond/response                 响应 v/n
-Proxy                 代理
-ingest                 摄取 v
-emphasize                   强调 v
-find                 查收 v
-Fraud                 欺诈 n
-confuse/Confusion               使困惑,使混乱 v/困惑,混乱 n
-insert          插入 v
-fact                 事实 n
-
-
-
-Access                          访问 v
-Adapt                           适应 v
-Adverse                         不利的 adj
-assure/Assurance                       保证 v/n
-buddy                           伙伴 n
-Classify/Classical                      分类,归类 v/经典的 adj
-Concise                     简洁的
-Confidential                  机密的 adj
-Critical                    关键的,严重的 adj
-Data set                    数据集 n
-Deny/denied                  否定 v
-Diagram                  图表 n
-Disclose                  泄露,透漏v
-distinguish                     认出,区别 v
-Domain                 领域 n
-Doubt                  疑问,疑惑 n
-dropdown (list)                 下拉(列表) n
-effective (action/measures)         有效的 adj
-efficiency                      效率 n
-Efficient/Inefficient                 高效的 adj/低效的
-Entity                 实体
-Estimate                                        估计,判断,评价 v
-Exchange                 交换 v/n
-Extension                 扩展
-extract             提取,抽取 v
-fail/failed/failure                             失败 v/n
-feature         特点,特性,功能 n
-fetch               获取,拉取 v
-flatter                 奉承,吹捧   you flatter me
-Function                 起作用,运转 v/功能 n
-generic             通用的 adj
-get rid of n                         摆脱sth
-gone                            消失
-hit                 匹配项 n
-incorporate                 合并 v
-inventory                   详细目录 n
-land            登陆 v
-learn/learned(learnt 英式)           学习 v
-life cycle                  生命周期
-lower(Upper) case/capital                    小/大 写字母/资本,资金,大写字母 n
-medium                 中等的 adj
-meet/met/met                遇见,满足 v
-navigate                    导航 v
-near                    近的,在附近 adj
-nested                 嵌套的
-Observation                         观察 n
-one-off                  一次性的
-Ordinary                普通的,平常的 adj
-Partial                 部分的 adj
-Permanently                 永久地/adv
-Populate                 填充 v
-Prefix/suffix                           前/后 缀 n
-program                         程序,节目 n
-Promotion                 晋升 n
-Recommend/recommendation                   建议,劝告,推荐 v/n
-refactor                  重构 v
-remediate/Remediation                   补救,修复 v/补救,纠正 n
-Responsibility                  责任 n
-rest                            余下的 n
-rich            丰富的 adj
-seriousness/serious/seriously           严重性 n/严重的,重要的 adj/adv
-Slightly                稍微,轻微地 adv
-slot                                    时间段,时段 n
-Stage                       阶段
-Stakeholder                  利益相关者
-Stick/Stuck/Stuck                   卡住 v
-strange/strangely/strangeness                        奇怪的,陌生的 adj/奇怪地,奇怪的是 adv/奇怪,陌生感 n
-strategy                                        战略,策略 n
-strongly                            坚定地,强有力地,强烈地 adv
-touch v                     触动,感动
-trainee                                     实习生 n
-Transparent                 透明的 adj
-uninstall                 卸载 v
-unzip                 解压 v
-up 向上
-vulnerability                 漏洞 n
-willing                 愿意的,乐意的 adj
-particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
-Action owner
-elementary problem                  低级问题
-Disable(enable)                 禁用,关闭,使失效/启用,开启 v
-Finalize/finalized                                    最终确定,敲定,完成 v
-Laptop              笔记本电脑 n
-Inherit                 继承 v
-Correct             纠错 v
-Regression              后退,倒退 n
-Acceptance criteria             验收标准
-Investigate/investigation                 调查 n
-Recipient           接收者 n
-feel free to v                请随意,尽管
-Constantly          总是,经常地,不断地
-Seek                    寻找 v
-annotation                                  注释 n
-Combine/combination                  结合,合并
-work out            制定,梳理,敲定
-absent                      缺勤的,缺席的 adj
-(harsh) complaint/complaints n          (激烈)抱怨
-revisit             再访 v/n
-Fluctuation             波动 n
-priority                    优先,优先权 n/优先的 adj
-Abnormal                反常的 adj
-precondition            前置条件,前提状态 n
-radio/checkbox (button)                           单选/复选框 n
-Transform               使转化 v
-Segmentation fault         段错误
-facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+know as   也被称为
+TL;DR               Too Long; Didn't Read 一句话总结,摘要
+automated           自动化的
+Technical stack     技术栈
+(limited) lifetime        (有限)有效期,一生 n
+shutdown        关机 n
+extensively         大量地,频繁地 adv
+directory       文件夹,目录 n
+desktop         桌面 n
+workstation         工作站 n
+modern/Modernization              现代的 adj/n
+self-service            自助服务
+read-only access            只读权限 n
+authenticate/authentication(auth)         认证 v/n
+as a whole          总体上,总的来说,整体来看 adv
+common used         常用
+advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
+portal          门户 n
+block/blocker         阻碍 v/n
+Comment (this piece of code)          注释,加注解 v/注释这段代码
+(Request) payload         有效负载 n
+(express) license     执照,许可证 n/正式书面授权
+express/expression          明确的 adj/表达 v/n
+Third-party     第三方
+Escalate/Escalation                 上报,升级 v
+cyber       网络的 adj
+pilot        试点的 adj/试点 n
+Foundational (branch)            基础的,基本的 adj
+oops        哎哟,啊呀,糟糕
+move/movement                    移动,措施,转移 n/动作 n
+engineering     工程,工程学 n
+powerful            强大的,有影响力的 adj
+production-ready        可上线投产的 adj
+shape/shaping           塑造,打造 v/形状,外形 n
+scale/scalable/Scalability       扩容,规模化部署 v/可扩展的 adj/可扩展性 n
+schedule/scheduled              计划,进度表 n/计划内的,预定的 adj
+shortening      缩短,变短,缩写 v
+half        一半,二分之一 n
+revert                 恢复,回复 v
+patch/patching       补丁,补片 n
+routine (maintenance)           常规,惯例 n/常规维护,日常保养
+disk            磁盘 n
+confidence          自信,信心,信任 n
+workshop            车间,工场,作坊 n
+shell company       空壳公司
+money mule          资金骡(洗钱中转人/中转企业)
+go public           上市,公开募股
+criminal            犯法的,犯罪的 adj/罪犯 n
+knowingly/unknowingly         不知情地,不知不觉地 adv
+adoption        采用,接受 n
+corrective (action)       纠正的,矫正的 adj/整改措施
+contain            包含,遏制 v
+entry (prerequisite)       进入,加入 n/准入前置条件
+lead time           任务耗时,处理时长 n
+hands-on (guidance)     实操指导
+apply straight away     直接落地,立刻投入使用 v
+implement           落地,部署 n/实现 v
+language        专业术语 n
+fit         适合,合身,匹配 n
+(Capabilities) roadmap         (功能)路线图 n
+issue identified                            识别到的问题
+round/Can we ask Jack to perform the final round of check (on this)     一轮,一遍 n/我们可以请Jack做最后一轮检查吗
+outstanding         遗留未解决的,杰出的,优秀的 adj
+shortly                             不久,很快 adv
+comment     评估 v
+connectivity        连通性,连接性 n
+DoR         Definition of Ready 就绪准入标准
+ahead of(before) sth            在sth之前
+as of 2026/6/12     截至指定日期
+Access application process      权限申请流程 n
+fine-tune           精细调优 n/精细地,细微的 adj/调校,调整,调节 v
+control             控制 v/管控 n
+where (it's) appropriate       在合适的场景/情形下
+development         制定,完善,构建 n
+Developer Usage Acknowledgement         开发者使用 承诺书/声明
+My Role Reference Guide         岗位职责指引/参考手册
+best practice               最佳实践
+security practices          安全规范
+failure to comply           未遵守,违规,不遵守
+progressive rollout         逐步部署,分阶段上线部署
+weekly          每周,每星期 adv
+driven by n     被n驱动,主导,制约
+revoke/revocation                 撤销 v/取消,撤回 n
+value                           价值,价值观 n
+sort                整理,分类,排序,解决 v
+recommended learning path           推荐学习路线 n
+junk            垃圾
+host/hosted/hosting             主办,举行,做东,托管,部署 v/主人,主持人 n
+final bit of work           收尾工作 n
+close down           收尾,完成 v
+instead     代替,顶替,反而 adv
+codebase            代码库 n
+snippet         小片,片断	 n
+datapoint           数据点 n
+re-platform         平台重构,系统迁移 n
+building block       基础模块,核心组件,积木块 n
+Feasible/Feasibility                可行的 adj/可行性 n
+somewhat            稍微,有点 adv
+maintain                            保持,维持,维护 v
+Clarify/Clarity                         澄清,阐明,明确 v/清晰 n
+role                角色,作用,职责 n
+the following day           第二天,翌日 n
+in place of n         代替
+be in place         已就绪,配置到位
+given n/that/time                    鉴于,考虑到.../给定的时间
+LHS/RHS         left/right-hand side 左手边
+presence        出席 n
+Suspect/Suspicious         怀疑 v/感到怀疑的,可疑的 adj
+User Access Review          用户访问权限审核
+outcome         结果 n
+end-to-end          端对端的 adj/adv
+built-in                内置的 adj
+on your calendar            你的日程
+ahead           在前的,提前的,未来的,即将到来的 adj
+audit/audited/auditable           审计 v,n/受审查的c受审计的 adj/可审计的 adj
+last            最后的,最近的 adj/持续 v
+subset              子集 n
+anything urgent             紧急事项 n
+Deadline/due date            截止日期 n
+open(to do) item                   待处理事项 n
+target/Objective               目的,目标 n
+Responsible owners          负责人
+work together           协同配合
+draft                                   起草,草拟 v/草稿 n
+(Estimated) Duration      (预估的)持续时间 n
+Phase           阶段 n
+visible/visibility      可见的 adj/可见性,能见度 n
+rolling restart     滚动重启 n
+1H/2H 2026/achievements     2026下半年/上半年成绩
+highlight           突出,强调 v
+(improving) context/contextual      /kənˈtekstʃuəl/     优化上下文/场景相关的,上下文的 adj
+disconnected            割裂的,零散的 adj
+session         课程场次,会议 n
+Specify/Specified/Specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确的,具体的地,特定的,特意的 adj/adv
+unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
+forward             向前,今后 adv/向前的 adj/转交 v
+map/maps/mapped/mapping         地图,分布图,映射 v
+onboarding          接入,上线 v
+upcoming                即将来临的 adj
+go live                 上线 v
+Align/alignment                  对齐 v/n
+(core) concept       (核心)概念 n
+Sequence diagram                时序图,顺序图 n
+violate/Violation               违反,违背,触犯 v/违规 n
+usage-based billing model       按使用量的计费模式
+Review              查阅 v
+during the Maintenance window           维护窗口期间
+powered by          由...开发/运营/提供技术支持/提供动力/驱动
+Associate/Associated (guidance)     联系 v/相关的,关联的,配套的 adj/相关指引,配套说明
+Measure         统计 v/统计,措施,办法 n
+alerts      通知 v/警报,告警 n
+flood       泛滥 n
+trigger     触发(器) v/n
+against         针对,面向,抵御,对照,对比,反对 v
+Capture         采集,捕获,截取 v
+Alias name/Individual other name          别名/个人别名,曾用名 n
+Natural person              自然人 n
+raw data                    原始数据 n
+Distribute/Distribution/Distributed locks          分发,分配 v/n    分布式锁 n
+terminate/terminal      终止 v    终端 adj/n
+OpCo        operating company       运营公司 n
+Terms of reference      职权范围 n
+Federated       联邦的 adj
+data Ingestion          数据接入,摄取 n
+map/mapped/mapping         地图,映射 n/映射 v
+(work) handover item/content/object            工作交接/交接项,内容,对象 n
+continued               持续的 adj
+inaccessible            不可及的 adj
+user base           用户群
+Retrospective           追溯性,回顾的 adj
+Caution/With some caution             小心,谨慎 n/谨慎地 adv
+precaution             预防措施 n
+almost              几乎,差不多
+freeze/freezes/froze/frozen         卡死,冻结,无响应
+chase/chased/chasing       跟进,催促 v
+logical             合情合理的,合乎逻辑的 adj
+workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
+real-time/in real time                 实时的 adj/adv
+Address                 解决,处理 v
+In detail           详细地 adv
+oversee                     统筹,监督 v
+take/took/taken
+FAQ/FAQs            Frequently asked questions      常见问题
+programmatically                通过编程方式 adv
+miss                错过,想念 v
+brief/briefly             简短的,简要的 adv
+announce/announcement                    宣布,公布 n/v
+standby             备用物 n
+bookmark        书签 n
+Outage                  停止供应期 n
+only               唯一的 adj
+queue               排队 v
+Time-saving/consuming           耗时的/省时的 adj
+per                     每,每一,按照,根据
+reverse                     相反的 adj
+range                       处于...之间 v
+rework      返工 v/n
+familiar            熟悉的 adj
+saving              节约,节省 n/节约的,节省的 adj
+(The risk of) human error             人为失误
+deliver                提供,交付 v
+Existing                 现有的 adj
+Outdated                过时的 adj
+trick                   技巧,小妙招,小窍门
+sync(synchronize)           同步 v/n
+Accumulated             累积的 adj
+problematic (code)            有问题的 adj/有问题的代码
+Utilize(Utilise 英式)                 利用,使用 v
+succeed             成功 v
+by default          默认情况下 adv
+in use      在使用中 adv
+count           计数 v
+Collect     收集 v
+frequent/frequently(often)          经常地,频繁地 adj/adv
+Short notice                紧急通知
+Organize            整理,组织,安排
+headphone(microphone)               双耳式耳机
+whatever        无论什么
+anyway          总之,反正
+Hold on            等一下,坚持住
+refactor        重构 v/n
 
 
 
