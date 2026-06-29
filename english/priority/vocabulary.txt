@@ -87,7 +87,6 @@ refactor                  重构 v
 remediate/Remediation                   补救,修复 v/补救,纠正 n
 Responsibility                  责任 n
 rest                            余下的 n
-retain                  保留
 rich            丰富的 adj
 seriousness/serious/seriously           严重性 n/严重的,重要的 adj/adv
 Slightly                稍微,轻微地 adv

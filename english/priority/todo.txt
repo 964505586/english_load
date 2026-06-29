@@ -29,6 +29,8 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 
 Pronunciation
+activate/reactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动 v
+failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败/连续的，不间断的 adj
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/              部署、配置,提供，供应 v/配置 n
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去、清除 v/清空、删除
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地，周期性地/定期地,有规律地 adj/adv
@@ -39,7 +41,6 @@ purge/removal/clear       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/移走
 explicitly/clearly/definitely      /ɪkˈsplɪsɪtli/          清楚明确地 adv/清楚地,清晰地 adv
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
-activate        /ˈæktɪveɪt/         激活 v
 eliminate/eliminating           /ɪˈlɪmɪneɪt/           剔除，根除 v/排除的 adj
 Privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
 Guard/guardrail   /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
@@ -221,7 +222,6 @@ Casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
 Syntax error        /ˈsɪntæks/      语法错误
 pros and cons       /prəʊz/ /kɒnz/      利弊
 merits and demerits     /ˈmerɪts/       优劣
-failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败
 Figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
 leverage (Spring Boot to simplify development)   /ˈliːvərɪdʒ/    利用 v/利用Spring Boot来简化开发
 snipaste
@@ -271,7 +271,13 @@ preRequisite            先决条件,必备条件 n/adj
 
 
 
+
+
+
 Replace:
+
+retain/retention                  保留 v/保持，保留；保存 n
+at least/minimum            至少 adv
 solve/resolve/address/get sorted            解决
 show/display/displayed            显示,展示 v/显示的 adj
 hear/listen/listen to          结果/过程 vi/vt
@@ -326,7 +332,7 @@ pending/TBD         待定的,待处理的 adj
 underway/ongoing/in progress         在进行的 adj
 a row/column filter         行/列 筛选器
 monitored/an External monitor       受监控的 adj/外接显示器 n
-continuous/continuously(in a row)       持续的,连续不断的,不间断的 adj/连续不断地 adv
+continuous/continuously/consecutive/in a row       持续的,连续不断的,不间断的 adj/连续不断地 adv
 (in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
 commit to/promise(make a promise)      承诺 v
 Cluster/Grid            集群 n
@@ -949,11 +955,14 @@ end up as sth           最终变成,最终格式为
 guide sb through sth        带sb一步步走完,逐项讲解sth
 lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 not a fan of sth            不推荐,不认可,不喜欢sth
+including at minimum        至少包含
 
 
 
-at least
-including at minimum: 至少包含
+
+
+
+
 
 
 
