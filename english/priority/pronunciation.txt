@@ -32,7 +32,6 @@ compute/computation/Calculate/calculation         /kəmˈpjuːt/         运算,
 truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 Prematurely/in advance         /ˌpriːməˈtʃʊrli/        过早地 adv/提前地 adv
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用，重复使用 v/可重复使用的,可以再度使用的 adj
-Minimized/(at) minimum      /ˈmɪnɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 thread/email chain      /θred/          邮件会话,邮件串联对话 n/邮件往来记录,邮件链 n
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
@@ -235,6 +234,34 @@ typology                        类型学,分类体系 n
 prioritize/deprioritize/prioritize this now      /praɪˈɒrətaɪz/     优先处理,把sth放在优先位置 v/降低优先级别
 @       at
 preRequisite            先决条件,必备条件 n/adj
+forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
+continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
+Protocol        /ˈproʊtəkɑːl/       协议；流程规范 n
+(Data) Volume     /ˈvɑːljəm/     数据量
+(Query) Concurrency/Frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数；频繁；频率
+deactivate/deactivation        /diːæktɪˈveɪʃən/        停用、注销 v/n
+vulnerable      /ˈvʌlnərəb(ə)l/         存在漏洞的、易受攻击的 adj
+(apply for/take/get) a waiver      /ˈweɪvər/       豁免,放弃 n
+Minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

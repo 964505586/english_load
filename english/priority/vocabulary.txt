@@ -218,6 +218,11 @@ whatever        无论什么
 anyway          总之,反正
 Hold on            等一下,坚持住
 refactor        重构 v/n
+just asking     只是问问
+Find out more       了解更多
+multimodal model     多模态(模型)
+significant/significantly       显著地、大幅度地；重要地 adj/adv
+dropdown (list)                 下拉(列表) n
 
 
 

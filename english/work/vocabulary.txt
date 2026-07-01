@@ -44,7 +44,6 @@ Disclose                  泄露,透漏v
 distinguish                     认出,区别 v
 Domain                 领域 n
 Doubt                  疑问,疑惑 n
-dropdown (list)                 下拉(列表) n
 effective (action/measures)         有效的 adj
 efficiency                      效率 n
 Efficient/Inefficient                 高效的 adj/低效的
