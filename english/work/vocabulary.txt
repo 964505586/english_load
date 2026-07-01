@@ -119,7 +119,6 @@ Recipient           接收者 n
 feel free to v                请随意,尽管
 Constantly          总是,经常地,不断地
 Seek                    寻找 v
-annotation                                  注释 n
 Combine/combination                  结合,合并
 work out            制定,梳理,敲定
 absent                      缺勤的,缺席的 adj

@@ -3,14 +3,12 @@ failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败/�
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/              部署,配置,提供,供应 v/配置 n
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
-approximately/roughly/around/about      /əˈprɒksɪmətli/ /ˈrʌfli/       大约,大概 adv/粗略地,大约 adv
 execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
 definite/definitely/definition/explicitly/clearly          /ˈdefɪnət/      清晰的,肯定地,明确地 adj/adv
 purge/removal/clear       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/移走,去掉,消除,清除 n
 explicitly/clearly/definitely      /ɪkˈsplɪsɪtli/          清楚明确地 adv/清楚地,清晰地 adv
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
-eliminate/eliminating           /ɪˈlɪmɪneɪt/           剔除,根除 v/排除的 adj
 Privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
 Guard/guardrail   /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 paste (in/into/here)       /peɪst/ /peɪst ɪn/         粘贴 v/粘贴进去
@@ -81,7 +79,6 @@ opt out of      /ɒpt aʊt əv/      选择退出 v
 Represent/Representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 prohibit/prohibited/prohibitive/forbid/ban  /prəˈhɪbɪtɪd/ /prəˈhɪbətɪv/ /bæn/   禁止,阻止 v/禁止的 adj/禁止 v/(n,v)(弱中强)
 fellow      /ˈfeləʊ/              同类的,同伴的 adj
-readiness/ready     /ˈredinəs/     准备就绪状态 n
 commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
 experience(好/坏/普通)/undergo(只接艰难,痛苦,漫长,被动承受的事)   /ˌʌndəˈɡəʊ/     经历,经受 v
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
@@ -140,7 +137,6 @@ middleware      /ˈmɪdlweə(r)/       中间件 n
 simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v
 inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
-loop sb in/looping Jack in for visibility/Awareness     /luːp/     把sb拉进圈子/让Jack参与进来
 Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
 Mobilize/Coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
@@ -245,6 +241,20 @@ vulnerable      /ˈvʌlnərəb(ə)l/         存在漏洞的,易受攻击的 adj
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
 spawn/spawning        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
+approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
+readiness/ready     /ˈredinəs/     准备就绪状态 n
+loop sb in/looping Jack in for visibility/Awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
+mitigate/mitigation (the risk)       /ˈmɪtɪɡeɪt/       减轻，缓和 v/缓解风险
+eliminate/eliminating           /ɪˈlɪmɪneɪt/           剔除,根除 v/排除的 adj
+
+
+
+
+
+
+
+
+
 
 
 

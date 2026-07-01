@@ -17,7 +17,6 @@ common used         常用
 advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 portal          门户 n
 block/blocker         阻碍 v/n
-Comment (this piece of code)          注释,加注解 v/注释这段代码
 (Request) payload         有效负载 n
 (express) license     执照,许可证 n/正式书面授权
 express/expression          明确的 adj/表达 v/n
@@ -64,7 +63,6 @@ shortly                             不久,很快 adv
 comment     评估 v
 connectivity        连通性,连接性 n
 DoR         Definition of Ready 就绪准入标准
-ahead of(before) sth            在sth之前
 as of 2026/6/12     截至指定日期
 Access application process      权限申请流程 n
 fine-tune           精细调优 n/精细地,细微的 adj/调校,调整,调节 v
@@ -222,7 +220,13 @@ Find out more       了解更多
 multimodal model     多模态(模型)
 significant/significantly       显著地,大幅度地；重要地 adj/adv
 dropdown (list)                 下拉(列表) n
-mix             混合 v/n
+as needed       按需 adv
+mix (A with B)             混合 v/n/把A和B混合
+by COB today        Close of Business   今日下班前
+regroup     复盘碰头，重新组合 v
+baseline/re-baseline        基线，基准 n/重新设定基线 v
+(class/method/custom) annotation          注释，注解 n
+comment (out) this piece of code          注释 v,n/代码加注释/注释掉这段代码
 
 
 
