@@ -320,7 +320,7 @@ Don't hardcode plaintext passwords in source files          禁止在源码文�
 Plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
 You’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
 You’ll leave with sth(walk away with)       你会带着
-move beyond A to B              超越A，转而成为B
+move beyond A to B              超越A,转而成为B
 be supposed to do                       应该做sth
 We likely need to           我们可能需要
 Can you reproduce this issue/Can this issue be reproduced       你能复现这个问题吗?
@@ -330,8 +330,9 @@ guide sb through sth        带sb一步步走完,逐项讲解sth
 lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 not a fan of sth            不推荐,不认可,不喜欢sth
 not entirely sure/i'm not sure that(about sb/sth)        不完全确定/我不确定~
-will bring this up during our standup and hopefully we can find a solution  会在每日站会上提出这个问题，争取能找到解决办法
+will bring this up during our standup and hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
 how long do you expect it to take to fix        预计修复需要多久能完成
+(I was wondering) how come that       为什么、怎么会/我在想,为什么
 
 
 

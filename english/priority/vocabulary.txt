@@ -176,7 +176,6 @@ logical             合情合理的,合乎逻辑的 adj
 workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
 real-time/in real time                 实时的 adj/adv
 Address                 解决,处理 v
-In detail           详细地 adv
 oversee                     统筹,监督 v
 take/took/taken
 FAQ/FAQs            Frequently asked questions      常见问题
@@ -223,6 +222,7 @@ Find out more       了解更多
 multimodal model     多模态(模型)
 significant/significantly       显著地、大幅度地；重要地 adj/adv
 dropdown (list)                 下拉(列表) n
+mix             混合 v/n
 
 
 
