@@ -72,7 +72,6 @@ outline the task status/overview     /ˈaʊtlaɪn/      概述,简述 v
 discard/Dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
 participate/participant     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n
 attendee/(Related) Parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
-initial/initiate/initiative     /ɪˈnɪʃieɪt/ /ɪˈnɪʃətɪv/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n
 Stay tuned/please bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 opt out of      /ɒpt aʊt əv/      选择退出 v
@@ -244,8 +243,18 @@ spawn/spawning        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
 approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
-mitigate/mitigation (the risk)       /ˈmɪtɪɡeɪt/       减轻，缓和 v/缓解风险
+mitigate/mitigation (the risk)       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险
 eliminate/eliminating           /ɪˈlɪmɪneɪt/           剔除,根除 v/排除的 adj
+crime       /kraɪm/     罪,罪行,犯罪 n
+territory       /ˈterətɔːri/        领地,领域 n
+prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
+imply/mean       /ɪmˈplaɪ/       暗示,暗指,意味着 v
+pin up/Pinned      /ˈpɪn ʌp/       置顶,挂图 v/已置顶的 adj
+initial/initiate/initiative/initiating person     /ɪˈnɪʃieɪt/ /ɪˈnɪʃieɪtɪŋ/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n/发起人
+
+
+
+
 
 
 

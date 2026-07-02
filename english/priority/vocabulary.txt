@@ -149,7 +149,6 @@ alerts      通知 v/警报,告警 n
 flood       泛滥 n
 trigger     触发(器) v/n
 against         针对,面向,抵御,对照,对比,反对 v
-Capture         采集,捕获,截取 v
 Alias name/Individual other name          别名/个人别名,曾用名 n
 Natural person              自然人 n
 raw data                    原始数据 n
@@ -223,10 +222,17 @@ dropdown (list)                 下拉(列表) n
 as needed       按需 adv
 mix (A with B)             混合 v/n/把A和B混合
 by COB today        Close of Business   今日下班前
-regroup     复盘碰头，重新组合 v
-baseline/re-baseline        基线，基准 n/重新设定基线 v
-(class/method/custom) annotation          注释，注解 n
+regroup     复盘碰头,重新组合 v
+baseline/re-baseline        基线,基准 n/重新设定基线 v
+(class/method/custom) annotation          注释,注解 n
 comment (out) this piece of code          注释 v,n/代码加注释/注释掉这段代码
+order           命令,排列,订购/订单 v/n
+audit trail     审计追踪,审计日志
+capture         采集,捕获,截取 v
+enforce/enforcing       强制执行、强制生效 v
+(first/prior) entry           条目、单行记录 n/首条,先前条目,历史记录
+document/raise a ticket to document the backend airflow in Confluence       记录,记载 v/在Confluence记录backend的airflow
+over time       随着时间流逝
 
 
 

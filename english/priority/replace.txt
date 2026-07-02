@@ -138,9 +138,11 @@ retry/take/allow/keep up to 3 times/hours on failure   (失败时)最多重试3�
 In particular/detail/specifically       具体来说/详细地 adv
 let's say for/such as/for example       举例来说/多个例子/举例1–2个
 at times/sometimes        偶尔,时不时,有时 adv
-ahead of deployment/before sth            在deployment之前
+ahead of deployment/before/prior            在deployment之前 prep/adj
 if so/desired/necessary           如果这样/需要/必要
 move/remove/shift       挪动、更改/移除、删掉/移动,转移,偏移、延后
+Aside from/except/other than      除...以外 +-/-/-
+rather than/instead of     而不是/代替,而不是
 
 
 
