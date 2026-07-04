@@ -20,7 +20,7 @@ go/work/walk through          经历,逐条梳理,过一遍/解决/完整讲解,
 internal/external           内部的/外部的 adj
 update/progress      进展 n
 formal/informal/official        正式的,规范的,合法的 adj/非正式的 adj
-actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的想法,可落地的实操方案
+actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的,可落地的 adj
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
@@ -143,6 +143,11 @@ if so/desired/necessary           如果这样/需要/必要
 move/remove/shift       挪动、更改/移除、删掉/移动,转移,偏移、延后
 Aside from/except/other than      除...以外 +-/-/-
 rather than/instead of     而不是/代替,而不是
+most/almost/Majority            很多,模糊不精确 adj/adv/近全满 adv/必过半 n
+out of/from     来自、出自
+(app) lossless compression/compress        无损的 adj/压缩 v/n/无损压缩应用
+
+
 
 
 
