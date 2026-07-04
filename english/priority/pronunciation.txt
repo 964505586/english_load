@@ -53,7 +53,6 @@ legal/illegal/illegally/legitimate/rightful/formal      /lɪˈdʒɪtɪmət/     
 (security) hygiene      /ˈhaɪdʒiːn/         卫生 n/安全基线,安全合规
 transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v,n/转变,转换 n
 recruit         /rɪˈkruːt/      招聘,招收,招募 v
-raise funds     /fʌnd/         募资,融资
 partner     /ˈpɑːtnə(r)/        搭档 n
 throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及,到处,自始至终,贯穿整个时期 adv/prep
 demo/demonstrate/demonstrating       /ˈdemənstreɪt/          证明,示范,演示 v/n
@@ -150,7 +149,6 @@ Comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
 whole/entire            全部的,整个的 adj
 overview/overall/comprehensive    /ˌkɒmprɪˈhensɪv/    概述 n,v/总的,全面的 adj,adv/综合性的,全面的 adj
 Protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
-Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
@@ -248,10 +246,25 @@ eliminate/eliminating           /ɪˈlɪmɪneɪt/           剔除,根除 v/排�
 crime       /kraɪm/     罪,罪行,犯罪 n
 territory       /ˈterətɔːri/        领地,领域 n
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
-imply/mean       /ɪmˈplaɪ/       暗示,暗指,意味着 v
 pin up/Pinned      /ˈpɪn ʌp/       置顶,挂图 v/已置顶的 adj
 initial/initiate/initiative/initiating person     /ɪˈnɪʃieɪt/ /ɪˈnɪʃieɪtɪŋ/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n/发起人
 target/targeting/objective      /ˈtɑːɡɪtɪŋ/               目的,目标 n
+(is this an urgent) referral        /rɪˈfɜːrəl/        转介,转送,转诊 n
+in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺序的 adj
+cater       /ˈkeɪtər/           满足、迎合
+(cash) deposit         /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款
+(cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/现金存款阈值
+classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类，分级；类别 n
+(raise) fund        /fʌnd/        资金 n/募资,融资
+appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨、拨付 n/挪用、侵占/挪用客户资金
+Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
+case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
+preserve/preserving/retain/remain      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留、维持 v/保留，保存 n
+counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
+imply/mean/hint       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示、说明 n
+counterpart     /ˈkaʊntərpɑːrt/     对应物 n
+trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
+equality/equality-only        /iˈkwɑːləti/        平等 n/仅支持等值匹配的 adj
 
 
 
@@ -259,6 +272,17 @@ target/targeting/objective      /ˈtɑːɡɪtɪŋ/               目的,目标 n
 
 
 
+
+
+
+adding a new button could be confusing
+asking this coz it sounded like we want a new button for it
+failed to push some refs to
+24 am 7111 cash deposit this customer has exceeded the daily cash deposit threshold of
+exceed the daily cash deposit threshold         超过每日现金存款阈值
+provide full justifications in the 'remarks' section            在“备注”栏中提供充分理由
+if you believe a higher cash deposit threshold is more appropriate going forward
+what is this referral concerning
 
 
 

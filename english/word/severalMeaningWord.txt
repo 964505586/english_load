@@ -26,7 +26,6 @@ please                          取悦,使开心/满意 v
 pretty                          非常 adv
 primary                         初级的,主要的,基本的 adj
 right                           权力
-save                            节省 v
 seat                            使坐下 v
 share                           股份,份额 n
 still                           静止的 adj

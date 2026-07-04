@@ -91,7 +91,6 @@ commonly                                        通常 adv
 communicate/communication                             沟通,交流 v/n
 community                               社区 n
 conceal             隐藏,隐瞒 v
-concern               担心,忧虑 n    关于 v
 condition        条件
 confidence/confident           自信 n/adj
 congratulate/congratulation            祝贺 v/n
@@ -131,7 +130,7 @@ disturb/disturbing                     打扰,妨碍 v/令人不安的,引起恐
 diy                                             Do It Yourself
 domestic/domestically                           国内的 adj/adv
 dormitory    宿舍
-double                      两倍的 adj/adv/n       加倍 v
+double                      两倍的 adj/adv/n/加倍 v
 dramatically                            明显地,剧烈地,夸张地 adv
 early/earlier/earliest                          早的/更早的/最早的 adj/adv
 ease                                            减轻,缓和 v
@@ -143,14 +142,13 @@ emergency                   紧急情况 n/adj
 emotion                     感情,情感,情绪 n
 employment                  雇用 n
 enable                              使能够 v
-encounter                   遭遇 v        偶遇,邂逅 n/v
+encounter                   遭遇 v/偶遇,邂逅 n/v
 energetic        adj 精力充沛的
 energy                      精力
 enjoyable                           令人愉快的 adj
 ensure                                          确保,保证 v
 envy                        羡慕 v/n
-equal           相等的,相同的 adj     等于 v
-equality                                        平等 n
+equal           相等的,相同的 adj/等于 v
 equip                               装备 v
 escape                              逃跑 v/n
 ever since                          自从,从那时起一直到现在
@@ -301,7 +299,6 @@ lodging house                                   寄宿房
 lonely                      孤独的
 lose face                   丢脸
 lose sight of sth                   忽略
-loss                            失去 n
 loudly(in a loud voice)                             大声地 adv
 lovely                        可爱的
 madness                         疯狂,愚蠢的行为 n
@@ -403,7 +400,6 @@ reasonable            合理的
 recall                      记起,回想起,撤回 v
 recognize                           辨别出 v
 recover/recovery                 恢复 v/n
-recycle         回收利用 v/n
 regard                              把...看作
 regret                      n 后悔(做了的),遗憾(未做的)
 relationship        关系 n

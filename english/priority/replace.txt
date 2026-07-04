@@ -1,4 +1,3 @@
-retain/retention                  保留 v/保持,保留；保存 n
 solve/resolve/address/get sorted            解决
 show/display/displayed            显示,展示 v/显示的 adj
 hear/listen/listen to          结果/过程 vi/vt
@@ -82,10 +81,8 @@ self/internal/(my/our own) check            自测
 with n/there is ...
 alright(all right)
 I'll reboot/restart it. it's freezing badly(super laggy /ˈlæɡi/)        重新启动 v/n(我要重启下,卡的不行了)
-any concerns(question)          任何顾虑
 mention/say            提到,谈到 v
 lead/led to n(cause)                           导致
-Classify/Categorize             分类,分级,归类/归类,分组 v
 Notice/saw
 detect/check                  检测,探测/检查 v
 perhaps/maybe
@@ -145,6 +142,11 @@ Aside from/except/other than      除...以外 +-/-/-
 rather than/instead of     而不是/代替,而不是
 most/almost/Majority            很多,模糊不精确 adj/adv/近全满 adv/必过半 n
 (app) lossless compression/compress        无损的 adj/压缩 v/n/无损压缩应用
+typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
+save/saved amount          节省 v/挽回的 adj/挽回金额
+sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,受制于,服从,有可能被
+
+
 
 
 

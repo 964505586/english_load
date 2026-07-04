@@ -31,9 +31,7 @@ fact                 事实 n
 Access                          访问 v
 Adapt                           适应 v
 Adverse                         不利的 adj
-assure/Assurance                       保证 v/n
 buddy                           伙伴 n
-Classify/Classical                      分类,归类 v/经典的 adj
 Concise                     简洁的
 Confidential                  机密的 adj
 Critical                    关键的,严重的 adj

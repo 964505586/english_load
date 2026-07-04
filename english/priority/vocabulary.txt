@@ -234,6 +234,17 @@ over time       随着时间流逝
 traffic         流量,交通
 Actionable Intelligence Platform        可落地智能平台
 against         针对,面向,抵御,对照,对比,反对,违反 v
+cash        兑现 v/现金 n
+const(construction)         建造,建筑,建筑材料 n
+recycle         复用,回收利用 v/n
+(financial crime) concern           顾虑，担心,忧虑 n/财务犯罪顾虑
+actual loss (amount)        失去,损失 n/实际损失金额
+SIC     Standard Industrial Classification 标准行业分类
+cash deposit machine-bulk/large       大额现金自助存款机
+pocket guide            口袋指南
+(quality) assurance/assure          保证 n/v/质量保证
+daily (meeting)       每日,日常 adv/adj
+tip     最新提交(Git专业术语：分支末端最新提交节点)
 
 
 
