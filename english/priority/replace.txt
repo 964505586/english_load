@@ -145,6 +145,10 @@ most/almost/Majority            很多,模糊不精确 adj/adv/近全满 adv/必
 typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
 save/saved amount          节省 v/挽回的 adj/挽回金额
 sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,受制于,服从,有可能被
+confuse/confused/confusing        使糊涂 ,使迷惑 v/困惑的 ,糊涂的 adj
+refer to sth/reference       参考,查阅 v/参考,引用 n
+appropriate/appropriately/properly      适当的,合适的 adj/adv/正确地,适当地
+(financial crime) concern/concerning        顾虑 ,担心,忧虑 n/财务犯罪顾虑/关于,涉及 v/prep
 
 
 

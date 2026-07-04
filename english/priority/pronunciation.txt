@@ -253,13 +253,13 @@ target/targeting/objective      /ˈtɑːɡɪtɪŋ/               目的,目标 n
 in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺序的 adj
 cater       /ˈkeɪtər/           满足、迎合
 (cash) deposit         /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款
-(cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/现金存款阈值
-classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类，分级；类别 n
+(exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
+classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类 ,分级；类别 n
 (raise) fund        /fʌnd/        资金 n/募资,融资
 appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨、拨付 n/挪用、侵占/挪用客户资金
 Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
-preserve/preserving/retain/remain      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留、维持 v/保留，保存 n
+preserve/preserving/retain/remain      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留、维持 v/保留 ,保存 n
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
 imply/mean/hint       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示、说明 n
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
@@ -275,14 +275,13 @@ equality/equality-only        /iˈkwɑːləti/        平等 n/仅支持等值�
 
 
 
-adding a new button could be confusing
-asking this coz it sounded like we want a new button for it
-failed to push some refs to
-24 am 7111 cash deposit this customer has exceeded the daily cash deposit threshold of
-exceed the daily cash deposit threshold         超过每日现金存款阈值
-provide full justifications in the 'remarks' section            在“备注”栏中提供充分理由
-if you believe a higher cash deposit threshold is more appropriate going forward
-what is this referral concerning
+
+
+
+
+
+
+
 
 
 
