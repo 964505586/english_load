@@ -140,13 +140,11 @@ let's say for/such as/for example       举例来说/多个例子/举例1–2个
 at times/sometimes        偶尔,时不时,有时 adv
 ahead of deployment/before/prior            在deployment之前 prep/adj
 if so/desired/necessary           如果这样/需要/必要
-move/remove/shift       挪动、更改/移除、删掉/移动,转移,偏移、延后
+move/remove/shift       挪动,更改/移除,删掉/移动,转移,偏移,延后
 Aside from/except/other than      除...以外 +-/-/-
 rather than/instead of     而不是/代替,而不是
 most/almost/Majority            很多,模糊不精确 adj/adv/近全满 adv/必过半 n
-out of/from     来自、出自
 (app) lossless compression/compress        无损的 adj/压缩 v/n/无损压缩应用
-
 
 
 

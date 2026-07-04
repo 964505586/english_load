@@ -227,8 +227,8 @@ comment (out) this piece of code          注释 v,n/代码加注释/注释掉�
 order           命令,排列,订购/订单 v/n
 audit trail     审计追踪,审计日志
 capture         采集,捕获,截取 v
-enforce/enforcing       强制执行、强制生效 v
-(first/prior) entry           条目、单行记录 n/首条,先前条目,历史记录
+enforce/enforcing       强制执行,强制生效 v
+(first/prior) entry           条目,单行记录 n/首条,先前条目,历史记录
 document/raise a ticket to document the backend airflow in Confluence       记录,记载 v/在Confluence记录backend的airflow
 over time       随着时间流逝
 traffic         流量,交通
