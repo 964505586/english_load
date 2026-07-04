@@ -229,7 +229,7 @@ prioritize/deprioritize/prioritize this now      /praɪˈɒrətaɪz/     优先�
 preRequisite            先决条件,必备条件 n/adj
 forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
 continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
-(query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数；频繁；频率
+(query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
 (apply for/take/get) a waiver      /ˈweɪvər/       豁免,放弃 n
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
@@ -249,22 +249,40 @@ in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺
 cater       /ˈkeɪtər/           满足、迎合
 (cash) deposit         /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款
 (exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
-classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类 ,分级；类别 n
+classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类,分级,类别 n
 (raise) fund        /fʌnd/        资金 n/募资,融资
 appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨、拨付 n/挪用、侵占/挪用客户资金
 Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
-preserve/preserving/retain/remain      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留、维持 v/保留 ,保存 n
+preserve/preserving/retain/remain      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留、维持 v/保留,保存 n
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
 imply/mean/hint       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示、说明 n
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
 trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
 equality/equality-only        /iˈkwɑːləti/        平等 n/仅支持等值匹配的 adj
-protocol/agreement        /ˈproʊtəkɑːl/       协议；流程规范 n/协议,协定 n
 (data) volume/size     /ˈvɑːljəm/     数据量
 deactivate (account)/deactivation        /diːæktɪˈveɪʃən/        停用,注销 v/n/注销账户
 vulnerable (code)      /ˈvʌlnərəb(ə)l/         存在漏洞的,易受攻击的 adj
 spawn/spawning/generate        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
+layout      /ˈleɪaʊt/          布局,排版 n
+protocol/agreement/agreed      /ˈproʊtəkɑːl/       协议,流程规范 n/协议,协定 n/约定好的,同意的 adj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

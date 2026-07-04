@@ -58,7 +58,6 @@ fit         适合,合身,匹配 n
 (Capabilities) roadmap         (功能)路线图 n
 issue identified                            识别到的问题
 round/Can we ask Jack to perform the final round of check (on this)     一轮,一遍 n/我们可以请Jack做最后一轮检查吗
-outstanding         遗留未解决的,杰出的,优秀的 adj
 shortly                             不久,很快 adv
 comment     评估 v
 connectivity        连通性,连接性 n
@@ -215,7 +214,7 @@ refactor        重构 v/n
 just asking     只是问问
 Find out more       了解更多
 multimodal model     多模态(模型)
-significant/significantly       显著地,大幅度地；重要地 adj/adv
+significant/significantly       显著地,大幅度地,重要地 adj/adv
 dropdown (list)                 下拉(列表) n
 as needed       按需 adv
 mix (A with B)             混合 v/n/把A和B混合
@@ -224,7 +223,6 @@ regroup     复盘碰头,重新组合 v
 baseline/re-baseline        基线,基准 n/重新设定基线 v
 (class/method/custom) annotation          注释,注解 n
 comment (out) this piece of code          注释 v,n/代码加注释/注释掉这段代码
-order           命令,排列,订购/订单 v/n
 audit trail     审计追踪,审计日志
 capture         采集,捕获,截取 v
 enforce/enforcing       强制执行,强制生效 v
@@ -244,6 +242,9 @@ pocket guide            口袋指南
 (quality) assurance/assure          保证 n/v/质量保证
 daily (meeting)       每日,日常 adv/adj
 tip     最新提交(Git专业术语：分支末端最新提交节点)
+(professional) judgement/judge      判断,意见,判断力 n/判断,评判,评价 v/专业判断
+if applicable       若可以，如果合适，如果适用
+outstanding (defect)         未解决的,杰出的,优秀的 adj/严重缺陷
 
 
 

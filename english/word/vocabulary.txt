@@ -342,7 +342,6 @@ organised                           有组织的 adj
 originate                       起源 v
 ought to                                应该
 out of breath                       喘不过气来,上气不接下气
-out of order                    不按顺序的
 outlook                                         看法,态度 n
 outside/outsides                     在外面 adv         外边的 adj
 over the moon               兴高采烈,欣喜若狂
@@ -448,7 +447,6 @@ stress/stressful                          压力 n/紧张的,压力大的 adj
 strongly suggest                        强烈建议 v
 structure                       结构 n
 stupid                  笨的,傻的 adj           傻瓜,笨蛋 n
-subjective                      主观的 adj
 success/succeed/successful/successfully              n/v/adj/adv
 suddenly                            突然的
 sugar-free                          无糖的
@@ -530,7 +528,6 @@ capitalist                 资本家 n
 prepare/preparation     准备 v/n
 mission                 使命 n
 Determine                  决定 v
-judge/Judgment          评判,判断,评价 v/判断 n
 and then                    于是,然后
 
 

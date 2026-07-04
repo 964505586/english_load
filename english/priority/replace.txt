@@ -1,7 +1,7 @@
 solve/resolve/address/get sorted            解决
 show/display/displayed            显示,展示 v/显示的 adj
 hear/listen/listen to          结果/过程 vi/vt
-As per n/according to n/based on n/as for n             根据/基于 n
+As per/according to/based on n/as for (me)             根据/基于n/至于/对我来说
 uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未被选中的,未勾选的 v
 introduce risk/cause incidents(failures)        引进,引入 v
 top/bottom left/right corner        左上角,右下角
@@ -93,7 +93,7 @@ However/but
 Therefore/Hence/so n/句子
 faced/reported/raised/encountered
 Formula(algorithm)                     公式 n
-as for n(regarding)  至于n(As for that point you mentioned previously)
+as for n(regarding)  至于n/As for that point you mentioned previously     至于你之前提到的这一点
 Procedure/step               做事的具体步骤 (Process: 整件事的过程)
 Criteria/standard                标准 n
 Propose/proposal                        提议,建议 v/n
@@ -145,10 +145,15 @@ most/almost/Majority            很多,模糊不精确 adj/adv/近全满 adv/必
 typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
 save/saved amount          节省 v/挽回的 adj/挽回金额
 sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,受制于,服从,有可能被
-confuse/confused/confusing        使糊涂 ,使迷惑 v/困惑的 ,糊涂的 adj
+confuse/confused/confusing        使糊涂,使迷惑 v/困惑的,糊涂的 adj
 refer to sth/reference       参考,查阅 v/参考,引用 n
 appropriate/appropriately/properly      适当的,合适的 adj/adv/正确地,适当地
-(financial crime) concern/concerning        顾虑 ,担心,忧虑 n/财务犯罪顾虑/关于,涉及 v/prep
+(financial crime) concern/concerning        顾虑,担心,忧虑 n/财务犯罪顾虑/关于,涉及 v/prep
+subject (customer)/subjective     目标的 adj/目标客户/主观的 adj
+the case currently displayed/(which is) open on the page        当前页面显示的case
+(be careful with your) wording       措词，用词 v/n/注意你的措辞
+
+
 
 
 
