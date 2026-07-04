@@ -229,15 +229,10 @@ prioritize/deprioritize/prioritize this now      /praɪˈɒrətaɪz/     优先�
 preRequisite            先决条件,必备条件 n/adj
 forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
 continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
-protocol        /ˈproʊtəkɑːl/       协议；流程规范 n
-(data) volume     /ˈvɑːljəm/     数据量
 (query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数；频繁；频率
-deactivate/deactivation        /diːæktɪˈveɪʃən/        停用,注销 v/n
-vulnerable      /ˈvʌlnərəb(ə)l/         存在漏洞的,易受攻击的 adj
 (apply for/take/get) a waiver      /ˈweɪvər/       豁免,放弃 n
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
-spawn/spawning        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
 approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
@@ -265,6 +260,12 @@ imply/mean/hint       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗�
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
 trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
 equality/equality-only        /iˈkwɑːləti/        平等 n/仅支持等值匹配的 adj
+protocol/agreement        /ˈproʊtəkɑːl/       协议；流程规范 n/协议,协定 n
+(data) volume/size     /ˈvɑːljəm/     数据量
+deactivate (account)/deactivation        /diːæktɪˈveɪʃən/        停用,注销 v/n/注销账户
+vulnerable (code)      /ˈvʌlnərəb(ə)l/         存在漏洞的,易受攻击的 adj
+spawn/spawning/generate        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
+
 
 
 
