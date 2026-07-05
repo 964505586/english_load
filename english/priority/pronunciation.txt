@@ -210,7 +210,7 @@ scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 urge        /ɜːdʒ/            敦促,催促 v
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
 Obtain/gain/get                  /əbˈteɪn/   得到,获得
-Redundant               /rɪˈdʌndənt/        多余的 adj
+Redundant/useless               /rɪˈdʌndənt/        多余的 adj
 shown                   /ʃəʊn/
 hotkey          快捷键 n       /hɒt/
 editable            /ˈedɪtəbl/          可编辑的 adj
@@ -233,28 +233,22 @@ continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,�
 (apply for/take/get) a waiver      /ˈweɪvər/       豁免,放弃 n
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
-approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 mitigate/mitigation (the risk)       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险
-eliminate/eliminating           /ɪˈlɪmɪneɪt/           剔除,根除 v/排除的 adj
 crime       /kraɪm/     罪,罪行,犯罪 n
 territory       /ˈterətɔːri/        领地,领域 n
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 pin up/Pinned      /ˈpɪn ʌp/       置顶,挂图 v/已置顶的 adj
 initial/initiate/initiative/initiating person     /ɪˈnɪʃieɪt/ /ɪˈnɪʃieɪtɪŋ/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n/发起人
-target/targeting/objective      /ˈtɑːɡɪtɪŋ/               目的,目标 n
 (is this an urgent) referral        /rɪˈfɜːrəl/        转介,转送,转诊 n
 in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺序的 adj
-cater       /ˈkeɪtər/           满足、迎合
 (cash) deposit         /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款
-(exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
 classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类,分级,类别 n
 (raise) fund        /fʌnd/        资金 n/募资,融资
 appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨、拨付 n/挪用、侵占/挪用客户资金
 Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
-preserve/preserving/retain/remain      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留、维持 v/保留,保存 n
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
 imply/mean/hint       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示、说明 n
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
@@ -263,20 +257,27 @@ equality/equality-only        /iˈkwɑːləti/        平等 n/仅支持等值�
 (data) volume/size     /ˈvɑːljəm/     数据量
 deactivate (account)/deactivation        /diːæktɪˈveɪʃən/        停用,注销 v/n/注销账户
 vulnerable (code)      /ˈvʌlnərəb(ə)l/         存在漏洞的,易受攻击的 adj
-spawn/spawning/generate        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
 layout      /ˈleɪaʊt/          布局,排版 n
 protocol/agreement/agreed      /ˈproʊtəkɑːl/       协议,流程规范 n/协议,协定 n/约定好的,同意的 adj
+spawning/generate/spawn (automated test-cases in batches)        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
+eliminate (redundant code)/eliminating      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj
+target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
+cater (to sth/sb/business demands)/meet       /ˈkeɪtər/     满足、迎合 v
+(exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
+imply/mean/hint (that)       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示、说明 n
 
 
 
 
 
+approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
+preserve/preserving/retain/remain      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留、维持 v/保留,保存 n
 
 
 
 
 
-
+peak traffic        高峰期
 
 
 

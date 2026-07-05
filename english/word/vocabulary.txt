@@ -328,7 +328,6 @@ nuclear                         核心的 adj
 nutrition                   营养 n
 obedient                        服从的,顺从的 adj
 object                              反对 v
-objective                   客观的 adj
 obvious/obviously                   明显的,显然的 adj/adv
 official                            正式的,官方的 adj
 once in a while 偶尔
