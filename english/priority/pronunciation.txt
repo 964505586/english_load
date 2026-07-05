@@ -131,7 +131,6 @@ Stability/Scalability/maintenance/Maintainability   /ˌskeɪləˈbɪləti/    �
 arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
 aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
-middleware      /ˈmɪdlweə(r)/       中间件 n
 simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v
 inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
@@ -246,11 +245,11 @@ in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺
 (cash) deposit         /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款
 classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类,分级,类别 n
 (raise) fund        /fʌnd/        资金 n/募资,融资
-appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨、拨付 n/挪用、侵占/挪用客户资金
+appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨,拨付 n/挪用,侵占/挪用客户资金
 Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
-imply/mean/hint       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示、说明 n
+imply/mean/hint       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示,说明 n
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
 trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
 equality/equality-only        /iˈkwɑːləti/        平等 n/仅支持等值匹配的 adj
@@ -262,23 +261,25 @@ protocol/agreement/agreed      /ˈproʊtəkɑːl/       协议,流程规范 n/�
 spawning/generate/spawn (automated test-cases in batches)        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
 eliminate (redundant code)/eliminating      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
-cater (to sth/sb/business demands)/meet       /ˈkeɪtər/     满足、迎合 v
+cater (to sth/sb/business demands)/meet       /ˈkeɪtər/     满足,迎合 v
 (exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
-imply/mean/hint (that)       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示、说明 n
-
-
-
-
-
+imply/mean/hint (that)       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示,说明 n
+preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
+middleware      /ˈmɪdlweə(r)/       中间件 n
 approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
-preserve/preserving/retain/remain      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留、维持 v/保留,保存 n
+legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
+
+
+
+
+
+
 
 
 
 
 
 peak traffic        高峰期
-
 
 
 
