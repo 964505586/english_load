@@ -1,7 +1,6 @@
 
 article                         物品
 as                              随着,当......时候
-break                           违反 v
 but                             而且
 clear                           明确的 adj
 close                           亲密的 adj

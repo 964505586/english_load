@@ -86,7 +86,6 @@ fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
 (unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
 emerging/newly        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
 anomalous/abnormal       /əˈnɒmələs/         异常的,不规则的,不恰当的 adj
-enterprise/Corporation/Company      /ˈentəpraɪz/        企业,事业单位
 malicious       /məˈlɪʃəs/          恶意的,恶毒的 adj
 destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
 interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
@@ -103,7 +102,6 @@ snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
 Postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
 Nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
-register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/n/注册,报名 v
 login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
 log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
@@ -141,7 +139,6 @@ spotlight/gather        /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 
 quarter         /ˈkwɔːtə(r)/            季度
 bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
-boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
 Accuracy/Precise        /ˈækjərəsi/ /prɪˈsaɪs/      准确性 n/精确的 adj
 Tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
 Comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
@@ -232,12 +229,10 @@ continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,�
 (apply for/take/get) a waiver      /ˈweɪvər/       豁免,放弃 n
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
-readiness/ready     /ˈredinəs/     准备就绪状态 n
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 mitigate/mitigation (the risk)       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险
 crime       /kraɪm/     罪,罪行,犯罪 n
 territory       /ˈterətɔːri/        领地,领域 n
-prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 pin up/Pinned      /ˈpɪn ʌp/       置顶,挂图 v/已置顶的 adj
 initial/initiate/initiative/initiating person     /ɪˈnɪʃieɪt/ /ɪˈnɪʃieɪtɪŋ/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n/发起人
 (is this an urgent) referral        /rɪˈfɜːrəl/        转介,转送,转诊 n
@@ -268,6 +263,13 @@ preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːr
 middleware      /ˈmɪdlweə(r)/       中间件 n
 approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
 legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
+register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/n/注册,报名 v
+readiness/ready     /ˈredinəs/     准备就绪状态 n
+enterprise/Corporation/Company      /ˈentəpraɪz/        企业,事业单位 n
+prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
+anticipate (approximate 30 minutes downtime)    /ænˈtɪsɪpeɪt/     预期，预料 v/预计约...停机时间
+boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
+move at pace (with the timeline)        /muːv ət peɪs/        稳步推进,按节奏推进
 
 
 
@@ -279,9 +281,16 @@ legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗�
 
 
 
-peak traffic        高峰期
 
 
+
+
+
+
+
+
+
+your volume
 
 
 

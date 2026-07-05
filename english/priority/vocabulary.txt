@@ -1,4 +1,4 @@
-know as   也被称为
+
 TL;DR               Too Long; Didn't Read 一句话总结,摘要
 automated           自动化的
 Technical stack     技术栈
@@ -31,11 +31,9 @@ powerful            强大的,有影响力的 adj
 production-ready        可上线投产的 adj
 shape/shaping           塑造,打造 v/形状,外形 n
 scale/scalable/Scalability       扩容,规模化部署 v/可扩展的 adj/可扩展性 n
-schedule/scheduled              计划,进度表 n/计划内的,预定的 adj
 shortening      缩短,变短,缩写 v
 half        一半,二分之一 n
 revert                 恢复,回复 v
-patch/patching       补丁,补片 n
 routine (maintenance)           常规,惯例 n/常规维护,日常保养
 disk            磁盘 n
 confidence          自信,信心,信任 n
@@ -70,9 +68,6 @@ where (it's) appropriate       在合适的场景/情形下
 development         制定,完善,构建 n
 Developer Usage Acknowledgement         开发者使用 承诺书/声明
 My Role Reference Guide         岗位职责指引/参考手册
-best practice               最佳实践
-security practices          安全规范
-failure to comply           未遵守,违规,不遵守
 progressive rollout         逐步部署,分阶段上线部署
 weekly          每周,每星期 adv
 driven by n     被n驱动,主导,制约
@@ -81,7 +76,6 @@ value                           价值,价值观 n
 sort                整理,分类,排序,解决 v
 recommended learning path           推荐学习路线 n
 junk            垃圾
-host/hosted/hosting             主办,举行,做东,托管,部署 v/主人,主持人 n
 final bit of work           收尾工作 n
 close down           收尾,完成 v
 instead     代替,顶替,反而 adv
@@ -96,8 +90,6 @@ maintain                            保持,维持,维护 v
 Clarify/Clarity                         澄清,阐明,明确 v/清晰 n
 role                角色,作用,职责 n
 the following day           第二天,翌日 n
-in place of n         代替
-be in place         已就绪,配置到位
 given n/that/time                    鉴于,考虑到.../给定的时间
 LHS/RHS         left/right-hand side 左手边
 presence        出席 n
@@ -136,13 +128,11 @@ go live                 上线 v
 Align/alignment                  对齐 v/n
 (core) concept       (核心)概念 n
 Sequence diagram                时序图,顺序图 n
-violate/Violation               违反,违背,触犯 v/违规 n
 usage-based billing model       按使用量的计费模式
 Review              查阅 v
 during the Maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
 Associate/Associated (guidance)     联系 v/相关的,关联的,配套的 adj/相关指引,配套说明
-Measure         统计 v/统计,措施,办法 n
 alerts      通知 v/警报,告警 n
 flood       泛滥 n
 trigger     触发(器) v/n
@@ -245,6 +235,10 @@ tip     最新提交(Git专业术语：分支末端最新提交节点)
 (professional) judgement/judge      判断,意见,判断力 n/判断,评判,评价 v/专业判断
 if applicable       若可以，如果合适，如果适用
 outstanding (defect)         未解决的,杰出的,优秀的 adj/严重缺陷
+RP      Reference Point 参考点
+devx        developer experience 开发者体验
+known as (live migrations)       被称为,叫作/在线迁移
+effective (action/measures)         有效的 adj
 
 
 

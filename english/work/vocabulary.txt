@@ -42,7 +42,6 @@ Disclose                  泄露,透漏v
 distinguish                     认出,区别 v
 Domain                 领域 n
 Doubt                  疑问,疑惑 n
-effective (action/measures)         有效的 adj
 efficiency                      效率 n
 Efficient/Inefficient                 高效的 adj/低效的
 Entity                 实体
@@ -68,7 +67,6 @@ lower(Upper) case/capital                    小/大 写字母/资本,资金,大
 medium                 中等的 adj
 meet/met/met                遇见,满足 v
 navigate                    导航 v
-near                    近的,在附近 adj
 nested                 嵌套的
 Observation                         观察 n
 one-off                  一次性的

@@ -39,11 +39,11 @@ identical                               完全相同 adj
 identify/identified/Identification/identifier     /aɪˈdentɪfaɪə(r)/       认出,识别v/n/标识符 n
 
 遵守
-Act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v
+Act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
 attest (following guardrails)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明,确认,作证,承诺遵守 v/声明,证明,证据,证实 n
 (Regulatory) Compliance/comply with (regulation)/obey      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
 obey/obedience(comply with)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v
-in line with enterprise's Principle(obey/comply with)      遵照,符合
+in line with enterprise's Principle(obey/comply with)      遵照,符合/符合企业原则
 adhere/adhering (commitments made in this attestation)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 
 High probability of a conflict          冲突的可能性很高
@@ -58,9 +58,6 @@ be composed of                              由...组成
 defect/strength                     缺陷,bug,缺点/长处,优势,体力,力量, n
 weak/strong point                                      弱点/优点
 advantage/disadvantage                          优点,优势 n/有利于,有助于 v
-
-Enhancement/Enhance (feature)         增强 v/n
-Optimization/boost/strengthen/improve/Optimize (performance)       优化 v/n
 
 doing sth is expected to take a similar amount of time      预计花费相似的时长
 doing sth involves sth (adding data to DB involves two stages)        添加数据库到DB涉及两个阶段
@@ -156,7 +153,13 @@ hyphen      /ˈhaɪfn/        连字符,中划线-
 Line break      换行符
 special character       特殊字符
 
+Enhancement/Enhance (feature)         增强 v/n
+Optimization/boost/strengthen/improve/Optimize (performance)       优化 v/n
+refinery/refine/refined (timeline)          细化,精修,优化 n/细化,优化,改进 v/优化后的
 
+in place of n         代替
+be in place         已就绪,配置到位
+get sth(remediation) in place (as requested)    落实、完成落地某事
 
 
 

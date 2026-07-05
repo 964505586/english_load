@@ -34,7 +34,7 @@ Did you get a chance to v
 Double click the shift key on your keyboard     双击你键盘上的shift键
 Extract an extra (common) method           抽出common方法
 Failed once         失败了一次
-Has/have nothing to do with             与…无关
+Has/have nothing to do with             与...无关
 how are you doing today/recently                          你 今天/最近 过得怎么样？
 hurry up                        快点
 I remember that someone asked me to change the return format last time      我记得上次有人让我改返回的格式
