@@ -161,6 +161,8 @@ propose/proposal                        提议,建议 v/n
 purpose/destination/target/goal     有意,打算 v/目的 n
 day-to-day/daily (meeting)      每日,日常 adv/adj
 rate/traffic        流量,速率,比率 n/交通,流量 n
+predict/predictable/prediction/forecast      预言,预计 v/可预测的,可预料的 adj/预测 n/预测,预报 v/n
+
 
 
 
