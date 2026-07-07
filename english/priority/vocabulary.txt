@@ -30,7 +30,6 @@ engineering     工程,工程学 n
 powerful            强大的,有影响力的 adj
 production-ready        可上线投产的 adj
 shape/shaping           塑造,打造 v/形状,外形 n
-scale/scalable/Scalability       扩容,规模化部署 v/可扩展的 adj/可扩展性 n
 shortening      缩短,变短,缩写 v
 half        一半,二分之一 n
 revert                 恢复,回复 v
@@ -185,7 +184,6 @@ Existing                 现有的 adj
 Outdated                过时的 adj
 trick                   技巧,小妙招,小窍门
 sync(synchronize)           同步 v/n
-Accumulated             累积的 adj
 problematic (code)            有问题的 adj/有问题的代码
 Utilize(Utilise 英式)                 利用,使用 v
 succeed             成功 v
@@ -215,11 +213,9 @@ baseline/re-baseline        基线,基准 n/重新设定基线 v
 comment (out) this piece of code          注释 v,n/代码加注释/注释掉这段代码
 audit trail     审计追踪,审计日志
 capture         采集,捕获,截取 v
-enforce/enforcing       强制执行,强制生效 v
 (first/prior) entry           条目,单行记录 n/首条,先前条目,历史记录
 document/raise a ticket to document the backend airflow in Confluence       记录,记载 v/在Confluence记录backend的airflow
 over time       随着时间流逝
-traffic         流量,交通
 Actionable Intelligence Platform        可落地智能平台
 against         针对,面向,抵御,对照,对比,反对,违反 v
 cash        兑现 v/现金 n
@@ -230,15 +226,45 @@ SIC     Standard Industrial Classification 标准行业分类
 cash deposit machine-bulk/large       大额现金自助存款机
 pocket guide            口袋指南
 (quality) assurance/assure          保证 n/v/质量保证
-daily (meeting)       每日,日常 adv/adj
-tip     最新提交(Git专业术语：分支末端最新提交节点)
+tip     最新提交(Git专业术语: 分支末端最新提交节点)
 (professional) judgement/judge      判断,意见,判断力 n/判断,评判,评价 v/专业判断
-if applicable       若可以，如果合适，如果适用
+if applicable       若可以,如果合适,如果适用
 outstanding (defect)         未解决的,杰出的,优秀的 adj/严重缺陷
 RP      Reference Point 参考点
 devx        developer experience 开发者体验
 known as (live migrations)       被称为,叫作/在线迁移
-effective (action/measures)         有效的 adj
+preview     预览 v
+at speed                高速度地 adv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it's not a replacement but it is a very strong and important complement to the way that we serve our clients globally
+AI is going to change the employment landscape globally
+Because all of the tasks that I did, I was an investment banking analyst out of school
+what did we do? We did tons of presentations and modeling and valuation.
+guess what? We have something now called AI that's gonna take care of all of that in the future.
+it's gonna create enormous amounts of efficiencies
+And in my business in private banking, there is no replacement for the human interaction of our clients.
+However, we do see it as a massive driver of efficiency in our business with everything from simplifying and fast tracking the account opening process
+we are planning in that way right to make sure that we understand what is the implications of this on our workforce, what are the tasks that AI will replace for us, what are the things that AI and the tools that will make our private bankers even more efficient in the future.
+And we are adopting those at scale and at speed with urgency
+
 
 
 

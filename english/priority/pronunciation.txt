@@ -21,8 +21,6 @@ awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人�
 complexity/complex/complicated      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩
 shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
 differ          /ˈdɪfər/            不同于 v
-persist/persistent/Materialize      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj
-material/Materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
 lineage         /ˈlɪniɪdʒ/          血缘,依赖链 n
 Catalyst        /ˈkætəlɪst/         优化器,催化剂
 big/large/huge/giant       /ˈdʒaɪənt/          巨大的,伟大的 adj
@@ -113,7 +111,6 @@ capability/capabilities/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/�
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
 Crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
-product/production/produce/Producer/Productivity      /ˈprɒdʌkt/ /prəˈdjuːsə(r)/      产品 n/生产 n/生产 v,农产品 n/生产者,产出方,提供方 n/生产力,生产率 n
 Proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
 swap/switch/replace     /swɒp/      替换,切换 v
 isolate/Quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
@@ -155,8 +152,6 @@ alongside/with       /əˌlɒŋˈsaɪd/        连同,搭配 prep
 upon n(success/failure/completion/receipt)/once adj/句子    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
 Receive/receipt         /rɪˈsiːt/           获得,得到,收到 v/接收 n
 (system) entry/front door       /ˈentri/        系统入口 n
-reliable        /rɪˈlaɪəb(ə)l/          可靠的,可信赖的 adj
-Facilitate/push/could you please help push the matter   /fəˈsɪlɪteɪt/       促进,推动,使更容易 v/帮忙推动这事
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
 Revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
 Preferably      /ˈprefrəbli/                  最好是 adv
@@ -173,7 +168,6 @@ fill in      /fɪl ɪn/             填写 v
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
-Pose a minor risk       /pəʊz/          造成,引起 v
 Casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
 Syntax error        /ˈsɪntæks/      语法错误
 pros and cons       /prəʊz/ /kɒnz/      利弊
@@ -220,13 +214,11 @@ extra
 criteria                /kraɪˈtɪəriə/
 Auto-increment ID               递增 ID
 typology                        类型学,分类体系 n
-prioritize/deprioritize/prioritize this now      /praɪˈɒrətaɪz/     优先处理,把sth放在优先位置 v/降低优先级别
 @       at
 preRequisite            先决条件,必备条件 n/adj
 forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
 continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
 (query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
-(apply for/take/get) a waiver      /ˈweɪvər/       豁免,放弃 n
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
 loop sb in/looping Jack in for visibility/Awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
@@ -257,7 +249,6 @@ spawning/generate/spawn (automated test-cases in batches)        /spɑːn/ /ˈsp
 eliminate (redundant code)/eliminating      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
 cater (to sth/sb/business demands)/meet       /ˈkeɪtər/     满足,迎合 v
-(exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
 imply/mean/hint (that)       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示,说明 n
 preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
 middleware      /ˈmɪdlweə(r)/       中间件 n
@@ -267,9 +258,27 @@ register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 enterprise/Corporation/Company      /ˈentəpraɪz/        企业,事业单位 n
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
-anticipate (approximate 30 minutes downtime)    /ænˈtɪsɪpeɪt/     预期，预料 v/预计约...停机时间
+anticipate (approximate 30 minutes downtime)    /ænˈtɪsɪpeɪt/     预期,预料 v/预计约...停机时间
 boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
-move at pace (with the timeline)        /muːv ət peɪs/        稳步推进,按节奏推进
+dig out     /dɪɡ aʊt/         找出,挖掘出 v
+(at) scale/scalable/Scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/大规模地 adv/可扩展的 adj/可扩展性,可伸缩性 n
+massive/at scale        /ˈmæsɪv/        巨大的,大规模的 adj
+we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
+(employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
+persist/persistent/Materialize/insist      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj/坚持 v
+material/Materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
+Facilitate (bug fixes)/push/fast track      /fəˈsɪlɪteɪt/       促进,推动,使更容易 v/加速推进
+fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进
+reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
+pose a minor risk to sth    /pəʊz/      造成,引起 v
+(improved security) posture       /ˈpɑːstʃər/       态势,态度,立场,姿势/增强的安全态势
+disk space      /dɪsk/      磁盘空间
+normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
+cumulative (security fix)/Accumulated (log)     /ˈkjuːmjəleɪtɪv/        积累的,渐增的,累积的 adj/累积的 adj/累积的安全修复
+exceed/beyond/excessive (api traffic)     /ɪkˈsiːd/ /ɪkˈsesɪv/  超过,超出 v/prep/过度的,过多的 adj/过量API流量
+
+
+
 
 
 

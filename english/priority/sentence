@@ -32,7 +32,6 @@ Please reach out to me              /pliːz riːtʃ aʊt tu miː/
 
 The current conclusion/Data discrepancy conclusion          目前的结论,现阶段结论/数据差异结论
 Acknowledge/Acknowledged                         认可,承认,感谢 v
-句末: 肯 too; 否 either
 As long as(once) we click here       连词,只要...
 (it's) no wonder why/that                难怪
 (be) no longer (v)                     不再 abv
@@ -87,7 +86,6 @@ this one blocked us for a couple days               这个卡了我们好几天
 this has been happening a lot recently. it didn't happen before             这种情况最近频繁发生.以前从未出现过这种情况.
 The problem occurs when writing data to HDFS, and then the exception is thrown
 someone             有人
-Newly added columns             新增的列
 Please press Ctrl and C on your keyboard    请在键盘上按下“Ctrl”和“C”键
 Logs are only kept for one or two days              日志只保存一天或两天
 Is/Isn't this what we expected?             这难道不是我们所期望的吗？
@@ -111,7 +109,6 @@ Everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins�
 sth be Pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
 nothing(no need) for now                     暂时没有/暂时不需要
-This prod issue needs to be prioritized                 需要优先处理这个生产问题
 Let's work out the (detailed) timeline               制定出时间计划,敲定时间线
 Just add a space anywhere (you like)                    随便添加个空格
 This field is not editable                  此字段不可编辑
@@ -195,7 +192,7 @@ Your hard/excellent work is well recognized                 你的出色工作�
 Let's ask in the team group             在群里问下吧
 in the past/last few days               在过去几天里
 17 months of data               17 个月的数据
-Kind reminder to provide the info below          温馨提示：请提供以下信息
+Kind reminder to provide the info below          温馨提示: 请提供以下信息
 I have received the file from your separate email           我已经从您单独发来的邮件中收到了那份文件
 I noticed/observed that the score ranges from 0 to 9                我注意到分数的范围是从0到9
 please ignore this email If you have already actioned this              如果您已采取行动,请忽略此邮件
@@ -332,6 +329,13 @@ how long do you expect it to take to fix        预计修复需要多久能完�
 Only exact C1/C2/C3 should pass     只有B1/B2/C1才能通过
 kindly remind you once again that        再次温馨提醒您
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
+just noticed/realized this guide is two pages long, not just one    才注意到这guide有两页,而不是一页
+May I know why      请问为什么
+sth will be gone        即将下线,移除,不复存在
+could you please help push the matter        帮忙推动这事
+take care of/that (yourself)    处理,接手,照顾 v
+prevent sth from doing sth			防止sth产生不良影响
+which helps prevent excessive traffic from degrading overall system performance and user experience     有助于防止过度流量影响整体系统性能和用户体验
 
 
 

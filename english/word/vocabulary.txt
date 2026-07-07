@@ -188,8 +188,6 @@ following                adj 以下的
 fond        adj 喜爱的
 for free                免费
 for the first/second time               第一次
-force                   强迫 v            暴力 n
-force upon                                      强加
 forecast                            预测,预报 v/n
 forever                     永远 adv
 forgive                             原谅 v
@@ -291,7 +289,6 @@ less and less        越来越少
 less 更少的 adv
 lifelong                            终身的 adj
 light                                       照亮,使燃烧 v
-limit                   限度,限制 n             限制,限定 v
 locate                      找,位于 v
 lodging house                                   寄宿房
 lonely                      孤独的
@@ -362,7 +359,6 @@ personally(in person)                                       亲自地
 persuade/persuasive/persuasion          说服 v/adj/n
 physical                    身体的,物质的 adj
 pick up                 拿起,接人,接电话,搭讪
-piles of n                              大量的,一大堆
 plenty 充裕
 poison/poisonous                              毒药 n/有毒的 adj
 polite/impolite                  礼貌的,客气的
@@ -470,12 +466,10 @@ think of n                    想起,思考
 thoughtful          体贴入微的,考虑周到的 adj
 thus                                            因此,这样 adv
 time                                    时间 u            次数 c
-timely                                  及时的 adj/adv
 treat                                   对待,治疗 v
 trend                                   趋势 n
 trouble maker                           麻烦制造者
 trouble-free                            无故障的 adj
-trustworthy                             可信的,值得信赖的 adj
 turn down                               拒绝 v
 turn/switch off 关掉
 umbrella 伞
@@ -483,7 +477,6 @@ understanding                   善解人意 n
 undertake                                       承担,答应 v
 unethical                               不道德的 adj
 unique                                  独特的,独一无二的
-urgent/urgently             紧急的,急切的
 vacation                        假期
 variable                            易变的,多变的 adj
 variety/varieties                     种类,品种,变化 n

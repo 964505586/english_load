@@ -8,7 +8,6 @@ top/bottom left/right corner        左上角,右下角
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
 direct/directly/indirect/indirectly/direction         调度,指挥 v/直接的/间接的 adj/adv/方向,方位,指导 n
 serve       服务 v/n
-reduce/reduction                 降低,做聚合,执行归约 v/降低,聚合操作,归约运算 n
 inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓越的 adj
 near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
 Architect/Architecture/framework   架构师/架构/框架
@@ -30,8 +29,6 @@ indicate/indicator/mean/Represent/stand for sth           表明,指出 v/指标
 post-upgrade/after upgrade          版本升级后
 contribute (to)/contribution         捐赠,为...做贡献 v/有助于,促成/贡献,捐款,捐助 n
 change/changeable                          变化,变更 n/多变的 adj
-in/on time/timely/Promptly/quickly        及时,按时/及时的,适时的 adj/及时地,迅速地 adv
-exceed/beyond              超过,超出 v
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
 notice/(outage) notification                 意识,注意 v/通知 n/断网,服务中断通知
 Regulatory Compliance/Compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
@@ -94,7 +91,6 @@ Formula(algorithm)                     公式 n
 as for n(regarding)  至于n/As for that point you mentioned previously     至于你之前提到的这一点
 Procedure/step               做事的具体步骤 (Process: 整件事的过程)
 Criteria/standard                标准 n
-Propose/proposal                        提议,建议 v/n
 desired/needed
 deal with(handle)
 Apply/request
@@ -103,7 +99,6 @@ I noticed/saw that
 Make a code change(Change code)                  做一次代码修改(正式)
 leave/left
 in fact/To be honest/frank(Actually) (with sb)
-Purpose/destination                     有意,打算 v/目的 n
 tips/tricks/recommendations/Kind(A warm) reminder                 小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
 remediate/Investigate/fix              补救,修复 v
 fetch/extract/read             获取,拉取 v/提取,抽取 v
@@ -124,7 +119,6 @@ Isn't it(主语是it, right?)
 see/catch you later
 by today/tomorrow/afternoon(by the end of day)               今天之内,明天下午前
 due to n/since 句子(because/because of)
-on (top) priority/As a priority              最高优先级
 I misunderstood(I got it/you wrong)             我理解错了/我理解错你意思了
 oops/my god/goodness/Damn it/holy shit      哎哟,啊呀,糟糕/我的天/更文雅/该死(脏话)/天哪(粗俗)
 at least/minimum/maximum/including at minimum:          至少 adv/至少包含
@@ -147,18 +141,30 @@ appropriate/appropriately/properly      适当的,合适的 adj/adv/正确地,�
 (financial crime) concern/concerning        顾虑,担心,忧虑 n/财务犯罪顾虑/关于,涉及 v/prep
 subject (customer)/subjective     目标的 adj/目标客户/主观的 adj
 the case currently displayed/(which is) open on the page        当前页面显示的case
-(be careful with your) wording       措词，用词 v/n/注意你的措辞
-schedule/scheduled              安排，预定 v/计划,进度表 n/计划内的,预定的 adj
+(be careful with your) wording       措词,用词 v/n/注意你的措辞
+schedule/scheduled              安排,预定 v/计划,进度表 n/计划内的,预定的 adj
 (security) patch/patching       补丁,补片 v/n
 host/hosting/hosted at             主办,举行,做东,托管,部署 v/主人,主持人 n/托管于
-violate/violation/break/breach/breaching        违反,违背,触犯 v/违规 n/违反/违反，破坏
+violate/violation/break/breach/breaching        违反,违背,触犯 v/违规 n/违反/违反,破坏
 ahead of deployment/prior to/before            在deployment之前 prep/adj
 before/earlier/previously       口语/中性/正式
-ahead (of time/schedule)/in advance       提前 adj/adv/提前，预先
+ahead (of time/schedule)/in advance       提前 adj/adv/提前,预先
 (in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
 (best/security) practice/exercise    练习 v/实践,实际操作 n/练习 v/运动,锻炼 v/n/最佳实践/安全规范,实践
-(in) peak (traffic)/rush hours      巅峰状态的，最高的 adj/在高峰期
+(in) peak (traffic)/rush hours      巅峰状态的,最高的 adj/在高峰期
 near/nearing/nearby                    近的,在附近 adj/接近 n/附近的 adj/在附近 adv
+Newly added/created columns             新增的列
+(any) context/background        上下文,背景 n
+urgency/urgent/urgently     紧急,迫切,紧迫感,紧迫性,紧急性 n/紧急的,急切的 adj
+believe/trust/trusty/trustworthy/truth         相信 v/信任 v/n/可信的,值得信赖的 adj/真相 n
+propose/proposal                        提议,建议 v/n
+purpose/destination/target/goal     有意,打算 v/目的 n
+day-to-day/daily (meeting)      每日,日常 adv/adj
+rate/traffic        流量,速率,比率 n/交通,流量 n
+
+
+
+
 
 
 

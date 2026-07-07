@@ -15,7 +15,6 @@ Sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n
 status(情况, state/states)
 such                这种
 validate                 验证v
-restriction                  限制
 respond/response                 响应 v/n
 Proxy                 代理
 ingest                 摄取 v
@@ -42,8 +41,6 @@ Disclose                  泄露,透漏v
 distinguish                     认出,区别 v
 Domain                 领域 n
 Doubt                  疑问,疑惑 n
-efficiency                      效率 n
-Efficient/Inefficient                 高效的 adj/低效的
 Entity                 实体
 Estimate                                        估计,判断,评价 v
 Exchange                 交换 v/n
@@ -121,7 +118,6 @@ absent                      缺勤的,缺席的 adj
 (harsh) complaint/complaints n          (激烈)抱怨
 revisit             再访 v/n
 Fluctuation             波动 n
-priority                    优先,优先权 n/优先的 adj
 Abnormal                反常的 adj
 precondition            前置条件,前提状态 n
 radio/checkbox (button)                           单选/复选框 n
