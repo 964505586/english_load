@@ -1,6 +1,5 @@
 
 TL;DR               Too Long; Didn't Read 一句话总结,摘要
-automated           自动化的
 Technical stack     技术栈
 (limited) lifetime        (有限)有效期,一生 n
 shutdown        关机 n

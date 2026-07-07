@@ -147,8 +147,6 @@ energy                      精力
 enjoyable                           令人愉快的 adj
 ensure                                          确保,保证 v
 envy                        羡慕 v/n
-equal           相等的,相同的 adj/等于 v
-equip                               装备 v
 escape                              逃跑 v/n
 ever since                          自从,从那时起一直到现在
 everywhere adv 到处 n 每个地方
