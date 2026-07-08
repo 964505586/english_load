@@ -261,20 +261,24 @@ we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
 persist/persistent/Materialize/insist      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj/坚持 v
 material/Materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
-Facilitate (bug fixes)/push/fast track      /fəˈsɪlɪteɪt/       促进,推动,使更容易 v/加速推进
+Facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
 fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
 pose a minor risk to sth    /pəʊz/      造成,引起 v
-(improved security) posture       /ˈpɑːstʃər/       态势,态度,立场,姿势/增强的安全态势
 disk space      /dɪsk/      磁盘空间
-normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
-cumulative (security fix)/Accumulated (log)     /ˈkjuːmjəleɪtɪv/        积累的,渐增的,累积的 adj/累积的 adj/累积的安全修复
 exceed/beyond/excessive (api traffic)     /ɪkˈsiːd/ /ɪkˈsesɪv/  超过,超出 v/prep/过度的,过多的 adj/过量API流量
 activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动 v/停用,注销
 deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
 (at) scale/scalable/Scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
 massive/at scale        /ˈmæsɪv/        巨大的,大规模的 adj
+cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累，积攒 v
+normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
+(improved security) posture/attitude    /ˈpɑːstʃər/  态势,态度,立场,姿势/增强的安全态势/态度 n
+
+
+
+
 
 
 

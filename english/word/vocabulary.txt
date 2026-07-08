@@ -33,7 +33,6 @@ aspect                              方面 n
 asset                           资产 n
 atmosphere                              气氛,情调,感染力,大气层
 attack                                  攻击 v
-attitude                                态度 n
 audience                                观众,听众 n
 automatic/automatically             自动的 adj/adv
 available/availability/unavailable/unavailability       adj/n       可用的 adj/可用性 n
