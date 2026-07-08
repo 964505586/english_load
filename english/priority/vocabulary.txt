@@ -208,8 +208,6 @@ mix (A with B)             混合 v/n/把A和B混合
 by COB today        Close of Business   今日下班前
 regroup     复盘碰头,重新组合 v
 baseline/re-baseline        基线,基准 n/重新设定基线 v
-(class/method/custom) annotation          注释,注解 n
-comment (out) this piece of code          注释 v,n/代码加注释/注释掉这段代码
 audit trail     审计追踪,审计日志
 capture         采集,捕获,截取 v
 (first/prior) entry           条目,单行记录 n/首条,先前条目,历史记录
@@ -234,7 +232,7 @@ devx        developer experience 开发者体验
 known as (live migrations)       被称为,叫作/在线迁移
 preview     预览 v
 at speed                高速度地 adv
-
+user experience         用户体验
 
 
 

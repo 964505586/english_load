@@ -1,56 +1,55 @@
-Agenda                          议程
-Alert                           警报
-Adjust/adjustment               调整 v/n
-Bottom              底部
-Challenge                       质疑,挑战 v/n
-Chance                          机会 n
-Command                         命令 n
-Algorithm                       算法 n
-Alias                           别名 n
-Decision/decide             决定 n/v
-Define/definition                  定义 v/n
-Conflict                    冲突 n/v
-Notebook            笔记本,笔记本电脑 n
-Sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n
+agenda                          议程
+alert                           警报
+adjust/adjustment               调整 v/n
+bottom              底部
+challenge                       质疑,挑战 v/n
+chance                          机会 n
+command                         命令 n
+algorithm                       算法 n
+alias                           别名 n
+decision/decide             决定 n/v
+define/definition                  定义 v/n
+conflict                    冲突 n/v
+notebook            笔记本,笔记本电脑 n
+sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n
 status(情况, state/states)
 such                这种
 validate                 验证v
 respond/response                 响应 v/n
-Proxy                 代理
+proxy                 代理
 ingest                 摄取 v
 emphasize                   强调 v
 find                 查收 v
-Fraud                 欺诈 n
+fraud                 欺诈 n
 confuse/Confusion               使困惑,使混乱 v/困惑,混乱 n
 insert          插入 v
 fact                 事实 n
 
 
 
-Access                          访问 v
-Adapt                           适应 v
-Adverse                         不利的 adj
+access                          访问 v
+adapt                           适应 v
+adverse                         不利的 adj
 buddy                           伙伴 n
-Concise                     简洁的
-Confidential                  机密的 adj
-Critical                    关键的,严重的 adj
-Data set                    数据集 n
-Deny/denied                  否定 v
-Diagram                  图表 n
-Disclose                  泄露,透漏v
+concise                     简洁的
+confidential                  机密的 adj
+data set                    数据集 n
+deny/denied                  否定 v
+diagram                  图表 n
+disclose                  泄露,透漏v
 distinguish                     认出,区别 v
-Domain                 领域 n
-Doubt                  疑问,疑惑 n
-Entity                 实体
-Estimate                                        估计,判断,评价 v
-Exchange                 交换 v/n
-Extension                 扩展
+domain                 领域 n
+doubt                  疑问,疑惑 n
+entity                 实体
+estimate                                        估计,判断,评价 v
+exchange                 交换 v/n
+extension                 扩展
 extract             提取,抽取 v
 fail/failed/failure                             失败 v/n
 feature         特点,特性,功能 n
 fetch               获取,拉取 v
 flatter                 奉承,吹捧   you flatter me
-Function                 起作用,运转 v/功能 n
+function                 起作用,运转 v/功能 n
 generic             通用的 adj
 get rid of n                         摆脱sth
 gone                            消失
@@ -65,64 +64,64 @@ medium                 中等的 adj
 meet/met/met                遇见,满足 v
 navigate                    导航 v
 nested                 嵌套的
-Observation                         观察 n
+observation                         观察 n
 one-off                  一次性的
-Ordinary                普通的,平常的 adj
-Partial                 部分的 adj
-Permanently                 永久地/adv
-Populate                 填充 v
-Prefix/suffix                           前/后 缀 n
+ordinary                普通的,平常的 adj
+partial                 部分的 adj
+permanently                 永久地/adv
+populate                 填充 v
+prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
-Promotion                 晋升 n
-Recommend/recommendation                   建议,劝告,推荐 v/n
+promotion                 晋升 n
+recommend/recommendation                   建议,劝告,推荐 v/n
 refactor                  重构 v
 remediate/Remediation                   补救,修复 v/补救,纠正 n
-Responsibility                  责任 n
+responsibility                  责任 n
 rest                            余下的 n
 rich            丰富的 adj
 seriousness/serious/seriously           严重性 n/严重的,重要的 adj/adv
-Slightly                稍微,轻微地 adv
+slightly                稍微,轻微地 adv
 slot                                    时间段,时段 n
-Stage                       阶段
-Stakeholder                  利益相关者
-Stick/Stuck/Stuck                   卡住 v
+stage                       阶段
+stakeholder                  利益相关者
+stick/Stuck/Stuck                   卡住 v
 strange/strangely/strangeness                        奇怪的,陌生的 adj/奇怪地,奇怪的是 adv/奇怪,陌生感 n
 strategy                                        战略,策略 n
 strongly                            坚定地,强有力地,强烈地 adv
 touch v                     触动,感动
 trainee                                     实习生 n
-Transparent                 透明的 adj
+transparent                 透明的 adj
 uninstall                 卸载 v
 unzip                 解压 v
 up 向上
 vulnerability                 漏洞 n
 willing                 愿意的,乐意的 adj
 particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
-Action owner
+action owner
 elementary problem                  低级问题
-Disable(enable)                 禁用,关闭,使失效/启用,开启 v
-Finalize/finalized                                    最终确定,敲定,完成 v
-Laptop              笔记本电脑 n
-Inherit                 继承 v
-Correct             纠错 v
-Regression              后退,倒退 n
-Acceptance criteria             验收标准
-Investigate/investigation                 调查 n
-Recipient           接收者 n
+disable(enable)                 禁用,关闭,使失效/启用,开启 v
+finalize/finalized                                    最终确定,敲定,完成 v
+laptop              笔记本电脑 n
+inherit                 继承 v
+correct             纠错 v
+regression              后退,倒退 n
+acceptance criteria             验收标准
+investigate/investigation                 调查 n
+recipient           接收者 n
 feel free to v                请随意,尽管
-Constantly          总是,经常地,不断地
-Seek                    寻找 v
-Combine/combination                  结合,合并
+constantly          总是,经常地,不断地
+seek                    寻找 v
+combine/combination                  结合,合并
 work out            制定,梳理,敲定
 absent                      缺勤的,缺席的 adj
 (harsh) complaint/complaints n          (激烈)抱怨
 revisit             再访 v/n
-Fluctuation             波动 n
-Abnormal                反常的 adj
+fluctuation             波动 n
+abnormal                反常的 adj
 precondition            前置条件,前提状态 n
 radio/checkbox (button)                           单选/复选框 n
-Transform               使转化 v
-Segmentation fault         段错误
+transform               使转化 v
+segmentation fault         段错误
 facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情
 
 

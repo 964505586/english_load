@@ -282,7 +282,6 @@ The first three are             前三个是
 This is to notify (you) that ...            特此通知 ...
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
 table onboarding may be delayed for a month or even longer          数据接入可能延期一个月或更久
-Without breaking the existing feature/environment               不破坏现有 功能/环境
 enablement and adoption sessions            赋能培训 & 落地推广会议
 From Concepts to Implementation         从概念到落地实施
 To avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
@@ -336,6 +335,10 @@ take care of/that (yourself)    处理,接手,照顾 v
 prevent sth from doing sth			防止sth产生不良影响
 which helps prevent excessive traffic from degrading overall system performance and user experience     有助于防止过度流量影响整体系统性能和用户体验
 spawn automated test-cases in batches       批量生成自动化测试用例
+get back on the case        重新处理此事
+which one has the highest priority      哪一项优先级最高
+try to address all possible issues      尽可能修复全部漏洞
+(to address issues that don't) require attention     需要重点关注/处理无需重点关注的
 
 
 

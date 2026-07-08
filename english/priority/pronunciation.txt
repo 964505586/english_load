@@ -46,7 +46,6 @@ consumption     /kənˈsʌmpʃ(ə)n/         消费,消耗,调用,使用 n
 privacy/private         /ˈprɪvəsi/          隐私 n/私有的 adj
 firmware        /ˈfɜːmweə(r)/        固件,硬件 n
 rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      使旋转,使转动 v/值班名册,轮值表 n
-duplicate/replicate/duplication/replication (factor)    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/因子,系数,要素,份数 n
 legal/illegal/illegally/legitimate/rightful/formal      /lɪˈdʒɪtɪmət/       合法的 adj/正当的,合理的,合法的 adj
 (security) hygiene      /ˈhaɪdʒiːn/         卫生 n/安全基线,安全合规
 transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v,n/转变,转换 n
@@ -122,7 +121,6 @@ expedite/accelerate/speed up        /spiːd ʌp/        加快
 (in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
 illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
-Stability/Scalability/maintenance/Maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
 arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
 aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
@@ -177,7 +175,6 @@ leverage (Spring Boot to simplify development)   /ˈliːvərɪdʒ/    利用 v/�
 snipaste
 Hallucination           /həˌluːsɪˈneɪʃ(ə)n/         幻觉,幻想,错觉 n
 horizontal to vertical logic    /ˌhɒrɪˈzɒnt(ə)l/ /ˈvɜːtɪk(ə)l/
-I've been fully swamped/occupied recently       /swɒmpt/ /ˈɒkjupaɪd/     最近忙得焦头烂额,最近一直行程排满
 series          /ˈsɪəriːz/          连续,一系列 n
 navigate            /ˈnævɪɡeɪt/         导航 v
 track/tracking      /træk/  /ˈtrækɪŋ/   跟踪 v
@@ -233,7 +230,6 @@ in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺
 classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类,分级,类别 n
 (raise) fund        /fʌnd/        资金 n/募资,融资
 appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨,拨付 n/挪用,侵占/挪用客户资金
-Dedicated/proprietary       /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的 adj
 case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
@@ -272,9 +268,19 @@ deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,�
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
 (at) scale/scalable/Scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
 massive/at scale        /ˈmæsɪv/        巨大的,大规模的 adj
-cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累，积攒 v
+cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
 normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
 (improved security) posture/attitude    /ˈpɑːstʃər/  态势,态度,立场,姿势/增强的安全态势/态度 n
+stability/scalability/maintenance/maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
+tidy up     /ˈtaɪdi/        整洁的 adj/整理 v
+moderate        /ˈmɒdərət/      中等的,普通的 adj
+the work on his plate/hands     /pleɪt/     手头的工作
+critical        /ˈkrɪtɪkl/      严重的,关键的 adj
+integrity       /ɪnˈteɡrəti/        完整性 n
+dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的、闭源的 adj
+
+
+
 
 
 
