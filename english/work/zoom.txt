@@ -27,7 +27,7 @@ daily meeting
 Let's wait for others to join (the call)            让我们等待其他人加入(通话)
 (Okay, no more delay) let's jump right in                     (好了,不再耽搁了)咱们直接开始吧
 Let's go through tickets first              我们先处理一下票务的事
-Let's continue to go through tickets and then discuss it after the meeting          我们接着查看一下票务情况,会议结束后再进行讨论
+Let's continue to go through tickets & then discuss it after the meeting          我们接着查看一下票务情况,会议结束后再进行讨论
 can/Shall I share my screen?            我能否共享我的屏幕？
 you're on mute             您已静音
 I can hear you, but Your voice is too/super/quite/really low(a bit/little/much better)             我能听到你,但你的声音很低(超级小/挺小的,相当小/真的很小)
@@ -46,7 +46,7 @@ I didn't have time to handle this, today I'll continue following it up today    
 I spent all my time finishing the ticket yesterday              昨天我把所有时间都花在完成这张票上
 Let me check later. I have no idea how big it(this ticket) is (how many story point do u need)          稍后我再查看一下我不知道这张票(你需要多少个故事点)
 answered some questions Encountered by jack                     回答了Jack遇到的一些问题
-Yesterday I helped check the issue Jack encountered and the issue Ted faced                     昨天我帮助检查了Jack遇到的问题和John面临的问题
+Yesterday I helped check the issue Jack encountered & the issue Ted faced                     昨天我帮助检查了Jack遇到的问题和John面临的问题
 I keep getting interrupted by other (Urgent) matters recently, therefore the progress is only about 20%     我最近总是会被其他紧急事务打断
 Let's go/come back to Jira board(the track)         我们回到n吧
 Thanks for joining              感谢您的参与

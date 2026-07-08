@@ -1,5 +1,5 @@
 be nothing more than n                                只不过是n,仅仅是n
-(sb) personal gains and losses                                              个人得失
+(sb) personal gains & losses                                              个人得失
 2 months in advance                                 提前2个月
 a be related to b                                   A与B有关
 a short/long period of time                                                 一段短/长时间
@@ -81,7 +81,7 @@ easy/difficult to follow/remember/understand        容易跟随/记得/理解
 face sb with sth                                    让sb面对sth
 fail to do                                          失败,未做成
 feel excited/relaxed                                        感到 兴奋/放松
-feel respected and valued                           感到被尊重和重视
+feel respected & valued                           感到被尊重和重视
 find fault with sb                                  找碴sb
 find out more about                                     了解更多
 for the first time                                  第一次
@@ -233,7 +233,7 @@ that's it                                           就这样
 that's to say,                                      那就是说
 the attitude to/towards sb/sth                      对sb/sth的态度
 this is not because... but because                  这不是因为,而是因为
-thought and thought                                 反复思考
+thought & thought                                 反复思考
 throughout one's life                    在你一生中
 to make matters worse                       更糟糕的是
 to one's n                                        让某人adj

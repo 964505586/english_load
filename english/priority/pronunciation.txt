@@ -16,7 +16,7 @@ paste (in/into/here)       /peɪst/ /peɪst ɪn/         粘贴 v/粘贴进去
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 sophisticated           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
 decent      /ˈdiːsnt/      像样的 adj
-FOSS    /fɑːs/      Free and Open Source Software 开源免费软件
+FOSS    /fɑːs/      Free & Open Source Software 开源免费软件
 awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
 complexity/complex/complicated      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩
 shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
@@ -168,8 +168,8 @@ closure     /ˈkləʊʒə(r)/        关闭 n
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
 Casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
 Syntax error        /ˈsɪntæks/      语法错误
-pros and cons       /prəʊz/ /kɒnz/      利弊
-merits and demerits     /ˈmerɪts/       优劣
+pros & cons       /prəʊz/ /kɒnz/      利弊
+merits & demerits     /ˈmerɪts/       优劣
 Figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
 leverage (Spring Boot to simplify development)   /ˈliːvərɪdʒ/    利用 v/利用Spring Boot来简化开发
 snipaste
@@ -277,7 +277,9 @@ moderate        /ˈmɒdərət/      中等的,普通的 adj
 the work on his plate/hands     /pleɪt/     手头的工作
 critical        /ˈkrɪtɪkl/      严重的,关键的 adj
 integrity       /ɪnˈteɡrəti/        完整性 n
-dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的、闭源的 adj
+dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的,闭源的 adj
+
+
 
 
 

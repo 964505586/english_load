@@ -13,7 +13,7 @@ Action required from stakeholders           需要stakeholder采取的行动
 if Further clarification or a call is needed
 Sorry for the delay in getting back to you, confirmation took some time
 Apologies for the late reply
-(we) apologize for any inconvenience this may have caused and appreciate your understanding and patience (support)           对于由此可能给您带来的任何不便,我们深表歉意.同时,感谢您的理解与耐心
+(we) apologize for any inconvenience this may have caused & appreciate your understanding & patience (support)           对于由此可能给您带来的任何不便,我们深表歉意.同时,感谢您的理解与耐心
 
 
 end a call
@@ -66,7 +66,7 @@ Please expect delays in responding to your queries              请谅解,回复
 现在完成进行时     一直在做,还没停
 I've been working on this since Monday                从周一起我就一直在研究这个问题.
 I've been working on this for the past two days         我这两天一直在处理这个问题.
-She has been looking into it and should be able to provide update tomorrow          她一直在对此进行调查,明天应该能够给出最新情况
+She has been looking into it & should be able to provide update tomorrow          她一直在对此进行调查,明天应该能够给出最新情况
 
 best
 I'll do/try my best to                                我会尽力去做sth

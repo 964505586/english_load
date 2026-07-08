@@ -51,7 +51,7 @@ If everything goes well         如果一切顺利
 Maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
 Let's extract an extra method for the piece of code             让我们为这段代码添加一个额外的方法
-Let's pause(hold on) here. For the introduction and process I mentioned previously. Is there any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
+Let's pause(hold on) here. For the introduction & process I mentioned previously. Is there any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
 Why/How did you navigate to(land on) that page?         您是如何访问(到达)那个页面的？
 My pleasure
 These two fields are reversed                这两个字段的值颠倒了
@@ -84,9 +84,9 @@ Jesus                           天哪
 About when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
 this has been happening a lot recently. it didn't happen before             这种情况最近频繁发生.以前从未出现过这种情况.
-The problem occurs when writing data to HDFS, and then the exception is thrown
+The problem occurs when writing data to HDFS, & then the exception is thrown
 someone             有人
-Please press Ctrl and C on your keyboard    请在键盘上按下“Ctrl”和“C”键
+Please press Ctrl & C on your keyboard    请在键盘上按下“Ctrl”和“C”键
 Logs are only kept for one or two days              日志只保存一天或两天
 Is/Isn't this what we expected?             这难道不是我们所期望的吗？
 Wait a minute. Let me quickly check the dictionary to see how to say it     我查下字段
@@ -104,7 +104,7 @@ The issue had always existed. However, it wasn't discovered before              
 This problem was caused while developing backend feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
 Adjust/Modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
 As (we) discussed (with Jack)                   正如我与Jack所讨论的那样
-Please help check the email draft, i'm preparing to send to kevin and Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明
+Please help check the email draft, i'm preparing to send to kevin & Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明
 Everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
 sth be Pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
@@ -217,7 +217,7 @@ What's it/this for?             干嘛用的
 How long will you need to get this done         你要多久做完这个？
 When do we target to get this ready             我们预计啥时候能准备好这个
 I can't really pronounce those names            我实在无法正确地读出那些名字
-I ran the relevant scheduled job and obtained the latest batch of data this morning           我今早跑了相关的job,获取到最新的数据
+I ran the relevant scheduled job & obtained the latest batch of data this morning           我今早跑了相关的job,获取到最新的数据
 Just an example, no offense             就举个例子,无意冒犯
 We need to find a long-term solution                我们需要找一个长期的解决方案
 Recommended that ...                        推荐...
@@ -235,7 +235,7 @@ In either of these columns          在这两列中的任意一列里
 It will be considered (as) a failure                它会被视为失败
 For your convenience, answers to frequently asked questions can be found here           为方便您查阅,常见问题解答可在此查看
 Especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
-Please let me know if any questions. Otherwise, your confirmation and sign-off would be much appreciated            如有任何问题请告知我若无疑问,烦请确认并签字审批
+Please let me know if any questions. Otherwise, your confirmation & sign-off would be much appreciated            如有任何问题请告知我若无疑问,烦请确认并签字审批
 It shouldn't ideally have any impact               理想情况,它不应产生任何影响
 For reference only/This is for informational purposes only          此内容仅供参考
 I think it may not be so straightforward                            我觉得这事可能没那么简单
@@ -243,7 +243,7 @@ I think it may not be so straightforward                            我觉得这
 Please kindly give this email your full attention                   烦请务必仔细查阅并重视本邮件
 We need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
 I can’t remember very well either           我也记不太清楚了
-They'll restrict us from raising PRs, which will lead to escalation and a lot more paperwork. I'm sure none of us wants to go through all that
+They'll restrict us from raising PRs, which will lead to escalation & a lot more paperwork. I'm sure none of us wants to go through all that
 How did you do it/that?             你怎么做到的？
 The boss is keeping a close eye on this             老板很关注这件事
 If the error persists/if still same error(the same error still occurs)          如果错误依旧存在
@@ -254,15 +254,15 @@ or What would be the next step          接下来该怎么做呢
 Seeking the next step           等待下一步指示
 Rescheduling the slot to accommodate the UK team member, as the current slot overlaps/conflicts with their lunch hour           重新安排时间以容纳英国团队成员,因为当前的时间安排与他们的午餐时间有冲突/重叠
 Please find all the details below
-There will be downtime around 1 to 2 hours required to complete the patching activity from pre-check and post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
+There will be downtime around 1 to 2 hours required to complete the patching activity from pre-check & post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
 So that you can (better) understand the Project (more)          以至于你能更好地理解这个项目
 Somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
 Outside the firewall                防火墙外
 Nice tip/learned a useful trick/That’s useful, learned something new
 Not too busy today              今天不太忙
-To ensure its continued stability and performance       为确保其持续的稳定性和性能
+To ensure its continued stability & performance       为确保其持续的稳定性和性能
 please address it at the earliest to avoid further escalation       请尽快处理此事,以免情况进一步恶化
-Make your work easier, faster and more effective        让您的工作变得更轻松,更快捷,更高效
+Make your work easier, faster & more effective        让您的工作变得更轻松,更快捷,更高效
 Please supplement if anything that should be included       如有遗漏内容,请予以补充
 Let's hang over (the work) to jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
 It's a scenario we didn't cover before/The situation wasn't covered     这情况之前未曾涉及
@@ -271,7 +271,7 @@ left a note/remark in my calendar             在日历里添加了备注
 leave a comment             留下评论
 some access may take some time to activate           部分权限需等待一段时间方可生效
 some permissions usually take some time to go live          有些权限通常需要一段时间才能生效
-Let's wait and see              我们先等等看
+Let's wait & see              我们先等等看
 Ideally, yes                理想情况下是的
 I am thinking (if)... though        /ðəʊ/      不过我在想.../不过,可是,然而(前面说了一个意见,现在补充/转念一想另一个角度)
 guides are available here          在此处可用,可查看
@@ -282,11 +282,11 @@ The first three are             前三个是
 This is to notify (you) that ...            特此通知 ...
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
 table onboarding may be delayed for a month or even longer          数据接入可能延期一个月或更久
-enablement and adoption sessions            赋能培训 & 落地推广会议
+enablement & adoption sessions            赋能培训 & 落地推广会议
 From Concepts to Implementation         从概念到落地实施
 To avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 stick to the original plan            坚持 v
-(all services) are up and running       系统正常运行,服务就绪
+(all services) are up & running       系统正常运行,服务就绪
 multiple staff’s requests within a single submission
 I didn’t catch your last sentence/understand what you said at the end   没听懂你最后一句话
 in turn/Service A calls B, which in turn queries DB     继而,进而(插入性状语)/服务A调B,B继而去查询DB
@@ -294,10 +294,10 @@ in turn/Service A calls B, which in turn queries DB     继而,进而(插入性�
 too ... to/Jack has been too busy to send any emails        太什么...以至于不能
 As much as I would like to go, I have insufficient capacity     虽然我很想去,但我实在分身乏术
 Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
-My backend won't start. will see if your local can connect to the pre-prod env and run normally?
-Can your local connect to pre-prod env and start the project ? will see if same issue
+My backend won't start. will see if your local can connect to the pre-prod env & run normally?
+Can your local connect to pre-prod env & start the project ? will see if same issue
 The backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
-Conduct Integration/Regression(performance and stress) testing         进行 集成/回归/性能及压力 测试
+Conduct Integration/Regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
 Feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
 stay current with n         持续跟进更新n
 The change will only take effect after the end date                 end_date后才生效
@@ -321,7 +321,7 @@ guide sb through sth        带sb一步步走完,逐项讲解sth
 lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 not a fan of sth            不推荐,不认可,不喜欢sth
 not entirely sure/i'm not sure that(about sb/sth)        不完全确定/我不确定~
-will bring this up during our standup and hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
+will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
 how long do you expect it to take to fix        预计修复需要多久能完成
 (I was wondering) how come that       为什么,怎么会/我在想,为什么
 Only exact C1/C2/C3 should pass     只有B1/B2/C1才能通过
@@ -333,12 +333,17 @@ sth will be gone        即将下线,移除,不复存在
 could you please help push the matter        帮忙推动这事
 take care of/that (yourself)    处理,接手,照顾 v
 prevent sth from doing sth			防止sth产生不良影响
-which helps prevent excessive traffic from degrading overall system performance and user experience     有助于防止过度流量影响整体系统性能和用户体验
+which helps prevent excessive traffic from degrading overall system performance & user experience     有助于防止过度流量影响整体系统性能和用户体验
 spawn automated test-cases in batches       批量生成自动化测试用例
 get back on the case        重新处理此事
 which one has the highest priority      哪一项优先级最高
 try to address all possible issues      尽可能修复全部漏洞
 (to address issues that don't) require attention     需要重点关注/处理无需重点关注的
+I might be over-worried/overthinking     过度担忧的 adj
+Maybe I'm just overthinking it/over-worried  想太多,多虑 v/可能是我想多了,或许是我多虑了
+Some subsequent issues may be identified going forward, which I'm just worried about    后续可能会出一些问题,我担忧
+Do u have any ideas on the capability to retrieve both Teacher & Student data in a single run?  有没有方案可以单次运行同时获取
+factor in/I’d like to factor this in as part of the new Req as well   将...计入,将...考虑进去 v/想将这个也纳入新的需求里
 
 
 
