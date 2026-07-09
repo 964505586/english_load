@@ -266,18 +266,20 @@ exceed/beyond/excessive (api traffic)     /ɪkˈsiːd/ /ɪkˈsesɪv/  超过,超
 activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动 v/停用,注销
 deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
-(at) scale/scalable/Scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
+(at) scale/scalable/scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
 massive/at scale        /ˈmæsɪv/        巨大的,大规模的 adj
 cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
 normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
 (improved security) posture/attitude    /ˈpɑːstʃər/  态势,态度,立场,姿势/增强的安全态势/态度 n
 stability/scalability/maintenance/maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
 tidy up     /ˈtaɪdi/        整洁的 adj/整理 v
-moderate        /ˈmɒdərət/      中等的,普通的 adj
+moderate/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的，中间的 adj
 the work on his plate/hands     /pleɪt/     手头的工作
 critical        /ˈkrɪtɪkl/      严重的,关键的 adj
-integrity       /ɪnˈteɡrəti/        完整性 n
+data integrity in transition/transmission   /ɪnˈteɡrəti/    完整性 n/切换过渡阶段/传输
 dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的,闭源的 adj
+
+
 
 
 
