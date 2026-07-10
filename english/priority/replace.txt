@@ -27,7 +27,6 @@ explore/exploration/discover             探索,探究,研究,排查 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 indicate/indicator/mean/Represent/stand for sth           表明,指出 v/指标 n/代表sth
 post-upgrade/after upgrade          版本升级后
-contribute (to)/contribution         捐赠,为...做贡献 v/有助于,促成/贡献,捐款,捐助 n
 change/changeable                          变化,变更 n/多变的 adj
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
 notice/(outage) notification                 意识,注意 v/通知 n/断网,服务中断通知
@@ -40,7 +39,6 @@ balance exercise            平衡考量,折中方案 n
 Conclude/Conclusion                 得出结论,敲定,结束 v/结论 n
 conduct/keep monitoring Closely              实施,进行 密切监控 v
 I will be off/away/on leave next week           下周我将请假
-prepare(organize/sort out) document/put together documentation       整理文档
 Proceed with(carry on) sign-off/production release            继续做,接着推进 v
 pending/TBD         待定的,待处理的 adj
 underway/ongoing/in progress         在进行的 adj
@@ -58,7 +56,6 @@ As much/early as possible                   尽可能 多/早
 workday/working/Business Days               工作日 n
 in the coming/upcoming months/years                    在未来几个月/年
 underlying/low-level/foundation code                底层代码 n
-Approach/method                 方式,靠近,接近/方法 v
 impact/an impact on sb/sth                 影响 v/对sth的影响 n
 Just(totally) normal/Standard practice/Quite common       正常操作
 chase/push/urge sb to do(for sth)             催促 v
@@ -162,6 +159,13 @@ purpose/destination/target/goal     有意,打算 v/目的 n
 day-to-day/daily (meeting)      每日,日常 adv/adj
 rate/traffic        流量,速率,比率 n/交通,流量 n
 predict/predictable/prediction/forecast      预言,预计 v/可预测的,可预料的 adj/预测 n/预测,预报 v/n
+correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整改措施/正确地 adv
+method/approach/approaching     方法 n/方式,靠近,接近 v
+spend/cost       钱,时间/钱(受益方为主语)
+time-saving/consuming       省时的/耗时的 adj
+responsibility/responsible (owners)/responsiveness      责任 n/负责的 adj/负责人/响应能力,响应性 n
+respond/response                 响应 v/n
+contribute (to)/contribution    捐赠,为...做贡献 v/有助于,促成,计入,归属到/贡献,捐款,捐助 n
 
 
 

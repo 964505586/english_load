@@ -42,7 +42,6 @@ go public           上市,公开募股
 criminal            犯法的,犯罪的 adj/罪犯 n
 knowingly/unknowingly         不知情地,不知不觉地 adv
 adoption        采用,接受 n
-corrective (action)       纠正的,矫正的 adj/整改措施
 contain            包含,遏制 v
 entry (prerequisite)       进入,加入 n/准入前置条件
 lead time           任务耗时,处理时长 n
@@ -71,7 +70,6 @@ weekly          每周,每星期 adv
 driven by n     被n驱动,主导,制约
 revoke/revocation                 撤销 v/取消,撤回 n
 value                           价值,价值观 n
-sort                整理,分类,排序,解决 v
 recommended learning path           推荐学习路线 n
 junk            垃圾
 final bit of work           收尾工作 n
@@ -104,7 +102,6 @@ subset              子集 n
 anything urgent             紧急事项 n
 Deadline/due date            截止日期 n
 open(to do) item                   待处理事项 n
-Responsible owners          负责人
 work together           协同配合
 draft                                   起草,草拟 v/草稿 n
 (Estimated) Duration      (预估的)持续时间 n
@@ -170,7 +167,6 @@ bookmark        书签 n
 Outage                  停止供应期 n
 only               唯一的 adj
 queue               排队 v
-Time-saving/consuming           耗时的/省时的 adj
 per                     每,每一,按照,根据
 reverse                     相反的 adj
 range                       处于...之间 v
@@ -192,7 +188,6 @@ count           计数 v
 Collect     收集 v
 frequent/frequently(often)          经常地,频繁地 adj/adv
 Short notice                紧急通知
-Organize            整理,组织,安排
 headphone(microphone)               双耳式耳机
 whatever        无论什么
 anyway          总之,反正
@@ -233,6 +228,8 @@ known as (live migrations)       被称为,叫作/在线迁移
 preview     预览 v
 at speed                高速度地 adv
 user experience         用户体验
+in public preview       公开预览阶段
+subject to change       后续可能调整,可能变更,视情况调整
 
 
 

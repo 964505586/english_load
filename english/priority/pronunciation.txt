@@ -42,7 +42,6 @@ noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnə
 (On-Demand) Burst/Bursting          /bɜːst/         爆炸,猛冲,涨满,突发扩容,瞬时带宽扩容 n/按需的 adj
 progressive/progressively/gradually/step by step     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv/逐步 adv
 slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,PPT/一整套
-consumption     /kənˈsʌmpʃ(ə)n/         消费,消耗,调用,使用 n
 privacy/private         /ˈprɪvəsi/          隐私 n/私有的 adj
 firmware        /ˈfɜːmweə(r)/        固件,硬件 n
 rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      使旋转,使转动 v/值班名册,轮值表 n
@@ -124,7 +123,6 @@ seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
 arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
 aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
-simplify/streamline     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v
 inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
 Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
@@ -148,16 +146,15 @@ retrieve/retrieval/search/query/retrievable     /rɪˈtriːvl/         检索 v/
 blueprint       /ˈbluːprɪnt/        方案,蓝图 n
 alongside/with       /əˌlɒŋˈsaɪd/        连同,搭配 prep
 upon n(success/failure/completion/receipt)/once adj/句子    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
-Receive/receipt         /rɪˈsiːt/           获得,得到,收到 v/接收 n
 (system) entry/front door       /ˈentri/        系统入口 n
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
-Revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
-Preferably      /ˈprefrəbli/                  最好是 adv
+revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
+preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
-Suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
+suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 suppress/suppressed     /səˈpres/      镇压,压制,阻止 v/抑制的 adj
-Starting/effective 1 June 2026          自6月1日起
-Any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
+starting/effective 1 June 2026          自6月1日起
+any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 point/dot/period      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP,.com/英文句末句号
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
@@ -176,7 +173,6 @@ snipaste
 Hallucination           /həˌluːsɪˈneɪʃ(ə)n/         幻觉,幻想,错觉 n
 horizontal to vertical logic    /ˌhɒrɪˈzɒnt(ə)l/ /ˈvɜːtɪk(ə)l/
 series          /ˈsɪəriːz/          连续,一系列 n
-navigate            /ˈnævɪɡeɪt/         导航 v
 track/tracking      /træk/  /ˈtrækɪŋ/   跟踪 v
 recognized                  /ˈrekəgˈnaɪzd/              认识,辨别出 v
 stare/stares/stared/staring             /ˈsteərɪŋ/             凝视,盯着看 v
@@ -272,14 +268,19 @@ cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的
 normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
 (improved security) posture/attitude    /ˈpɑːstʃər/  态势,态度,立场,姿势/增强的安全态势/态度 n
 stability/scalability/maintenance/maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
-tidy up     /ˈtaɪdi/        整洁的 adj/整理 v
 moderate/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的，中间的 adj
 the work on his plate/hands     /pleɪt/     手头的工作
 critical        /ˈkrɪtɪkl/      严重的,关键的 adj
 data integrity in transition/transmission   /ɪnˈteɡrəti/    完整性 n/切换过渡阶段/传输
 dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的,闭源的 adj
-
-
+Receive/receipt/recipient   /rɪˈsiːt/       获得,得到,收到 v/接收 n/接收者 n
+severity        /sɪˈverəti/         严重性，严重 n
+consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗，消费 v/消费,消耗,调用,使用 n/耗时的 adj
+competitor/(fairly) competition     /kəmˈpetɪtə(r)/     竞争者,对手 n/竞争,(公平的)比赛 n
+navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导航交互
+simplify/streamline/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
+(be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
+uplift      /ˈʌplɪft/      提升,增加 v/n
 
 
 

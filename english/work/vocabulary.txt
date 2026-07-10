@@ -15,7 +15,6 @@ sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n
 status(情况, state/states)
 such                这种
 validate                 验证v
-respond/response                 响应 v/n
 proxy                 代理
 ingest                 摄取 v
 emphasize                   强调 v
@@ -62,7 +61,6 @@ life cycle                  生命周期
 lower(Upper) case/capital                    小/大 写字母/资本,资金,大写字母 n
 medium                 中等的 adj
 meet/met/met                遇见,满足 v
-navigate                    导航 v
 nested                 嵌套的
 observation                         观察 n
 one-off                  一次性的
@@ -76,7 +74,6 @@ promotion                 晋升 n
 recommend/recommendation                   建议,劝告,推荐 v/n
 refactor                  重构 v
 remediate/Remediation                   补救,修复 v/补救,纠正 n
-responsibility                  责任 n
 rest                            余下的 n
 rich            丰富的 adj
 seriousness/serious/seriously           严重性 n/严重的,重要的 adj/adv
@@ -103,11 +100,9 @@ disable(enable)                 禁用,关闭,使失效/启用,开启 v
 finalize/finalized                                    最终确定,敲定,完成 v
 laptop              笔记本电脑 n
 inherit                 继承 v
-correct             纠错 v
 regression              后退,倒退 n
 acceptance criteria             验收标准
 investigate/investigation                 调查 n
-recipient           接收者 n
 feel free to v                请随意,尽管
 constantly          总是,经常地,不断地
 seek                    寻找 v

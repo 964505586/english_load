@@ -97,7 +97,6 @@ consequently                因此,结果 adv
 considerate         体贴的,考虑周到的 adj
 content         满足,满意,内容 n     满足的,满意的 adj         使满意,使满足 v
 core                            核心 n
-correctly                           正确地 adv
 cost performance                        性价比
 creative                            创造性的 adj
 credential                      资格,证明,文凭,资格证书 n
