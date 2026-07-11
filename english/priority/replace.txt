@@ -26,7 +26,6 @@ discover/discovery/explore/retrieve/identify/found     发现,探索 v,n/检索 
 explore/exploration/discover             探索,探究,研究,排查 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 indicate/indicator/mean/Represent/stand for sth           表明,指出 v/指标 n/代表sth
-post-upgrade/after upgrade          版本升级后
 change/changeable                          变化,变更 n/多变的 adj
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
 notice/(outage) notification                 意识,注意 v/通知 n/断网,服务中断通知
@@ -50,7 +49,6 @@ please/kindly
 Remember/Don't forget/kind(gentle/a warm) reminder to      记得做sth
 To be precise/More accurately/Strictly speaking     准确来说/严格,严谨的说
 Focus/focus on          重点 n/专注于 v
-engage/Engagement/working                      参与,投入,使用,对接 v/参与度,投入度 n
 split/Divide/Separate/Separately            拆分/均分/分离 v/单独的,独立的,分开的 adj,分别地 adv
 As much/early as possible                   尽可能 多/早
 workday/working/Business Days               工作日 n
@@ -67,7 +65,6 @@ Recommended action/solution      推荐操作,方案
 present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 dummy/mock                       假的 adj
 ideal/normal                        理想的,最佳的/正常的,标准的 adj
-Involve/Include/Contain             涉及 v
 at your convenience/if you get a chance     你有空的时候
 self/internal/(my/our own) check            自测
 with n/there is ...
@@ -133,7 +130,6 @@ typical/typically/classical           典型的,常规的 adv/经典的,传统�
 save/saved amount          节省 v/挽回的 adj/挽回金额
 sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,受制于,服从,有可能被
 confuse/confused/confusing        使糊涂,使迷惑 v/困惑的,糊涂的 adj
-refer to sth/reference       参考,查阅 v/参考,引用 n
 appropriate/appropriately/properly      适当的,合适的 adj/adv/正确地,适当地
 (financial crime) concern/concerning        顾虑,担心,忧虑 n/财务犯罪顾虑/关于,涉及 v/prep
 subject (customer)/subjective     目标的 adj/目标客户/主观的 adj
@@ -166,6 +162,17 @@ time-saving/consuming       省时的/耗时的 adj
 responsibility/responsible (owners)/responsiveness      责任 n/负责的 adj/负责人/响应能力,响应性 n
 respond/response                 响应 v/n
 contribute (to)/contribution    捐赠,为...做贡献 v/有助于,促成,计入,归属到/贡献,捐款,捐助 n
+shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造服务
+involve/include/contain/cover/covering      涉及/包含/覆盖 v
+engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,投入度 n/持续参与,持续使用
+feature/capability introductions    功能介绍
+assess/assessment/evaluate/evaluation   /əˈses/     偏判断情况/偏系统分析 v/n
+refer to sth/reference       参考,查阅 v/参考,引用 n/v
+reproduce/reproduction       复现 v/n
+post-upgrade/after upgrade          版本升级后
+minimum reliable path/solution       最简可靠方案
+
+
 
 
 

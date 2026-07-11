@@ -8,7 +8,6 @@ command                         命令 n
 algorithm                       算法 n
 alias                           别名 n
 decision/decide             决定 n/v
-define/definition                  定义 v/n
 conflict                    冲突 n/v
 notebook            笔记本,笔记本电脑 n
 sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n

@@ -51,7 +51,6 @@ transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/
 recruit         /rɪˈkruːt/      招聘,招收,招募 v
 partner     /ˈpɑːtnə(r)/        搭档 n
 throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及,到处,自始至终,贯穿整个时期 adv/prep
-demo/demonstrate/demonstrating       /ˈdemənstreɪt/          证明,示范,演示 v/n
 Semantic        /sɪˈmæntɪk/        语义的 adj
 thorough/overall        /ˈθɜːroʊ/       彻底的,全面的 adj
 concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可落地 adj
@@ -146,7 +145,6 @@ retrieve/retrieval/search/query/retrievable     /rɪˈtriːvl/         检索 v/
 blueprint       /ˈbluːprɪnt/        方案,蓝图 n
 alongside/with       /əˌlɒŋˈsaɪd/        连同,搭配 prep
 upon n(success/failure/completion/receipt)/once adj/句子    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
-(system) entry/front door       /ˈentri/        系统入口 n
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
 revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
 preferably      /ˈprefrəbli/                  最好是 adv
@@ -186,7 +184,6 @@ bother/don't bother (me)    /ˈbɒðə(r)/      打扰,使烦恼,使担心 v/麻
 Statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
-Resolution    /ˌrezəˈluːʃ(ə)n/          决议,解决 n
 preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
 quota           /ˈkwəʊtə/       指标 n
 scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
@@ -281,8 +278,13 @@ navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导�
 simplify/streamline/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
 uplift      /ˈʌplɪft/      提升,增加 v/n
-
-
+very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
+(system) entry/central front door   /ˈentri/    核心,系统入口 n
+(live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
+define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/明确的,最终的 adj
+transitive copy/dependencies     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
+bump/upgrade/downgrade sth to   /bʌmp/     升级/降级 v/将sth版本提升至
+dependency resolution(analytics)    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n//依赖解析
 
 
 

@@ -28,7 +28,6 @@ move/movement                    移动,措施,转移 n/动作 n
 engineering     工程,工程学 n
 powerful            强大的,有影响力的 adj
 production-ready        可上线投产的 adj
-shape/shaping           塑造,打造 v/形状,外形 n
 shortening      缩短,变短,缩写 v
 half        一半,二分之一 n
 revert                 恢复,回复 v
@@ -64,7 +63,6 @@ control             控制 v/管控 n
 where (it's) appropriate       在合适的场景/情形下
 development         制定,完善,构建 n
 Developer Usage Acknowledgement         开发者使用 承诺书/声明
-My Role Reference Guide         岗位职责指引/参考手册
 progressive rollout         逐步部署,分阶段上线部署
 weekly          每周,每星期 adv
 driven by n     被n驱动,主导,制约
@@ -216,7 +214,6 @@ recycle         复用,回收利用 v/n
 actual loss (amount)        失去,损失 n/实际损失金额
 SIC     Standard Industrial Classification 标准行业分类
 cash deposit machine-bulk/large       大额现金自助存款机
-pocket guide            口袋指南
 (quality) assurance/assure          保证 n/v/质量保证
 tip     最新提交(Git专业术语: 分支末端最新提交节点)
 (professional) judgement/judge      判断,意见,判断力 n/判断,评判,评价 v/专业判断
@@ -230,6 +227,9 @@ at speed                高速度地 adv
 user experience         用户体验
 in public preview       公开预览阶段
 subject to change       后续可能调整,可能变更,视情况调整
+premium     高级的,增值的 adj
+Q&A     Questions and Answers 问答环节
+source of truth     最终依据,可信数据源
 
 
 
