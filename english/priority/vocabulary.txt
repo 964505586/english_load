@@ -4,7 +4,6 @@ Technical stack     技术栈
 (limited) lifetime        (有限)有效期,一生 n
 shutdown        关机 n
 extensively         大量地,频繁地 adv
-directory       文件夹,目录 n
 desktop         桌面 n
 workstation         工作站 n
 modern/Modernization              现代的 adj/n
@@ -207,7 +206,6 @@ capture         采集,捕获,截取 v
 document/raise a ticket to document the backend airflow in Confluence       记录,记载 v/在Confluence记录backend的airflow
 over time       随着时间流逝
 Actionable Intelligence Platform        可落地智能平台
-against         针对,面向,抵御,对照,对比,反对,违反 v
 cash        兑现 v/现金 n
 const(construction)         建造,建筑,建筑材料 n
 recycle         复用,回收利用 v/n
@@ -230,6 +228,13 @@ subject to change       后续可能调整,可能变更,视情况调整
 premium     高级的,增值的 adj
 Q&A     Questions and Answers 问答环节
 source of truth     最终依据,可信数据源
+directory       文件夹,目录 n
+interface   接口,界面 n
+ruleset        规则集 n
+administrator       管理人 n
+feature highlight       功能亮点
+organizational feed     组织动态流
+key area for changes        变更核心范围
 
 
 

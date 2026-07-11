@@ -19,7 +19,6 @@ ingest                 摄取 v
 emphasize                   强调 v
 find                 查收 v
 fraud                 欺诈 n
-confuse/Confusion               使困惑,使混乱 v/困惑,混乱 n
 insert          插入 v
 fact                 事实 n
 

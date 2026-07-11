@@ -129,7 +129,6 @@ most/almost/Majority            很多,模糊不精确 adj/adv/近全满 adv/必
 typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
 save/saved amount          节省 v/挽回的 adj/挽回金额
 sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,受制于,服从,有可能被
-confuse/confused/confusing        使糊涂,使迷惑 v/困惑的,糊涂的 adj
 appropriate/appropriately/properly      适当的,合适的 adj/adv/正确地,适当地
 (financial crime) concern/concerning        顾虑,担心,忧虑 n/财务犯罪顾虑/关于,涉及 v/prep
 subject (customer)/subjective     目标的 adj/目标客户/主观的 adj
@@ -166,11 +165,29 @@ shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造
 involve/include/contain/cover/covering      涉及/包含/覆盖 v
 engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,投入度 n/持续参与,持续使用
 feature/capability introductions    功能介绍
-assess/assessment/evaluate/evaluation   /əˈses/     偏判断情况/偏系统分析 v/n
 refer to sth/reference       参考,查阅 v/参考,引用 n/v
 reproduce/reproduction       复现 v/n
 post-upgrade/after upgrade          版本升级后
 minimum reliable path/solution       最简可靠方案
+confuse/confused/confusing/confusion    使困惑,使迷惑 v/困惑的,糊涂的 adj/困惑,混乱 n
+watched/automatic watching      关注的 adj/自动关注
+staging/pre-prod env        预发布环境
+be closing down/sth will be gone    逐步下线,陆续停用,即将关停/即将下线,移除,不复存在
+pin up/pinned (to version xxx)/fixed      /ˈpɪn ʌp/     置顶,挂图 v/已置顶的 adj/固定版本,锁定版本/固定的 adj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
