@@ -12,7 +12,6 @@ read-only access            只读权限 n
 authenticate/authentication(auth)         认证 v/n
 as a whole          总体上,总的来说,整体来看 adv
 common used         常用
-advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 portal          门户 n
 block/blocker         阻碍 v/n
 (Request) payload         有效负载 n
@@ -235,6 +234,7 @@ administrator       管理人 n
 feature highlight       功能亮点
 organizational feed     组织动态流
 key area for changes        变更核心范围
+secure-by-design    安全设计优先的 adj
 
 
 

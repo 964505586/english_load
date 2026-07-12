@@ -26,7 +26,6 @@ Catalyst        /ˈkætəlɪst/         优化器,催化剂
 big/large/huge/giant       /ˈdʒaɪənt/          巨大的,伟大的 adj
 compute/computation/Calculate/calculation         /kəmˈpjuːt/         运算,测算 v/计算,核算 v
 truncate        /ˈtrʌŋkeɪt/        截断,截短 v
-Prematurely/in advance         /ˌpriːməˈtʃʊrli/        过早地 adv/提前地 adv
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 thread/email chain      /θred/          邮件会话,邮件串联对话 n/邮件往来记录,邮件链 n
@@ -275,7 +274,6 @@ navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导�
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
 uplift      /ˈʌplɪft/      提升,增加 v/n
 very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
-(system) entry/central front door   /ˈentri/    核心,系统入口 n
 (live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
 define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/明确的,最终的 adj
 transitive copy/dependencies     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
@@ -286,6 +284,12 @@ comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面
 simplify (workflow)/streamline/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 assess/assessment/evaluate/evaluation   /əˈses/     偏判断情况/偏系统分析 v/n
 notification noise      /nɔɪz/      通知干扰,冗余通知
+(system) entry/central front door   /ˈentri/    核心,系统入口 n
+
+
+
+
+
 
 
 
