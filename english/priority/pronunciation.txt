@@ -4,9 +4,7 @@ provision/provisioning/deploy      /prəˈvɪʒ(ə)n/              部署,配置
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
 execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
-definite/definitely/definition/explicitly/clearly          /ˈdefɪnət/      清晰的,肯定地,明确地 adj/adv
 purge/removal/clear       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/移走,去掉,消除,清除 n
-explicitly/clearly/definitely      /ɪkˈsplɪsɪtli/          清楚明确地 adv/清楚地,清晰地 adv
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
 Privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
@@ -62,7 +60,6 @@ retriable        /rɪˈtraɪəbl/           可重试的 adj
 Plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编码 v
 Intend/Intended/Intentionally (locked down)    /ɪnˈtendɪd/     打算,想要 v/预期的,故意的,有意的 adj/故意地,有意地,有规划地 adv/主动管控
 discard/Dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
-participate/participant     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n
 attendee/(Related) Parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
 Stay tuned/please bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
@@ -78,7 +75,6 @@ Principle       /ˈprɪnsəp(ə)l/           准则,原则 n
 fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
 (unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
 emerging/newly        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
-anomalous/abnormal       /əˈnɒmələs/         异常的,不规则的,不恰当的 adj
 malicious       /məˈlɪʃəs/          恶意的,恶毒的 adj
 destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
 interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
@@ -134,7 +130,6 @@ Tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时�
 Comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
 whole/entire            全部的,整个的 adj
 Protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
-meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
 reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
@@ -171,18 +166,15 @@ series          /ˈsɪəriːz/          连续,一系列 n
 track/tracking      /træk/  /ˈtrækɪŋ/   跟踪 v
 recognized                  /ˈrekəgˈnaɪzd/              认识,辨别出 v
 stare/stares/stared/staring             /ˈsteərɪŋ/             凝视,盯着看 v
-Multiple                    /ˈmʌltɪp(ə)l/
 linkage                     /ˈlɪŋkɪdʒ/          联系 n
-Parallel/Parallelly/In parallel(In the meanwhile)             /ɪn ˈpærəlel/                 平行的,并行的 adj/adv
-Withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
-Majority            /məˈdʒɒrəti/            大多数 adj/n
+withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
+majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
 bother/don't bother (me)    /ˈbɒðə(r)/      打扰,使烦恼,使担心 v/麻烦 n/别烦我
-Statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
+statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
 preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
-quota           /ˈkwəʊtə/       指标 n
 scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 urge        /ɜːdʒ/            敦促,催促 v
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
@@ -224,7 +216,6 @@ counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,�
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
 trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
 (data) volume/size     /ˈvɑːljəm/     数据量
-vulnerable (code)      /ˈvʌlnərəb(ə)l/         存在漏洞的,易受攻击的 adj
 layout      /ˈleɪaʊt/          布局,排版 n
 protocol/agreement/agreed      /ˈproʊtəkɑːl/       协议,流程规范 n/协议,协定 n/约定好的,同意的 adj
 spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
@@ -246,7 +237,7 @@ we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
 persist/persistent/Materialize/insist      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj/坚持 v
 material/Materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
-Facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
+facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
 fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
 pose a minor risk to sth    /pəʊz/      造成,引起 v
@@ -260,19 +251,14 @@ massive/at scale        /ˈmæsɪv/        巨大的,大规模的 adj
 cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
 normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
 (improved security) posture/attitude    /ˈpɑːstʃər/  态势,态度,立场,姿势/增强的安全态势/态度 n
-stability/scalability/maintenance/maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
-moderate/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的，中间的 adj
-the work on his plate/hands     /pleɪt/     手头的工作
 critical        /ˈkrɪtɪkl/      严重的,关键的 adj
 data integrity in transition/transmission   /ɪnˈteɡrəti/    完整性 n/切换过渡阶段/传输
 dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的,闭源的 adj
-Receive/receipt/recipient   /rɪˈsiːt/       获得,得到,收到 v/接收 n/接收者 n
-severity        /sɪˈverəti/         严重性，严重 n
-consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗，消费 v/消费,消耗,调用,使用 n/耗时的 adj
+receive/receipt/recipient   /rɪˈsiːt/       获得,得到,收到 v/接收 n/接收者 n
+consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
 competitor/(fairly) competition     /kəmˈpetɪtə(r)/     竞争者,对手 n/竞争,(公平的)比赛 n
 navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导航交互
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
-uplift      /ˈʌplɪft/      提升,增加 v/n
 very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
 (live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
 define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/明确的,最终的 adj
@@ -282,9 +268,43 @@ dependency resolution(analytics)    /ˌrezəˈluːʃ(ə)n/   解析,决议,解�
 outline/overview the task status     /ˈaʊtlaɪn/      概述,简述 v(n)
 comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj,adv/概述 n,v
 simplify (workflow)/streamline/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
-assess/assessment/evaluate/evaluation   /əˈses/     偏判断情况/偏系统分析 v/n
 notification noise      /nɔɪz/      通知干扰,冗余通知
 (system) entry/central front door   /ˈentri/    核心,系统入口 n
+meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
+parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的 adj/adv
+quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
+vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
+participate/participating/participant/participation     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n/参与
+abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/n
+definite/definitely/definition/explicitly/clearly          /ˈdefɪnət/      清晰的,肯定地,明确地 adj/adv
+explicitly (prohibited)/clearly/definitely      /ɪkˈsplɪsɪtli/      清楚明确地 adv/清楚地,清晰地 adv/明确禁止
+assess/assessment/evaluate/evaluation   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n
+moderate (to heavy rain)/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的,中间的 adj
+the work on his plate/hands     /pleɪt/      手头的工作
+(uplift) revenue     /ˈrevənuː/      收入，收益 n/提升收入
+data estate     /ɪˈsteɪt/     数据资产
+compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及安全
+this email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此提醒/某物充当、用作
+(monthly) scoring cycle       /ˈskɔːrɪŋ/       计分,评分周期
+reinforced how we lead      /ˌriːɪnˈfɔːrs/      加强，强化 v/强化我们的管理举措
+momentum        /moʊˈmentəm/        势头,冲力,推力 n
+convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

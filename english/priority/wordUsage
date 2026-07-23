@@ -165,12 +165,13 @@ effective (action/measures)         有效的 adj
 (you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
 
 几个
-Multiple                多个的,多种的 adj
+Multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
 several/some                几个,若干(3-6个) cn/一些,若干
 numerous/lots(a lot) of/much/many           许多的,众多的 cn/un,cn/un/cn adj
 tons of/piles of n                 大量的/大量的,一大堆
 few/little                      否定: 几乎没有 cn/un
 a few/little               肯定: 有一点,少数几个 cn/un
+plenty      富裕,充裕 n
 
 priority                    优先的 adj/优先,优先权 n
 on (top) priority/as a priority              最高优先级
@@ -191,15 +192,6 @@ In case of n                万一n,在n情况下
 in case 句子/to avoid n           以防...
 in the/that case of n               在...情况下
 in a case like this                 像这样的情况
-
-rise/improve            增加,提高 vi/增加,改善 n
-raise           提起,举起 vt
-go up/down                  上升/下降
-increase/decrease                        增长/减少 v/n
-fall                                下跌,减少,降落,落下 v
-lower/reduce           降低,减少 v
-reduce/reduction                 减小,降低,做聚合,执行归约 v/减小,降低,聚合操作,归约运算 n
-degrade/degrading (performance)     /dɪˈɡreɪd/      降低,侮辱,贬低 v/降低性能
 
 timely/in a timely manner       及时的 adj/及时地,按时 adv
 in/on time/Promptly/quickly        及时/按时/及时的,适时的 adj/及时地,迅速地 adv
@@ -226,10 +218,6 @@ Without breaking the existing feature       不破坏现有功能
 order/sequence      命令,排列,订购,订单 v,n/顺序,次序 n
 in order that(to v)                   为了
 in (good) order/out of order        有序地,整齐地 adj/不按顺序的
-
-(combined) cap      /kæp/      上限,限额 n/共同的,合并的,共享的 adj
-(exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
-limit/limitation/restrict/restriction       限制,限定 v/限度,限制 n/限制,控制 v/n/上限,限额 n
 
 assign/assignment(工作 n)                 分任务,工单,工作,人
 allocate/allocation(分配)     /ˈæləkeɪt/      分资源,钱,时间
@@ -270,4 +258,32 @@ advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,
 ahead (of time/schedule)       提前 adj/adv
 prematurely/(2 months) in advance   /ˌpriːməˈtʃʊrli/   过早地 adv/提前地 adv/提前2个月
 provide advance notice/give you a heads-up     提前下发通知,预先告知/提前告知,预先提醒
+
+ensure/make sure            确保,保证 v
+guarantee               确保,保证 v/n
+(quality) assurance/assure          保证 n/v/质量保证
+
+severity/seriousness/importance/integrity        /sɪˈverəti/         严重性,严重 n/重要性/完整性
+stability/scalability/maintenance/maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
+
+constrain/constraint      /kənˈstreɪnt/       限制,约束 v/n
+(combined) cap      /kæp/      上限,限额 n/共同的,合并的,共享的 adj
+(exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
+limit/limitation/restrict/restriction       限制,限定 v/限度,限制 n/限制,控制 v/n/上限,限额 n
+
+relevant/related/associated     相关的/有关联的/有关联的,相关的 adj
+accordingly/corresponding                   相应地 adv/相应的,对应的 adj
+proper/properly/appropriate                    正确地,适当地 adj/adv
+
+uplift      /ˈʌplɪft/      提升,增加 v/n
+rise/improve            增加,提高 vi/增加,改善 n
+raise           提起,举起 vt
+go up/down                  上升/下降
+increase/decrease                        增长/减少 v/n
+fall                                下跌,减少,降落,落下 v
+lower/reduce           降低,减少 v
+reduce/reduction                 减小,降低,做聚合,执行归约 v/减小,降低,聚合操作,归约运算 n
+degrade/degrading (performance)     /dɪˈɡreɪd/      降低,侮辱,贬低 v/降低性能
+
+
 

@@ -16,7 +16,6 @@ such                这种
 validate                 验证v
 proxy                 代理
 ingest                 摄取 v
-emphasize                   强调 v
 find                 查收 v
 fraud                 欺诈 n
 insert          插入 v
@@ -38,7 +37,6 @@ distinguish                     认出,区别 v
 domain                 领域 n
 doubt                  疑问,疑惑 n
 entity                 实体
-estimate                                        估计,判断,评价 v
 exchange                 交换 v/n
 extension                 扩展
 extract             提取,抽取 v
@@ -89,7 +87,6 @@ transparent                 透明的 adj
 uninstall                 卸载 v
 unzip                 解压 v
 up 向上
-vulnerability                 漏洞 n
 willing                 愿意的,乐意的 adj
 particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
 action owner
@@ -112,7 +109,6 @@ revisit             再访 v/n
 fluctuation             波动 n
 abnormal                反常的 adj
 precondition            前置条件,前提状态 n
-radio/checkbox (button)                           单选/复选框 n
 transform               使转化 v
 segmentation fault         段错误
 facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情

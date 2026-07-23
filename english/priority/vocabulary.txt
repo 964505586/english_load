@@ -20,7 +20,6 @@ express/expression          明确的 adj/表达 v/n
 Third-party     第三方
 Escalate/Escalation                 上报,升级 v
 cyber       网络的 adj
-pilot        试点的 adj/试点 n
 Foundational (branch)            基础的,基本的 adj
 move/movement                    移动,措施,转移 n/动作 n
 engineering     工程,工程学 n
@@ -100,11 +99,9 @@ Deadline/due date            截止日期 n
 open(to do) item                   待处理事项 n
 work together           协同配合
 draft                                   起草,草拟 v/草稿 n
-(Estimated) Duration      (预估的)持续时间 n
 Phase           阶段 n
 visible/visibility      可见的 adj/可见性,能见度 n
 rolling restart     滚动重启 n
-1H/2H 2026/achievements     2026下半年/上半年成绩
 highlight           突出,强调 v
 (improving) context/contextual      /kənˈtekstʃuəl/     优化上下文/场景相关的,上下文的 adj
 disconnected            割裂的,零散的 adj
@@ -153,7 +150,6 @@ real-time/in real time                 实时的 adj/adv
 Address                 解决,处理 v
 oversee                     统筹,监督 v
 take/took/taken
-FAQ/FAQs            Frequently asked questions      常见问题
 programmatically                通过编程方式 adv
 miss                错过,想念 v
 brief/briefly             简短的,简要的 adv
@@ -211,9 +207,6 @@ recycle         复用,回收利用 v/n
 actual loss (amount)        失去,损失 n/实际损失金额
 SIC     Standard Industrial Classification 标准行业分类
 cash deposit machine-bulk/large       大额现金自助存款机
-(quality) assurance/assure          保证 n/v/质量保证
-tip     最新提交(Git专业术语: 分支末端最新提交节点)
-(professional) judgement/judge      判断,意见,判断力 n/判断,评判,评价 v/专业判断
 if applicable       若可以,如果合适,如果适用
 outstanding (defect)         未解决的,杰出的,优秀的 adj/严重缺陷
 RP      Reference Point 参考点
@@ -235,6 +228,22 @@ feature highlight       功能亮点
 organizational feed     组织动态流
 key area for changes        变更核心范围
 secure-by-design    安全设计优先的 adj
+pilot        试点的 adj/试点 n
+DevOps      Development Operations 开发运维一体化
+FAQ/FAQs        Frequently asked questions      常见问题解答
+serve (as)       服务 v/n/充当,作为
+fingers crossed     但愿一切顺利,祝好运
+radio/checkbox (button)/input box       单选/复选框/输入框 n
+clear ask       明确诉求
+data foundation    数据基础
+ways of working     工作方式
+evolve (over time)        进化，演化 v/随时间演变
+platform improvement    平台优化
+step-by-step guide     分步指南
+renewed (emphasis on sth)         续存,重新开始，中止后继续 v/再度重视,重新强调
+tip     小技巧,最新提交(Git专业术语: 分支末端最新提交节点)
+
+
 
 
 

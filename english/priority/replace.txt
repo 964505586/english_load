@@ -7,7 +7,6 @@ introduce risk/cause incidents(failures)        引进,引入 v
 top/bottom left/right corner        左上角,右下角
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
 direct/directly/indirect/indirectly/direction         调度,指挥 v/直接的/间接的 adj/adv/方向,方位,指导 n
-serve       服务 v/n
 inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓越的 adj
 near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
 Architect/Architecture/framework   架构师/架构/框架
@@ -25,7 +24,6 @@ kick-off/start          正式启动,开工/加速,立刻启动 v/n
 discover/discovery/explore/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 explore/exploration/discover             探索,探究,研究,排查 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
-indicate/indicator/mean/Represent/stand for sth           表明,指出 v/指标 n/代表sth
 change/changeable                          变化,变更 n/多变的 adj
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
 notice/(outage) notification                 意识,注意 v/通知 n/断网,服务中断通知
@@ -162,7 +160,6 @@ respond/response                 响应 v/n
 contribute (to)/contribution    捐赠,为...做贡献 v/有助于,促成,计入,归属到/贡献,捐款,捐助 n
 shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造服务
 involve/include/contain/cover/covering      涉及/包含/覆盖 v
-engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,投入度 n/持续参与,持续使用
 feature/capability introductions    功能介绍
 refer to sth/reference       参考,查阅 v/参考,引用 n/v
 reproduce/reproduction       复现 v/n
@@ -173,6 +170,13 @@ watched/automatic watching      关注的 adj/自动关注
 staging/pre-prod env        预发布环境
 be closing down/sth will be gone    逐步下线,陆续停用,即将关停/即将下线,移除,不复存在
 pin up/pinned (to version xxx)/fixed      /ˈpɪn ʌp/     置顶,挂图 v/已置顶的 adj/固定版本,锁定版本/固定的 adj
+engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,投入度 n/持续参与,使用,投入
+indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
+good/great/excellent/thoughtful question        好问题
+1H/2H/H2 2026/achievements/half year 2     (2026)下半年/上半年成绩
+estimated (duration)/judge      估计的,判断,评价 v/(预估的)持续时间 n
+(human/professional) judgement/judge/estimate      判断,意见,判断力 n/判断,评判,评价 v/人工,专业判断
+stress/stressful/emphasize        强调,着重,使受压力 v/压力 n/紧张的,压力大的 adj
 
 
 

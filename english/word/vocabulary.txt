@@ -143,7 +143,6 @@ encounter                   遭遇 v/偶遇,邂逅 n/v
 energetic        adj 精力充沛的
 energy                      精力
 enjoyable                           令人愉快的 adj
-ensure                                          确保,保证 v
 envy                        羡慕 v/n
 escape                              逃跑 v/n
 ever since                          自从,从那时起一直到现在
@@ -209,7 +208,6 @@ graciously                          和蔼地,仁慈地 adv
 grateful        感激的
 greatly    极大的
 greed/greedy                   贪婪,贪欲 n/adj
-guarantee                                       确保,保证 v/n
 guess                           猜测 v/n
 guilty/guiltily                         内疚的 adj/adv
 had hoped/thought 本来希望/认为
@@ -354,7 +352,6 @@ personally(in person)                                       亲自地
 persuade/persuasive/persuasion          说服 v/adj/n
 physical                    身体的,物质的 adj
 pick up                 拿起,接人,接电话,搭讪
-plenty 充裕
 poison/poisonous                              毒药 n/有毒的 adj
 polite/impolite                  礼貌的,客气的
 politely                        有礼貌地 adv
@@ -430,7 +427,6 @@ stay up/focused/overnight                             熬夜/保持专注/过夜
 steady/unsteady                                  稳定的,平稳的,持续的 adj/adv
 striking            惊人的,异常的 adj
 strength                        力量,优点 n
-stress/stressful                          压力 n/紧张的,压力大的 adj
 strongly suggest                        强烈建议 v
 structure                       结构 n
 stupid                  笨的,傻的 adj           傻瓜,笨蛋 n
