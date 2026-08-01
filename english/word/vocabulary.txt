@@ -158,7 +158,6 @@ exist                                   存在 v
 expense             代价,费用 n     向...收取费用 v
 experiment                              实验 n
 expire                              到期,失效 v
-explain/explanation                 解释 v/n
 exploit                             剥削,压榨 v
 extra                                           额外的 adj
 eye-catching/eye-catcher                         引人注目的 adj/引人注目的东西 n
@@ -315,8 +314,6 @@ nuclear                         核心的 adj
 nutrition                   营养 n
 obedient                        服从的,顺从的 adj
 object                              反对 v
-obvious/obviously                   明显的,显然的 adj/adv
-official                            正式的,官方的 adj
 once in a while 偶尔
 one another 彼此,互相
 operation                               操作,运作,手术 n

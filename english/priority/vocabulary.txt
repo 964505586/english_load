@@ -113,7 +113,6 @@ map/maps/mapped/mapping         地图,分布图,映射 v
 onboarding          接入,上线 v
 upcoming                即将来临的 adj
 go live                 上线 v
-Align/alignment                  对齐 v/n
 (core) concept       (核心)概念 n
 Sequence diagram                时序图,顺序图 n
 usage-based billing model       按使用量的计费模式

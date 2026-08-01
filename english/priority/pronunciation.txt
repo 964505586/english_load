@@ -215,7 +215,7 @@ case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏�
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
 trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
-(data) volume/size     /ˈvɑːljəm/     数据量
+(data) volume/size     /ˈvɑːljəm/     数据量/音量 n
 layout      /ˈleɪaʊt/          布局,排版 n
 protocol/agreement/agreed      /ˈproʊtəkɑːl/       协议,流程规范 n/协议,协定 n/约定好的,同意的 adj
 spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
@@ -289,6 +289,9 @@ this email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此�
 reinforced how we lead      /ˌriːɪnˈfɔːrs/      加强，强化 v/强化我们的管理举措
 momentum        /moʊˈmentəm/        势头,冲力,推力 n
 convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
+apparently/obvious/obviously      /əˈpærəntli/        明显的,显然的 adv/adj
+embargo     /ɪmˈbɑːrɡoʊ/     禁运 n
+explain/explanation/elaborate       /ɪˈlæbərət/       解释/详细说明 v/n
 
 
 
@@ -338,7 +341,16 @@ convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化�
 
 
 
-your volume
+
+
+
+
+
+
+
+
+
+
 
 
 

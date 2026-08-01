@@ -16,7 +16,6 @@ up-to-date/latest           新式的,与时俱进的/最新的
 go/work/walk through          经历,逐条梳理,过一遍/解决/完整讲解,分步演示
 internal/external           内部的/外部的 adj
 update/progress      进展 n
-formal/informal/official        正式的,规范的,合法的 adj/非正式的 adj
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的,可落地的 adj
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
@@ -98,7 +97,6 @@ Launch/release version(new feature)         启动,发起,推出,执行 v
 marked/highlighted part/area/Section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
 occur/appear/happen
 as usual/planned/expected                       像往常一样/按计划/按预期
-Consistency/Consistent/Consistently/align                  一致性 n/一致的 adj/adv
 Discrepancy/difference                 差异 n
 Obstacle/friction(block v/n)                障碍,阻碍,困难 n/阻碍,摩擦阻力,繁琐卡点
 Edition/version                     版本 n
@@ -172,11 +170,13 @@ be closing down/sth will be gone    逐步下线,陆续停用,即将关停/即�
 pin up/pinned (to version xxx)/fixed      /ˈpɪn ʌp/     置顶,挂图 v/已置顶的 adj/固定版本,锁定版本/固定的 adj
 engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,投入度 n/持续参与,使用,投入
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
-good/great/excellent/thoughtful question        好问题
 1H/2H/H2 2026/achievements/half year 2     (2026)下半年/上半年成绩
 estimated (duration)/judge      估计的,判断,评价 v/(预估的)持续时间 n
 (human/professional) judgement/judge/estimate      判断,意见,判断力 n/判断,评判,评价 v/人工,专业判断
 stress/stressful/emphasize        强调,着重,使受压力 v/压力 n/紧张的,压力大的 adj
+formal/official/informal/former        正式的,规范的,合法的/非正式的/正式的,官方的/以前的 adj
+good/great/excellent/thoughtful point/question        好问题
+(in) early next/this week/June       在6月初/下周早些时候
 
 
 
