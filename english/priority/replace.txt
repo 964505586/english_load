@@ -30,7 +30,6 @@ Regulatory Compliance/Compliance violation              监管的合规/合规�
 lag/delay       延迟,推迟,延期 v/n
 dynamic/Static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
-tap/click               点(移动/PC端)
 balance exercise            平衡考量,折中方案 n
 Conclude/Conclusion                 得出结论,敲定,结束 v/结论 n
 conduct/keep monitoring Closely              实施,进行 密切监控 v
@@ -52,13 +51,13 @@ workday/working/Business Days               工作日 n
 in the coming/upcoming months/years                    在未来几个月/年
 underlying/low-level/foundation code                底层代码 n
 impact/an impact on sb/sth                 影响 v/对sth的影响 n
-Just(totally) normal/Standard practice/Quite common       正常操作
+just(totally) normal/Standard practice/Quite common       正常操作
 chase/push/urge sb to do(for sth)             催促 v
 consolidate/consolidated/merge                合并,使巩固 v/巩固的,统一的 adj
-Problem statement/description                   说明,陈述,声明
+problem statement/description                   说明,陈述,声明
 homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟,伙伴/乡亲们 n
-Looks fine/Seems all good/Looks no problem
-Recommended action/solution      推荐操作,方案
+looks fine/Seems all good/Looks no problem
+recommended action/solution      推荐操作,方案
 present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 dummy/mock                       假的 adj
 ideal/normal                        理想的,最佳的/正常的,标准的 adj
@@ -88,7 +87,6 @@ Apply/request
 via/by/through
 I noticed/saw that
 Make a code change(Change code)                  做一次代码修改(正式)
-leave/left
 in fact/To be honest/frank(Actually) (with sb)
 tips/tricks/recommendations/Kind(A warm) reminder                 小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
 remediate/Investigate/fix              补救,修复 v
@@ -100,7 +98,6 @@ as usual/planned/expected                       像往常一样/按计划/按预
 Discrepancy/difference                 差异 n
 Obstacle/friction(block v/n)                障碍,阻碍,困难 n/阻碍,摩擦阻力,繁琐卡点
 Edition/version                     版本 n
-Perspective/view
 Integrate/Integration/merge            集成,合并,成为一体 v/n
 may/can
 seem/look/sounds like good/fine
@@ -160,7 +157,6 @@ shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造
 involve/include/contain/cover/covering      涉及/包含/覆盖 v
 feature/capability introductions    功能介绍
 refer to sth/reference       参考,查阅 v/参考,引用 n/v
-reproduce/reproduction       复现 v/n
 post-upgrade/after upgrade          版本升级后
 minimum reliable path/solution       最简可靠方案
 confuse/confused/confusing/confusion    使困惑,使迷惑 v/困惑的,糊涂的 adj/困惑,混乱 n
@@ -177,6 +173,10 @@ stress/stressful/emphasize        强调,着重,使受压力 v/压力 n/紧张�
 formal/official/informal/former        正式的,规范的,合法的/非正式的/正式的,官方的/以前的 adj
 good/great/excellent/thoughtful point/question        好问题
 (in) early next/this week/June       在6月初/下周早些时候
+tap/click/press               点(手机/鼠标/键盘)
+suspect/suspicious         怀疑 v/可疑的 adj
+sensitive/sensitivity/confidential      敏感的 adj/敏感性,敏感度 n/机密的 adj
+status/state/states       状态 n/陈述,说明 v
 
 
 

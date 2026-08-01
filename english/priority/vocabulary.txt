@@ -15,8 +15,6 @@ common used         常用
 portal          门户 n
 block/blocker         阻碍 v/n
 (Request) payload         有效负载 n
-(express) license     执照,许可证 n/正式书面授权
-express/expression          明确的 adj/表达 v/n
 Third-party     第三方
 Escalate/Escalation                 上报,升级 v
 cyber       网络的 adj
@@ -84,8 +82,7 @@ the following day           第二天,翌日 n
 given n/that/time                    鉴于,考虑到.../给定的时间
 LHS/RHS         left/right-hand side 左手边
 presence        出席 n
-Suspect/Suspicious         怀疑 v/感到怀疑的,可疑的 adj
-User Access Review          用户访问权限审核
+user access review          用户访问权限审核
 outcome         结果 n
 end-to-end          端对端的 adj/adv
 built-in                内置的 adj
@@ -137,8 +134,7 @@ map/mapped/mapping         地图,映射 n/映射 v
 continued               持续的 adj
 inaccessible            不可及的 adj
 user base           用户群
-Retrospective           追溯性,回顾的 adj
-Caution/With some caution             小心,谨慎 n/谨慎地 adv
+retrospective           追溯性,回顾的 adj
 precaution             预防措施 n
 almost              几乎,差不多
 freeze/freezes/froze/frozen         卡死,冻结,无响应
@@ -146,7 +142,7 @@ chase/chased/chasing       跟进,催促 v
 logical             合情合理的,合乎逻辑的 adj
 workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
 real-time/in real time                 实时的 adj/adv
-Address                 解决,处理 v
+address                 解决,处理 v
 oversee                     统筹,监督 v
 take/took/taken
 programmatically                通过编程方式 adv
@@ -236,11 +232,16 @@ radio/checkbox (button)/input box       单选/复选框/输入框 n
 clear ask       明确诉求
 data foundation    数据基础
 ways of working     工作方式
-evolve (over time)        进化，演化 v/随时间演变
+evolve (over time)        进化,演化 v/随时间演变
 platform improvement    平台优化
 step-by-step guide     分步指南
-renewed (emphasis on sth)         续存,重新开始，中止后继续 v/再度重视,重新强调
+renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度重视,重新强调
 tip     小技巧,最新提交(Git专业术语: 分支末端最新提交节点)
+(express) license     执照,许可证 n/正式书面授权
+express/expression          明确的 adj/表达 v/n
+acknowledge/acknowledged                         确认,认可,承认,感谢 v
+mini fund       小额理财基金
+reproduce/reproduction       复现 v/n
 
 
 

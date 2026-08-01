@@ -10,8 +10,6 @@ alias                           别名 n
 decision/decide             决定 n/v
 conflict                    冲突 n/v
 notebook            笔记本,笔记本电脑 n
-sensitive/Sensitivity                   敏感的 adj/敏感性,敏感度 n
-status(情况, state/states)
 such                这种
 validate                 验证v
 proxy                 代理
@@ -20,15 +18,11 @@ find                 查收 v
 fraud                 欺诈 n
 insert          插入 v
 fact                 事实 n
-
-
-
 access                          访问 v
 adapt                           适应 v
 adverse                         不利的 adj
 buddy                           伙伴 n
 concise                     简洁的
-confidential                  机密的 adj
 data set                    数据集 n
 deny/denied                  否定 v
 diagram                  图表 n

@@ -8,7 +8,6 @@ purge/removal/clear       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/移走
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
 Privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
-Guard/guardrail   /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 paste (in/into/here)       /peɪst/ /peɪst ɪn/         粘贴 v/粘贴进去
 (In) reality/Actually         /riˈæləti/      真实,现实 n/实际上,事实上
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
@@ -51,27 +50,26 @@ throughout (the entire software development lifecycle)      /θruːˈaʊt/      
 Semantic        /sɪˈmæntɪk/        语义的 adj
 thorough/overall        /ˈθɜːroʊ/       彻底的,全面的 adj
 concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可落地 adj
-Subsequent/Follow-up/next (steps/actions)        /ˈsʌbsɪkwənt/       随后的,接着的 adj/后续的 adj/后续行动
+subsequent/follow-up/next (steps/actions)        /ˈsʌbsɪkwənt/       随后的,接着的 adj/后续的 adj/后续行动
 accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就,成绩(功能落地,开发实现) n/
 supply/supplement       /ˈsʌplɪmənt/     供应,提供 v/补充,增加,增补 v
-occur/Occurrence/reoccur/recurrence     /əˈkʌrəns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n
+occur/occurrence/reoccur/recurrence     /əˈkʌrəns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n
 govern/governed/governing/governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统治,支配,控制 adj/数据治理
 retriable        /rɪˈtraɪəbl/           可重试的 adj
-Plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编码 v
-Intend/Intended/Intentionally (locked down)    /ɪnˈtendɪd/     打算,想要 v/预期的,故意的,有意的 adj/故意地,有意地,有规划地 adv/主动管控
-discard/Dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
-attendee/(Related) Parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
-Stay tuned/please bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
+plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编码 v
+intend/intended/Intentionally (locked down)    /ɪnˈtendɪd/     打算,想要 v/预期的,故意的,有意的 adj/故意地,有意地,有规划地 adv/主动管控
+discard/dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
+attendee/(related) Parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
+stay tuned/please bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 opt out of      /ɒpt aʊt əv/      选择退出 v
-Represent/Representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
-prohibit/prohibited/prohibitive/forbid/ban  /prəˈhɪbɪtɪd/ /prəˈhɪbətɪv/ /bæn/   禁止,阻止 v/禁止的 adj/禁止 v/(n,v)(弱中强)
+represent/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 fellow      /ˈfeləʊ/              同类的,同伴的 adj
 commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
 experience(好/坏/普通)/undergo(只接艰难,痛苦,漫长,被动承受的事)   /ˌʌndəˈɡəʊ/     经历,经受 v
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
 ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
-Principle       /ˈprɪnsəp(ə)l/           准则,原则 n
+principle       /ˈprɪnsəp(ə)l/           准则,原则 n
 fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
 (unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
 emerging/newly        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
@@ -83,14 +81,14 @@ refrain from n      /rɪˈfreɪn/          克制,杜绝,不得做某事,放弃,
 commercialize/Commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商品化 v/商业的 adj
 vendor      /ˈvendə(r)/     供应商
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
-Applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
+applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
 circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
 alert/advisory/advisories/notification   /ədˈvaɪzəri/       警报 n/警告,通知 n
 compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 adj
 snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
-Postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
+postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
-Nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
+nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
 login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
 log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
@@ -111,7 +109,6 @@ manage (to)/I managed to solve the problem      /ˈmænɪdʒ/       设法做到
 Alternatively(or)/Alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 expedite/accelerate/speed up        /spiːd ʌp/        加快
 (in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
-illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
 arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
@@ -125,11 +122,10 @@ spotlight/gather        /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 
 quarter         /ˈkwɔːtə(r)/            季度
 bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
-Accuracy/Precise        /ˈækjərəsi/ /prɪˈsaɪs/      准确性 n/精确的 adj
-Tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
-Comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
+tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
+comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
 whole/entire            全部的,整个的 adj
-Protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
+protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
 bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
 reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
@@ -281,23 +277,29 @@ explicitly (prohibited)/clearly/definitely      /ɪkˈsplɪsɪtli/      清楚�
 assess/assessment/evaluate/evaluation   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n
 moderate (to heavy rain)/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的,中间的 adj
 the work on his plate/hands     /pleɪt/      手头的工作
-(uplift) revenue     /ˈrevənuː/      收入，收益 n/提升收入
+(uplift) revenue/earning     /ˈrevənuː/      收入,收益 n/提升收入
 data estate     /ɪˈsteɪt/     数据资产
 compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及安全
 this email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此提醒/某物充当、用作
 (monthly) scoring cycle       /ˈskɔːrɪŋ/       计分,评分周期
-reinforced how we lead      /ˌriːɪnˈfɔːrs/      加强，强化 v/强化我们的管理举措
+reinforced how we lead      /ˌriːɪnˈfɔːrs/      加强,强化 v/强化我们的管理举措
 momentum        /moʊˈmentəm/        势头,冲力,推力 n
 convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
 apparently/obvious/obviously      /əˈpærəntli/        明显的,显然的 adv/adj
 embargo     /ɪmˈbɑːrɡoʊ/     禁运 n
 explain/explanation/elaborate       /ɪˈlæbərət/       解释/详细说明 v/n
+minor       /ˈmaɪnə(r)/       较小的 adj/未成年人 n
+accurate/inaccurate/precise/accuracy     /ɪnˈækjərət/ /prɪˈsaɪs/     准确的 adj/不准确的/精确的,准确的/准确性 n
+illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
+guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
+misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
+idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置、空闲 adj/空闲自动扫描
+virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
 
 
 
-
-
-
+uplift
+reinforced
 
 
 
