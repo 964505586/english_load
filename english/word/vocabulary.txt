@@ -5,7 +5,6 @@ absorb                              吸收 v
 accessible                                  平易近人的 adj
 accommodation           住宿 n
 accustom                            使习惯于,使适应于 v
-act as         扮演
 actual/actually         adj/adv
 actually not                                    实际上不是
 afterward/afterwards                      过后,后来 adv
@@ -35,7 +34,6 @@ atmosphere                              气氛,情调,感染力,大气层
 attack                                  攻击 v
 audience                                观众,听众 n
 automatic/automatically             自动的 adj/adv
-available/availability/unavailable/unavailability       adj/n       可用的 adj/可用性 n
 avoid                                   避免 v
 back-up                                 备份 n
 backward/backwards                      向后的 adj/adv
@@ -129,7 +127,6 @@ domestic/domestically                           国内的 adj/adv
 dormitory    宿舍
 double                      两倍的 adj/adv/n/加倍 v
 dramatically                            明显地,剧烈地,夸张地 adv
-early/earlier/earliest                          早的/更早的/最早的 adj/adv
 ease                                            减轻,缓和 v
 eased                                           放松的 adj
 economic 经济的,节约的
@@ -238,11 +235,9 @@ immediate           立刻的,即时的,目前的,直接的 adj
 improve                     提高,改善,康复 v
 in a different way
 in a short time/period                      在短时间内
-in fact                         事实上
 in recent days(years)                  最近几天
 in sight                        在视线范围内
 in the first place                  首先
-including/inclusiveness                       包含 prep/包容,包容性 n
 income                      收入 n
 increase                      增长,增强,增大 v
 increasing                  越来越多的 adj           增长,增强 v
@@ -302,7 +297,6 @@ moment                              瞬间,此刻 n
 moving                              感人的 adj
 national                            国家的 adj
 natura/natural/naturally               自然 n/adj/adv
-necessary 必要,必需
 needed                                      需要的 adj
 negative                                    悲观的,消极的 adj
 negotiate                       谈判 v
@@ -326,7 +320,6 @@ out of breath                       喘不过气来,上气不接下气
 outlook                                         看法,态度 n
 outside/outsides                     在外面 adv         外边的 adj
 over the moon               兴高采烈,欣喜若狂
-overdue                     到期的 adj
 own                                 有,拥有 v                  自己的 adj
 pandemic        流行病 n
 pass by             经过,走过,逝去
@@ -340,7 +333,6 @@ peer                                    同行 n
 pension                         养老金,退休金 n
 perhaps 可能
 period                  一段时间,时期 n
-permit                                  批准,许可 v
 personal quality                人品
 personality                             个性,性格 n
 personally(in person)                                       亲自地
@@ -417,7 +409,6 @@ specialize in                       专攻
 stable/unstable                          稳定的,牢固的 adj
 stand                           忍受 v
 standard                        标准
-start out                   着手
 stay up/focused/overnight                             熬夜/保持专注/过夜 v
 steady/unsteady                                  稳定的,平稳的,持续的 adj/adv
 striking            惊人的,异常的 adj

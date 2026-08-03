@@ -371,6 +371,9 @@ no risks found      未发现风险
 ai-generated content might be inaccurate or misleading      AI生成的可能存在不准确或误导性
 i was updating Jack on this info         刚刚正在做的动作/刚才正在向杰克更新这些信息
 it was not an issue previously      此前并无异常,之前没有出现过这个问题
+You are one of the approvers        审批人之一
+associated with/the comment associated with the manual trigger         与...关联
+(you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
 
 
 

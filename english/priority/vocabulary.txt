@@ -49,7 +49,6 @@ issue identified                            识别到的问题
 round/Can we ask Jack to perform the final round of check (on this)     一轮,一遍 n/我们可以请Jack做最后一轮检查吗
 shortly                             不久,很快 adv
 comment     评估 v
-connectivity        连通性,连接性 n
 DoR         Definition of Ready 就绪准入标准
 as of 2026/6/12     截至指定日期
 Access application process      权限申请流程 n
@@ -64,7 +63,6 @@ driven by n     被n驱动,主导,制约
 revoke/revocation                 撤销 v/取消,撤回 n
 value                           价值,价值观 n
 recommended learning path           推荐学习路线 n
-junk            垃圾
 final bit of work           收尾工作 n
 close down           收尾,完成 v
 instead     代替,顶替,反而 adv
@@ -73,7 +71,6 @@ snippet         小片,片断	 n
 datapoint           数据点 n
 re-platform         平台重构,系统迁移 n
 building block       基础模块,核心组件,积木块 n
-Feasible/Feasibility                可行的 adj/可行性 n
 somewhat            稍微,有点 adv
 maintain                            保持,维持,维护 v
 Clarify/Clarity                         澄清,阐明,明确 v/清晰 n
@@ -92,12 +89,10 @@ audit/audited/auditable           审计 v,n/受审查的c受审计的 adj/可�
 last            最后的,最近的 adj/持续 v
 subset              子集 n
 anything urgent             紧急事项 n
-Deadline/due date            截止日期 n
 open(to do) item                   待处理事项 n
 work together           协同配合
 draft                                   起草,草拟 v/草稿 n
-Phase           阶段 n
-visible/visibility      可见的 adj/可见性,能见度 n
+phase           阶段 n
 rolling restart     滚动重启 n
 highlight           突出,强调 v
 (improving) context/contextual      /kənˈtekstʃuəl/     优化上下文/场景相关的,上下文的 adj
@@ -116,7 +111,6 @@ usage-based billing model       按使用量的计费模式
 Review              查阅 v
 during the Maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
-Associate/Associated (guidance)     联系 v/相关的,关联的,配套的 adj/相关指引,配套说明
 alerts      通知 v/警报,告警 n
 flood       泛滥 n
 trigger     触发(器) v/n
@@ -164,7 +158,6 @@ saving              节约,节省 n/节约的,节省的 adj
 deliver                提供,交付 v
 Existing                 现有的 adj
 Outdated                过时的 adj
-trick                   技巧,小妙招,小窍门
 sync(synchronize)           同步 v/n
 problematic (code)            有问题的 adj/有问题的代码
 Utilize(Utilise 英式)                 利用,使用 v
@@ -176,10 +169,8 @@ Collect     收集 v
 frequent/frequently(often)          经常地,频繁地 adj/adv
 Short notice                紧急通知
 headphone(microphone)               双耳式耳机
-whatever        无论什么
 anyway          总之,反正
 Hold on            等一下,坚持住
-refactor        重构 v/n
 just asking     只是问问
 Find out more       了解更多
 multimodal model     多模态(模型)
@@ -190,8 +181,6 @@ mix (A with B)             混合 v/n/把A和B混合
 by COB today        Close of Business   今日下班前
 regroup     复盘碰头,重新组合 v
 baseline/re-baseline        基线,基准 n/重新设定基线 v
-audit trail     审计追踪,审计日志
-capture         采集,捕获,截取 v
 (first/prior) entry           条目,单行记录 n/首条,先前条目,历史记录
 document/raise a ticket to document the backend airflow in Confluence       记录,记载 v/在Confluence记录backend的airflow
 over time       随着时间流逝
@@ -242,7 +231,18 @@ express/expression          明确的 adj/表达 v/n
 acknowledge/acknowledged                         确认,认可,承认,感谢 v
 mini fund       小额理财基金
 reproduce/reproduction       复现 v/n
-
+(your) hours worked       你的工作时长
+functional Manager          职能经理
+capture         采集,捕获,截取 v
+distinct/distinction                 独立的,不同的 adj/区别 n
+affected        受影响的 adj
+refactor        重构 v/n
+associate/associated (guidance)     联系 v/相关的,关联的,配套的 adj/相关指引,配套说明
+approving authority         审批权责方
+permit/permitted to         批准,许可 v/被允许、有权限
+in correct sort order       正确的排序顺序
+junk            抛弃，丢掉 v/垃圾 n
+fictional       虚构的 adj
 
 
 

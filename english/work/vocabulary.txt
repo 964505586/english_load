@@ -17,7 +17,6 @@ ingest                 摄取 v
 find                 查收 v
 fraud                 欺诈 n
 insert          插入 v
-fact                 事实 n
 access                          访问 v
 adapt                           适应 v
 adverse                         不利的 adj
@@ -62,11 +61,9 @@ prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
 promotion                 晋升 n
 recommend/recommendation                   建议,劝告,推荐 v/n
-refactor                  重构 v
 remediate/Remediation                   补救,修复 v/补救,纠正 n
 rest                            余下的 n
 rich            丰富的 adj
-seriousness/serious/seriously           严重性 n/严重的,重要的 adj/adv
 slightly                稍微,轻微地 adv
 slot                                    时间段,时段 n
 stage                       阶段
@@ -83,7 +80,6 @@ unzip                 解压 v
 up 向上
 willing                 愿意的,乐意的 adj
 particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
-action owner
 elementary problem                  低级问题
 disable(enable)                 禁用,关闭,使失效/启用,开启 v
 finalize/finalized                                    最终确定,敲定,完成 v

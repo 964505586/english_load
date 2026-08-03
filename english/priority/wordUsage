@@ -15,9 +15,6 @@ This error keeps popping up                         这个报错老是弹出来
 things like this always happen                      这样的事情经常发生
 This error pops/popped up                           这个报错 经常/刚 出现了
 
-(on) startup (company)      /ˈstɑːtʌp/     新成立的,刚创办的,(初创企业,初创公司) adj/开始,启动(开机自启) n
-start up(issues occurs when starting up the backend project)     /ˈstɑːt ʌp/      启动(服务/项目专用) v
-
 url         https://nexus.com/repository/download
 uri         /repository/download
 
@@ -128,10 +125,6 @@ hyphen      /ˈhaɪfn/        连字符,中划线-
 Line break      换行符
 special character       特殊字符
 
-Enhancement/Enhance (feature)         增强 v/n
-Optimization/boost/strengthen/improve/Optimize (performance)       优化 v/n
-refinery/refine/refined (timeline)          细化,精修,优化 n/细化,优化,改进 v/优化后的
-
 lastly              最后 adv
 Eventually          终于,等了很久,几经波折后
 Finally             时间最后(顺序/总算)
@@ -159,10 +152,6 @@ Productivity        生产力,生产效率 n
 qualify                                 取得资格,达到标准,有权去做 v
 qualified                               有资格的 adj
 qualification                           资格,资质,获得资格,达到标准 n
-
-efficiency      效率 n
-effective (action/measures)         有效的 adj
-(you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
 
 几个
 Multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
@@ -215,17 +204,13 @@ I've been fully swamped/occupied recently   /swɒmpt/ /ˈɒkjupaɪd/     最近�
 (including) breaking changes      破坏性变更
 Without breaking the existing feature       不破坏现有功能
 
-order/sequence      命令,排列,订购,订单 v,n/顺序,次序 n
-in order that(to v)                   为了
-in (good) order/out of order        有序地,整齐地 adj/不按顺序的
-
 assign/assignment(工作 n)                 分任务,工单,工作,人
 allocate/allocation(分配)     /ˈæləkeɪt/      分资源,钱,时间
 
 tidy up     /ˈtaɪdi/    整洁的 adj/整理 v
 prepare document       整理文档
 put together documentation
-sort (out)      排序,分类 v/整理,,解决
+sort (out)      排序,分类 v/整理,解决
 organize            整理,组织,安排
 
 in place of n         代替
@@ -245,11 +230,6 @@ Things are much better now   现在情况好多了
 let's get better together                           让我们一起变得更优秀
 we can do better                        我们可以做得更好
 
-preserve/preserving      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
-retain/retention                  保留 v/保持,保留,保存 n
-remain/remaining        仍然是,保持,剩余,留下 v/剩下的,遗留的 adj
-testing remains/remain unchanged             仍在测试/保持不变
-
 advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 ahead (of time/schedule)       提前 adj/adv
 prematurely/(2 months) in advance   /ˌpriːməˈtʃʊrli/   过早地 adv/提前地 adv/提前2个月
@@ -259,9 +239,6 @@ ensure/make sure            确保,保证 v
 guarantee               确保,保证 v/n
 (quality) assurance/assure          保证 n/v/质量保证
 
-severity/seriousness/importance/integrity        /sɪˈverəti/         严重性,严重 n/重要性/完整性
-stability/scalability/maintenance/maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
-
 constrain/constraint      /kənˈstreɪnt/       限制,约束 v/n
 (combined) cap      /kæp/      上限,限额 n/共同的,合并的,共享的 adj
 (exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
@@ -270,16 +247,6 @@ limit/limitation/restrict/restriction       限制,限定 v/限度,限制 n/限�
 relevant/related/associated     相关的/有关联的/有关联的,相关的 adj
 accordingly/corresponding                   相应地 adv/相应的,对应的 adj
 proper/properly/appropriate                    正确地,适当地 adj/adv
-
-uplift      /ˈʌplɪft/      提升,增加 v/n
-rise/improve            增加,提高 vi/增加,改善 n
-raise           提起,举起 vt
-go up/down                  上升/下降
-increase/decrease                        增长/减少 v/n
-fall                                下跌,减少,降落,落下 v
-lower/reduce           降低,减少 v
-reduce/reduction                 减小,降低,做聚合,执行归约 v/减小,降低,聚合操作,归约运算 n
-degrade/degrading (performance)     /dɪˈɡreɪd/      降低,侮辱,贬低 v/降低性能
 
 align/alignment/misalignment        对齐 v/n
 Consistency/Consistent/Consistently     一致性 n/一致的 adj/adv
@@ -297,5 +264,84 @@ prohibited/prohibitive      /prəˈhɪbətɪv/      禁止的 adj
 users should exercise caution.
 caution should be exercised when operating DB   应当谨慎处理
 caution/with some caution             小心,谨慎 n/谨慎地 adv
+
+preserve/preserving      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
+retain/retention                  保留 v/保持,保留,保存 n
+remain/remaining/testing remains        仍然是,保持,剩余,留下 v/剩下的,遗留的 adj/仍在测试
+the other features remains unchanged/unaffected     保持不变
+
+login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
+log off/out(sign out)    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
+
+initiator/initiating person           发起人 n
+initial/initiate/initiative     /ɪˈnɪʃieɪt/ /ɪˈnɪʃieɪtɪŋ/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n
+
+appropriate/appropriately/properly/appropriateness      适当的,合适的 adj/adv/正确地,适当地/合理性、适宜性
+appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨,拨付 n/挪用,侵占/挪用客户资金
+
+importance      重要性
+correctness     正确性
+appropriateness     合理性、适宜性
+connectivity        连通性,连接性 n
+Feasible/Feasibility        可行的 adj/可行性 n
+visible/visibility      可见的 adj/可见性,能见度 n
+including/inclusiveness     包含 prep/包容,包容性 n
+integrity/completeness      /ɪnˈteɡrəti/        完整性
+necessity/necessary       /nəˈsesəti/       必要性/必要,必需的 adj
+available/availability/unavailable      /əˈveɪləb(ə)l/       可用的 adj/可用性 n
+probability/Possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
+sufficient/insufficient(enough)/sufficiency     足够的,充足的 adj/不足的,不够的 adj/充分性,充足性 n
+responsibility/responsible (owners)/responsiveness      责任 n/负责的 adj/负责人/响应能力,响应性 n
+severity/seriousness/serious/seriously        /sɪˈverəti/         严重性,严重 n/严重的,重要的 adj/adv
+stability/scalability/maintenance/maintainability   /ˌskeɪləˈbɪləti/    稳定性 n/可扩展性 n/维护/可维护性 n
+accurate/precise/inaccurate/accuracy     /ˈækjərət/ /prɪˈsaɪs/     准确的，精确的 adj/不准确的/准确性 n，精确性
+
+whatever        无论什么
+regardless/irrespective of n/whether A or B      无论/不管 A还是B
+no matter what/who/whether ...      /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
+
+act as      充当、担任
+act/action (owner)/actor     行动 v/n/操作主体 n
+active/actively    积极的 adj/adv
+activity/inactivity    活动/闲置,无操作 n
+passive/passively         消极的,被动的 adj
+
+be responsible to/for n                  负责n
+i'm in charge of backend                我负责n
+i take charge of backend
+who is the person in charge of the project?
+
+initiator captured/the feature unaffected
+Why is 主语 + 过去分词？
+why is your approval needed
+why is the user info collected
+
+order/sequence      顺序,命令,排列,订购,订单 v,n/顺序,次序 n
+in order that(to v)                   为了
+in (good) order/out of order        有序地,整齐地 adj/不按顺序的
+
+uplift (revenue/earning)      /ˈʌplɪft/ /ˈrevənuː/      提升,增加 v/n/收入,收益 n/提升收入
+rise/improve            增加,提高 vi/增加,改善 n
+raise           提起,举起 vt
+go up/down                  上升/下降
+increase/decrease                        增长/减少 v/n
+fall                                下跌,减少,降落,落下 v
+lower/reduce           降低,减少 v
+reduce/reduction                 减小,降低,做聚合,执行归约 v/减小,降低,聚合操作,归约运算 n
+degrade/degrading (performance)     /dɪˈɡreɪd/      降低,侮辱,贬低 v/降低性能
+
+start out/starting      着手 v/起始的，开始的 adj
+(on) startup (company)      /ˈstɑːtʌp/     新成立的,刚创办的 adj/初创公司/开始,启动(开机自启) n
+start up(issues occurs when starting up the backend project)     /ˈstɑːt ʌp/      启动(服务/项目专用) v
+
+reinforced how we lead      /ˌriːɪnˈfɔːrs/      加强,强化 v/强化我们的管理举措
+boost/strengthen/improve/optimize(enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
+enhancement/enhance (feature)         增强 v/n
+optimization/boost/strengthen/improve/optimize (performance)       优化 v/n
+refinery/refine/refined (timeline)          细化,精修,优化 n/细化,优化,改进 v/优化后的
+
+
+
+
 
 

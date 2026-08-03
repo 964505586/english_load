@@ -25,7 +25,6 @@ compute/computation/Calculate/calculation         /kəmˈpjuːt/         运算,
 truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
-thread/email chain      /θred/          邮件会话,邮件串联对话 n/邮件往来记录,邮件链 n
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
 (three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n
 manifest/configuration file        /ˈmænɪfest/         清单,配置文件 n
@@ -89,13 +88,9 @@ snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
 postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
 nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
-login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
-log/sign out    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
-no matter what/who/whether ...(Irrespective of whether A or B)  /ˌɪrɪˈspektɪv/  不考虑,不顾 adj
 Probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
-probability/Possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
 capability/capabilities/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/能力 n
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
@@ -131,7 +126,6 @@ ontology        /ɒnˈtɒlədʒi/        本体(论)
 reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
 retrieve/retrieval/search/query/retrievable     /rɪˈtriːvl/         检索 v/n/可检索的 adj
 blueprint       /ˈbluːprɪnt/        方案,蓝图 n
-alongside/with       /əˌlɒŋˈsaɪd/        连同,搭配 prep
 upon n(success/failure/completion/receipt)/once adj/句子    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
 revised/Rectify/rectified/Modify/update/change/Edit/Edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
@@ -180,7 +174,6 @@ shown                   /ʃəʊn/
 hotkey          快捷键 n       /hɒt/
 editable            /ˈedɪtəbl/          可编辑的 adj
 borrow/borrowing            /ˈbɒrəʊ/    /ˈbɒrəʊɪŋ/
-Available                       /əˈveɪləb(ə)l/
 follow me                       /ˈfɑːloʊ/
 scope           /skoʊp/
 browser                          /ˈbraʊzə(r)/
@@ -200,13 +193,11 @@ loop sb in/looping Jack in for visibility/Awareness     /luːp/     引入/把sb
 mitigate/mitigation (the risk)       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险
 crime       /kraɪm/     罪,罪行,犯罪 n
 territory       /ˈterətɔːri/        领地,领域 n
-initial/initiate/initiative/initiating person     /ɪˈnɪʃieɪt/ /ɪˈnɪʃieɪtɪŋ/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n/发起人
 (is this an urgent) referral        /rɪˈfɜːrəl/        转介,转送,转诊 n
 in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺序的 adj
 (cash) deposit         /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款
 classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类,分级,类别 n
 (raise) fund        /fʌnd/        资金 n/募资,融资
-appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨,拨付 n/挪用,侵占/挪用客户资金
 case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
@@ -227,7 +218,6 @@ register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 enterprise/Corporation/Company      /ˈentəpraɪz/        企业,事业单位 n
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
-boost/strengthen/improve/Optimize(Enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
 dig out     /dɪɡ aʊt/         找出,挖掘出 v
 we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
@@ -251,7 +241,6 @@ critical        /ˈkrɪtɪkl/      严重的,关键的 adj
 data integrity in transition/transmission   /ɪnˈteɡrəti/    完整性 n/切换过渡阶段/传输
 dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的,闭源的 adj
 receive/receipt/recipient   /rɪˈsiːt/       获得,得到,收到 v/接收 n/接收者 n
-consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
 competitor/(fairly) competition     /kəmˈpetɪtə(r)/     竞争者,对手 n/竞争,(公平的)比赛 n
 navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导航交互
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
@@ -277,29 +266,48 @@ explicitly (prohibited)/clearly/definitely      /ɪkˈsplɪsɪtli/      清楚�
 assess/assessment/evaluate/evaluation   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n
 moderate (to heavy rain)/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的,中间的 adj
 the work on his plate/hands     /pleɪt/      手头的工作
-(uplift) revenue/earning     /ˈrevənuː/      收入,收益 n/提升收入
 data estate     /ɪˈsteɪt/     数据资产
 compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及安全
 this email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此提醒/某物充当、用作
 (monthly) scoring cycle       /ˈskɔːrɪŋ/       计分,评分周期
-reinforced how we lead      /ˌriːɪnˈfɔːrs/      加强,强化 v/强化我们的管理举措
 momentum        /moʊˈmentəm/        势头,冲力,推力 n
 convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
 apparently/obvious/obviously      /əˈpærəntli/        明显的,显然的 adv/adj
 embargo     /ɪmˈbɑːrɡoʊ/     禁运 n
 explain/explanation/elaborate       /ɪˈlæbərət/       解释/详细说明 v/n
 minor       /ˈmaɪnə(r)/       较小的 adj/未成年人 n
-accurate/inaccurate/precise/accuracy     /ɪnˈækjərət/ /prɪˈsaɪs/     准确的 adj/不准确的/精确的,准确的/准确性 n
 illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
 idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置、空闲 adj/空闲自动扫描
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
+(as per current UI) convention      /kənˈvenʃ(ə)n/        惯例，规范
+(hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配，分摊 v/分配的工作时长
+exceeds your (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
+(audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/邮件往来记录,邮件链 n
+alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
+consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
 
 
 
-uplift
-reinforced
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
