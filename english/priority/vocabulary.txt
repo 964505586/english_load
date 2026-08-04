@@ -65,7 +65,6 @@ value                           价值,价值观 n
 recommended learning path           推荐学习路线 n
 final bit of work           收尾工作 n
 close down           收尾,完成 v
-instead     代替,顶替,反而 adv
 codebase            代码库 n
 snippet         小片,片断	 n
 datapoint           数据点 n
@@ -73,7 +72,7 @@ re-platform         平台重构,系统迁移 n
 building block       基础模块,核心组件,积木块 n
 somewhat            稍微,有点 adv
 maintain                            保持,维持,维护 v
-Clarify/Clarity                         澄清,阐明,明确 v/清晰 n
+clarify/clarity                         澄清,阐明,明确 v/清晰 n
 role                角色,作用,职责 n
 the following day           第二天,翌日 n
 given n/that/time                    鉴于,考虑到.../给定的时间
@@ -165,27 +164,21 @@ succeed             成功 v
 by default          默认情况下 adv
 in use      在使用中 adv
 count           计数 v
-Collect     收集 v
+collect     收集 v
 frequent/frequently(often)          经常地,频繁地 adj/adv
-Short notice                紧急通知
-headphone(microphone)               双耳式耳机
 anyway          总之,反正
-Hold on            等一下,坚持住
-just asking     只是问问
-Find out more       了解更多
+hold on            等一下,坚持住
+find out more       了解更多
 multimodal model     多模态(模型)
 significant/significantly       显著地,大幅度地,重要地 adj/adv
-dropdown (list)                 下拉(列表) n
 as needed       按需 adv
-mix (A with B)             混合 v/n/把A和B混合
-by COB today        Close of Business   今日下班前
+mix (a with B)             混合 v/n/把A和B混合
+by cob today        Close of Business   今日下班前
 regroup     复盘碰头,重新组合 v
 baseline/re-baseline        基线,基准 n/重新设定基线 v
 (first/prior) entry           条目,单行记录 n/首条,先前条目,历史记录
 document/raise a ticket to document the backend airflow in Confluence       记录,记载 v/在Confluence记录backend的airflow
 over time       随着时间流逝
-Actionable Intelligence Platform        可落地智能平台
-cash        兑现 v/现金 n
 const(construction)         建造,建筑,建筑材料 n
 recycle         复用,回收利用 v/n
 actual loss (amount)        失去,损失 n/实际损失金额
@@ -217,7 +210,6 @@ DevOps      Development Operations 开发运维一体化
 FAQ/FAQs        Frequently asked questions      常见问题解答
 serve (as)       服务 v/n/充当,作为
 fingers crossed     但愿一切顺利,祝好运
-radio/checkbox (button)/input box       单选/复选框/输入框 n
 clear ask       明确诉求
 data foundation    数据基础
 ways of working     工作方式
@@ -243,6 +235,7 @@ permit/permitted to         批准,许可 v/被允许、有权限
 in correct sort order       正确的排序顺序
 junk            抛弃，丢掉 v/垃圾 n
 fictional       虚构的 adj
+uninstall/install                 卸载/安装,设置 v
 
 
 

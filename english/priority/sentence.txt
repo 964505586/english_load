@@ -52,35 +52,31 @@ Maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
 Let's extract an extra method for the piece of code             让我们为这段代码添加一个额外的方法
 Let's pause(hold on) here. For the introduction & process I mentioned previously. Is there any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
-Why/How did you navigate to(land on) that page?         您是如何访问(到达)那个页面的？
-These two fields are reversed                这两个字段的值颠倒了
-TBD                 to be determined/decided/confirmed
-data(Email) attached for your reference                 附上邮件供您参考
-Postman has been disabled in HSBC                   汇丰银行已禁用 Postman
-(Did) you know that？                你知道这件事吗？
-I know about this           我知道这件事
-I'm aware of this           我了解这件事
-How/Why/What is it?              怎么样/为什么/这是什么
-(so Can i understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
+why/how did you navigate to(land on) that page?         您是如何访问(到达)那个页面的？
+these two fields are reversed                这两个字段的值颠倒了
+tbd                 to be determined/decided/confirmed
+data(email) attached for your reference                 附上邮件供您参考
+postman has been disabled in HSBC                   汇丰银行已禁用 Postman
+how/why/what is it?              怎么样/为什么/这是什么
+(so can i understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
 this is just/simply my personal perspective            这仅仅是我个人的看法
 will it work？
 not sure if John will join the call？            不确定托尼是否会参加这次通话？
-In that case, I think everything will be fine/all right     既然如此,我觉得一切都会顺利的
-You need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与HK保持一致
-Look/sounds like your situation is different(not same) from mine                看起来/听起来您的情况与我的情况不同
-No further error so far                     到目前为止没有再出现错误
+in that case, I think everything will be fine/all right     既然如此,我觉得一切都会顺利的
+you need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与HK保持一致
+look/sounds like your situation is different(not same) from mine                看起来/听起来您的情况与我的情况不同
+no further error so far                     到目前为止没有再出现错误
 have no particular idea at the moment           目前还没有特别的想法
-Implement pagination functionality              实现分页功能
-Of course, it wasn't me who caused it               当然,造成这一情况的并非是我
-(It's) almost the same                  几乎一样
+implement pagination functionality              实现分页功能
+of course, it wasn't me who caused it               当然,造成这一情况的并非是我
+(it's) almost the same                  几乎一样
 almost at once                 几乎马上
-let Jenkins rest for a while                        让Jenkins休息一会
-We usually/normally do it this way, unless someone challenges it            我们一般都这么做
-If we use The pattern, others may misunderstand it as cust ID instead of auto-increment ID          如果我们使用这pattern,其他人可能会将其误解为客户编号,而非自增编号
-Remember to add the piece of code in the end                记得在最后添加这段代码
-No need to start the run from the beginning         不需要从头开始run
-Jesus                           天哪
-About when?                大概什么时候
+let jenkins rest for a while                        让Jenkins休息一会
+we usually/normally do it this way, unless someone challenges it            我们一般都这么做
+if we use the pattern, others may misunderstand it as cust ID instead of auto-increment ID          如果我们使用这pattern,其他人可能会将其误解为客户编号,而非自增编号
+remember to add the piece of code in the end                记得在最后添加这段代码
+no need to start the run from the beginning         不需要从头开始run
+about when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
 this has been happening a lot recently. it didn't happen before             这种情况最近频繁发生.以前从未出现过这种情况.
 The problem occurs when writing data to HDFS, & then the exception is thrown
@@ -89,27 +85,27 @@ Please press Ctrl & C on your keyboard    请在键盘上按下“Ctrl”和“C
 Logs are only kept for one or two days              日志只保存一天或两天
 Is/Isn't this what we expected?             这难道不是我们所期望的吗？
 Wait a minute. Let me quickly check the dictionary to see how to say it     我查下字段
-Could you tell me who I should contact?         你可以告诉我应该联系谁吗？
-Out of the scope                    超出范围
+could you tell me who i should contact?         你可以告诉我应该联系谁吗？
+out of the scope                    超出范围
 this has never been done before        以前从没人干过
-Develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an ES index             编写一个脚本来识别特定索引中的数据差异如果发现差异,将结论保存到ES索引中
-This is an automatically generated notification from Confluence             这是Confluence自动生成的通知
-I'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline         我正在准备为 Spark 项目创建一个示例完成后,我会制定详细的时间表
-Whose responsibility is it？                 这是谁的责任？
-Actually, it's afternoon in China               实际上,中国现在是下午
-What time do you start work in the morning          你早上几点开始工作
+develop a script to identify data discrepancies in specific indices. If discrepancies are found, save the conclusion in an ES index             编写一个脚本来识别特定索引中的数据差异如果发现差异,将结论保存到ES索引中
+this is an automatically generated notification from Confluence             这是Confluence自动生成的通知
+i'm preparing to create a sample for the Spark project. Once it's complete, I'll work out the detailed timeline         我正在准备为 Spark 项目创建一个示例完成后,我会制定详细的时间表
+whose responsibility is it？                 这是谁的责任？
+actually, it's afternoon in China               实际上,中国现在是下午
+what time do you start work in the morning          你早上几点开始工作
 using a command             方式状语
-The issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
-This problem was caused while developing backend feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
-Adjust/Modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
-As (we) discussed (with Jack)                   正如我与Jack所讨论的那样
-Please help check the email draft, i'm preparing to send to kevin & Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明
-Everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
-sth be Pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
+the issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
+this problem was caused while developing backend feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
+adjust/modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
+as (we) discussed (with Jack)                   正如我与Jack所讨论的那样
+please help check the email draft, i'm preparing to send to kevin & Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明
+everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
+sth be pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
 nothing(no need) for now                     暂时没有/暂时不需要
-Let's work out the (detailed) timeline               制定出时间计划,敲定时间线
-Just add a space anywhere (you like)                    随便添加个空格
+let's work out the (detailed) timeline               制定出时间计划,敲定时间线
+just add a space anywhere (you like)                    随便添加个空格
 This field is not editable                  此字段不可编辑
 Set the field to uneditable
 I have 2 tickets (which are) assigned to me/there are 2 tickets assigned to me      有两张票分给我了
@@ -169,9 +165,6 @@ Please check the part highlighted in yellow             请查看标黄部分
 Try to follow Jack's proposal               试下Jack的提议
 Let's use this data as input                用这数据作为输入
 We can categorize the changes above into two types       我们可以将上面changes归类为2种类型
-Sorry for the late notice(last-minute cancellation)         抱歉这么晚通知/抱歉临时取消
-Apologize for the short notice(last-minute change)          抱歉临时通知/抱歉临时做变更
-Are you wearing headphones/Do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
 We need your team's support to keep pressing the CA team for the CE upgrade, as it has been out of service for two years now
 You may prioritize other ticket for now/you may work on other tickets first         可以优先做其他ticket
 We're (just) counting on you               我们就靠你了(指望)
@@ -374,6 +367,7 @@ it was not an issue previously      此前并无异常,之前没有出现过这�
 You are one of the approvers        审批人之一
 associated with/the comment associated with the manual trigger         与...关联
 (you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
+headphone/Are you wearing headphones/Do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
 
 
 

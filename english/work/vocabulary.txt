@@ -9,7 +9,6 @@ algorithm                       算法 n
 alias                           别名 n
 decision/decide             决定 n/v
 conflict                    冲突 n/v
-notebook            笔记本,笔记本电脑 n
 such                这种
 validate                 验证v
 proxy                 代理
@@ -75,7 +74,6 @@ strongly                            坚定地,强有力地,强烈地 adv
 touch v                     触动,感动
 trainee                                     实习生 n
 transparent                 透明的 adj
-uninstall                 卸载 v
 unzip                 解压 v
 up 向上
 willing                 愿意的,乐意的 adj
@@ -83,7 +81,6 @@ particular/particularly                        特别的,特定的 adj/细节,�
 elementary problem                  低级问题
 disable(enable)                 禁用,关闭,使失效/启用,开启 v
 finalize/finalized                                    最终确定,敲定,完成 v
-laptop              笔记本电脑 n
 inherit                 继承 v
 regression              后退,倒退 n
 acceptance criteria             验收标准

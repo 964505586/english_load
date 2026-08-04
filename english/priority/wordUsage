@@ -36,11 +36,11 @@ identical                               完全相同 adj
 identify/identified/Identification/identifier     /aɪˈdentɪfaɪə(r)/       认出,识别v/n/标识符 n
 
 遵守
-Act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
+act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
 attest (following guardrails)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明,确认,作证,承诺遵守 v/声明,证明,证据,证实 n
-(Regulatory) Compliance/comply with (regulation)/obey      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
+(regulatory) compliance/comply with (regulation)/obey      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
 obey/obedience(comply with)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v
-in line with enterprise's Principle(obey/comply with)      遵照,符合/符合企业原则
+in line with enterprise's principle(obey/comply with)      遵照,符合/符合企业原则
 adhere/adhering (commitments made in this attestation)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 
 High probability of a conflict          冲突的可能性很高
@@ -251,11 +251,6 @@ proper/properly/appropriate                    正确地,适当地 adj/adv
 align/alignment/misalignment        对齐 v/n
 Consistency/Consistent/Consistently     一致性 n/一致的 adj/adv
 
-object to sth           反对某事
-against sb for sth          反对sb做sth
-compare A against B                     把A与B相比
-against         针对,面向,抵御,对照,对比,反对,违反 v
-
 sth must not be used      禁止使用sth
 prohibit/forbid/ban     /bæn/    禁止,阻止 v/禁止 v/(n,v)(弱中强)
 disable/enable/display      禁止/启用,使能够/显示,展示 v
@@ -283,13 +278,13 @@ importance      重要性
 correctness     正确性
 appropriateness     合理性、适宜性
 connectivity        连通性,连接性 n
-Feasible/Feasibility        可行的 adj/可行性 n
+feasible/feasibility        可行的 adj/可行性 n
 visible/visibility      可见的 adj/可见性,能见度 n
 including/inclusiveness     包含 prep/包容,包容性 n
 integrity/completeness      /ɪnˈteɡrəti/        完整性
 necessity/necessary       /nəˈsesəti/       必要性/必要,必需的 adj
 available/availability/unavailable      /əˈveɪləb(ə)l/       可用的 adj/可用性 n
-probability/Possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
+probability/possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
 sufficient/insufficient(enough)/sufficiency     足够的,充足的 adj/不足的,不够的 adj/充分性,充足性 n
 responsibility/responsible (owners)/responsiveness      责任 n/负责的 adj/负责人/响应能力,响应性 n
 severity/seriousness/serious/seriously        /sɪˈverəti/         严重性,严重 n/严重的,重要的 adj/adv
@@ -339,6 +334,40 @@ boost/strengthen/improve/optimize(enhance)      /buːst/ /ˈstreŋθn/     提�
 enhancement/enhance (feature)         增强 v/n
 optimization/boost/strengthen/improve/optimize (performance)       优化 v/n
 refinery/refine/refined (timeline)          细化,精修,优化 n/细化,优化,改进 v/优化后的
+
+object to sth           反对某事
+against sb for sth          反对sb做sth
+against         针对,面向,抵御,对照,对比,反对,违反 v
+compare A against B         把A与B相比
+compared with n             与...相比/过去分词做条件状语
+compare/comparison      /kəmˈpærɪs(ə)n/     比较 v/比较,对照 n
+
+(did) you know(are you aware of) that       你知道这件事吗？
+i know about this           我知道这件事
+i'm aware of this           我了解这件事
+i wasn't aware of this
+
+oops/my goodness        哎哟,啊呀,糟糕/我的天
+jesus/my god/damn it       天哪/我的天/该死(脏话,熟人)
+holy shit       天哪(粗俗)
+
+complete            完成 v/完全的,彻底的 adj
+complex             复杂的 adj
+complain            抱怨,投诉 v
+complicated/complicate         复杂的 adj/使复杂化 v
+companion                       同伴,伴侣 n/陪伴 v
+compliant/compliance                      合规的 adj/合规,遵守,遵从 n
+compatible/compatibility                      兼容的 adj/兼容性 n
+collaboration/cooperation   /kəˌlæbəˈreɪʃ(ə)n/       合作,共创,协作 n(一起做)/合作,配合 n(配合你)
+corporation/company/accompany       公司,大企业 n/公司,陪伴 n/陪伴 v
+complexity/complex/complicated      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩
+compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 adj
+competitor/(fairly) competition     /kəmˈpetɪtə(r)/     竞争者,对手 n/竞争,(公平的)比赛 n
+compile     /kəmˈpaɪl/         编译,编制 v
+compare/comparison
+
+dropdown (list)                 下拉(列表) n
+radio/checkbox (button)/input box       单选/复选框/输入框 n
 
 
 

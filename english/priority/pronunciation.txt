@@ -15,13 +15,12 @@ sophisticated           /səˈfɪstɪkeɪtɪd/               成熟完善的,复
 decent      /ˈdiːsnt/      像样的 adj
 FOSS    /fɑːs/      Free & Open Source Software 开源免费软件
 awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
-complexity/complex/complicated      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩
 shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
 differ          /ˈdɪfər/            不同于 v
 lineage         /ˈlɪniɪdʒ/          血缘,依赖链 n
 Catalyst        /ˈkætəlɪst/         优化器,催化剂
 big/large/huge/giant       /ˈdʒaɪənt/          巨大的,伟大的 adj
-compute/computation/Calculate/calculation         /kəmˈpjuːt/         运算,测算 v/计算,核算 v
+compute/computation/calculate/calculation         /kəmˈpjuːt/         运算,测算 v/计算,核算 v
 truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
@@ -83,7 +82,6 @@ disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
 applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
 circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
 alert/advisory/advisories/notification   /ədˈvaɪzəri/       警报 n/警告,通知 n
-compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 adj
 snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
 postpone/Postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
@@ -94,14 +92,13 @@ Probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能
 capability/capabilities/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/能力 n
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
-Crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
-Proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
+crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
+proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
 swap/switch/replace     /swɒp/      替换,切换 v
 isolate/Quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
-Compile     /kəmˈpaɪl/         编译,编制 v
 quartermaster info      /ˈkwɔːtəmɑːstə(r)/          统筹,后勤信息
 manage (to)/I managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/我成功解决了这个问题
-Alternatively(or)/Alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
+alternatively(or)/Alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 expedite/accelerate/speed up        /spiːd ʌp/        加快
 (in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
@@ -110,15 +107,14 @@ note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
 aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
 inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
-Defect/Deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
-Mobilize/Coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
+defect/deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
+mobilize/coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
 spotlight/gather        /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 v
 quarter         /ˈkwɔːtə(r)/            季度
 bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
 tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
-comparison/compare      /kəmˈpærɪs(ə)n/         比较 n
 whole/entire            全部的,整个的 adj
 protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
 bootcamp        /ˈbuːtkæmp/         集训营 n
@@ -195,7 +191,6 @@ crime       /kraɪm/     罪,罪行,犯罪 n
 territory       /ˈterətɔːri/        领地,领域 n
 (is this an urgent) referral        /rɪˈfɜːrəl/        转介,转送,转诊 n
 in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺序的 adj
-(cash) deposit         /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款
 classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类,分级,类别 n
 (raise) fund        /fʌnd/        资金 n/募资,融资
 case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
@@ -241,7 +236,6 @@ critical        /ˈkrɪtɪkl/      严重的,关键的 adj
 data integrity in transition/transmission   /ɪnˈteɡrəti/    完整性 n/切换过渡阶段/传输
 dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的,闭源的 adj
 receive/receipt/recipient   /rɪˈsiːt/       获得,得到,收到 v/接收 n/接收者 n
-competitor/(fairly) competition     /kəmˈpetɪtə(r)/     竞争者,对手 n/竞争,(公平的)比赛 n
 navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导航交互
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
 very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
@@ -287,6 +281,13 @@ exceeds your (contractual) hours       /kənˈtræktʃuəl/     合同规定的 
 (audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/邮件往来记录,邮件链 n
 alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
 consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
+laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电脑/笔记本/双耳式耳机
+(cash) deposit      /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款/兑现 v/现金 n
+
+
+
+
+
 
 
 

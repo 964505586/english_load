@@ -249,10 +249,7 @@ inform                                          通知,告知 v
 injury                          伤 n
 inquire                                 调查,询问,打听 v
 insist on                           坚持 v
-install                                         安装,设置 v
-instead of                          代替,而不是
 insurance                   保险 n
-intelligent                                     聪明的 adj
 intend                      打算 v
 interest        利息,兴趣 n         使感兴趣 v
 interview                           面试 v/n
