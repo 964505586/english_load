@@ -79,12 +79,12 @@ no need to start the run from the beginning         不需要从头开始run
 about when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
 this has been happening a lot recently. it didn't happen before             这种情况最近频繁发生.以前从未出现过这种情况.
-The problem occurs when writing data to HDFS, & then the exception is thrown
+the problem occurs when writing data to HDFS, & then the exception is thrown
 someone             有人
-Please press Ctrl & C on your keyboard    请在键盘上按下“Ctrl”和“C”键
-Logs are only kept for one or two days              日志只保存一天或两天
-Is/Isn't this what we expected?             这难道不是我们所期望的吗？
-Wait a minute. Let me quickly check the dictionary to see how to say it     我查下字段
+please press Ctrl & C on your keyboard    请在键盘上按下"Ctrl"和"C"键
+logs are only kept for one or two days              日志只保存一天或两天
+is/Isn't this what we expected?             这难道不是我们所期望的吗？
+wait a minute. Let me quickly check the dictionary to see how to say it     我查下字段
 could you tell me who i should contact?         你可以告诉我应该联系谁吗？
 out of the scope                    超出范围
 this has never been done before        以前从没人干过
@@ -99,7 +99,7 @@ the issue had always existed. However, it wasn't discovered before              
 this problem was caused while developing backend feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
 as (we) discussed (with Jack)                   正如我与Jack所讨论的那样
 please help check the email draft, i'm preparing to send to kevin & Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明
-everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
+everyone is complaining that jenkins is unstable         大家都抱怨Jenkins不稳定
 sth be pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
 nothing(no need) for now                     暂时没有/暂时不需要
@@ -286,26 +286,25 @@ as much as i would like to go, I have insufficient capacity     虽然我很想�
 Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
 My backend won't start. will see if your local can connect to the pre-prod env & run normally?
 Can your local connect to pre-prod env & start the project ? will see if same issue
-The backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
-Conduct Integration/Regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
-Feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
+the backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
+conduct Integration/Regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
+feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
 stay current with n         持续跟进更新n
-The change will only take effect after the end date                 end_date后才生效
-Potential a change at backend level         后端层面可能会有change
-This change involves lots of underlying code            这改动涉及大量底层代码
-This change might be problematic                这个改动可能有问题
-The change is now taking effect. Going forward, please follow the new process           变更已即刻生效,后续请按新流程执行
-The change has been in effect since last Friday         这change自上周五就已经生效了
-What does “VIP” stand for/it stands for sth         VIP代表什么?/它代表sth
-Don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
-Plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
-You’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
-You’ll leave with sth(walk away with)       你会带着
+the change will only take effect after the end date                 end_date后才生效
+potential a change at backend level         后端层面可能会有change
+this change involves lots of underlying code            这改动涉及大量底层代码
+this change might be problematic                这个改动可能有问题
+the change is now taking effect. Going forward, please follow the new process           变更已即刻生效,后续请按新流程执行
+the change has been in effect since last Friday         这change自上周五就已经生效了
+don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
+plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
+you’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
+you’ll leave with sth(walk away with)       你会带着
 move beyond A to B              超越A,转而成为B
 be supposed to do                       应该做sth
-We likely need to           我们可能需要
-Can you reproduce this issue/Can this issue be reproduced       你能复现这个问题吗?
-(It’s) nothing, I barely helped at all/didn’t help much anyway      几乎没帮上忙,并未提供多少帮助
+we likely need to           我们可能需要
+can you reproduce this issue/Can this issue be reproduced       你能复现这个问题吗?
+(it’s) nothing, I barely helped at all/didn’t help much anyway      几乎没帮上忙,并未提供多少帮助
 end up as sth           最终变成,最终格式为
 guide sb through sth        带sb一步步走完,逐项讲解sth
 lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
@@ -368,6 +367,7 @@ associated with/the comment associated with the manual trigger         与...关
 headphone/Are you wearing headphones/Do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
 it just occurred to me (that)     突然想到
 just noticed/realized this guide is two pages long, not just one    突然意识到/才注意到这guide有两页,而不是一页
+what does "VIP" stand for/it stands for sth         VIP代表什么?/它代表sth
 
 
 

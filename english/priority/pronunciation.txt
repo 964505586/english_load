@@ -225,7 +225,6 @@ exceed/beyond/excessive (api traffic)     /ɪkˈsiːd/ /ɪkˈsesɪv/  超过,超
 activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动 v/停用,注销
 deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
-(at) scale/scalable/scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
 massive/at scale        /ˈmæsɪv/        巨大的,大规模的 adj
 cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
 normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
@@ -282,6 +281,8 @@ laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电
 outline/overview the task status     /ˈaʊtlaɪn/      概述,简述 v(n)
 define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/明确的,最终的 adj
 distinguish     /dɪˈstɪŋɡwɪʃ/       区分,认出,区别 v
+(at) scale/scalable/scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
+capability/capabilities (roadmap)/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/功能路线图/能力 n
 
 
 
@@ -292,19 +293,12 @@ distinguish     /dɪˈstɪŋɡwɪʃ/       区分,认出,区别 v
 
 
 
-primary                                 ???
-basic/basically                     基本地 adj/adv(描述 “入门,表层,非核心”)
-essential                           基本的 adj(强调 “必须,关键,缺了不行” )
 
-(capabilities) roadmap         (功能)路线图 n
-capability/capabilities/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/能力 n
 
-inherit                 继承 v
-extend/expand          继承类,扩展接口/扩容磁盘,扩大规模
 
-did you do          你当时做了吗？
-have you done       你到现在做完了吗,强调结果
-have you ever played sth       你以前做过xxx嘛
+
+
+
 
 
 

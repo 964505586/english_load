@@ -401,7 +401,6 @@ someday             有一天,有朝一日
 spare                                           备用的,空闲的 adj
 specialize in                       专攻
 stable/unstable                          稳定的,牢固的 adj
-stand                           忍受 v
 standard                        标准
 stay up/focused/overnight                             熬夜/保持专注/过夜 v
 steady/unsteady                                  稳定的,平稳的,持续的 adj/adv

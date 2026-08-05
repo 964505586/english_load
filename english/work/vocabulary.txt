@@ -28,13 +28,10 @@ domain                 领域 n
 doubt                  疑问,疑惑 n
 entity                 实体
 exchange                 交换 v/n
-extension                 扩展
 extract             提取,抽取 v
 fail/failed/failure                             失败 v/n
-feature         特点,特性,功能 n
 fetch               获取,拉取 v
 flatter                 奉承,吹捧   you flatter me
-function                 起作用,运转 v/功能 n
 generic             通用的 adj
 get rid of n                         摆脱sth
 gone                            消失
