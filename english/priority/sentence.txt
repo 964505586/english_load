@@ -1,20 +1,20 @@
 连读
 tell him            /ˈteləm/
 let him             /ˈletəm/
-Get to
-Lot of   lotta
-Out of   outta
-Going to    gonna
-Supposed to    supposta
+get to
+lot of   lotta
+out of   outta
+going to    gonna
+supposed to    supposta
 can/when i
 but/what i
-What a          /wɒtə/
-Not at all         /nɑːd æd ɔːl/  别客气,一点也不,一点也没有,回答感谢/道歉
+what a          /wɒtə/
+not at all         /nɑːd æd ɔːl/  别客气,一点也不,一点也没有,回答感谢/道歉
 wait a minute/second/moment             /weɪ də ˈmoʊmənt/
 the rest of tickets                 /ðə ˈrest əv/
 this is             /ðɪ‿sɪz/
 this is a offset             |ðɪ sɪ zə|
-Let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
+let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
 Let's keep it as is             /lets kiːp ɪt əz ɪz/
 I'll let you know
 for a moment
@@ -97,7 +97,6 @@ what time do you start work in the morning          你早上几点开始工作
 using a command             方式状语
 the issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
 this problem was caused while developing backend feature (This happen because ...)          这个问题是在开发此功能的过程中产生的
-adjust/modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
 as (we) discussed (with Jack)                   正如我与Jack所讨论的那样
 please help check the email draft, i'm preparing to send to kevin & Claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和Claire以获取进一步的说明
 everyone is complaining that Jenkins is unstable         大家都抱怨Jenkins不稳定
@@ -269,21 +268,21 @@ guides are available here          在此处可用,可查看
 package manager tool            包管理工具
 I'll meet Jack offline           线下会面
 I am writing to             我写信是为了
-The first three are             前三个是
-This is to notify (you) that ...            特此通知 ...
+the first three are             前三个是
+this is to notify (you) that ...            特此通知 ...
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
 table onboarding may be delayed for a month or even longer          数据接入可能延期一个月或更久
 enablement & adoption sessions            赋能培训 & 落地推广会议
-From Concepts to Implementation         从概念到落地实施
-To avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
+from concepts to implementation         从概念到落地实施
+to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 stick to the original plan            坚持 v
 (all services) are up & running       系统正常运行,服务就绪
 multiple staff’s requests within a single submission
-I didn’t catch your last sentence/understand what you said at the end   没听懂你最后一句话
-in turn/Service A calls B, which in turn queries DB     继而,进而(插入性状语)/服务A调B,B继而去查询DB
+i didn’t catch your last sentence/understand what you said at the end   没听懂你最后一句话
+in turn/service a calls b, which in turn queries DB     继而,进而(插入性状语)/服务A调B,B继而去查询DB
 主句 with n doing/without doing sth     其中某人补充说明一件事,用来附带补充,拆分主次/不做sth
-too ... to/Jack has been too busy to send any emails        太什么...以至于不能
-As much as I would like to go, I have insufficient capacity     虽然我很想去,但我实在分身乏术
+too ... to/jack has been too busy to send any emails        太什么...以至于不能
+as much as i would like to go, I have insufficient capacity     虽然我很想去,但我实在分身乏术
 Let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
 My backend won't start. will see if your local can connect to the pre-prod env & run normally?
 Can your local connect to pre-prod env & start the project ? will see if same issue
@@ -314,12 +313,11 @@ not a fan of sth            不推荐,不认可,不喜欢sth
 not entirely sure/i'm not sure that(about sb/sth)        不完全确定/我不确定~
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
 how long do you expect it to take to fix        预计修复需要多久能完成
-(I was wondering) how come that       为什么,怎么会/我在想,为什么
-Only exact C1/C2/C3 should pass     只有B1/B2/C1才能通过
+(i was wondering) how come that       为什么,怎么会/我在想,为什么
+only exact C1/C2/C3 should pass     只有B1/B2/C1才能通过
 kindly remind you once again that        再次温馨提醒您
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
-just noticed/realized this guide is two pages long, not just one    才注意到这guide有两页,而不是一页
-May I know why      请问为什么
+may i know why      请问为什么
 could you please help push the matter        帮忙推动这事
 take care of/that (yourself)    处理,接手,照顾 v
 prevent sth from doing sth			防止sth产生不良影响
@@ -329,10 +327,10 @@ get back on the case        重新处理此事
 which one has the highest priority      哪一项优先级最高
 try to address all possible issues      尽可能修复全部漏洞
 (to address issues that don't) require attention     需要重点关注/处理无需重点关注的
-I might be over-worried/overthinking     过度担忧的 adj
-Maybe I'm just overthinking it/over-worried  想太多,多虑 v/可能是我想多了,或许是我多虑了
-Some subsequent issues may be identified going forward, which I'm just worried about    后续可能会出一些问题,我担忧
-Do u have any ideas on the capability to retrieve both Teacher & Student data in a single run?  有没有方案可以单次运行同时获取
+i might be over-worried/overthinking     过度担忧的 adj
+maybe I'm just overthinking it/over-worried  想太多,多虑 v/可能是我想多了,或许是我多虑了
+some subsequent issues may be identified going forward, which I'm just worried about    后续可能会出一些问题,我担忧
+do u have any ideas on the capability to retrieve both Teacher & Student data in a single run?  有没有方案可以单次运行同时获取
 factor in/I’d like to factor this in as part of the new Req as well   将...计入,将...考虑进去 v/想将这个也纳入新的需求里
 introduces a streamlined interface      引入更简洁,流线型的界面
 the most appropriate model for your task    最适合您任务的模型
@@ -347,8 +345,8 @@ tentatively planned for July 8th    暂定计划
 this change is specific to sth      本次变更针对sth
 be no longer supported     不再支持
 to help you try them out        方便您上手试用,供您实操体验
-Ready-to-use utilities      开箱即用工具,立即可用工具集
-Please keep an eye on your inbox for this communication     请留意收件箱查收该通知
+ready-to-use utilities      开箱即用工具,立即可用工具集
+please keep an eye on your inbox for this communication     请留意收件箱查收该通知
 separate assignment communication       单独下发的分配通知,专项告知邮件
 we don’t expect any impact to existing pipelines    预计不会对现有流水线造成影响
 customer-led value      以客户为中心的价值
@@ -368,6 +366,9 @@ You are one of the approvers        审批人之一
 associated with/the comment associated with the manual trigger         与...关联
 (you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
 headphone/Are you wearing headphones/Do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
+it just occurred to me (that)     突然想到
+just noticed/realized this guide is two pages long, not just one    突然意识到/才注意到这guide有两页,而不是一页
+
 
 
 

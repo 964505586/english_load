@@ -13,8 +13,6 @@ ahead                       在前面的,提前的 adv/adj
 alcohol                         酒
 amaze/amazing                 使惊奇,使惊愕 v/惊人的,令人惊讶的 adj
 analyse/analyze                             分析 v
-annoy                   使恼怒,使烦恼 v
-annoying                令人恼火的 adj
 annual pay/party                    年会/年薪
 anonymous                               匿名的 adj
 anxious/anxiously                   焦虑的,不安地 adj/adv
@@ -161,7 +159,6 @@ eye-catching/eye-catcher                         引人注目的 adj/引人注�
 fake                伪造的,虚假的 adj         假货,贋品 n/伪造,冒充,假装 v
 fantastic                   极好的 adj
 favour                              支持,帮忙,喜爱 n
-feedback                反馈意见 n
 festival                        节日 n/adj
 fight                           与...作斗争 v/斗争 n
 financial                       财政的 adj
@@ -410,7 +407,6 @@ stay up/focused/overnight                             熬夜/保持专注/过夜
 steady/unsteady                                  稳定的,平稳的,持续的 adj/adv
 striking            惊人的,异常的 adj
 strength                        力量,优点 n
-strongly suggest                        强烈建议 v
 structure                       结构 n
 stupid                  笨的,傻的 adj           傻瓜,笨蛋 n
 success/succeed/successful/successfully              n/v/adj/adv

@@ -94,20 +94,19 @@ The root cause is there an offset on browser
 We read data in batches                         我们分批读取数据
 This API supports bulk requests                 这API支持批量请求
 at least not tonight                至少不是今晚
-What a pleasant surprise                    真是个惊喜(意外之喜)
-Who can help with this?                         谁能帮忙这个？
+what a pleasant surprise                    真是个惊喜(意外之喜)
+who can help with this?                         谁能帮忙这个？
 please find the (attached) recap(meeting minutes) from our meeting yesterday            请查收我们昨天会议的纪要
 that would be great if ...
-From now/2026/(next week) onwards           从...以后
-Make the code compatible                让代码兼容
-We are not the owner of the priority channel; let me check if this can be added to the priority channel for the 16:00 batch
-Yes, the normal channel often has long wait times,Since we don't own the priority channel, i'll confirm whether it can be added to the priority channel for the 16:00 batch
-We have to wait for their analytics
-I've come up with two potential solutions for the issue         我想出了两个可能的解决方案
-The frontline is complaining(shouting 大喊大叫) every day
+from now/2026/(next week) onwards           从...以后
+we are not the owner of the priority channel; let me check if this can be added to the priority channel for the 16:00 batch
+yes, the normal channel often has long wait times,Since we don't own the priority channel, i'll confirm whether it can be added to the priority channel for the 16:00 batch
+we have to wait for their analytics
+i've come up with two potential solutions for the issue         我想出了两个可能的解决方案
+the frontline is complaining(shouting 大喊大叫) every day
 make good/full use of                               充分利用
-Just get familiar with the main process first. For the specific details, ask Jack, me or other team members when you start working on it    先了解主流程,至于细节,等你开始做了,在找人问
-For your convenience, please find FAQs here             为方便您使用,常见问题请在此查阅
+just get familiar with the main process first. For the specific details, ask Jack, me or other team members when you start working on it    先了解主流程,至于细节,等你开始做了,在找人问
+for your convenience, please find FAQs here             为方便您使用,常见问题请在此查阅
 
 
 

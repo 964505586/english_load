@@ -357,7 +357,6 @@ complain            抱怨,投诉 v
 complicated/complicate         复杂的 adj/使复杂化 v
 companion                       同伴,伴侣 n/陪伴 v
 compliant/compliance                      合规的 adj/合规,遵守,遵从 n
-compatible/compatibility                      兼容的 adj/兼容性 n
 collaboration/cooperation   /kəˌlæbəˈreɪʃ(ə)n/       合作,共创,协作 n(一起做)/合作,配合 n(配合你)
 corporation/company/accompany       公司,大企业 n/公司,陪伴 n/陪伴 v
 complexity/complex/complicated      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩
@@ -369,8 +368,22 @@ compare/comparison
 dropdown (list)                 下拉(列表) n
 radio/checkbox (button)/input box       单选/复选框/输入框 n
 
+adapt/compatible       适应,调整 v
+compatible/compatibility/make the code compatible       兼容的 adj/兼容性 n/使代码兼容
+adjust/modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
 
+appear/disappear                        出现/消失 v(人,物出现)
+occur                                   发生,出现 v(事情发生,正式发生)
+happen                                  意料之外(accident)
+take place                              比赛,meeting(安排好举行,意料之内)
 
+debug (the code/function/program)
+troubleshooting             故障排查 n
 
+advise/advice       通知，建议 v/n
+propose/proposal//suggest/suggestion/feedback        提议,建议 v/n/反馈意见 n
+strongly suggest                        强烈建议 v
 
+these days          最近,如今,这段日子(强调状态)
+lately/recently            最近,不久前(强调时间点/近期发生)
 

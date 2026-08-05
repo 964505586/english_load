@@ -17,7 +17,6 @@ find                 查收 v
 fraud                 欺诈 n
 insert          插入 v
 access                          访问 v
-adapt                           适应 v
 adverse                         不利的 adj
 buddy                           伙伴 n
 concise                     简洁的
@@ -25,7 +24,6 @@ data set                    数据集 n
 deny/denied                  否定 v
 diagram                  图表 n
 disclose                  泄露,透漏v
-distinguish                     认出,区别 v
 domain                 领域 n
 doubt                  疑问,疑惑 n
 entity                 实体
@@ -81,7 +79,6 @@ particular/particularly                        特别的,特定的 adj/细节,�
 elementary problem                  低级问题
 disable(enable)                 禁用,关闭,使失效/启用,开启 v
 finalize/finalized                                    最终确定,敲定,完成 v
-inherit                 继承 v
 regression              后退,倒退 n
 acceptance criteria             验收标准
 investigate/investigation                 调查 n

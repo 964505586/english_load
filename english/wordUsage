@@ -137,10 +137,6 @@ sample              样本 n
 example             例子 n
 instance            例子,实例 n
 
-primary                                 ???
-basic/basically                     基本地 adj/adv(描述 “入门,表层,非核心”)
-Essential                           基本的 adj(强调 “必须,关键,缺了不行” )
-
 shall       第一人称 I/We
 will                临时起意,客观
 be going to        计划,有迹象表明
@@ -447,30 +443,9 @@ at 速度/钱/温度
 sb用who, sth用which (修饰不定代词,不能用which)
 助/否定词/频度
 
-best
-most
-
-lend
-borrow
-
-local
-native
-
-advice                      n
-suggest/suggestion          v/n
-
-send                东西/人 从A到B,不一定当面
-present             当面,正式,郑重 v
-
-gift                正式,强调心意/价值
-present n           非正式
-
 someday
 some day
 one day
-
-wait        vi
-wait for    vt
 
 disease
 illness
@@ -509,8 +484,7 @@ go on to do                                         继续做另一件事
 never dream of sth/doing sth                        从没想过 某事/做某事
 never dream that                                    从没想过...
 
-play a role as                                      扮演...的角色
-play a role in                                      在...起作用
+play a role as/in       扮演...的角色/在...起作用
 
 remind sb of sth/doing                              提醒某人sth
 remind sb to do sth                                 提醒sb做sth
@@ -557,18 +531,6 @@ be result from
 as a result, ......         结果
 as a result of n                    由于
 
-appear/disappear                        出现/消失 v(人,物出现)
-occur                                   发生,出现 v(事情发生,正式发生)
-happen                                  意料之外(accident)
-take place                              比赛,meeting(安排好举行,意料之内)
-
-debug (the code/function/program)
-troubleshooting             故障排查 n
-
-
-
-
-
 batch                   分批,多轮 v/一批 n
 bulk                    整批,单次大包,大额,批量
 batch request/request in batch          分批请求(多批,多次)
@@ -579,44 +541,26 @@ look for        过程,动作
 find out        分析 思考得出(真相 / 原因 / 信息)
 discover        未为人知,早就存在
 
-These days          最近,如今,这段日子(强调状态)
-lately/recently            最近,不久前(强调时间点/近期发生)
-
-did you do          你当时做了吗？
-Have you done           你到现在做完了吗,强调结果
-
-only n              只有...
-n only              仅限,仅此,就这么点
-
-ever            强调有没有过
-before          强调在这之前
-
 detect              探测,检测(脚本自动查问题)
 identify            识别,定位(定位/确认问题)
 check               检查(普通人工检查)
 
-set up              搭建,安装
-Config              配置,设置
-
-Override            覆盖,重写(方法)
-overwrite           覆盖文件,数据
-
-Extend          继承类,扩展接口
-Expand          扩容磁盘,扩大规模
-
-Blank           表面空白(纸,屏幕,脑子)
-empty           内部空无一物(杯子,房间,盒子)
-
 get         最口语,最万能
-Obtain approval/permission/information          经过一定流程得到
+obtain approval/permission/information          经过一定流程得到
 gain respect/experience/knowledge/confidence    抽象的东西
 
-Disruption              中断,扰乱 v/n(导致系统,秩序瘫痪,彻底混乱)
-Interruption            打断,暂停 v/n(临时被打扰,之后可恢复)
+disruption              中断,扰乱 v/n(导致系统,秩序瘫痪,彻底混乱)
+interruption            打断,暂停 v/n(临时被打扰,之后可恢复)
 cut off                 切断,中断(强行切断)
 abort                   中断,中止(主动中止)
 
 fall back to            回退备用方案,降级切换(当前走不通,临时切备用兜底)
 roll back to            版本回滚,撤销变更,恢复旧版本(改坏了,撤销改动,还原旧版本)
+
+send/present                从A到B,不一定当面/当面,正式,郑重 v
+gift/present       礼物(正式,强调心意,价值/生日礼物，非正式)
+best/most
+lend/borrow     /lend/ /ˈbɔːroʊ/      借 v
+only n/n only              只有.../仅限,仅此,就这么点
 
 

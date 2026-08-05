@@ -1,12 +1,11 @@
 
-TL;DR               Too Long; Didn't Read 一句话总结,摘要
-Technical stack     技术栈
+technical stack     技术栈
 (limited) lifetime        (有限)有效期,一生 n
 shutdown        关机 n
 extensively         大量地,频繁地 adv
 desktop         桌面 n
 workstation         工作站 n
-modern/Modernization              现代的 adj/n
+modern/modernization              现代的 adj/n
 self-service            自助服务
 read-only access            只读权限 n
 authenticate/authentication(auth)         认证 v/n
@@ -14,11 +13,11 @@ as a whole          总体上,总的来说,整体来看 adv
 common used         常用
 portal          门户 n
 block/blocker         阻碍 v/n
-(Request) payload         有效负载 n
-Third-party     第三方
-Escalate/Escalation                 上报,升级 v
+(request) payload         有效负载 n
+third-party     第三方
+escalate/Escalation                 上报,升级 v
 cyber       网络的 adj
-Foundational (branch)            基础的,基本的 adj
+foundational (branch)            基础的,基本的 adj
 move/movement                    移动,措施,转移 n/动作 n
 engineering     工程,工程学 n
 powerful            强大的,有影响力的 adj
@@ -44,19 +43,17 @@ apply straight away     直接落地,立刻投入使用 v
 implement           落地,部署 n/实现 v
 language        专业术语 n
 fit         适合,合身,匹配 n
-(Capabilities) roadmap         (功能)路线图 n
 issue identified                            识别到的问题
-round/Can we ask Jack to perform the final round of check (on this)     一轮,一遍 n/我们可以请Jack做最后一轮检查吗
+round/can we ask jack to perform the final round of check (on this)     一轮,一遍 n/我们可以请jack做最后一轮检查吗
 shortly                             不久,很快 adv
 comment     评估 v
-DoR         Definition of Ready 就绪准入标准
 as of 2026/6/12     截至指定日期
-Access application process      权限申请流程 n
+access application process      权限申请流程 n
 fine-tune           精细调优 n/精细地,细微的 adj/调校,调整,调节 v
 control             控制 v/管控 n
 where (it's) appropriate       在合适的场景/情形下
 development         制定,完善,构建 n
-Developer Usage Acknowledgement         开发者使用 承诺书/声明
+developer usage acknowledgement         开发者使用 承诺书/声明
 progressive rollout         逐步部署,分阶段上线部署
 weekly          每周,每星期 adv
 driven by n     被n驱动,主导,制约
@@ -76,7 +73,6 @@ clarify/clarity                         澄清,阐明,明确 v/清晰 n
 role                角色,作用,职责 n
 the following day           第二天,翌日 n
 given n/that/time                    鉴于,考虑到.../给定的时间
-LHS/RHS         left/right-hand side 左手边
 presence        出席 n
 user access review          用户访问权限审核
 outcome         结果 n
@@ -97,31 +93,29 @@ highlight           突出,强调 v
 (improving) context/contextual      /kənˈtekstʃuəl/     优化上下文/场景相关的,上下文的 adj
 disconnected            割裂的,零散的 adj
 session         课程场次,会议 n
-Specify/Specified/Specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确的,具体的地,特定的,特意的 adj/adv
+specify/specified/specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确的,具体的地,特定的,特意的 adj/adv
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
 forward             向前,今后 adv/向前的 adj/转交 v
 map/maps/mapped/mapping         地图,分布图,映射 v
 onboarding          接入,上线 v
 upcoming                即将来临的 adj
 go live                 上线 v
-(core) concept       (核心)概念 n
-Sequence diagram                时序图,顺序图 n
+sequence diagram                时序图,顺序图 n
 usage-based billing model       按使用量的计费模式
-Review              查阅 v
+review              查阅 v
 during the Maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
 alerts      通知 v/警报,告警 n
 flood       泛滥 n
 trigger     触发(器) v/n
-Alias name/Individual other name          别名/个人别名,曾用名 n
-Natural person              自然人 n
+alias name/Individual other name          别名/个人别名,曾用名 n
+natural person              自然人 n
 raw data                    原始数据 n
-Distribute/Distribution/Distributed locks          分发,分配 v/n    分布式锁 n
+distribute/Distribution/Distributed locks          分发,分配 v/n    分布式锁 n
 terminate/terminal      终止 v    终端 adj/n
-OpCo        operating company       运营公司 n
-Terms of reference      职权范围 n
-Federated       联邦的 adj
-data Ingestion          数据接入,摄取 n
+terms of reference      职权范围 n
+federated       联邦的 adj
+data ingestion          数据接入,摄取 n
 map/mapped/mapping         地图,映射 n/映射 v
 (work) handover item/content/object            工作交接/交接项,内容,对象 n
 continued               持续的 adj
@@ -141,10 +135,9 @@ take/took/taken
 programmatically                通过编程方式 adv
 miss                错过,想念 v
 brief/briefly             简短的,简要的 adv
-announce/announcement                    宣布,公布 n/v
 standby             备用物 n
 bookmark        书签 n
-Outage                  停止供应期 n
+outage                  停止供应期 n
 only               唯一的 adj
 queue               排队 v
 per                     每,每一,按照,根据
@@ -153,13 +146,13 @@ range                       处于...之间 v
 rework      返工 v/n
 familiar            熟悉的 adj
 saving              节约,节省 n/节约的,节省的 adj
-(The risk of) human error             人为失误
+(the risk of) human error             人为失误
 deliver                提供,交付 v
-Existing                 现有的 adj
-Outdated                过时的 adj
+existing                 现有的 adj
+outdated                过时的 adj
 sync(synchronize)           同步 v/n
 problematic (code)            有问题的 adj/有问题的代码
-Utilize(Utilise 英式)                 利用,使用 v
+utilize(utilise 英式)                 利用,使用 v
 succeed             成功 v
 by default          默认情况下 adv
 in use      在使用中 adv
@@ -172,7 +165,7 @@ find out more       了解更多
 multimodal model     多模态(模型)
 significant/significantly       显著地,大幅度地,重要地 adj/adv
 as needed       按需 adv
-mix (a with B)             混合 v/n/把A和B混合
+mix (a with b)             混合 v/n/把A和B混合
 by cob today        Close of Business   今日下班前
 regroup     复盘碰头,重新组合 v
 baseline/re-baseline        基线,基准 n/重新设定基线 v
@@ -182,11 +175,9 @@ over time       随着时间流逝
 const(construction)         建造,建筑,建筑材料 n
 recycle         复用,回收利用 v/n
 actual loss (amount)        失去,损失 n/实际损失金额
-SIC     Standard Industrial Classification 标准行业分类
 cash deposit machine-bulk/large       大额现金自助存款机
 if applicable       若可以,如果合适,如果适用
 outstanding (defect)         未解决的,杰出的,优秀的 adj/严重缺陷
-RP      Reference Point 参考点
 devx        developer experience 开发者体验
 known as (live migrations)       被称为,叫作/在线迁移
 preview     预览 v
@@ -195,7 +186,6 @@ user experience         用户体验
 in public preview       公开预览阶段
 subject to change       后续可能调整,可能变更,视情况调整
 premium     高级的,增值的 adj
-Q&A     Questions and Answers 问答环节
 source of truth     最终依据,可信数据源
 directory       文件夹,目录 n
 interface   接口,界面 n
@@ -206,8 +196,6 @@ organizational feed     组织动态流
 key area for changes        变更核心范围
 secure-by-design    安全设计优先的 adj
 pilot        试点的 adj/试点 n
-DevOps      Development Operations 开发运维一体化
-FAQ/FAQs        Frequently asked questions      常见问题解答
 serve (as)       服务 v/n/充当,作为
 fingers crossed     但愿一切顺利,祝好运
 clear ask       明确诉求

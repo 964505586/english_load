@@ -130,7 +130,6 @@ newly added/created columns             新增的列
 (any) context/background        上下文,背景 n
 urgency/urgent/urgently     紧急,迫切,紧迫感,紧迫性,紧急性 n/紧急的,急切的 adj
 believe/trust/trusty/trustworthy/truth         相信 v/信任 v/n/可信的,值得信赖的 adj/真相 n
-propose/proposal                        提议,建议 v/n
 purpose/destination/target/goal     有意,打算 v/目的 n
 day-to-day/daily (meeting)      每日,日常 adv/adj
 rate/traffic        流量,速率,比率 n/交通,流量 n
@@ -191,6 +190,15 @@ intelligent/actionable (intelligence) platform     聪明的,智能的 adj/可�
 just asking/wondering       只是问问
 (after) a short while (ago)       不久前/不久之后
 after a time/while/period of time      一段时间后
+(core) concept/overview/definition     (核心)概念 n/概述,简述/定义
+post/posted/announce/announcement/send/sent     张贴,发布/宣布,公布 v/n
+wait (for)        vi/vt
+local/native
+set up/config       搭建,安装/配置,设置
+ever/before            强调有没有过/强调在这之前
+override/overwrite            覆盖,重写(方法)/覆盖文件,数据
+blank/empty     表面空白(纸,屏幕,脑子)/内部空无一物(杯子,房间,盒子)
+
 
 
 
