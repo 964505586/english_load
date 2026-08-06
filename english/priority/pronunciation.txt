@@ -128,7 +128,6 @@ suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,�
 suppress/suppressed     /səˈpres/      镇压,压制,阻止 v/抑制的 adj
 starting/effective 1 June 2026          自6月1日起
 any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
-point/dot/period      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP,.com/英文句末句号
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
@@ -151,7 +150,6 @@ recognized                  /ˈrekəgˈnaɪzd/              认识,辨别出 v
 stare/stares/stared/staring             /ˈsteərɪŋ/             凝视,盯着看 v
 linkage                     /ˈlɪŋkɪdʒ/          联系 n
 withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
-majority            /məˈdʒɒrəti/            大多数 adj/n
 angle           /ˈæŋɡ(ə)l/      角度 n
 bother/don't bother (me)    /ˈbɒðə(r)/      打扰,使烦恼,使担心 v/麻烦 n/别烦我
 statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
@@ -256,13 +254,12 @@ convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化�
 apparently/obvious/obviously      /əˈpærəntli/        明显的,显然的 adv/adj
 embargo     /ɪmˈbɑːrɡoʊ/     禁运 n
 explain/explanation/elaborate       /ɪˈlæbərət/       解释/详细说明 v/n
-minor       /ˈmaɪnə(r)/       较小的 adj/未成年人 n
 illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
-(as per current ui) convention      /kənˈvenʃ(ə)n/        惯例，规范
-(hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配，分摊 v/分配的工作时长
+(as per current ui) convention      /kənˈvenʃ(ə)n/        惯例,规范
+(hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/分配的工作时长
 exceeds your (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
 (audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/邮件往来记录,邮件链 n
 alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
@@ -283,6 +280,7 @@ idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/   
 exceed/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量API流量
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
+ignore/neglect      /nɪˈɡlekt/      有意/无意,疏忽 v
 
 
 
@@ -290,242 +288,27 @@ conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/
 
 
 
-wish            难以实现的
-hope            宾语不能是sb
 
-job             职业,行业
-work
 
-whether    or/to/behind prep        can't use ' if '
 
-enough n
-adj/adv enough
 
-stop to do        停下来,去做sth
-doing        停止正在做的sth
 
-precious        稀有
-valuable
 
-argue           争论(善意讨论)
-quarrel         争吵(恶意)
 
-ignore                      有意
-neglect                     无意,疏忽
 
-in front of             飞机前面
-in the front of         前部
 
-反义疑问句    前肯后否,前否后肯
 
-always/constantly        在现在进行时表强烈情感
 
-10% adj
-10% of n
 
-情态动词+现在完成   表感情色彩
-比较级 & 比较级            more & more
 
-remember to do            记得要做sth
-remember doing            记得已经做过sth
 
-expect              基于理性判断,事实或常规,相信sth会发生
-look forward to n   主观上满怀愉悦地期待
 
-widen               物理维度的变宽
-broaden             抽象层面的拓展
 
-the adj             表一类人
 
-a number of n                           许多,大量的n
-the number of n                         n的数量
 
-across              表面横穿
-through             内部贯穿
 
-with sb                   随身携带
-with success              伴随状语
 
-area                        使用更广泛,可以指任何类型的区域
-district                    通常指有明确行政边界或特殊功能的区域(如商业区,学区等)
-
-有灵主语
-无灵主语
-无灵动词
-
-将来                  意愿
-将来进行            一定,事实
-
-unwilling/unwillingly                   勉强的,不情愿的,不愿意的
-reluctant/reluctantly                       勉强的,不情愿的
-
-toward                                      美式英语
-towards                                     英式英语
-
-replace                         取代(主动的,有意识的替换行为)
-displace                        取代(被动的,被迫的位移或替换)
-
-with sb         和某人一起
-with sth        带着sth
-
-way                 方式
-method              方法
-
-shout               呼喊(叫嚷,大声说) vi/n
-yell                叫喊 v/n
-
-mountain                大山,靠山
-hill                    小山
-
-do              本来就有
-make            无中生有
-
-be stuck in sth                     被困在     虚拟,无形
-be caught in sth                    被困在     客观,实际
-
-point                       点 n/v
-spot                        点,斑点,地点 n
-
-remember            记得,记起
-memorize            记住 用心
-
-主要的 adj
-main
-major                   需突出重要性
-
-duty                                    责任,义务 n
-fault                                   错误,责任 n
-mistake
-
-do exercise         做运动
-do exercises        做练习
-
-maybe                               随意,直白
-perhaps                             委婉,礼貌 偏正式
-
-
-shouldn't                           不应该
-mustn't                             不能,不可
-
-technique                       技巧 n
-technology                      技术 n
-
-Attempt         结果
-try             过程(try to尽力,)
-
-luck/lucky                                  n/adj
-fortunate/fortunately                       adj/adv 正式
-
-want
-would like to                               正式和礼貌
-
-occasionally/occasion                   偶然,偶尔 adv/场合 n
-sometimes                           有时
-
-same                        (大致无差异)
-Identical               完全相同的 adj(无任何差别)
-
-refuse
-Decline                     委婉谢绝
-
-about
-regarding                 正式
-
-rise by 10%                         增长 10%
-rise to 10%                         增长至 10%
-
-look at sth             近
-look to sth             远
-
-can't help doing                                    情不自禁
-can't help to do                                    不能帮忙做
-
-get into                    陷入,进入
-get out of                  摆脱,逃避
-
-
-underlying
-potential               潜在的,可能的
-
-each
-every
-
-truly
-really
-
-made of                看得出来
-made from
-
-when/while
-
-someday
-some day
-one day
-
-disease
-illness
-sickness
-
-at 速度/钱/温度
-
-human           人类
-person          一个人
-people          人们
-
-look like n                                     看起来像...
-you look good/angry/unhappy                     看起来很好/生气
-
-go on doing         继续做同一件事
-go on to do         继续做另一件事
-
-it/that make sense                             很有道理
-quite reasonable                            相当合理,很有道理
-
-until       正式
-till        非正式
-
-tour
-trip
-travel
-
-kind
-type
-category
-
-quickly         动作
-soon            时间
-fast            速度
-
-client          buy a service 广告,律师
-customer
-comsumer        消费者
-
-speak
-talk
-tell
-say
-
-point at            指向(贬义)
-point to            指向(中性)
-point out           指出
-
-be strict in sth        对sth要求严格
-be strict with sb       对sb严格要求
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-其实现在的话还算好，就怕以后会有更多的数据更新场景操作。用英语怎么说？
+其实现在的话还算好,就怕以后会有更多的数据更新场景操作。用英语怎么说？
 
 
 

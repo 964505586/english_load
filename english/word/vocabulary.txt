@@ -418,8 +418,6 @@ survivor                            幸存者 n
 talent                              天赋,才能,天才 n
 talented                            有天资的,有才能的 adj
 team spirit                         团队精神
-technical/technique                 技术的,专业的 adj/n
-technology                          科技 n
 template                            模板 n
 temptation                          引诱,诱惑 n
 terribly                            非常,极其 adv

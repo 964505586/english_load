@@ -107,7 +107,6 @@ at times/sometimes        偶尔,时不时,有时 adv
 if so/desired/necessary           如果这样/需要/必要
 move/remove/shift       挪动,更改/移除,删掉/移动,转移,偏移,延后
 aside from/except/other than      除...以外 +-/-/-
-most/almost/majority            很多,模糊不精确 adj/adv/近全满 adv/必过半 n
 (app) lossless compression/compress        无损的 adj/压缩 v/n/无损压缩应用
 typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
 save/saved amount          节省 v/挽回的 adj/挽回金额
@@ -134,7 +133,6 @@ day-to-day/daily (meeting)      每日,日常 adv/adj
 rate/traffic        流量,速率,比率 n/交通,流量 n
 predict/predictable/prediction/forecast      预言,预计 v/可预测的,可预料的 adj/预测 n/预测,预报 v/n
 correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整改措施/正确地 adv
-method/approach/approaching     方法 n/方式,靠近,接近 v
 spend/cost       钱,时间/钱(受益方为主语)
 time-saving/consuming       省时的/耗时的 adj
 respond/response                 响应 v/n
@@ -178,7 +176,7 @@ contact/contract        联系/合同
 possess/process         拥有/过程,程序,进程 n
 similar/familiar        相似的,类似的 adj/熟悉的 adj
 volunteer/voluntary/voluntarily     志愿者/自愿的,主动的 adj/adv
-effective (action/measures)/effectively/efficient/efficiency    有效的 adj/高效地，有效地 adv/高效的 adj/效率 n
+effective (action/measures)/effectively/efficient/efficiency    有效的 adj/高效地,有效地 adv/高效的 adj/效率 n
 tips/tricks/recommendations/kind(a warm) reminder       小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
 location/position                地点,位置 n(客观物理地点/职位,岗位)
 rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
@@ -204,7 +202,26 @@ record/entry/item/term/entity                 记录/条目/项/条款/实体 n
 conduct/keep monitoring closely              实施,进行 密切监控 v
 conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
 verify/verification/validate/validation     核实,证明验证 v/n
-
+expect/look forward to n
+area/district       通用/城市行政分区，政府管辖
+method/approach/approaching/way     方法 n/方式,靠近,接近 v/方式
+shout/yell               呼喊(叫嚷,大声说)叫喊 v/n
+point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP/英文句末句号/点,斑点,地点 n
+duty/fault                                    责任,义务/错误,责任
+remember/memorize            记得,记起/记住 用心 v
+maybe/perhaps           随意,直白/委婉,礼貌 偏正式
+technical/technology/technique                 技术的,专业的 adj/科技，技术/技巧、手法 n
+luck/lucky/fortunate/fortunately        n/adj/adv
+same/identical      (大致无差异)/完全相同的 adj(无任何差别)
+occasionally/occasion/sometimes         偶然,偶尔 adv/场合 n/有时
+refuse/decline          xxx/委婉谢绝
+rise by/to 10%                         增长(至)10%
+underlying/potential        潜在的,可能的
+each/every
+truly/really        真正地
+quite reasonable/it make sense      相当合理,很有道理/有道理
+kind/type/category
+detect/identify     探测,检测(脚本自动查问题)/识别,定位(定位/确认问题)
 
 
 
