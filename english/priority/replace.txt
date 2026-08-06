@@ -31,7 +31,6 @@ dynamic/static                 充满活力的,动态的 adj/动力,活力 n/静
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
 balance exercise            平衡考量,折中方案 n
 conclude/conclusion                 得出结论,敲定,结束 v/结论 n
-conduct/keep monitoring Closely              实施,进行 密切监控 v
 i will be off/away/on leave next week           下周我将请假
 proceed with(carry on) sign-off/production release            继续做,接着推进 v
 pending/tbd         待定的,待处理的 adj
@@ -40,16 +39,16 @@ a row/column filter         行/列 筛选器
 monitored/an external monitor       受监控的 adj/外接显示器 n
 commit to/promise(make a promise)      承诺 v
 please/kindly
-Remember/Don't forget/kind(gentle/a warm) reminder to      记得做sth
-To be precise/More accurately/Strictly speaking     准确来说/严格,严谨的说
-Focus/focus on          重点 n/专注于 v
-split/Divide/Separate/Separately            拆分/均分/分离 v/单独的,独立的,分开的 adj,分别地 adv
-As much/early as possible                   尽可能 多/早
-workday/working/Business Days               工作日 n
+remember/don't forget/kind(gentle/a warm) reminder to      记得做sth
+to be precise/more accurately/strictly speaking     准确来说/严格,严谨的说
+focus/focus on          重点 n/专注于 v
+split/divide/separate/separately            拆分/均分/分离 v/单独的,独立的,分开的 adj,分别地 adv
+as much/early as possible                   尽可能 多/早
+workday/working/business days               工作日 n
 in the coming/upcoming months/years                    在未来几个月/年
 underlying/low-level/foundation code                底层代码 n
 impact/an impact on sb/sth                 影响 v/对sth的影响 n
-just(totally) normal/Standard practice/Quite common       正常操作
+just(totally) normal/standard practice/quite common       正常操作
 chase/push/urge sb to do(for sth)             催促 v
 consolidate/consolidated/merge                合并,使巩固 v/巩固的,统一的 adj
 problem statement/description                   说明,陈述,声明
@@ -201,6 +200,10 @@ inherit/extend/expand/extension          继承/扩展(接口),继承(类)/扩�
 feature/function         特点,特性,功能 n/起作用,运转 v/功能 n
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
 (can't) stand (for)           忍受 v/无法忍受/代表
+record/entry/item/term/entity                 记录/条目/项/条款/实体 n
+conduct/keep monitoring closely              实施,进行 密切监控 v
+conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
+verify/verification/validate/validation     核实,证明验证 v/n
 
 
 

@@ -91,7 +91,6 @@ probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
 crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
-proceed/conduct/perform/performance     /kənˈdʌkt/      继续,行进 v/实施,进行 v/开展,执行,表演,演出 v/性能,表演,表现 n
 swap/switch/replace     /swɒp/      替换,切换 v
 isolate/Quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
 quartermaster info      /ˈkwɔːtəmɑːstə(r)/          统筹,后勤信息
@@ -162,8 +161,8 @@ preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
 scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 urge        /ɜːdʒ/            敦促,催促 v
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
-Obtain/gain/get                  /əbˈteɪn/   得到,获得
-Redundant/useless               /rɪˈdʌndənt/        多余的 adj
+obtain/gain/get                  /əbˈteɪn/   得到,获得
+redundant/useless               /rɪˈdʌndənt/        多余的 adj
 shown                   /ʃəʊn/
 hotkey          快捷键 n       /hɒt/
 editable            /ˈedɪtəbl/          可编辑的 adj
@@ -171,13 +170,12 @@ borrow/borrowing            /ˈbɒrəʊ/    /ˈbɒrəʊɪŋ/
 follow me                       /ˈfɑːloʊ/
 scope           /skoʊp/
 browser                          /ˈbraʊzə(r)/
-Upsert(update + insert)                      /ˈʌpsɜːrt/
+upsert(update + insert)                      /ˈʌpsɜːrt/
 extra
 criteria                /kraɪˈtɪəriə/
-Auto-increment ID               递增 ID
+auto-increment ID               递增 ID
 typology                        类型学,分类体系 n
 @       at
-preRequisite            先决条件,必备条件 n/adj
 forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
 continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
 (query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
@@ -221,7 +219,6 @@ fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
 pose a minor risk to sth    /pəʊz/      造成,引起 v
 disk space      /dɪsk/      磁盘空间
-exceed/beyond/excessive (api traffic)     /ɪkˈsiːd/ /ɪkˈsesɪv/  超过,超出 v/prep/过度的,过多的 adj/过量API流量
 activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动 v/停用,注销
 deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
@@ -237,13 +234,8 @@ navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导�
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
 very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
 (live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
-transitive copy/dependencies     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
-bump/upgrade/downgrade sth to   /bʌmp/     升级/降级 v/将sth版本提升至
-dependency resolution(analytics)    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n//依赖解析
 comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj,adv/概述 n,v
-simplify (workflow)/streamline/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 notification noise      /nɔɪz/      通知干扰,冗余通知
-(system) entry/central front door   /ˈentri/    核心,系统入口 n
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的 adj/adv
 quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
@@ -268,9 +260,8 @@ minor       /ˈmaɪnə(r)/       较小的 adj/未成年人 n
 illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
-idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置、空闲 adj/空闲自动扫描
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
-(as per current UI) convention      /kənˈvenʃ(ə)n/        惯例，规范
+(as per current ui) convention      /kənˈvenʃ(ə)n/        惯例，规范
 (hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配，分摊 v/分配的工作时长
 exceeds your (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
 (audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/邮件往来记录,邮件链 n
@@ -283,6 +274,252 @@ define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/明确的,最终
 distinguish     /dɪˈstɪŋɡwɪʃ/       区分,认出,区别 v
 (at) scale/scalable/scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
 capability/capabilities (roadmap)/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/功能路线图/能力 n
+bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升至
+(dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n//依赖解析
+transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
+simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
+necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
+idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置、空闲 adj/空闲自动扫描
+exceed/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
+excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量API流量
+conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
+
+
+
+
+
+
+
+wish            难以实现的
+hope            宾语不能是sb
+
+job             职业,行业
+work
+
+whether    or/to/behind prep        can't use ' if '
+
+enough n
+adj/adv enough
+
+stop to do        停下来,去做sth
+doing        停止正在做的sth
+
+precious        稀有
+valuable
+
+argue           争论(善意讨论)
+quarrel         争吵(恶意)
+
+ignore                      有意
+neglect                     无意,疏忽
+
+in front of             飞机前面
+in the front of         前部
+
+反义疑问句    前肯后否,前否后肯
+
+always/constantly        在现在进行时表强烈情感
+
+10% adj
+10% of n
+
+情态动词+现在完成   表感情色彩
+比较级 & 比较级            more & more
+
+remember to do            记得要做sth
+remember doing            记得已经做过sth
+
+expect              基于理性判断,事实或常规,相信sth会发生
+look forward to n   主观上满怀愉悦地期待
+
+widen               物理维度的变宽
+broaden             抽象层面的拓展
+
+the adj             表一类人
+
+a number of n                           许多,大量的n
+the number of n                         n的数量
+
+across              表面横穿
+through             内部贯穿
+
+with sb                   随身携带
+with success              伴随状语
+
+area                        使用更广泛,可以指任何类型的区域
+district                    通常指有明确行政边界或特殊功能的区域(如商业区,学区等)
+
+有灵主语
+无灵主语
+无灵动词
+
+将来                  意愿
+将来进行            一定,事实
+
+unwilling/unwillingly                   勉强的,不情愿的,不愿意的
+reluctant/reluctantly                       勉强的,不情愿的
+
+toward                                      美式英语
+towards                                     英式英语
+
+replace                         取代(主动的,有意识的替换行为)
+displace                        取代(被动的,被迫的位移或替换)
+
+with sb         和某人一起
+with sth        带着sth
+
+way                 方式
+method              方法
+
+shout               呼喊(叫嚷,大声说) vi/n
+yell                叫喊 v/n
+
+mountain                大山,靠山
+hill                    小山
+
+do              本来就有
+make            无中生有
+
+be stuck in sth                     被困在     虚拟,无形
+be caught in sth                    被困在     客观,实际
+
+point                       点 n/v
+spot                        点,斑点,地点 n
+
+remember            记得,记起
+memorize            记住 用心
+
+主要的 adj
+main
+major                   需突出重要性
+
+duty                                    责任,义务 n
+fault                                   错误,责任 n
+mistake
+
+do exercise         做运动
+do exercises        做练习
+
+maybe                               随意,直白
+perhaps                             委婉,礼貌 偏正式
+
+
+shouldn't                           不应该
+mustn't                             不能,不可
+
+technique                       技巧 n
+technology                      技术 n
+
+Attempt         结果
+try             过程(try to尽力,)
+
+luck/lucky                                  n/adj
+fortunate/fortunately                       adj/adv 正式
+
+want
+would like to                               正式和礼貌
+
+occasionally/occasion                   偶然,偶尔 adv/场合 n
+sometimes                           有时
+
+same                        (大致无差异)
+Identical               完全相同的 adj(无任何差别)
+
+refuse
+Decline                     委婉谢绝
+
+about
+regarding                 正式
+
+rise by 10%                         增长 10%
+rise to 10%                         增长至 10%
+
+look at sth             近
+look to sth             远
+
+can't help doing                                    情不自禁
+can't help to do                                    不能帮忙做
+
+get into                    陷入,进入
+get out of                  摆脱,逃避
+
+
+underlying
+potential               潜在的,可能的
+
+each
+every
+
+truly
+really
+
+made of                看得出来
+made from
+
+when/while
+
+someday
+some day
+one day
+
+disease
+illness
+sickness
+
+at 速度/钱/温度
+
+human           人类
+person          一个人
+people          人们
+
+look like n                                     看起来像...
+you look good/angry/unhappy                     看起来很好/生气
+
+go on doing         继续做同一件事
+go on to do         继续做另一件事
+
+it/that make sense                             很有道理
+quite reasonable                            相当合理,很有道理
+
+until       正式
+till        非正式
+
+tour
+trip
+travel
+
+kind
+type
+category
+
+quickly         动作
+soon            时间
+fast            速度
+
+client          buy a service 广告,律师
+customer
+comsumer        消费者
+
+speak
+talk
+tell
+say
+
+point at            指向(贬义)
+point to            指向(中性)
+point out           指出
+
+be strict in sth        对sth要求严格
+be strict with sb       对sb严格要求
+
+
+
+
+
+
+
+
+
 
 
 

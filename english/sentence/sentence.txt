@@ -48,7 +48,6 @@ be worried about sb/sth                             担心sb/sth
 be worth doing                                   值得做sth
 be worthy of n                                      配得上
 be/live far away from                               离得很远
-beyond one's expectation                            超出sb的预期
 bump into sb                                            不期而遇,碰巧遇见
 busy doing                                              忙于做sth
 by then                                             到那时
@@ -340,6 +339,8 @@ reduce the impact on sth        减少对sth的影响
 please correct it if it contains any issue
 please feel free(don't hesitate) to contact(reach out to) me if any concerns or questions
 annoy/annoying/you're so annoying   使恼怒,烦恼 v/令人恼火的 adj/你好烦
+is far beyond               远远超出了
+move beyond A to B              超越A,转而成为B
 
 
 

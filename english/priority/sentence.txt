@@ -287,7 +287,6 @@ Let me park an agenda item for the call tmr         把这个议题加到明天�
 My backend won't start. will see if your local can connect to the pre-prod env & run normally?
 Can your local connect to pre-prod env & start the project ? will see if same issue
 the backend fails to start on my side. Is your local able to connect to pre-prod env        你项目能启动么
-conduct Integration/Regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
 feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
 stay current with n         持续跟进更新n
 the change will only take effect after the end date                 end_date后才生效
@@ -300,11 +299,10 @@ don't hardcode plaintext passwords in source files          禁止在源码文�
 plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
 you’ll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断Java和用Python的正确时机
 you’ll leave with sth(walk away with)       你会带着
-move beyond A to B              超越A,转而成为B
 be supposed to do                       应该做sth
 we likely need to           我们可能需要
-can you reproduce this issue/Can this issue be reproduced       你能复现这个问题吗?
-(it’s) nothing, I barely helped at all/didn’t help much anyway      几乎没帮上忙,并未提供多少帮助
+can you reproduce this issue/can this issue be reproduced       你能复现这个问题吗?
+(it’s) nothing, i barely helped at all/didn’t help much anyway      几乎没帮上忙,并未提供多少帮助
 end up as sth           最终变成,最终格式为
 guide sb through sth        带sb一步步走完,逐项讲解sth
 lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
@@ -313,7 +311,7 @@ not entirely sure/i'm not sure that(about sb/sth)        不完全确定/我不�
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
 how long do you expect it to take to fix        预计修复需要多久能完成
 (i was wondering) how come that       为什么,怎么会/我在想,为什么
-only exact C1/C2/C3 should pass     只有B1/B2/C1才能通过
+only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
 kindly remind you once again that        再次温馨提醒您
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
 may i know why      请问为什么
@@ -349,7 +347,7 @@ please keep an eye on your inbox for this communication     请留意收件箱�
 separate assignment communication       单独下发的分配通知,专项告知邮件
 we don’t expect any impact to existing pipelines    预计不会对现有流水线造成影响
 customer-led value      以客户为中心的价值
-scaling AI responsibly      负责任地推进AI规模化
+scaling ai responsibly      负责任地推进ai规模化
 scale with stronger control     在更强管控下实现规模化
 including common how-to topics      包含常见实操指引类主题,各类通用操作指南
 be carried out      被执行、实施
@@ -359,15 +357,17 @@ if i recall correctly/or i remember it wrong       如果我没记错的话/或�
 sth is in use       正在使用中
 no risks found      未发现风险
 ai-generated content might be inaccurate or misleading      AI生成的可能存在不准确或误导性
-i was updating Jack on this info         刚刚正在做的动作/刚才正在向杰克更新这些信息
+i was updating jack on this info         刚刚正在做的动作/刚才正在向杰克更新这些信息
 it was not an issue previously      此前并无异常,之前没有出现过这个问题
-You are one of the approvers        审批人之一
+you are one of the approvers        审批人之一
 associated with/the comment associated with the manual trigger         与...关联
 (you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
-headphone/Are you wearing headphones/Do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
+headphone/are you wearing headphones/do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
 it just occurred to me (that)     突然想到
 just noticed/realized this guide is two pages long, not just one    突然意识到/才注意到这guide有两页,而不是一页
-what does "VIP" stand for/it stands for sth         VIP代表什么?/它代表sth
+what does "vip" stand for/it stands for sth         VIP代表什么?/它代表sth
+there's nothing i can do (if nexus issue)        我无能为力
+another question we have        我们还有另一个问题
 
 
 

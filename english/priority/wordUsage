@@ -282,7 +282,6 @@ feasible/feasibility        可行的 adj/可行性 n
 visible/visibility      可见的 adj/可见性,能见度 n
 including/inclusiveness     包含 prep/包容,包容性 n
 integrity/completeness      /ɪnˈteɡrəti/        完整性
-necessity/necessary       /nəˈsesəti/       必要性/必要,必需的 adj
 available/availability/unavailable      /əˈveɪləb(ə)l/       可用的 adj/可用性 n
 probability/possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
 sufficient/insufficient(enough)/sufficiency     足够的,充足的 adj/不足的,不够的 adj/充分性,充足性 n
@@ -394,6 +393,15 @@ essential                           基础,基本的 adj("必须,关键,缺了�
 did you do (过去时间)          你当时做了吗？
 have you done       你到现在做完了吗,强调结果
 have you ever done sth       你以前做过xxx嘛
+
+(system) entry/central front door   /ˈentri/    入口,条目、记录,进入,加入 n/核心,系统入口 n
+(first/prior) entry (prerequisite)        首条/先前条目,历史记录/准入前置条件
+
+stop                停止
+abort               中断,中止(主动中止)
+cut off             切断,中断(强行切断)
+disruption          中断,扰乱 v/n(导致系统,秩序瘫痪,彻底混乱)
+interruption        打断,暂停 v/n(临时被打扰,之后可恢复)
 
 
 
