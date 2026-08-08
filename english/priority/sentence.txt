@@ -274,7 +274,6 @@ table onboarding may be delayed for a month or even longer          数据接入
 enablement & adoption sessions            赋能培训 & 落地推广会议
 from concepts to implementation         从概念到落地实施
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
-stick to the original plan            坚持 v
 (all services) are up & running       系统正常运行,服务就绪
 multiple staff’s requests within a single submission
 i didn’t catch your last sentence/understand what you said at the end   没听懂你最后一句话
@@ -372,6 +371,8 @@ acceptance criteria(if intended)             验收标准/如果是有意(故意
 buy time for sth        争取时间,拖延时间
 please document the intent/purpose    请记录下 意图/目的
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
+silently (returns)      默默地,静静地 adv/静默返回(无报错)
+stick to the original plan            坚持 v
 
 
 

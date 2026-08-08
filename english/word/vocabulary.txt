@@ -306,7 +306,6 @@ optimistic                              乐观的 adj
 option                                  选择 n
 organise(organize)/organization/organizational            组织 v/n/adj
 organised                           有组织的 adj
-originate                       起源 v
 ought to                                应该
 out of breath                       喘不过气来,上气不接下气
 outlook                                         看法,态度 n
@@ -388,8 +387,6 @@ selfish                             自私的 adj
 sell/sold out            卖完
 share with sb
 shy                                 害羞的,腼腆的 adj
-sign in/up                                 登录 v/注册
-silently                            默默地,静静地 adv
 skip                                    跳过 v
 smile (like)               微笑(像) v/n
 sneak                           偷偷地做 v

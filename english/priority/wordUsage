@@ -264,9 +264,6 @@ retain/retention                  保留 v/保持,保留,保存 n
 remain/remaining/testing remains        仍然是,保持,剩余,留下 v/剩下的,遗留的 adj/仍在测试
 the other features remains unchanged/unaffected     保持不变
 
-login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
-log off/out(sign out)    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
-
 initiator/initiating person           发起人 n
 initial/initiate/initiative     /ɪˈnɪʃieɪt/ /ɪˈnɪʃieɪtɪŋ/     最初的 adj/发起 v/措施,倡议,主动性,积极性 n
 
@@ -275,6 +272,7 @@ appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪ�
 
 importance      重要性
 correctness     正确性
+readability     可读性 n
 appropriateness     合理性,适宜性
 connectivity        连通性,连接性 n
 feasible/feasibility        可行的 adj/可行性 n
@@ -402,9 +400,10 @@ cut off             切断,中断(强行切断)
 disruption          中断,扰乱 v/n(导致系统,秩序瘫痪,彻底混乱)
 interruption        打断,暂停 v/n(临时被打扰,之后可恢复)
 
-minor/minority/majority     /ˈmaɪnə(r)/            较小的 adj/未成年人 n/少数 n/adj/大多数
-most/almost/majority    /məˈdʒɒrəti/        很多 adj/adv/近全满 adv/必过半 adj/n
-
 explicitly/clearly (prohibited)      明确地/清楚地 adv/明确禁止
 definite/definitely/definition      清晰的,肯定地,明确地 adj/adv/n
 
+sign in/up                                 登录 v/注册
+login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
+log off/out(sign out)    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
+register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/n/注册,报名 v

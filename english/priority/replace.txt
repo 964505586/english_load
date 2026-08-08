@@ -113,8 +113,6 @@ sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,�
 (financial crime) concern/concerning        顾虑,担心,忧虑 n/财务犯罪顾虑/关于,涉及 v/prep
 subject (customer)/subjective     目标的 adj/目标客户/主观的 adj
 the case currently displayed/(which is) open on the page        当前页面显示的case
-(be careful with your) wording       措词,用词 v/n/注意你的措辞
-schedule/scheduled              安排,预定 v/计划,进度表 n/计划内的,预定的 adj
 (security) patch/patching       补丁,补片 v/n
 host/hosting/hosted at             主办,举行,做东,托管,部署 v/主人,主持人 n/托管于
 violate/violation/break/breach/breaching        违反,违背,触犯 v/违规 n/违反/违反,破坏
@@ -157,7 +155,7 @@ good/great/excellent/thoughtful point/question        好问题
 tap/click/press               点(手机/鼠标/键盘)
 suspect/suspicious         怀疑 v/可疑的 adj
 sensitive/sensitivity/confidential      敏感的 adj/敏感性,敏感度 n/机密的 adj
-status/state/states       状态 n/陈述,说明 v
+status/state/states     /ˈsteɪtəs/       状态 n/陈述,说明 v
 cluster/grid/list            集群/表格,算力网格/列表 n
 as per/according to/based on/as for (me)        按照/根据/基于n/至于/对我来说
 due (date/soon)/deadline/overdue        到期的/即将到期/截止日期/逾期的 adj

@@ -4,7 +4,6 @@ provision/provisioning/deploy      /prəˈvɪʒ(ə)n/              部署,配置
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
 execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
-purge/removal/clear       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/移走,去掉,消除,清除 n
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
 privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
@@ -200,7 +199,6 @@ preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːr
 middleware      /ˈmɪdlweə(r)/       中间件 n
 approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
 legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
-register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/n/注册,报名 v
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 enterprise/corporation/company      /ˈentəpraɪz/        企业,事业单位 n
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
@@ -217,7 +215,6 @@ disk space      /dɪsk/      磁盘空间
 activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动 v/停用,注销
 deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
-massive/at scale        /ˈmæsɪv/        巨大的,大规模的 adj
 cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
 normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
 (improved security) posture/attitude    /ˈpɑːstʃər/  态势,态度,立场,姿势/增强的安全态势/态度 n
@@ -248,7 +245,6 @@ momentum        /moʊˈmentəm/        势头,冲力,推力 n
 convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
 apparently/obvious/obviously      /əˈpærəntli/        明显的,显然的 adv/adj
 embargo     /ɪmˈbɑːrɡoʊ/     禁运 n
-explain/explanation/elaborate       /ɪˈlæbərət/       解释/详细说明 v/n
 illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
@@ -264,14 +260,12 @@ laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电
 outline/overview the task status     /ˈaʊtlaɪn/      概述,简述 v(n)
 define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/明确的,最终的 adj
 distinguish     /dɪˈstɪŋɡwɪʃ/       区分,认出,区别 v
-(at) scale/scalable/scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
 capability/capabilities (roadmap)/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/功能路线图/能力 n
 bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升至
 (dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n//依赖解析
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
 simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
-idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置,空闲 adj/空闲自动扫描
 exceed/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量api流量
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
@@ -282,6 +276,22 @@ compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损
 abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/异常,反常 n
 proceed (subsequent/follow-up/next) steps/actions   /ˈsʌbsɪkwənt/   随后的,接着的 adj/后续的 adj/后续行动
 declarative/imperative     /dɪˈklærətɪv/ /ɪmˈperətɪv/     声明式的,陈述的/命令的,必要的 adj
+malformed (date)       /ˌmælˈfɔːrmd/       畸形的 adj
+(extra) workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
+idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置,空闲 adj/空闲自动扫描
+elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
+with no (explanatory) comment     /ɪkˈsplænətɔːri/      解释 adj/无解释性评论
+minor/minority/major/majority     /ˈmaɪnə(r)/ /maɪˈnɔːrəti/     较小的,次要的 adj/未成年人 n/少数 n/adj/大多数
+most/almost/majority    /məˈdʒɒrəti/        很多 adj/adv/近全满 adv/必过半 adj/n
+scale/scalable/scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
+mass/massive/at scale        /ˈmæsɪv/        大规模的/巨大的,大规模的 adj/adv
+propagate error/exception       /ˈprɑːpəɡeɪt/           散播，宣传,向上传播(异常) v
+raw (data)        /rɔː/     原始的 adj/原始数据
+originate (from)/original           起源/发源于 v/原创 n
+cleanup/removal        /ˈklinˌʌp/      清理,清除 n/移走,去掉 n
+purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
+fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
+reword error msg          /ˌriːˈwɜːrd/        改写
 
 
 
@@ -289,28 +299,6 @@ declarative/imperative     /dɪˈklærətɪv/ /ɪmˈperətɪv/     声明式的,
 
 
 
-
-
-
-mass        大规模的 adj
-extra workload      额外工作量
-cutover plan     系统切换/割接 计划
-overall the logger cleanups     句子成分
-with no explanatory comment
-propagate   向上传播(异常) v
-via throws exception
-scheduled       同步的
-fails open      故障开放（出错直接放行,继续跑业务）
-fail‑closed     故障关闭（出错直接阻断业务
-silently returns ：静默返回,无报错
-buckets
-malformed date
-proceed     继续
-newer than
-reword
-round‑trip      网络往返
-minor   次要问题（pr评审分级：major严重,minor次要）
-round‑trip      网络往返
 
 
 

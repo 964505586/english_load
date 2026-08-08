@@ -2,7 +2,6 @@
 article                         物品
 as                              随着,当......时候
 but                             而且
-clear                           明确的 adj
 close                           亲密的 adj
 date                            约会 n/v
 difficult                       难缠的
