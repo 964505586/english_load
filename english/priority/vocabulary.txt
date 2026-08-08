@@ -168,7 +168,7 @@ mix (a with b)             混合 v/n/把A和B混合
 by cob today        Close of Business   今日下班前
 regroup     复盘碰头,重新组合 v
 baseline/re-baseline        基线,基准 n/重新设定基线 v
-document/raise a ticket to document the backend airflow in Confluence       记录,记载 v/在Confluence记录backend的airflow
+document/raise a ticket to document the backend workflow in Confluence       记录,记载 v/在Confluence记录backend的workflow
 over time       随着时间流逝
 const(construction)         建造,建筑,建筑材料 n
 recycle         复用,回收利用 v/n
@@ -217,7 +217,7 @@ affected        受影响的 adj
 refactor        重构 v/n
 associate/associated (guidance)     联系 v/相关的,关联的,配套的 adj/相关指引,配套说明
 approving authority         审批权责方
-permit/permitted to         批准,许可 v/被允许、有权限
+permit/permitted to         批准,许可 v/被允许,有权限
 in correct sort order       正确的排序顺序
 junk            抛弃,丢掉 v/垃圾 n
 fictional       虚构的 adj
@@ -225,6 +225,7 @@ uninstall/install                 卸载/安装,设置 v
 layer       层,等级 n
 10%(percent) of n
 major               重大的,主要的,严重的 adj/专业 n/专攻 v
+extra/extract/extraction             额外的 adj/提取,抽取 v/n
 
 
 

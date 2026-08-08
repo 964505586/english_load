@@ -9,7 +9,7 @@ drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
 privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
 paste (in/into/here)       /peɪst/ /peɪst ɪn/         粘贴 v/粘贴进去
-(in) reality/Actually         /riˈæləti/      真实,现实 n/实际上,事实上
+(in) reality/actually         /riˈæləti/      真实,现实 n/实际上,事实上
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 sophisticated           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
 decent      /ˈdiːsnt/      像样的 adj
@@ -47,16 +47,14 @@ throughout (the entire software development lifecycle)      /θruːˈaʊt/      
 semantic        /sɪˈmæntɪk/        语义的 adj
 thorough/overall        /ˈθɜːroʊ/       彻底的,全面的 adj
 concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可落地 adj
-subsequent/follow-up/next (steps/actions)        /ˈsʌbsɪkwənt/       随后的,接着的 adj/后续的 adj/后续行动
 accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就,成绩(功能落地,开发实现) n/
 supply/supplement       /ˈsʌplɪmənt/     供应,提供 v/补充,增加,增补 v
 occur/occurrence/reoccur/recurrence     /əˈkʌrəns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n
 govern/governed/governing/governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统治,支配,控制 adj/数据治理
 retriable        /rɪˈtraɪəbl/           可重试的 adj
 plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编码 v
-intend/intended/Intentionally (locked down)    /ɪnˈtendɪd/     打算,想要 v/预期的,故意的,有意的 adj/故意地,有意地,有规划地 adv/主动管控
 discard/dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
-attendee/(related) Parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
+attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
 stay tuned/please bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 opt out of      /ɒpt aʊt əv/      选择退出 v
@@ -75,7 +73,7 @@ destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
 interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
 resell/reselling        /ˌriːˈselɪŋ/        转售,转卖 v
 refrain from n      /rɪˈfreɪn/          克制,杜绝,不得做某事,放弃,不执行 v
-commercialize/Commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商品化 v/商业的 adj
+commercialize/commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商品化 v/商业的 adj
 vendor      /ˈvendə(r)/     供应商
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
 applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
@@ -87,15 +85,15 @@ rollout     /ˈrəʊlaʊt/         推广,试运行 n
 nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
-probably/likely/Unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
+probably/likely/unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
 crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
 swap/switch/replace     /swɒp/      替换,切换 v
-isolate/Quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
+isolate/quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
 quartermaster info      /ˈkwɔːtəmɑːstə(r)/          统筹,后勤信息
-manage (to)/I managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/我成功解决了这个问题
-alternatively(or)/Alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
+manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/我成功解决了这个问题
+alternatively(or)/alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 expedite/accelerate/speed up        /spiːd ʌp/        加快
 (in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
@@ -126,7 +124,7 @@ preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 suppress/suppressed     /səˈpres/      镇压,压制,阻止 v/抑制的 adj
-starting/effective 1 June 2026          自6月1日起
+starting/effective 1 june 2026          自6月1日起
 any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
@@ -140,7 +138,7 @@ syntax error        /ˈsɪntæks/      语法错误
 pros & cons       /prəʊz/ /kɒnz/      利弊
 merits & demerits     /ˈmerɪts/       优劣
 figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
-leverage (Spring Boot to simplify development)   /ˈliːvərɪdʒ/    利用 v/利用Spring Boot来简化开发
+leverage (spring boot to simplify development)   /ˈliːvərɪdʒ/    利用 v/利用spring boot来简化开发
 snipaste
 hallucination           /həˌluːsɪˈneɪʃ(ə)n/         幻觉,幻想,错觉 n
 horizontal to vertical logic    /ˌhɒrɪˈzɒnt(ə)l/ /ˈvɜːtɪk(ə)l/
@@ -169,9 +167,8 @@ follow me                       /ˈfɑːloʊ/
 scope           /skoʊp/
 browser                          /ˈbraʊzə(r)/
 upsert(update + insert)                      /ˈʌpsɜːrt/
-extra
 criteria                /kraɪˈtɪəriə/
-auto-increment ID               递增 ID
+auto-increment id               递增 id
 typology                        类型学,分类体系 n
 @       at
 forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
@@ -179,13 +176,13 @@ continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,�
 (query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
-loop sb in/looping Jack in for visibility/Awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
+loop sb in/looping jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让jack参与进来
 mitigate/mitigation (the risk)       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险
 crime       /kraɪm/     罪,罪行,犯罪 n
 territory       /ˈterətɔːri/        领地,领域 n
 (is this an urgent) referral        /rɪˈfɜːrəl/        转介,转送,转诊 n
 in (chronological) order      /ˌkrɑːnəˈlɑːdʒɪk(ə)l/       按时间顺序的 adj
-classify/categorize/classical/Classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类,分级,类别 n
+classify/categorize/classical/classification     /ˈkætəɡəraɪz/       分类,分级,归类/归类,分组 v/经典的,传统的 adj/分类,分级,类别 n
 (raise) fund        /fʌnd/        资金 n/募资,融资
 case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏感性 n/敏感的/不敏感的 adj
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
@@ -205,13 +202,13 @@ approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈs
 legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
 register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/n/注册,报名 v
 readiness/ready     /ˈredinəs/     准备就绪状态 n
-enterprise/Corporation/Company      /ˈentəpraɪz/        企业,事业单位 n
+enterprise/corporation/company      /ˈentəpraɪz/        企业,事业单位 n
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 dig out     /dɪɡ aʊt/         找出,挖掘出 v
 we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
-persist/persistent/Materialize/insist      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj/坚持 v
-material/Materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
+persist/persistent/materialize/insist      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj/坚持 v
+material/materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
 facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
 fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
@@ -239,15 +236,13 @@ parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     
 quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
 vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
 participate/participating/participant/participation     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n/参与
-abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/n
 definite/definitely/definition/explicitly/clearly          /ˈdefɪnət/      清晰的,肯定地,明确地 adj/adv
 explicitly (prohibited)/clearly/definitely      /ɪkˈsplɪsɪtli/      清楚明确地 adv/清楚地,清晰地 adv/明确禁止
 assess/assessment/evaluate/evaluation   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n
 moderate (to heavy rain)/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的,中间的 adj
 the work on his plate/hands     /pleɪt/      手头的工作
 data estate     /ɪˈsteɪt/     数据资产
-compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及安全
-this email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此提醒/某物充当、用作
+this email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此提醒/某物充当,用作
 (monthly) scoring cycle       /ˈskɔːrɪŋ/       计分,评分周期
 momentum        /moʊˈmentəm/        势头,冲力,推力 n
 convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
@@ -276,13 +271,46 @@ bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
 simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
-idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置、空闲 adj/空闲自动扫描
+idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置,空闲 adj/空闲自动扫描
 exceed/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
-excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量API流量
+excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量api流量
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
 ignore/neglect      /nɪˈɡlekt/      有意/无意,疏忽 v
+purpose/intent/destination/target/goal/intend      /ɪnˈtent/     有意,打算 v/意图,设计初衷,目的/目的 n/打算,想要 v
+intend/intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,预期的 adj/adv/主动管控/意图,目的 n
+compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协，折中 v/危及安全
+abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/异常,反常 n
+proceed (subsequent/follow-up/next) steps/actions   /ˈsʌbsɪkwənt/   随后的,接着的 adj/后续的 adj/后续行动
+declarative/imperative     /dɪˈklærətɪv/ /ɪmˈperətɪv/     声明式的,陈述的/命令的,必要的 adj
 
 
+
+
+
+
+
+
+
+
+mass        大规模的 adj
+extra workload      额外工作量
+cutover plan     系统切换/割接 计划
+overall the logger cleanups     句子成分
+with no explanatory comment
+propagate   向上传播(异常) v
+via throws exception
+scheduled       同步的
+fails open      故障开放（出错直接放行,继续跑业务）
+fail‑closed     故障关闭（出错直接阻断业务
+silently returns ：静默返回,无报错
+buckets
+malformed date
+proceed     继续
+newer than
+reword
+round‑trip      网络往返
+minor   次要问题（pr评审分级：major严重,minor次要）
+round‑trip      网络往返
 
 
 

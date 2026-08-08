@@ -26,7 +26,6 @@ disclose                  泄露,透漏v
 domain                 领域 n
 doubt                  疑问,疑惑 n
 exchange                 交换 v/n
-extract             提取,抽取 v
 fail/failed/failure                             失败 v/n
 fetch               获取,拉取 v
 flatter                 奉承,吹捧   you flatter me
@@ -75,7 +74,6 @@ elementary problem                  低级问题
 disable(enable)                 禁用,关闭,使失效/启用,开启 v
 finalize/finalized                                    最终确定,敲定,完成 v
 regression              后退,倒退 n
-acceptance criteria             验收标准
 investigate/investigation                 调查 n
 feel free to v                请随意,尽管
 constantly          总是,经常地,不断地

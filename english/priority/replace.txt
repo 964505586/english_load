@@ -83,7 +83,6 @@ apply/request
 via/by/through
 make a code change(Change code)                  做一次代码修改(正式)
 remediate/Investigate/fix              补救,修复 v
-fetch/extract/read             获取,拉取 v/提取,抽取 v
 launch/release version(new feature)         启动,发起,推出,执行 v
 marked/highlighted part/area/Section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
 occur/appear/happen
@@ -128,7 +127,6 @@ newly added/created columns             新增的列
 (any) context/background        上下文,背景 n
 urgency/urgent/urgently     紧急,迫切,紧迫感,紧迫性,紧急性 n/紧急的,急切的 adj
 believe/trust/trusty/trustworthy/truth         相信 v/信任 v/n/可信的,值得信赖的 adj/真相 n
-purpose/destination/target/goal     有意,打算 v/目的 n
 day-to-day/daily (meeting)      每日,日常 adv/adj
 rate/traffic        流量,速率,比率 n/交通,流量 n
 predict/predictable/prediction/forecast      预言,预计 v/可预测的,可预料的 adj/预测 n/预测,预报 v/n
@@ -203,14 +201,14 @@ conduct/keep monitoring closely              实施,进行 密切监控 v
 conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
 verify/verification/validate/validation     核实,证明验证 v/n
 expect/look forward to n
-area/district       通用/城市行政分区，政府管辖
+area/district       通用/城市行政分区,政府管辖
 method/approach/approaching/way     方法 n/方式,靠近,接近 v/方式
 shout/yell               呼喊(叫嚷,大声说)叫喊 v/n
 point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP/英文句末句号/点,斑点,地点 n
 duty/fault                                    责任,义务/错误,责任
 remember/memorize            记得,记起/记住 用心 v
 maybe/perhaps           随意,直白/委婉,礼貌 偏正式
-technical/technology/technique                 技术的,专业的 adj/科技，技术/技巧、手法 n
+technical/technology/technique                 技术的,专业的 adj/科技,技术/技巧,手法 n
 luck/lucky/fortunate/fortunately        n/adj/adv
 same/identical      (大致无差异)/完全相同的 adj(无任何差别)
 occasionally/occasion/sometimes         偶然,偶尔 adv/场合 n/有时
@@ -222,6 +220,7 @@ truly/really        真正地
 quite reasonable/it make sense      相当合理,很有道理/有道理
 kind/type/category
 detect/identify     探测,检测(脚本自动查问题)/识别,定位(定位/确认问题)
+fetch/extract/read             获取,拉取 v/提取,抽取 v
 
 
 
