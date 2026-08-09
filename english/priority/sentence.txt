@@ -79,7 +79,6 @@ about when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
 this has been happening a lot recently. it didn't happen before             这种情况最近频繁发生.以前从未出现过这种情况.
 the problem occurs when writing data to hdfs, & then the exception is thrown
-someone             有人
 please press ctrl & c on your keyboard    请在键盘上按下"ctrl"和"c"键
 logs are only kept for one or two days              日志只保存一天或两天
 is/isn't this what we expected?             这难道不是我们所期望的吗？
@@ -336,7 +335,6 @@ the pop-up alerts haven't been showing up for me recently       最近我的弹�
 assessed dependency checks      评估依赖项检查
 is wired to         被配置为,被设置为
 (whether) sth references xxx directly       sth是否直接引用
-tentatively planned for july 8th    暂定计划
 this change is specific to sth      本次变更针对sth
 be no longer supported     不再支持
 to help you try them out        方便您上手试用,供您实操体验
@@ -373,6 +371,7 @@ please document the intent/purpose    请记录下 意图/目的
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
 silently (returns)      默默地,静静地 adv/静默返回(无报错)
 stick to the original plan            坚持 v
+tentatively planned for July 8th    暂定计划
 
 
 

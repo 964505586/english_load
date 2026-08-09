@@ -23,7 +23,6 @@ truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
-(three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n
 manifest/configuration file        /ˈmænɪfest/         清单,配置文件 n
 embed/embedding         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
 orchestration       /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
@@ -36,7 +35,6 @@ progressive/progressively/gradually/step by step     /prəˈɡresɪv/        逐
 slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,PPT/一整套
 privacy/private         /ˈprɪvəsi/          隐私 n/私有的 adj
 firmware        /ˈfɜːmweə(r)/        固件,硬件 n
-rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      使旋转,使转动 v/值班名册,轮值表 n
 legal/illegal/illegally/legitimate/rightful/formal      /lɪˈdʒɪtɪmət/       合法的 adj/正当的,合理的,合法的 adj
 (security) hygiene      /ˈhaɪdʒiːn/         卫生 n/安全基线,安全合规
 transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v,n/转变,转换 n
@@ -108,7 +106,6 @@ spotlight/gather        /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 
 quarter         /ˈkwɔːtə(r)/            季度
 bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
-tentative/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
 whole/entire            全部的,整个的 adj
 protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
 bootcamp        /ˈbuːtkæmp/         集训营 n
@@ -293,6 +290,16 @@ reword error msg          /ˌriːˈwɜːrd/        改写
 outline new requirement (brief/briefly)/overview     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv/概述 n
 feature/capability introductions    功能介绍
 capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/产能,精力 n
+tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
+(three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n
+rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/值班名册,轮值表 n
+toggle/on-off switch        /ˈtɑːɡl/      开关 n
+
+
+
+
+
+
 
 
 

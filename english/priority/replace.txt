@@ -116,7 +116,6 @@ the case currently displayed/(which is) open on the page        当前页面显�
 (security) patch/patching       补丁,补片 v/n
 host/hosting/hosted at             主办,举行,做东,托管,部署 v/主人,主持人 n/托管于
 violate/violation/break/breach/breaching        违反,违背,触犯 v/违规 n/违反/违反,破坏
-ahead of deployment/prior to/before            在deployment之前 prep/adj
 (in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
 (best/security) practice/exercise    练习 v/实践,实际操作 n/练习 v/运动,锻炼 v/n/最佳实践/安全规范,实践
 (in) peak (traffic)/rush hours      巅峰状态的,最高的 adj/在高峰期
@@ -218,6 +217,8 @@ quite reasonable/it make sense      相当合理,很有道理/有道理
 kind/type/category
 detect/identify     探测,检测(脚本自动查问题)/识别,定位(定位/确认问题)
 fetch/extract/read             获取,拉取 v/提取,抽取 v
+ahead of deployment/prior to/before            在deployment之前 prep/adj
+anyone/someone             有人
 
 
 
