@@ -226,7 +226,7 @@ navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导�
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
 very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
 (live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
-comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj,adv/概述 n,v
+comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj/adv/概述 n
 notification noise      /nɔɪz/      通知干扰,冗余通知
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的 adj/adv
@@ -250,15 +250,14 @@ guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
 (as per current ui) convention      /kənˈvenʃ(ə)n/        惯例,规范
-(hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/分配的工作时长
+(hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/(分配的)工作时长
 exceeds your (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
-(audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/邮件往来记录,邮件链 n
+(audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/线程,邮件往来记录,邮件链 n
 alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
 consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
 laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电脑/笔记本/双耳式耳机
 (cash) deposit      /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款/兑现 v/现金 n
-outline/overview the task status     /ˈaʊtlaɪn/      概述,简述 v(n)
-define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/明确的,最终的 adj
+define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/确定的,最终的 adj
 distinguish     /dɪˈstɪŋɡwɪʃ/       区分,认出,区别 v
 capability/capabilities (roadmap)/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/功能路线图/能力 n
 bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升至
@@ -271,11 +270,11 @@ excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量api�
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
 ignore/neglect      /nɪˈɡlekt/      有意/无意,疏忽 v
 purpose/intent/destination/target/goal/intend      /ɪnˈtent/     有意,打算 v/意图,设计初衷,目的/目的 n/打算,想要 v
-intend/intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,预期的 adj/adv/主动管控/意图,目的 n
+intend/intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,预期的 adj/adv/意图,目的 n
 compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协，折中 v/危及安全
 abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/异常,反常 n
 proceed (subsequent/follow-up/next) steps/actions   /ˈsʌbsɪkwənt/   随后的,接着的 adj/后续的 adj/后续行动
-declarative/imperative     /dɪˈklærətɪv/ /ɪmˈperətɪv/     声明式的,陈述的/命令的,必要的 adj
+declarative/imperative coding     /dɪˈklærətɪv/ /ɪmˈperətɪv/     声明式的,陈述的/命令的,必要的 adj
 malformed (date)       /ˌmælˈfɔːrmd/       畸形的 adj
 (extra) workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
 idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置,空闲 adj/空闲自动扫描
@@ -292,13 +291,14 @@ cleanup/removal        /ˈklinˌʌp/      清理,清除 n/移走,去掉 n
 purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
 reword error msg          /ˌriːˈwɜːrd/        改写
+outline new requirement (brief/briefly)/overview     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv/概述 n
 
 
 
 
 
-
-
+capability/capabilities (roadmap)/ability
+capacity
 
 
 
