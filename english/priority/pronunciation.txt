@@ -259,7 +259,6 @@ laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电
 (cash) deposit      /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款/兑现 v/现金 n
 define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/确定的,最终的 adj
 distinguish     /dɪˈstɪŋɡwɪʃ/       区分,认出,区别 v
-capability/capabilities (roadmap)/ability     /ˌkeɪpəˈbɪləti/     能力,才能 n/功能路线图/能力 n
 bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升至
 (dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n//依赖解析
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
@@ -292,13 +291,15 @@ purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确�
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
 reword error msg          /ˌriːˈwɜːrd/        改写
 outline new requirement (brief/briefly)/overview     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv/概述 n
+feature/capability introductions    功能介绍
+capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/产能,精力 n
 
 
 
 
 
-capability/capabilities (roadmap)/ability
-capacity
+
+
 
 
 

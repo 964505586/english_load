@@ -135,7 +135,6 @@ respond/response                 响应 v/n
 contribute (to)/contribution    捐赠,为...做贡献 v/有助于,促成,计入,归属到/贡献,捐款,捐助 n
 shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造服务
 involve/include/contain/cover/covering      涉及/包含/覆盖 v
-feature/capability introductions    功能介绍
 refer to sth/reference       参考,查阅 v/参考,引用 n/v
 post-upgrade/after upgrade          版本升级后
 minimum reliable path/solution       最简可靠方案
