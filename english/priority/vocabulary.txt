@@ -227,8 +227,8 @@ property        属性,财产 n
 audit/audited/auditable/inspect     审计 v,n/受审查的 adj/可审计的 adj
 disclose (to)/disclosure       透露，公开 v/n/透露给sb
 intercept/intercepted/interception       拦截 v/n
-independence/independent/independently      独立 n/adj/adv
-be (dependent) on       依赖的，依靠的 adj/sth依赖...
+independence/independent/independently/dependent      独立 n/adj/adv
+be (dependent) on/independence       依赖的，依靠的 adj/sth依赖...
 
 
 
