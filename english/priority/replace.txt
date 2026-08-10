@@ -1,5 +1,4 @@
 solve/resolve/address/get sorted            解决
-show/display/displayed            显示,展示 v/显示的 adj
 hear/listen/listen to          结果/过程 vi/vt
 uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未被选中的,未勾选的 v
 introduce risk/cause incidents(failures)        引进,引入 v
@@ -216,9 +215,14 @@ detect/identify     探测,检测(脚本自动查问题)/识别,定位(定位/�
 fetch/extract/read             获取,拉取 v/提取,抽取 v
 ahead of deployment/prior to/before            在deployment之前 prep/adj
 anyone/someone             有人
-(express) license/authorize(authorise)     执照,许可证 n/许可；特许 v/正式书面授权/授权；批准
 revised/rectified/modified/edited/updated/changed       修订过的,编辑过的 adj
 remember/don't forget/kind(gentle/a warm) reminder to      记得做sth
+(express) license/authorize(authorise)          执照,许可证 n/许可；特许 v/正式书面授权/授权；批准
+authorised/authorized/licensed/licenced         授权的/得到许可的 adj
+inspect/inspected/inspection/audit       检查,视察 v/n
+explicit/implicit       明示的,明确的/隐式的,含蓄的 adj
+surface/show/display/displayed         显露，暴露 v/表面(的) n,adj/显示,展示 v/显示的 adj
+backfill/write back/replay        回填；装填/回写/重放 v
 
 
 

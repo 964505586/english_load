@@ -235,7 +235,6 @@ increase                      增长,增强,增大 v
 increasing                  越来越多的 adj           增长,增强 v
 increasingly equals (more & more)                        越来越多地 adv
 incurable/incurably             无可救药的 adj/adv
-independence n/independent adj/independently adv           独立
 infect                      感染
 inform                                          通知,告知 v
 injury                          伤 n

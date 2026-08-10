@@ -79,7 +79,6 @@ end-to-end          端对端的 adj/adv
 built-in                内置的 adj
 on your calendar            你的日程
 ahead           在前的,提前的,未来的,即将到来的 adj
-audit/audited/auditable           审计 v,n/受审查的c受审计的 adj/可审计的 adj
 last            最后的,最近的 adj/持续 v
 subset              子集 n
 anything urgent             紧急事项 n
@@ -225,6 +224,11 @@ bucket      桶
 round‑trip      网络往返
 express/expression          明确的 adj/表达 v/n
 property        属性,财产 n
+audit/audited/auditable/inspect     审计 v,n/受审查的 adj/可审计的 adj
+disclose (to)/disclosure       透露，公开 v/n/透露给sb
+intercept/intercepted/interception       拦截 v/n
+independence/independent/independently      独立 n/adj/adv
+be (dependent) on       依赖的，依靠的 adj/sth依赖...
 
 
 

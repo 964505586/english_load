@@ -115,7 +115,6 @@ eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的
 preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
-suppress/suppressed     /səˈpres/      镇压,压制,阻止 v/抑制的 adj
 starting/effective 1 june 2026          自6月1日起
 any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
@@ -186,7 +185,6 @@ spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       生成
 eliminate (redundant code)/eliminating      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
 cater to (sth/sb/business demands)/meet       /ˈkeɪtər/     满足,迎合 v
-imply/mean/hint (that)       /ɪmˈplaɪ/ /hɪnt/       暗示,暗指,意味着 v/暗示 v/暗示,提示,说明 n
 preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
 middleware      /ˈmɪdlweə(r)/       中间件 n
 approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
@@ -299,27 +297,20 @@ reword/revise/rectify error msg          /ˌriːˈwɜːrd/        改写/修正
 raw (data)/row/column        /rɔː/     原始的 adj/原始数据/行/纵列
 precious/valuable/invaluable/valueless       /ˈpreʃəs/        宝贵的/贵重的/无价的/无价值的 adj
 confidential/sensitive/sensitivity      /ˌkɑːnfɪˈdenʃ(ə)l/      机密的 adj/敏感的 adj/敏感性,敏感度 n
+at the (discretion) of sb/audit      /dɪˈskreʃ(ə)n/      自行决定权 n/由某人酌情,自行决定,自由选择
+personnel       /ˌpɜːrsəˈnel/       人员 n/人员的 adj
+suppress/suppressed     /səˈpres/      抑制,镇压,压制,阻止 v/抑制的 adj
+imply/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示，提示 v,n/隐式的,含蓄的 adj
 
 
 
 
 
-dependent on 依赖于（形容词短语）
-surfaced        展示,透出（把后台数据推送到界面）
-backfill        数据回填,补历史缺失数据
-replay      事件重放,重新消费历史事件
-authorised/authorized      授权的 adj
-explicit            明示的,明确的
-implicit            默示的,隐含的
-intercepted       拦截
-inspected, and disclosed to relevant authorities.
-consent to sth 同意某事
-disclosure at the discretion
-inspection, and disclosure at the discretion of hsbc bank plc. authorised personnel
-at the discretion of sb 由某人酌情/自行决定
 
-supress
-sorry, you just broke up a little bit
+
+
+
+
 
 
 
