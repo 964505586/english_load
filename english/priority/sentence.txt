@@ -53,7 +53,6 @@ no problem at all                           完全没问题
 let's pause(hold on) here. for the introduction & process i mentioned previously. is there any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
 why/how did you navigate to(land on) that page?         您是如何访问(到达)那个页面的？
 these two fields are reversed                这两个字段的值颠倒了
-tbd                 to be determined/decided/confirmed
 data(email) attached for your reference                 附上邮件供您参考
 postman has been disabled in hsbc                   汇丰银行已禁用 postman
 how/why/what is it?              怎么样/为什么/这是什么
@@ -372,6 +371,7 @@ let's extract an extra (common) method for the piece of code             为这�
 silently (returns)      默默地,静静地 adv/静默返回(无报错)
 stick to the original plan            坚持 v
 tentatively planned for July 8th    暂定计划
+could you take about 5 minutes to       能花大约5分钟
 
 
 

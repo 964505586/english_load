@@ -55,7 +55,6 @@ attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当
 stay tuned/please bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 opt out of      /ɒpt aʊt əv/      选择退出 v
-represent/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 fellow      /ˈfeləʊ/              同类的,同伴的 adj
 commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
 experience(好/坏/普通)/undergo(只接艰难,痛苦,漫长,被动承受的事)   /ˌʌndəˈɡəʊ/     经历,经受 v
@@ -73,7 +72,6 @@ refrain from n      /rɪˈfreɪn/          克制,杜绝,不得做某事,放弃,
 commercialize/commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商品化 v/商业的 adj
 vendor      /ˈvendə(r)/     供应商
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
-applicable (to this scenario only)        /əˈplɪkəb(ə)l/      适用的,可应用的 adj/只适用于该场景
 circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
 alert/advisory/advisories/notification   /ədˈvaɪzəri/       警报 n/警告,通知 n
 snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
@@ -107,7 +105,6 @@ quarter         /ˈkwɔːtə(r)/            季度
 bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
 whole/entire            全部的,整个的 adj
-protocol/terms            /ˈprəʊtəkɒl/            规范,协议 n/条款 n
 bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
 reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
@@ -115,7 +112,6 @@ retrieve/retrieval/search/query/retrievable     /rɪˈtriːvl/         检索 v/
 blueprint       /ˈbluːprɪnt/        方案,蓝图 n
 upon n(success/failure/completion/receipt)/once adj/句子    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
-revised/rectify/rectified/modify/update/change/edit/edited      /ˈrektɪfaɪ/     修正过的/纠正,矫正/修改/更新/改变/编辑 v/修订过的,编辑过的 adj
 preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
@@ -186,7 +182,6 @@ counterpart     /ˈkaʊntərpɑːrt/     对应物 n
 trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
 (data) volume/size     /ˈvɑːljəm/     数据量/音量 n
 layout      /ˈleɪaʊt/          布局,排版 n
-protocol/agreement/agreed      /ˈproʊtəkɑːl/       协议,流程规范 n/协议,协定 n/约定好的,同意的 adj
 spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
 eliminate (redundant code)/eliminating      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
@@ -267,7 +262,7 @@ conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/
 ignore/neglect      /nɪˈɡlekt/      有意/无意,疏忽 v
 purpose/intent/destination/target/goal/intend      /ɪnˈtent/     有意,打算 v/意图,设计初衷,目的/目的 n/打算,想要 v
 intend/intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,预期的 adj/adv/意图,目的 n
-compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协，折中 v/危及安全
+compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协,折中 v/危及安全
 abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/异常,反常 n
 proceed (subsequent/follow-up/next) steps/actions   /ˈsʌbsɪkwənt/   随后的,接着的 adj/后续的 adj/后续行动
 declarative/imperative coding     /dɪˈklærətɪv/ /ɪmˈperətɪv/     声明式的,陈述的/命令的,必要的 adj
@@ -275,18 +270,15 @@ malformed (date)       /ˌmælˈfɔːrmd/       畸形的 adj
 (extra) workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
 idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置,空闲 adj/空闲自动扫描
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
-with no (explanatory) comment     /ɪkˈsplænətɔːri/      解释 adj/无解释性评论
+without (explanatory) comment     /ɪkˈsplænətɔːri/      解释 adj/无解释性评论
 minor/minority/major/majority     /ˈmaɪnə(r)/ /maɪˈnɔːrəti/     较小的,次要的 adj/未成年人 n/少数 n/adj/大多数
 most/almost/majority    /məˈdʒɒrəti/        很多 adj/adv/近全满 adv/必过半 adj/n
 scale/scalable/scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
 mass/massive/at scale        /ˈmæsɪv/        大规模的/巨大的,大规模的 adj/adv
-propagate error/exception       /ˈprɑːpəɡeɪt/           散播，宣传,向上传播(异常) v
-raw (data)        /rɔː/     原始的 adj/原始数据
-originate (from)/original           起源/发源于 v/原创 n
+propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,向上传播(异常) v
 cleanup/removal        /ˈklinˌʌp/      清理,清除 n/移走,去掉 n
 purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
-reword error msg          /ˌriːˈwɜːrd/        改写
 outline new requirement (brief/briefly)/overview     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv/概述 n
 feature/capability introductions    功能介绍
 capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/产能,精力 n
@@ -294,14 +286,40 @@ tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/
 (three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n
 rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/值班名册,轮值表 n
 toggle/on-off switch        /ˈtɑːɡl/      开关 n
+present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
+represent/representative/stand for        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
+(if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
+fictional/fiction/novel       /ˈnɑːv(ə)l/       虚构的 adj/小说 n
+protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,协定 n/约定好的,同意的 adj
+consent (to)/agree        /kənˈsent/      同意,允许 v/n
+extra/extract/extraction    /ˈekstrækt; ɪkˈstrækt/      额外的 adj/提取,抽取 v/选段,引文 n/提取,抽取 n
+originate (from)/original/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创 n/起源
+revise/rectify/reword/modify/update/change/edit      /ˈrektɪfaɪ/     修正/纠正,矫正/改写/修改/更新/改变/编辑 v
+reword/revise/rectify error msg          /ˌriːˈwɜːrd/        改写/修正
+raw (data)/row/column        /rɔː/     原始的 adj/原始数据/行/纵列
+precious/valuable/invaluable/valueless       /ˈpreʃəs/        宝贵的/贵重的/无价的/无价值的 adj
+confidential/sensitive/sensitivity      /ˌkɑːnfɪˈdenʃ(ə)l/      机密的 adj/敏感的 adj/敏感性,敏感度 n
 
 
 
 
 
+dependent on 依赖于（形容词短语）
+surfaced        展示,透出（把后台数据推送到界面）
+backfill        数据回填,补历史缺失数据
+replay      事件重放,重新消费历史事件
+authorised/authorized      授权的 adj
+explicit            明示的,明确的
+implicit            默示的,隐含的
+intercepted       拦截
+inspected, and disclosed to relevant authorities.
+consent to sth 同意某事
+disclosure at the discretion
+inspection, and disclosure at the discretion of hsbc bank plc. authorised personnel
+at the discretion of sb 由某人酌情/自行决定
 
-
-
+supress
+sorry, you just broke up a little bit
 
 
 
