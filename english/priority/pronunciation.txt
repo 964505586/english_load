@@ -248,7 +248,6 @@ consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消�
 laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电脑/笔记本/双耳式耳机
 (cash) deposit      /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款/兑现 v/现金 n
 define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/确定的,最终的 adj
-distinguish     /dɪˈstɪŋɡwɪʃ/       区分,认出,区别 v
 bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升至
 (dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n//依赖解析
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
@@ -300,7 +299,17 @@ confidential/sensitive/sensitivity      /ˌkɑːnfɪˈdenʃ(ə)l/      机密的
 at the (discretion) of sb/audit      /dɪˈskreʃ(ə)n/      自行决定权 n/由某人酌情,自行决定,自由选择
 personnel       /ˌpɜːrsəˈnel/       人员 n/人员的 adj
 suppress/suppressed     /səˈpres/      抑制,镇压,压制,阻止 v/抑制的 adj
-imply/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示，提示 v,n/隐式的,含蓄的 adj
+imply/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示,提示 v,n/隐式的,含蓄的 adj
+declare/declared/declaration        /dɪˈkler/        宣布,声明 v/n
+distinguish/differentiate     /dɪˈstɪŋɡwɪʃ/ /ˌdɪfəˈrenʃieɪt/               区分,认出,区别 v/使不同,区分,区别
+questionnaire       /ˌkwestʃəˈner/       问卷，调查表 n
+presume     /prɪˈzuːm/         推测,假设 v
+
+
+
+
+
+
 
 
 

@@ -204,7 +204,6 @@ reproduce/reproduction       复现 v/n
 (your) hours worked       你的工作时长
 functional Manager          职能经理
 capture         采集,捕获,截取 v
-distinct/distinction                 独立的,不同的 adj/区别 n
 affected        受影响的 adj
 refactor        重构 v/n
 associate/associated (guidance)     联系 v/相关的,关联的,配套的 adj/相关指引,配套说明
@@ -225,10 +224,10 @@ round‑trip      网络往返
 express/expression          明确的 adj/表达 v/n
 property        属性,财产 n
 audit/audited/auditable/inspect     审计 v,n/受审查的 adj/可审计的 adj
-disclose (to)/disclosure       透露，公开 v/n/透露给sb
+disclose (to)/disclosure       透露,公开 v/n/透露给sb
 intercept/intercepted/interception       拦截 v/n
 independence/independent/independently/dependent      独立 n/adj/adv
-be (dependent) on/independence       依赖的，依靠的 adj/sth依赖...
+be (dependent) on/independence       依赖的,依靠的 adj/sth依赖.../独立
 
 
 

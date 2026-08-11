@@ -221,8 +221,10 @@ remember/don't forget/kind(gentle/a warm) reminder to      记得做sth
 authorised/authorized/licensed/licenced         授权的/得到许可的 adj
 inspect/inspected/inspection/audit       检查,视察 v/n
 explicit/implicit       明示的,明确的/隐式的,含蓄的 adj
-surface/show/display/displayed         显露，暴露 v/表面(的) n,adj/显示,展示 v/显示的 adj
+surface/show/display/displayed         显露,暴露 v/表面(的) n,adj/显示,展示 v/显示的 adj
 backfill/write back/replay        回填；装填/回写/重放 v
+detailedly(in detail)            详细地 adv
+differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 adj/区别 n
 
 
 
