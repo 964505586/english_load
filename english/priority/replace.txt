@@ -178,7 +178,6 @@ just asking/wondering       只是问问
 (after) a short while (ago)       不久前/不久之后
 after a time/while/period of time      一段时间后
 (core) concept/overview/definition     (核心)概念 n/概述,简述/定义
-post/posted/announce/announcement/send/sent     张贴,发布/宣布,公布 v/n
 wait (for)        vi/vt
 local/native
 set up/config       搭建,安装/配置,设置
@@ -225,6 +224,7 @@ surface/show/display/displayed         显露,暴露 v/表面(的) n,adj/显示,
 backfill/write back/replay        回填；装填/回写/重放 v
 detailedly(in detail)            详细地 adv
 differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 adj/区别 n
+feature/capability introductions    功能介绍
 
 
 

@@ -276,21 +276,20 @@ propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,向�
 cleanup/removal        /ˈklinˌʌp/      清理,清除 n/移走,去掉 n
 purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
-outline new requirement (brief/briefly)/overview     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv/概述 n
-feature/capability introductions    功能介绍
-capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/产能,精力 n
+outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv/概述 n
+capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/精力,产能 n
 tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
-(three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n
+(three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n/三阶段迭代演进
 rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/值班名册,轮值表 n
 toggle/on-off switch        /ˈtɑːɡl/      开关 n
 present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
-represent/representative/stand for        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
+represent/stand for/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 (if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
 fictional/fiction/novel       /ˈnɑːv(ə)l/       虚构的 adj/小说 n
 protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,协定 n/约定好的,同意的 adj
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
 extra/extract/extraction    /ˈekstrækt; ɪkˈstrækt/      额外的 adj/提取,抽取 v/选段,引文 n/提取,抽取 n
-originate (from)/original/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创 n/起源
+originate (from)/original/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创/起源 n
 revise/rectify/reword/modify/update/change/edit      /ˈrektɪfaɪ/     修正/纠正,矫正/改写/修改/更新/改变/编辑 v
 reword/revise/rectify error msg          /ˌriːˈwɜːrd/        改写/修正
 raw (data)/row/column        /rɔː/     原始的 adj/原始数据/行/纵列
@@ -300,10 +299,10 @@ at the (discretion) of sb/audit      /dɪˈskreʃ(ə)n/      自行决定权 n/�
 personnel       /ˌpɜːrsəˈnel/       人员 n/人员的 adj
 suppress/suppressed     /səˈpres/      抑制,镇压,压制,阻止 v/抑制的 adj
 imply/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示,提示 v,n/隐式的,含蓄的 adj
-declare/declared/declaration        /dɪˈkler/        宣布,声明 v/n
 distinguish/differentiate     /dɪˈstɪŋɡwɪʃ/ /ˌdɪfəˈrenʃieɪt/               区分,认出,区别 v/使不同,区分,区别
 questionnaire       /ˌkwestʃəˈner/       问卷，调查表 n
 presume     /prɪˈzuːm/         推测,假设 v
+
 
 
 
