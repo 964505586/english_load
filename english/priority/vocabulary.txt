@@ -15,7 +15,6 @@ portal          门户 n
 block/blocker         阻碍 v/n
 (request) payload         有效负载 n
 third-party     第三方
-escalate/Escalation                 上报,升级 v
 cyber       网络的 adj
 foundational (branch)            基础的,基本的 adj
 move/movement                    移动,措施,转移 n/动作 n
@@ -101,14 +100,13 @@ go live                 上线 v
 sequence diagram                时序图,顺序图 n
 usage-based billing model       按使用量的计费模式
 review              查阅 v
-during the Maintenance window           维护窗口期间
+during the maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
-alerts      通知 v/警报,告警 n
 flood       泛滥 n
 trigger     触发(器) v/n
-alias name/Individual other name          别名/个人别名,曾用名 n
+alias name/individual other name          别名/个人别名,曾用名 n
 natural person              自然人 n
-distribute/Distribution/Distributed locks          分发,分配 v/n    分布式锁 n
+distribute/distribution/distributed locks          分发,分配 v/n    分布式锁 n
 terminate/terminal      终止 v    终端 adj/n
 terms of reference      职权范围 n
 federated       联邦的 adj
@@ -159,11 +157,11 @@ find out more       了解更多
 multimodal model     多模态(模型)
 significant/significantly       显著地,大幅度地,重要地 adj/adv
 as needed       按需 adv
-mix (a with b)             混合 v/n/把A和B混合
-by cob today        Close of Business   今日下班前
+mix (a with b)             混合 v/n/把a和b混合
+by cob today        close of business   今日下班前
 regroup     复盘碰头,重新组合 v
 baseline/re-baseline        基线,基准 n/重新设定基线 v
-document/raise a ticket to document the backend workflow in Confluence       记录,记载 v/在Confluence记录backend的workflow
+document/raise a ticket to document the backend workflow in confluence       记录,记载 v/在confluence记录backend的workflow
 over time       随着时间流逝
 const(construction)         建造,建筑,建筑材料 n
 recycle         复用,回收利用 v/n
@@ -196,12 +194,12 @@ evolve (over time)        进化,演化 v/随时间演变
 platform improvement    平台优化
 step-by-step guide     分步指南
 renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度重视,重新强调
-tip     小技巧,最新提交(Git专业术语: 分支末端最新提交节点)
+tip     小技巧,最新提交(git专业术语: 分支末端最新提交节点)
 acknowledge/acknowledged                         确认,认可,承认,感谢 v
 mini fund       小额理财基金
 reproduce/reproduction       复现 v/n
 (your) hours worked       你的工作时长
-functional Manager          职能经理
+functional manager          职能经理
 capture         采集,捕获,截取 v
 affected        受影响的 adj
 refactor        重构 v/n
@@ -211,7 +209,6 @@ permit/permitted to         批准,许可 v/被允许,有权限
 in correct sort order       正确的排序顺序
 junk            抛弃,丢掉 v/垃圾 n
 uninstall/install                 卸载/安装,设置 v
-layer       层,等级 n
 10%(percent) of n
 major               重大的,主要的,严重的 adj/专业 n/专攻 v
 new/newer/newest        新的 adj
@@ -227,6 +224,10 @@ disclose (to)/disclosure       透露,公开 v/n/透露给sb
 intercept/intercepted/interception       拦截 v/n
 independence/independent/independently/dependent      独立 n/adj/adv
 be (dependent) on/independence       依赖的,依靠的 adj/sth依赖.../独立
+escalate/escalation                 上报,升级 v
+implement       执行,实现 v
+challenge                       质问,质疑,挑战 v/n
+
 
 
 
@@ -247,15 +248,15 @@ be (dependent) on/independence       依赖的,依靠的 adj/sth依赖.../独立
 
 
 it's not a replacement but it is a very strong & important complement to the way that we serve our clients globally
-AI is going to change the employment landscape globally
-Because all of the tasks that I did, I was an investment banking analyst out of school
-what did we do? We did tons of presentations & modeling & valuation.
-guess what? We have something now called AI that's gonna take care of all of that in the future.
+ai is going to change the employment landscape globally
+because all of the tasks that i did, i was an investment banking analyst out of school
+what did we do? we did tons of presentations & modeling & valuation.
+guess what? we have something now called ai that's gonna take care of all of that in the future.
 it's gonna create enormous amounts of efficiencies
-And in my business in private banking, there is no replacement for the human interaction of our clients.
-However, we do see it as a massive driver of efficiency in our business with everything from simplifying & fast tracking the account opening process
-we are planning in that way right to make sure that we understand what is the implications of this on our workforce, what are the tasks that AI will replace for us, what are the things that AI & the tools that will make our private bankers even more efficient in the future.
-And we are adopting those at scale & at speed with urgency
+and in my business in private banking, there is no replacement for the human interaction of our clients.
+however, we do see it as a massive driver of efficiency in our business with everything from simplifying & fast tracking the account opening process
+we are planning in that way right to make sure that we understand what is the implications of this on our workforce, what are the tasks that ai will replace for us, what are the things that ai & the tools that will make our private bankers even more efficient in the future.
+and we are adopting those at scale & at speed with urgency
 
 
 

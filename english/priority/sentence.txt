@@ -135,7 +135,6 @@ the way/solution i can think of is to                我能想到的办法是~
 there are two potential solutions i've thought of for the issue             我想到的两个可能的解决方案
 at 17:00 hours
 at a time               一次
-(this is) a recurring error/issue               反复出现的 adj
 i'm a java developer, but since there isn't much java work in our team right now, i sometimes also take on big data tasks               我是java开发,但我们团队目前没有太多java的工作,所以我有时也会做一些大数据相关的任务
 we have (encountered) a new issue currently. jack needs to modify the code in backend to fix it. i've added relevant comments in the ticket           目前我们遇到了一个新的问题jack需要修改backend的代码来解决这个问题我在工单中添加了相关的comment
 the day before yesterday                前天
@@ -244,7 +243,6 @@ please find all the details below
 there will be downtime around 1 to 2 hours required to complete the patching activity from pre-check & post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
 so that you can (better) understand the project (more)          以至于你能更好地理解这个项目
 somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
-outside the firewall                防火墙外
 nice tip/learned a useful trick/that’s useful, learned something new
 not too busy today              今天不太忙
 to ensure its continued stability & performance       为确保其持续的稳定性和性能
@@ -374,9 +372,12 @@ tentatively planned for July 8th    暂定计划
 could you take about 5 minutes to       能花大约5分钟
 i think jack is the right person to answer that     杰克是回答这个问题最合适的人
 you can start on this first and work on that one afterwards      先做这一项，之后再做那项
-we are aligned/in agreement/on the same page        达成一致、想法同步、说到一块儿去
 just waiting for the issue to be fixed      等待问题修复完成
 i don't really (have an update)       暂时没有新进展,更新/有最新进展,有新消息可以同步
+sb play tricks/is playing tricks here       耍手段,玩文字游戏
+we are aligned/in agreement/on the same page        达成一致,想法同步,说到一块儿去
+expose sb to sth       使某人直面,遭受某事
+feel free to reach out to either Jack/me/Lily       欢迎随时联系Jack,我或Lily
 
 
 

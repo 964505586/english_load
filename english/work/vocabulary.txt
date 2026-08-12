@@ -1,8 +1,5 @@
 agenda                          议程
-alert                           警报
 adjust/adjustment               调整 v/n
-bottom              底部
-challenge                       质疑,挑战 v/n
 chance                          机会 n
 command                         命令 n
 algorithm                       算法 n
@@ -71,7 +68,6 @@ up 向上
 willing                 愿意的,乐意的 adj
 particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
 elementary problem                  低级问题
-disable(enable)                 禁用,关闭,使失效/启用,开启 v
 finalize/finalized                                    最终确定,敲定,完成 v
 regression              后退,倒退 n
 investigate/investigation                 调查 n

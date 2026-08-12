@@ -2,7 +2,6 @@ solve/resolve/address/get sorted            解决
 hear/listen/listen to          结果/过程 vi/vt
 uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未被选中的,未勾选的 v
 introduce risk/cause incidents(failures)        引进,引入 v
-top/bottom left/right corner        左上角,右下角
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
 direct/directly/indirect/indirectly/direction         调度,指挥 v/直接的/间接的 adj/adv/方向,方位,指导 n
 inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓越的 adj
@@ -48,7 +47,6 @@ impact/an impact on sb/sth                 影响 v/对sth的影响 n
 just(totally) normal/standard practice/quite common       正常操作
 chase/push/urge sb to do(for sth)             催促 v
 consolidate/consolidated/merge                合并,使巩固 v/巩固的,统一的 adj
-problem statement/description                   说明,陈述,声明
 homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟,伙伴/乡亲们 n
 looks fine/Seems all good/Looks no problem
 recommended action/solution      推荐操作,方案
@@ -149,7 +147,6 @@ good/great/excellent/thoughtful point/question        好问题
 (in) early next/this week/June       在6月初/下周早些时候
 tap/click/press               点(手机/鼠标/键盘)
 suspect/suspicious         怀疑 v/可疑的 adj
-status/state/states     /ˈsteɪtəs/       状态 n/陈述,说明 v
 cluster/grid/list            集群/表格,算力网格/列表 n
 as per/according to/based on/as for (me)        按照/根据/基于n/至于/对我来说
 due (date/soon)/deadline/overdue        到期的/即将到期/截止日期/逾期的 adj
@@ -161,7 +158,6 @@ go/come        去/来
 mad/crazy            发疯的/疯狂的
 decide/determine           决定/下决心
 habit/hobby               习惯/爱好
-cover/recover           覆盖 v/恢复 v
 contact/contract        联系/合同
 possess/process         拥有/过程,程序,进程 n
 similar/familiar        相似的,类似的 adj/熟悉的 adj
@@ -185,7 +181,6 @@ override/overwrite            覆盖,重写(方法)/覆盖文件,数据
 blank/empty     表面空白(纸,屏幕,脑子)/内部空无一物(杯子,房间,盒子)
 inherit/extend/expand/extension          继承/扩展(接口),继承(类)/扩展,扩容磁盘,扩大规模 v/扩展 n
 feature/function         特点,特性,功能 n/起作用,运转 v/功能 n
-indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
 record/entry/item/term/entity                 记录/条目/项/条款/实体 n
 conduct/keep monitoring closely              实施,进行 密切监控 v
 conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
@@ -193,8 +188,6 @@ verify/verification/validate/validation     核实,证明验证 v/n
 expect/look forward to n
 area/district       通用/城市行政分区,政府管辖
 method/approach/approaching/way     方法 n/方式,靠近,接近 v/方式
-shout/yell               呼喊(叫嚷,大声说)叫喊 v/n
-point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP/英文句末句号/点,斑点,地点 n
 duty/fault                                    责任,义务/错误,责任
 remember/memorize            记得,记起/记住 用心 v
 maybe/perhaps           随意,直白/委婉,礼貌 偏正式
@@ -226,6 +219,14 @@ differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 a
 feature/capability introductions    功能介绍
 in the near future/a brilliant (future)      未来 n,adj/在不久的将来/光明的未来
 notice/(outage) notification    意识,注意 v/通知 n/断网,服务中断通知
+top/(bottom) left/right corner        左上角,右下角/底部(的) adj/n
+outside/outsides (the firewall)         在外面 adv/外边的 adj/外部,外表 n/防火墙外
+cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
+be due to/caused by       归因于，由...导致/由...引起
+align (on sth)/alignment/misalignment/consistent        对齐 v/n
+consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
+(problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
+indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
 
 
 

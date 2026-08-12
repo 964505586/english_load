@@ -129,7 +129,6 @@ elegant    优雅
 emergency                   紧急情况 n/adj
 emotion                     感情,情感,情绪 n
 employment                  雇用 n
-enable                              使能够 v
 encounter                   遭遇 v/偶遇,邂逅 n/v
 energetic        adj 精力充沛的
 energy                      精力
@@ -217,7 +216,6 @@ horizon                     眼界
 housing fund                        住房公积金
 humorous                        幽默的
 hurriedly(in a hurry)                      匆忙地 adv
-imagination                             想像力,想像 n
 immediate           立刻的,即时的,目前的,直接的 adj
 improve                     提高,改善,康复 v
 in a different way
@@ -299,7 +297,6 @@ organised                           有组织的 adj
 ought to                                应该
 out of breath                       喘不过气来,上气不接下气
 outlook                                         看法,态度 n
-outside/outsides                     在外面 adv         外边的 adj
 over the moon               兴高采烈,欣喜若狂
 own                                 有,拥有 v                  自己的 adj
 pandemic        流行病 n
@@ -349,7 +346,6 @@ reality                             真实,现实 n
 reasonable            合理的
 recall                      记起,回想起,撤回 v
 recognize                           辨别出 v
-recover/recovery                 恢复 v/n
 regard                              把...看作
 regret                      n 后悔(做了的),遗憾(未做的)
 relationship        关系 n
@@ -454,7 +450,6 @@ worth                                       值得的 adj/价值 n
 worthy                                      值得尊敬的 adj
 wrong                                       错误的 adj/adv
 years ago                                   多年前
-yell                                        叫喊 n/v
 you two                                         你俩
 youth                                       青春 n
 convince                                    使确信,使信服 v

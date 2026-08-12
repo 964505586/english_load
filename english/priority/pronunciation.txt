@@ -59,7 +59,6 @@ commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
 experience(好/坏/普通)/undergo(只接艰难,痛苦,漫长,被动承受的事)   /ˌʌndəˈɡəʊ/     经历,经受 v
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
 ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
-principle       /ˈprɪnsəp(ə)l/           准则,原则 n
 fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
 (unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
 emerging/newly        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
@@ -72,7 +71,6 @@ commercialize/commercial        /kəˈmɜːʃəlaɪz/      使商业化,使商�
 vendor      /ˈvendə(r)/     供应商
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
 circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
-alert/advisory/advisories/notification   /ədˈvaɪzəri/       警报 n/警告,通知 n
 snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
 postpone/postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
@@ -117,7 +115,6 @@ suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,�
 starting/effective 1 june 2026          自6月1日起
 any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
-(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 fill in      /fɪl ɪn/             填写 v
 closure     /ˈkləʊʒə(r)/        关闭 n
@@ -232,8 +229,6 @@ this email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此�
 (monthly) scoring cycle       /ˈskɔːrɪŋ/       计分,评分周期
 momentum        /moʊˈmentəm/        势头,冲力,推力 n
 convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
-apparently/obvious/obviously      /əˈpærəntli/        明显的,显然的 adv/adj
-illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
@@ -283,7 +278,6 @@ toggle/on-off switch        /ˈtɑːɡl/      开关 n
 present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
 represent/stand for/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 (if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
-fictional/fiction/novel       /ˈnɑːv(ə)l/       虚构的 adj/小说 n
 protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,协定 n/约定好的,同意的 adj
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
 extra/extract/extraction    /ˈekstrækt; ɪkˈstrækt/      额外的 adj/提取,抽取 v/选段,引文 n/提取,抽取 n
@@ -302,7 +296,28 @@ questionnaire       /ˌkwestʃəˈner/       问卷，调查表 n
 presume     /prɪˈzuːm/         推测,假设 v
 outage/embargo      /ɪmˈbɑːrɡoʊ/      中断,停运,停止供应期/禁运 n(人为)
 failed for 3 consecutive weeks/times      /kənˈsekjətɪv/      连续三周失败/连续的,不间断的 adj
+fictional/fiction/novel       /ˈnɑːv(ə)l/       虚构的 adj/小说 n
+apparently/obvious/obviously      /əˈpærəntli/        明显的,显然的 adv/adj
+alert/advisory/advisories/notification   /ədˈvaɪzəri/       告警,警报 n/警告,通知 n
+recurring (error/issue)     /rɪˈkɜːrɪŋ/     反复出现的 adj
+shout/yell/yelling      /ʃaʊt/ /jel/ /ˈjelɪŋ/        叫喊,叫嚷,大声说 v/n
+service tiering(tier)       /ˈtɪərɪŋ/       服务分级
+(guiding) principle       /ˈprɪnsəp(ə)l/ /ˈɡaɪdɪŋ/        准则,原则 n/处理原则,指导原则
+layer       /ˈleɪər/       层,等级 n
+illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
+point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP/英文句末句号/点,斑点,地点 n
+(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
 
+
+
+
+
+
+
+
+
+
+be up       运行起来,启动成功
 
 
 
