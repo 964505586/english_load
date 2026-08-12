@@ -7,7 +7,6 @@ accommodation           住宿 n
 accustom                            使习惯于,使适应于 v
 actual/actually         adj/adv
 actually not                                    实际上不是
-afterward/afterwards                      过后,后来 adv
 again & again                         一次又一次,反复地
 ahead                       在前面的,提前的 adv/adj
 alcohol                         酒
@@ -181,7 +180,6 @@ freedom 自由权
 from then on 从那时起
 from time to time 时不时地 adv
 fund                        基金 n/资助 v
-future                                  未来 n/adj
 gas                     气体
 genetically                     基因地,遗传地 adv
 get-together                聚会 n

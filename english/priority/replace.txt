@@ -23,7 +23,6 @@ explore/exploration/discover             探索,探究,研究,排查 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 change/changeable                          变化,变更 n/多变的 adj
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
-notice/(outage) notification                 意识,注意 v/通知 n/断网,服务中断通知
 regulatory compliance/compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
 lag/delay       延迟,推迟,延期 v/n
 dynamic/static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
@@ -225,6 +224,8 @@ backfill/write back/replay        回填；装填/回写/重放 v
 detailedly(in detail)            详细地 adv
 differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 adj/区别 n
 feature/capability introductions    功能介绍
+in the near future/a brilliant (future)      未来 n,adj/在不久的将来/光明的未来
+notice/(outage) notification    意识,注意 v/通知 n/断网,服务中断通知
 
 
 

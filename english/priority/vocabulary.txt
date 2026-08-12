@@ -132,7 +132,6 @@ programmatically                通过编程方式 adv
 miss                错过,想念 v
 standby             备用物 n
 bookmark        书签 n
-outage                  停止供应期 n
 only               唯一的 adj
 queue               排队 v
 per                     每,每一,按照,根据

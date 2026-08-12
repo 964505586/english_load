@@ -372,11 +372,11 @@ silently (returns)      默默地,静静地 adv/静默返回(无报错)
 stick to the original plan            坚持 v
 tentatively planned for July 8th    暂定计划
 could you take about 5 minutes to       能花大约5分钟
-sorry, you just broke up a little bit       刚才你的声音卡顿,断了一小段
 i think jack is the right person to answer that     杰克是回答这个问题最合适的人
-
-
-
+you can start on this first and work on that one afterwards      先做这一项，之后再做那项
+we are aligned/in agreement/on the same page        达成一致、想法同步、说到一块儿去
+just waiting for the issue to be fixed      等待问题修复完成
+i don't really (have an update)       暂时没有新进展,更新/有最新进展,有新消息可以同步
 
 
 

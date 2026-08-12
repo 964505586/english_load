@@ -1,5 +1,4 @@
 
-failed for 3 consecutive weeks      /kənˈsekjətɪv/      连续三周失败/连续的,不间断的 adj
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/              部署,配置,提供,供应 v/配置 n
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
@@ -234,7 +233,6 @@ this email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此�
 momentum        /moʊˈmentəm/        势头,冲力,推力 n
 convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
 apparently/obvious/obviously      /əˈpærəntli/        明显的,显然的 adv/adj
-embargo     /ɪmˈbɑːrɡoʊ/     禁运 n
 illustrate/state/statement      /ˈɪləstreɪt/        说明,阐明 v/陈述,说明 v/n
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
@@ -302,6 +300,11 @@ imply/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/�
 distinguish/differentiate     /dɪˈstɪŋɡwɪʃ/ /ˌdɪfəˈrenʃieɪt/               区分,认出,区别 v/使不同,区分,区别
 questionnaire       /ˌkwestʃəˈner/       问卷，调查表 n
 presume     /prɪˈzuːm/         推测,假设 v
+outage/embargo      /ɪmˈbɑːrɡoʊ/      中断,停运,停止供应期/禁运 n(人为)
+failed for 3 consecutive weeks/times      /kənˈsekjətɪv/      连续三周失败/连续的,不间断的 adj
+
+
+
 
 
 
