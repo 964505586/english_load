@@ -7,7 +7,6 @@ direct/directly/indirect/indirectly/direction         调度,指挥 v/直接的/
 inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓越的 adj
 near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
 Architect/Architecture/framework   架构师/架构/框架
-Assume/suppose/if              假设 v
 given this/in the case(way)/So that
 up-to-date/latest           新式的,与时俱进的/最新的
 go/work/walk through          经历,逐条梳理,过一遍/解决/完整讲解,分步演示

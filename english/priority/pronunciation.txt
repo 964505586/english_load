@@ -31,7 +31,7 @@ contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,�
 noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnəs/      显而易见的,明显的 adj/缓慢,迟钝 n/持续数分钟卡顿
 (on-demand) burst/bursting          /bɜːst/         爆炸,猛冲,涨满,突发扩容,瞬时带宽扩容 n/按需的 adj
 progressive/progressively/gradually/step by step     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv/逐步 adv
-slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,PPT/一整套
+slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,ppt/一整套
 privacy/private         /ˈprɪvəsi/          隐私 n/私有的 adj
 firmware        /ˈfɜːmweə(r)/        固件,硬件 n
 legal/illegal/illegally/legitimate/rightful/formal      /lɪˈdʒɪtɪmət/       合法的 adj/正当的,合理的,合法的 adj
@@ -293,7 +293,6 @@ suppress/suppressed     /səˈpres/      抑制,镇压,压制,阻止 v/抑制的
 imply/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示,提示 v,n/隐式的,含蓄的 adj
 distinguish/differentiate     /dɪˈstɪŋɡwɪʃ/ /ˌdɪfəˈrenʃieɪt/               区分,认出,区别 v/使不同,区分,区别
 questionnaire       /ˌkwestʃəˈner/       问卷，调查表 n
-presume     /prɪˈzuːm/         推测,假设 v
 outage/embargo      /ɪmˈbɑːrɡoʊ/      中断,停运,停止供应期/禁运 n(人为)
 failed for 3 consecutive weeks/times      /kənˈsekjətɪv/      连续三周失败/连续的,不间断的 adj
 fictional/fiction/novel       /ˈnɑːv(ə)l/       虚构的 adj/小说 n
@@ -305,8 +304,10 @@ service tiering(tier)       /ˈtɪərɪŋ/       服务分级
 (guiding) principle       /ˈprɪnsəp(ə)l/ /ˈɡaɪdɪŋ/        准则,原则 n/处理原则,指导原则
 layer       /ˈleɪər/       层,等级 n
 illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
-point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,IP/英文句末句号/点,斑点,地点 n
+point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,ip/英文句末句号/点,斑点,地点 n
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
+presume/assume/suppose/if     /prɪˈzuːm/         推测,假设 v/假设 v
+
 
 
 
