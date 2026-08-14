@@ -5,20 +5,20 @@ best/kind regards                   最诚挚的问候
 yours sincerely                                          你的真诚,谨启(用于英文信件署名前)
 (hope you)have a good/nice/great day/time/night (then)          玩得开心
 if anything needs correcting or adding      任何需要修正或补充的地方
-Hope this mail finds you well               祝你一切顺利
-Hope you're doing well                     祝你一切顺利
-Feel free to propose new slot in case of conflicts
-Please correct me if i'm wrong
-Action required from stakeholders           需要stakeholder采取的行动
-if Further clarification or a call is needed
-Sorry for the delay in getting back to you, confirmation took some time
-Apologies for the late reply
+hope this mail finds you well               祝你一切顺利
+hope you're doing well                     祝你一切顺利
+feel free to propose new slot in case of conflicts
+please correct me if i'm wrong
+action required from stakeholders           需要stakeholder采取的行动
+if further clarification or a call is needed
+sorry for the delay in getting back to you, confirmation took some time
+apologies for the late reply
 (we) apologize for any inconvenience this may have caused & appreciate your understanding & patience (support)           对于由此可能给您带来的任何不便,我们深表歉意.同时,感谢您的理解与耐心
 
 
 end a call
-In the case, maybe we can end the call
-If no other questions, i think probably we can end the call
+in the case, maybe we can end the call
+if no other questions, i think probably we can end the call
 
 请知悉
 fyi/for awareness           供您参考,供您知悉/周知事项,仅供知悉
@@ -34,55 +34,55 @@ will see what more we can do going forward          将看看接下来还能做�
 if we can help proceed with the above items         如果我们能够协助推进上述事项的话
 
 你的想法
-What do you think (of/about the design)                 你觉得怎么样
+what do you think (of/about the design)                 你觉得怎么样
 what's your idea/thoughts on this (matter)
 will see if that makes sense
-Have you any idea or is it reasonable?
-Looking for any possible improvement
+have you any idea or is it reasonable?
+looking for any possible improvement
 
 及时通知你
-I'll keep you posted/updated with any news/changes
-We'll continue to update you on the latest progress
-May i have your feedback (on this)?
-Could you please share the latest updates on this?
+i'll keep you posted/updated with any news/changes
+we'll continue to update you on the latest progress
+may i have your feedback (on this)?
+could you please share the latest updates on this?
 
 等一下
 just/wait a minute/second/moment
-A couple of minutes                 几分钟
+a couple of minutes                 几分钟
 
 delay       延期 v
-It will cause a delay in our delivery.              这会导致我们的交付时间推迟
-It will delay our delivery if we can't resolve this today.             如果我们今天不能解决这个问题,那么我们的交付将会被推迟
-This may cause a slight delay in our delivery. But we are working on a solution     这可能导致我们交付稍有延迟.不过我们正在寻找办法
-Please expect delays in responding to your queries              请谅解,回复您的问题可能会延迟.
+it will cause a delay in our delivery.              这会导致我们的交付时间推迟
+it will delay our delivery if we can't resolve this today.             如果我们今天不能解决这个问题,那么我们的交付将会被推迟
+this may cause a slight delay in our delivery. but we are working on a solution     这可能导致我们交付稍有延迟.不过我们正在寻找办法
+please expect delays in responding to your queries              请谅解,回复您的问题可能会延迟.
 
 现在完成进行时     一直在做,还没停
-I've been working on this since Monday                从周一起我就一直在研究这个问题.
-I've been working on this for the past two days         我这两天一直在处理这个问题.
-She has been looking into it & should be able to provide update tomorrow          她一直在对此进行调查,明天应该能够给出最新情况
+i've been working on this since monday                从周一起我就一直在研究这个问题.
+i've been working on this for the past two days         我这两天一直在处理这个问题.
+she has been looking into it & should be able to provide update tomorrow          她一直在对此进行调查,明天应该能够给出最新情况
 
 best
-I'll do/try my best to                                我会尽力去做sth
-I've done(will do) everything in my power to              我 已经/将会 尽我一切所能去...
+i'll do/try my best to                                我会尽力去做sth
+i've done(will do) everything in my power to              我 已经/将会 尽我一切所能去...
 you didn't do your best                                 你没有尽力
 have you done your best today                         你今天尽力了吗
-as best as I can/could                          尽我所能 adv
+as best as i can/could                          尽我所能 adv
 
 我该怎么做？
-How to(do i) do it?
-How can/should i do it                                     我该怎么办
-What should I/We do                                    我应该做什么
+how to(do i) do it?
+how can/should i do it                                     我该怎么办
+what should i/we do                                    我应该做什么
 
 奇怪
-That's odd(奇怪的 adj)/weird                  有点怪,有点不对劲(最轻)
-It's (so/How) strange                奇怪/真奇怪啊!(中性/稍强/感叹)
-That's (so) ridiculous                      太 离谱/荒谬/可笑 了!(最重)
+that's odd(奇怪的 adj)/weird                  有点怪,有点不对劲(最轻)
+it's (so/how) strange                奇怪/真奇怪啊!(中性/稍强/感叹)
+that's (so) ridiculous                      太 离谱/荒谬/可笑 了!(最重)
 
-How are you?
-It's just okay                      一般般,还行
-It's alright                      还可以
-I'm (Pretty) good                   我挺好的
-It's nothing special                就那样
+how are you?
+it's just okay                      一般般,还行
+it's alright                      还可以
+i'm (pretty) good                   我挺好的
+it's nothing special                就那样
 
 
 

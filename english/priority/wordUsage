@@ -1,8 +1,8 @@
 iterate through the list & collect their age              遍历列表并收集年龄
 in the first/second iteration(for loop)                 在第一次循环中
 
-won’t bother with sth           无需处理,忽略sth
-(won’t) bother doing(to do) sth     费心去做,花时间研究
+won't bother with sth           无需处理,忽略sth
+(won't) bother doing(to do) sth     费心去做,花时间研究
 sorry to keep bothering you         很抱歉一次次打扰你
 
 dialog/pop-up/prompt            大型完整配置弹窗/所有弹窗的通用统称/简短确认弹窗 n
@@ -54,10 +54,6 @@ be composed of                              由...组成
 defect/strength                     缺陷,bug,缺点/长处,优势,体力,力量, n
 weak/strong point                                      弱点/优点
 advantage/disadvantage                          优点,优势 n/有利于,有助于 v
-
-doing sth is expected to take a similar amount of time      预计花费相似的时长
-doing sth involves sth (adding data to db involves two stages)        添加数据库到db涉及两个阶段
-if doing sth is needed/feasible (using an alternative solution is needed)       如果需要替代方案
 
 mask (out)        打码,掩饰,伪装,掩码,口罩,面具/屏蔽 v
 mark                标记,做记号 v
@@ -178,9 +174,6 @@ in/on time/promptly/quickly        及时/按时/及时的,适时的 adj/及时�
 (apply for/take/get) a waiver      /ˈweɪvər/       豁免,放弃 n
 exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
 
-anticipate (approximate 30 minutes downtime)    /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
-remediation is ongoing & (is) expected to take approximately 1-3 hours          修复在进行中,预计约1-3个钟
-
 (class/method/custom) annotation          注释,注解 n
 add comments to the code            代码加注释
 comment/uncomment out the piece of code     注释 v,n/取消注释/注释掉这段代码
@@ -207,11 +200,6 @@ in place of n         代替
 be in place         已就绪,配置到位,生效中
 get sth(remediation) in place (as requested)    落实,完成落地某事
 
-guide/guidance      指南 n(全面,结构化的知识/流程)/指导,引导 v/指导 n
-pocket(my role reference) guide     口袋指南/岗位职责指引,参考手册
-instruction             指示(具体,步骤化的操作/要求)
-(practical) how-to documentation    实操类操作文档
-
 that better/(in order) to better do sth   更好地/为了更好的...
 had better/you'd better (see)    最好 adv/你最好看看
 you'd better do sth/(it's) better to do     最好/更好做sth
@@ -219,11 +207,6 @@ i feel much better today.   我今天感觉好多了
 things are much better now   现在情况好多了
 let's get better together                           让我们一起变得更优秀
 we can do better                        我们可以做得更好
-
-advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
-ahead (of time/schedule)       提前 adj/adv
-prematurely/(2 months) in advance   /ˌpriːməˈtʃʊrli/   过早地 adv/提前地 adv/提前2个月
-provide advance notice/give you a heads-up     提前下发通知,预先告知/提前告知,预先提醒
 
 ensure/make sure            确保,保证 v
 guarantee               确保,保证 v/n
@@ -298,7 +281,7 @@ uplift (revenue/earning)      /ˈʌplɪft/ /ˈrevənuː/      提升,增加 v/n/
 rise/improve            增加,提高 vi/增加,改善 n
 raise           提起,举起 vt
 go up/down                  上升/下降
-increase/decrease                        增长/减少 v/n
+increase/decrease           增长,增加/减少 v/n
 fall                                下跌,减少,降落,落下 v
 lower/reduce           降低,减少 v
 reduce/reduction                 减小,降低,做聚合,执行归约 v/减小,降低,聚合操作,归约运算 n
@@ -374,26 +357,16 @@ did you do (过去时间)          你当时做了吗？
 have you done       你到现在做完了吗,强调结果
 have you ever done sth       你以前做过xxx嘛
 
-(system) entry/central front door   /ˈentri/    入口,条目,记录,进入,加入 n/核心,系统入口 n
-(first/prior) entry (prerequisite)        首条/先前条目,历史记录/准入前置条件
-
 stop                停止
 abort               中断,中止(主动中止)
 cut off             切断,中断(强行切断)
 disruption          中断,扰乱 v/n(导致系统,秩序瘫痪,彻底混乱)
 interruption        打断,暂停 v/n(临时被打扰,之后可恢复)
 
-explicitly/clearly (prohibited)      明确地/清楚地 adv/明确禁止
-definite/definitely/definition      清晰的,肯定地,明确地 adj/adv/n
-
 sign in/up                                 登录 v/注册
 login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
 log off/out(sign out)    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/n/注册,报名 v
-
-declare/declared/declaration        /dɪˈkler/ /ˌdekləˈreɪʃn/        宣布,声明 v/n
-announce/announcement       宣布,公布 v/n
-post/posted/send/sent     发布,邮寄/发送 v
 
 1,从现在开始/今后
 from now on/going(moving) forward/in the future
@@ -422,7 +395,54 @@ prohibited/prohibitive      /prəˈhɪbətɪv/      禁止的 adj
 enable/re‑enable/disable/display           使能够,启用,开启/重新启用/禁用,关闭,使失效/显示,展示 v
 
 image/imagination       形象,印象,图像 n/想像力,想像 n
-imagine/imaginary       /ɪˈmædʒɪneri/       想像,设想 v/想象的，虚构的 adj
+imagine/imaginary       /ɪˈmædʒɪneri/       想像,设想 v/想象的,虚构的 adj
+
+名词前重,动词后重
+present     /ˈpreznt/ /prɪˈzent/
+record
+
+vi/vt
+reply (to)
+wait (for)
+hear/listen (to)          结果/过程
+paste (in/into/here)       /peɪst/ /peɪst ɪn/         粘贴 v/粘贴进去
+contribute (to)/contribution    捐赠,为...做贡献 v/有助于,促成,计入,归属到/贡献,捐款,捐助 n
+
+massive         大规模地 adv
+expand/extension        扩展,扩容磁盘,扩大规模 v/扩展 n
+scale/scalable/scalability     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n
+
+define/definition        定义 v/n
+definitive/definite/definitely      /dɪˈfɪnətɪv/ /ˈdefɪnət/      确定的,最终的 adj/清晰的,肯定地,明确地 adj/adv
+clearly/explicitly (prohibited)         清楚地/明确地 adv/明确禁止
+
+approximate/approximately       类似,接近 v/大概的,近似的 adj/adv
+roughly/circa/around/about  /ˈrʌfli/ /ˈsɜːrkə/    粗略地,大约 adv/大约 prep/adv
+
+(system) entry/central front door   /ˈentri/    入口,条目,记录,进入,加入 n/核心,系统入口 n
+(first/prior) entry (prerequisite)        首条/先前条目,历史记录/准入前置条件
+
+declare/declared/declaration        /dɪˈkler/ /ˌdekləˈreɪʃn/        宣布,声明 v/n
+announce/announcement       宣布,公布 v/n
+post/posted/send/sent     发布,邮寄/发送 v/已提交的 adj
+
+guide/(hands-on) guidance      指南 n/指导,引导 v/指导,指引 n/实操指导
+pocket(my role reference) guide     口袋指南/岗位职责指引,参考手册
+instruction             指示(具体,步骤化的操作/要求)
+(practical) how-to documentation    实操类操作文档
+
+advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
+prematurely     过早地 adv
+ahead (of time/schedule)       提前 adj/adv
+beforehand/(2 months) in advance   /ˌpriːməˈtʃʊrli/   事先,提前 adv/提前地 adv/提前2个月
+provide advance notice/give you a heads-up     提前下发通知,预先告知/提前告知,预先提醒
+
+
+
+
+
+
+
 
 
 

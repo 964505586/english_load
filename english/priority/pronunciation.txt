@@ -6,7 +6,6 @@ execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推�
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举/列出,罗列 v/清单 n
 privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
-paste (in/into/here)       /peɪst/ /peɪst ɪn/         粘贴 v/粘贴进去
 (in) reality/actually         /riˈæləti/      真实,现实 n/实际上,事实上
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 sophisticated           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
@@ -24,7 +23,6 @@ almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
 manifest/configuration file        /ˈmænɪfest/         清单,配置文件 n
 embed/embedding         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
-orchestration       /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
 cascade (down further)         /kæˈskeɪd/          逐级下发,连续传递 v
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
@@ -84,7 +82,6 @@ crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
 swap/switch/replace     /swɒp/      替换,切换 v
 isolate/quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
 quartermaster info      /ˈkwɔːtəmɑːstə(r)/          统筹,后勤信息
-manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/我成功解决了这个问题
 alternatively(or)/alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 expedite/accelerate/speed up        /spiːd ʌp/        加快
 (in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
@@ -114,7 +111,6 @@ billing         /ˈbɪlɪŋ/     计费,账单 n
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 starting/effective 1 june 2026          自6月1日起
 any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
-sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 v/n
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 fill in      /fɪl ɪn/             填写 v
 closure     /ˈkləʊʒə(r)/        关闭 n
@@ -183,11 +179,9 @@ target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 
 cater to (sth/sb/business demands)/meet       /ˈkeɪtər/     满足,迎合 v
 preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
 middleware      /ˈmɪdlweə(r)/       中间件 n
-approximately/roughly/around/about/circa    /əˈprɒksɪmətli/ /ˈrʌfli/ /ˈsɜːrkə/    大约,大概 adv/粗略地,大约 adv
 legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 enterprise/corporation/company      /ˈentəpraɪz/        企业,事业单位 n
-prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 dig out     /dɪɡ aʊt/         找出,挖掘出 v
 we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
@@ -219,9 +213,7 @@ parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     
 quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
 vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
 participate/participating/participant/participation     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n/参与
-definite/definitely/definition/explicitly/clearly          /ˈdefɪnət/      清晰的,肯定地,明确地 adj/adv
 explicitly (prohibited)/clearly/definitely      /ɪkˈsplɪsɪtli/      清楚明确地 adv/清楚地,清晰地 adv/明确禁止
-assess/assessment/evaluate/evaluation   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n
 moderate (to heavy rain)/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的,中间的 adj
 the work on his plate/hands     /pleɪt/      手头的工作
 data estate     /ɪˈsteɪt/     数据资产
@@ -236,11 +228,9 @@ virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
 (hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/(分配的)工作时长
 exceeds your (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
 (audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/线程,邮件往来记录,邮件链 n
-alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
 consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
 laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电脑/笔记本/双耳式耳机
 (cash) deposit      /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款/兑现 v/现金 n
-define/definition/definitive    /dɪˈfɪnətɪv/    定义 v/n/确定的,最终的 adj
 bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升至
 (dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n//依赖解析
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
@@ -263,17 +253,13 @@ elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说
 without (explanatory) comment     /ɪkˈsplænətɔːri/      解释 adj/无解释性评论
 minor/minority/major/majority     /ˈmaɪnə(r)/ /maɪˈnɔːrəti/     较小的,次要的 adj/未成年人 n/少数 n/adj/大多数
 most/almost/majority    /məˈdʒɒrəti/        很多 adj/adv/近全满 adv/必过半 adj/n
-scale/scalable/scalability/massive     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n/大规模地 adv
 mass/massive/at scale        /ˈmæsɪv/        大规模的/巨大的,大规模的 adj/adv
 propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,向上传播(异常) v
 cleanup/removal        /ˈklinˌʌp/      清理,清除 n/移走,去掉 n
 purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
-outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv/概述 n
 capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/精力,产能 n
 tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
-(three-stages/phase) evolution       /ˌevəˈluːʃ(ə)n/           进化,演进,迭代发展 n/三阶段迭代演进
-rotate/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/值班名册,轮值表 n
 toggle/on-off switch        /ˈtɑːɡl/      开关 n
 present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
 represent/stand for/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
@@ -292,7 +278,7 @@ personnel       /ˌpɜːrsəˈnel/       人员 n/人员的 adj
 suppress/suppressed     /səˈpres/      抑制,镇压,压制,阻止 v/抑制的 adj
 imply/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示,提示 v,n/隐式的,含蓄的 adj
 distinguish/differentiate     /dɪˈstɪŋɡwɪʃ/ /ˌdɪfəˈrenʃieɪt/               区分,认出,区别 v/使不同,区分,区别
-questionnaire       /ˌkwestʃəˈner/       问卷，调查表 n
+questionnaire       /ˌkwestʃəˈner/       问卷,调查表 n
 outage/embargo      /ɪmˈbɑːrɡoʊ/      中断,停运,停止供应期/禁运 n(人为)
 failed for 3 consecutive weeks/times      /kənˈsekjətɪv/      连续三周失败/连续的,不间断的 adj
 fictional/fiction/novel       /ˈnɑːv(ə)l/       虚构的 adj/小说 n
@@ -305,14 +291,33 @@ service tiering(tier)       /ˈtɪərɪŋ/       服务分级
 layer       /ˈleɪər/       层,等级 n
 illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
 point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,ip/英文句末句号/点,斑点,地点 n
-(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露,泄露 n/探讨,探究 v
 presume/assume/suppose/if     /prɪˈzuːm/         推测,假设 v/假设 v
+manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/成功做sth/我成功解决了这个问题
+sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 n/v/暴露
+(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
+outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv
+(three-stages/phase) evolution/evaluation       /ˌevəˈluːʃ(ə)n/     进化,演进,迭代发展/三阶段迭代演进/评估 n
+assess/assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n/进化
+rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/旋转,转动 n/值班名册,轮值表
+orchestration       /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
+ahead of/prior to/before (deployment)       /ˈpraɪər/       在deployment之前
+prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
+anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
+alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
+alone/along (with)/among   |əˈləʊn|       独自的 adj/adv/沿着/和...一起/在...当中 prep
 
 
 
 
 
 
+
+
+
+
+
+deducted
+week commencing     起始于…的一周
 
 
 

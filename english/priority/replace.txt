@@ -1,9 +1,7 @@
 solve/resolve/address/get sorted            解决
-hear/listen/listen to          结果/过程 vi/vt
 uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未被选中的,未勾选的 v
 introduce risk/cause incidents(failures)        引进,引入 v
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
-direct/directly/indirect/indirectly/direction         调度,指挥 v/直接的/间接的 adj/adv/方向,方位,指导 n
 inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓越的 adj
 near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
 Architect/Architecture/framework   架构师/架构/框架
@@ -11,13 +9,10 @@ given this/in the case(way)/So that
 up-to-date/latest           新式的,与时俱进的/最新的
 go/work/walk through          经历,逐条梳理,过一遍/解决/完整讲解,分步演示
 internal/external           内部的/外部的 adj
-update/progress      进展 n
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的,可落地的 adj
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 Spark/Java/Python-based     基于Spark
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
-discover/discovery/explore/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
-explore/exploration/discover             探索,探究,研究,排查 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 change/changeable                          变化,变更 n/多变的 adj
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
@@ -30,7 +25,6 @@ conclude/conclusion                 得出结论,敲定,结束 v/结论 n
 i will be off/away/on leave next week           下周我将请假
 proceed with(carry on) sign-off/production release            继续做,接着推进 v
 pending/tbd         待定的,待处理的 adj
-underway/ongoing/in progress         在进行的 adj
 a row/column filter         行/列 筛选器
 monitored/an external monitor       受监控的 adj/外接显示器 n
 commit to/promise(make a promise)      承诺 v
@@ -77,7 +71,6 @@ apply/request
 via/by/through
 make a code change(Change code)                  做一次代码修改(正式)
 remediate/Investigate/fix              补救,修复 v
-launch/release version(new feature)         启动,发起,推出,执行 v
 marked/highlighted part/area/Section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
 occur/appear/happen
 as usual/planned/expected                       像往常一样/按计划/按预期
@@ -125,7 +118,6 @@ correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整
 spend/cost       钱,时间/钱(受益方为主语)
 time-saving/consuming       省时的/耗时的 adj
 respond/response                 响应 v/n
-contribute (to)/contribution    捐赠,为...做贡献 v/有助于,促成,计入,归属到/贡献,捐款,捐助 n
 shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造服务
 involve/include/contain/cover/covering      涉及/包含/覆盖 v
 refer to sth/reference       参考,查阅 v/参考,引用 n/v
@@ -158,33 +150,27 @@ mad/crazy            发疯的/疯狂的
 decide/determine           决定/下决心
 habit/hobby               习惯/爱好
 contact/contract        联系/合同
-possess/process         拥有/过程,程序,进程 n
+possess/process         拥有 v/过程,程序,进程 n
 similar/familiar        相似的,类似的 adj/熟悉的 adj
 volunteer/voluntary/voluntarily     志愿者/自愿的,主动的 adj/adv
 effective (action/measures)/effectively/efficient/efficiency    有效的 adj/高效地,有效地 adv/高效的 adj/效率 n
 tips/tricks/recommendations/kind(a warm) reminder       小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
 location/position                地点,位置 n(客观物理地点/职位,岗位)
 rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
-i noticed/saw that
 (apologize for the) short(late) notice/last-minute change(cancellation)          临时通知,变更
-intelligent/actionable (intelligence) platform     聪明的,智能的 adj/可落地智能平台
 just asking/wondering       只是问问
 (after) a short while (ago)       不久前/不久之后
 after a time/while/period of time      一段时间后
-(core) concept/overview/definition     (核心)概念 n/概述,简述/定义
-wait (for)        vi/vt
 local/native
 set up/config       搭建,安装/配置,设置
 ever/before            强调有没有过/强调在这之前
 override/overwrite            覆盖,重写(方法)/覆盖文件,数据
 blank/empty     表面空白(纸,屏幕,脑子)/内部空无一物(杯子,房间,盒子)
-inherit/extend/expand/extension          继承/扩展(接口),继承(类)/扩展,扩容磁盘,扩大规模 v/扩展 n
 feature/function         特点,特性,功能 n/起作用,运转 v/功能 n
 record/entry/item/term/entity                 记录/条目/项/条款/实体 n
 conduct/keep monitoring closely              实施,进行 密切监控 v
 conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
 verify/verification/validate/validation     核实,证明验证 v/n
-expect/look forward to n
 area/district       通用/城市行政分区,政府管辖
 method/approach/approaching/way     方法 n/方式,靠近,接近 v/方式
 duty/fault                                    责任,义务/错误,责任
@@ -203,7 +189,6 @@ quite reasonable/it make sense      相当合理,很有道理/有道理
 kind/type/category
 detect/identify     探测,检测(脚本自动查问题)/识别,定位(定位/确认问题)
 fetch/extract/read             获取,拉取 v/提取,抽取 v
-ahead of deployment/prior to/before            在deployment之前 prep/adj
 anyone/someone             有人
 revised/rectified/modified/edited/updated/changed       修订过的,编辑过的 adj
 remember/don't forget/kind(gentle/a warm) reminder to      记得做sth
@@ -221,11 +206,23 @@ notice/(outage) notification    意识,注意 v/通知 n/断网,服务中断通�
 top/(bottom) left/right corner        左上角,右下角/底部(的) adj/n
 outside/outsides (the firewall)         在外面 adv/外边的 adj/外部,外表 n/防火墙外
 cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
-be due to/caused by       归因于，由...导致/由...引起
+be due to/caused by       归因于,由...导致/由...引起
 align (on sth)/alignment/misalignment/consistent        对齐 v/n
 consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
 (problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
+inherit/extend/expand          继承/扩展(接口),继承(类)/扩展 v
+discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
+explore/exploration/discover             探索,探究,研究,排查 v/n
+i (just) saw/noticed that     刚注意到
+local/native        本地的,当地的/原生的 adj/n
+(core) concept/definition/overview     (核心)概念/定义 n/概述,简述 v/n
+expect/look forward to n        期待 v
+underway/ongoing/in progress         进行中的 adj
+update/(make great) progress      进展,(进度) n/取得进步
+launch/release new feature/version         启动,打开,发起,推出,执行 v
+at the earliest/ASAP     最早/尽快
+direct/directly/indirect/indirectly/direction         指引,调度,指挥 v/直接的/间接的 adj/adv/方向,方位,指导 n
 
 
 

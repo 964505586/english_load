@@ -24,6 +24,7 @@ jack, you're frozen                    你卡住了
 i froze/lagged for a second/moment                   我 卡/延迟 了一 秒钟/会儿
 
 meeting
+sorry, i join later
 let's wait for others to join (the call)            让我们等待其他人加入(通话)
 (okay, no more delay) let's jump right in                     (好了,不再耽搁了)咱们直接开始吧
 let's go through tickets first              我们先处理一下票务的事
@@ -55,7 +56,7 @@ if there are no items to discuss                如果没有任何需要讨论�
 will see if no problem, we can end the call         我们会看看是否没有问题,然后就可以结束通话了
 anything else from you      你这边还有其他情况吗
 sorry, you just broke up a little bit       刚才你的声音卡顿,断了一小段
-let’s start(kick off) first and see if they join later (on)      我们先开始，看他们稍后会不会加入
+let's start(kick off) first and see if they join later (on)      我们先开始,看他们稍后会不会加入
 which one should i prioritize and work on first?        我应该先做哪一个
 
 

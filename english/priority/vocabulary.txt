@@ -36,7 +36,6 @@ knowingly/unknowingly         不知情地,不知不觉地 adv
 adoption        采用,接受 n
 contain            包含,遏制 v
 lead time           任务耗时,处理时长 n
-hands-on (guidance)     实操指导
 apply straight away     直接落地,立刻投入使用 v
 implement           落地,部署 n/实现 v
 language        专业术语 n
@@ -225,8 +224,12 @@ intercept/intercepted/interception       拦截 v/n
 independence/independent/independently/dependent      独立 n/adj/adv
 be (dependent) on/independence       依赖的,依靠的 adj/sth依赖.../独立
 escalate/escalation                 上报,升级 v
-implement       执行,实现 v
+implement/perform       执行,实现 v
 challenge                       质问,质疑,挑战 v/n
+intelligent/actionable (intelligence) platform     聪明的,智能的 adj/智力,智能 n/可落地智能平台
+follow (up)     跟随,遵循/跟进,继续追踪
+analyze/analytics                       分析 v/n
+exit properly       正常退出,正确关闭
 
 
 
