@@ -72,7 +72,7 @@ almost at once                 几乎马上
 let jenkins rest for a while                        让jenkins休息一会
 we usually/normally do it this way, unless someone challenges it            我们一般都这么做
 if we use the pattern, others may misunderstand it as cust id instead of auto-increment id          如果我们使用这pattern,其他人可能会将其误解为客户编号,而非自增编号
-remember to add the piece of code in the end                记得在最后添加这段代码
+remember/reminder to add the piece of code in the end                记得在最后添加这段代码
 no need to start the run from the beginning         不需要从头开始run
 about when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
@@ -268,7 +268,6 @@ table onboarding may be delayed for a month or even longer          数据接入
 enablement & adoption sessions            赋能培训 & 落地推广会议
 from concepts to implementation         从概念到落地实施
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
-(all services) are up & running       系统正常运行,服务就绪
 multiple staff's requests within a single submission
 i didn't catch your last sentence/understand what you said at the end   没听懂你最后一句话
 in turn/service a calls b, which in turn queries db     继而,进而(插入性状语)/服务a调b,b继而去查询db
@@ -383,6 +382,7 @@ would like to seek guidance from your side on the following     希望向贵方�
 will be directed to new version         将被导向至新版本
 doing sth involves sth (adding data to db involves two stages)        添加数据库到db涉及两个阶段
 if doing sth is needed/feasible (using an alternative solution is needed)       如果需要替代方案
+(all services) are up & running       系统正常运行,服务就绪
 
 
 

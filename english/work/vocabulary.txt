@@ -35,7 +35,7 @@ inventory                   详细目录 n
 land            登陆 v
 learn/learned(learnt 英式)           学习 v
 life cycle                  生命周期
-lower(Upper) case/capital                    小/大 写字母/资本,资金,大写字母 n
+lower(upper) case/capital                    小/大 写字母/资本,资金,大写字母 n
 medium                 中等的 adj
 meet/met/met                遇见,满足 v
 nested                 嵌套的
@@ -49,14 +49,13 @@ prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
 promotion                 晋升 n
 recommend/recommendation                   建议,劝告,推荐 v/n
-remediate/Remediation                   补救,修复 v/补救,纠正 n
+remediate/remediation                   补救,修复 v/补救,纠正 n
 rest                            余下的 n
 rich            丰富的 adj
 slightly                稍微,轻微地 adv
 slot                                    时间段,时段 n
 stage                       阶段
-stakeholder                  利益相关者
-stick/Stuck/Stuck                   卡住 v
+stick/stuck/stuck                   卡住 v
 strange/strangely/strangeness                        奇怪的,陌生的 adj/奇怪地,奇怪的是 adv/奇怪,陌生感 n
 strategy                                        战略,策略 n
 strongly                            坚定地,强有力地,强烈地 adv
@@ -64,27 +63,14 @@ touch v                     触动,感动
 trainee                                     实习生 n
 transparent                 透明的 adj
 unzip                 解压 v
-up 向上
 willing                 愿意的,乐意的 adj
 particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
-elementary problem                  低级问题
-finalize/finalized                                    最终确定,敲定,完成 v
-regression              后退,倒退 n
-investigate/investigation                 调查 n
-feel free to v                请随意,尽管
-constantly          总是,经常地,不断地
-seek                    寻找 v
-combine/combination                  结合,合并
-work out            制定,梳理,敲定
-absent                      缺勤的,缺席的 adj
-(harsh) complaint/complaints n          (激烈)抱怨
 revisit             再访 v/n
-fluctuation             波动 n
-abnormal                反常的 adj
-precondition            前置条件,前提状态 n
-transform               使转化 v
 segmentation fault         段错误
 facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情
+detailedly(in detail)            详细地 adv
+up      向上
+investigate/investigation                 调查 n
 
 
 

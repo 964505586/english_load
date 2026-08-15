@@ -68,7 +68,6 @@ somewhat            稍微,有点 adv
 maintain                            保持,维持,维护 v
 clarify/clarity                         澄清,阐明,明确 v/清晰 n
 role                角色,作用,职责 n
-the following day           第二天,翌日 n
 given n/that/time                    鉴于,考虑到.../给定的时间
 presence        出席 n
 user access review          用户访问权限审核
@@ -227,9 +226,23 @@ escalate/escalation                 上报,升级 v
 implement/perform       执行,实现 v
 challenge                       质问,质疑,挑战 v/n
 intelligent/actionable (intelligence) platform     聪明的,智能的 adj/智力,智能 n/可落地智能平台
-follow (up)     跟随,遵循/跟进,继续追踪
 analyze/analytics                       分析 v/n
 exit properly       正常退出,正确关闭
+work out            制定,梳理,敲定
+stakeholder                  利益相关者
+absent                      缺勤的,缺席的 adj
+(harsh) complaint/complaints n          (激烈)抱怨
+fluctuation             波动 n
+abnormal                反常的 adj
+precondition            前置条件,前提状态 n
+transform               使转化 v
+elementary problem                  低级问题
+finalize/finalized      最终确定,敲定,完成 v
+regression              回归,后退,倒退 n
+feel free to v                请随意,尽管
+constantly          总是,经常地,不断地
+seek                    寻找 v
+combine/combination                  结合,合并
 
 
 

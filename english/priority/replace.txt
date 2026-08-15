@@ -53,7 +53,6 @@ alright(all right)
 i'll reboot/restart it. it's freezing badly(super laggy /ˈlæɡi/)        重新启动 v/n(我要重启下,卡的不行了)
 mention/say            提到,谈到 v
 lead/led to n(cause)                           导致
-detect/check                  检测,探测/检查 v
 perhaps/maybe
 mistake/incorrect(wrong)
 on/when/while/during            同时,然而,当...时候
@@ -162,7 +161,6 @@ just asking/wondering       只是问问
 (after) a short while (ago)       不久前/不久之后
 after a time/while/period of time      一段时间后
 local/native
-set up/config       搭建,安装/配置,设置
 ever/before            强调有没有过/强调在这之前
 override/overwrite            覆盖,重写(方法)/覆盖文件,数据
 blank/empty     表面空白(纸,屏幕,脑子)/内部空无一物(杯子,房间,盒子)
@@ -170,11 +168,9 @@ feature/function         特点,特性,功能 n/起作用,运转 v/功能 n
 record/entry/item/term/entity                 记录/条目/项/条款/实体 n
 conduct/keep monitoring closely              实施,进行 密切监控 v
 conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
-verify/verification/validate/validation     核实,证明验证 v/n
 area/district       通用/城市行政分区,政府管辖
 method/approach/approaching/way     方法 n/方式,靠近,接近 v/方式
 duty/fault                                    责任,义务/错误,责任
-remember/memorize            记得,记起/记住 用心 v
 maybe/perhaps           随意,直白/委婉,礼貌 偏正式
 technical/technology/technique                 技术的,专业的 adj/科技,技术/技巧,手法 n
 luck/lucky/fortunate/fortunately        n/adj/adv
@@ -186,19 +182,13 @@ underlying/potential        潜在的,可能的
 each/every
 truly/really        真正地
 quite reasonable/it make sense      相当合理,很有道理/有道理
-kind/type/category
-detect/identify     探测,检测(脚本自动查问题)/识别,定位(定位/确认问题)
 fetch/extract/read             获取,拉取 v/提取,抽取 v
 anyone/someone             有人
-revised/rectified/modified/edited/updated/changed       修订过的,编辑过的 adj
 remember/don't forget/kind(gentle/a warm) reminder to      记得做sth
-(express) license/authorize(authorise)          执照,许可证 n/许可；特许 v/正式书面授权/授权；批准
 authorised/authorized/licensed/licenced         授权的/得到许可的 adj
 inspect/inspected/inspection/audit       检查,视察 v/n
-explicit/implicit       明示的,明确的/隐式的,含蓄的 adj
 surface/show/display/displayed         显露,暴露 v/表面(的) n,adj/显示,展示 v/显示的 adj
-backfill/write back/replay        回填；装填/回写/重放 v
-detailedly(in detail)            详细地 adv
+backfill/write back/replay        回填,装填/回写/重放 v
 differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 adj/区别 n
 feature/capability introductions    功能介绍
 in the near future/a brilliant (future)      未来 n,adj/在不久的将来/光明的未来
@@ -207,7 +197,6 @@ top/(bottom) left/right corner        左上角,右下角/底部(的) adj/n
 outside/outsides (the firewall)         在外面 adv/外边的 adj/外部,外表 n/防火墙外
 cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
 be due to/caused by       归因于,由...导致/由...引起
-align (on sth)/alignment/misalignment/consistent        对齐 v/n
 consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
 (problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
@@ -223,6 +212,13 @@ update/(make great) progress      进展,(进度) n/取得进步
 launch/release new feature/version         启动,打开,发起,推出,执行 v
 at the earliest/ASAP     最早/尽快
 direct/directly/indirect/indirectly/direction         指引,调度,指挥 v/直接的/间接的 adj/adv/方向,方位,指导 n
+recall/remember/memorize (to)        记起,回想起,撤回/记得,记起/记住 用心 v
+(express) license/authorize(authorise)          执照,许可证 n/许可,特许/授权,批准 v/正式书面授权
+kind/type/category          种类/类型/类别 n
+align/alignment/misalignment/consistent        对齐 v/n
+detect/identify/check     探测,检测(脚本自动查)/认出，识别,定位/检查 v
+follow (up)/following (day)     跟随,遵循/跟进,继续追踪/以下的 adj/第二天,翌日 n
+
 
 
 

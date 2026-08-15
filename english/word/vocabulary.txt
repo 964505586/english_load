@@ -63,7 +63,6 @@ cantonese                   广州人,广东人,广东话,粤语 n        广州
 career 事业
 careful/carefully               小心地
 catch/caught
-category                            种类 n
 celebrate   庆祝
 central                             中央的,中心的 adj
 certain/certainly                 必然的,确定的
@@ -165,8 +164,6 @@ flaunt                          炫耀 n/vt/vi
 flinch                      退缩
 floor                       地板,地面 n
 fluent                      流利的,熟练的 adj
-follow up                           跟进
-following                adj 以下的
 fond        adj 喜爱的
 for free                免费
 for the first/second time               第一次
@@ -182,7 +179,6 @@ fund                        基金 n/资助 v
 gas                     气体
 genetically                     基因地,遗传地 adv
 get-together                聚会 n
-give up                             放弃
 glad                                高兴的 adj
 glass 玻璃杯,眼镜
 go on forever                       永远继续下去
@@ -343,7 +339,6 @@ react                       反应 v
 realise 意识到
 reality                             真实,现实 n
 reasonable            合理的
-recall                      记起,回想起,撤回 v
 recognize                           辨别出 v
 regard                              把...看作
 regret                      n 后悔(做了的),遗憾(未做的)

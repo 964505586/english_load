@@ -213,7 +213,6 @@ parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     
 quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
 vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
 participate/participating/participant/participation     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n/参与
-explicitly (prohibited)/clearly/definitely      /ɪkˈsplɪsɪtli/      清楚明确地 adv/清楚地,清晰地 adv/明确禁止
 moderate (to heavy rain)/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的,中间的 adj
 the work on his plate/hands     /pleɪt/      手头的工作
 data estate     /ɪˈsteɪt/     数据资产
@@ -276,7 +275,6 @@ confidential/sensitive/sensitivity      /ˌkɑːnfɪˈdenʃ(ə)l/      机密的
 at the (discretion) of sb/audit      /dɪˈskreʃ(ə)n/      自行决定权 n/由某人酌情,自行决定,自由选择
 personnel       /ˌpɜːrsəˈnel/       人员 n/人员的 adj
 suppress/suppressed     /səˈpres/      抑制,镇压,压制,阻止 v/抑制的 adj
-imply/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示,提示 v,n/隐式的,含蓄的 adj
 distinguish/differentiate     /dɪˈstɪŋɡwɪʃ/ /ˌdɪfəˈrenʃieɪt/               区分,认出,区别 v/使不同,区分,区别
 questionnaire       /ˌkwestʃəˈner/       问卷,调查表 n
 outage/embargo      /ɪmˈbɑːrɡoʊ/      中断,停运,停止供应期/禁运 n(人为)
@@ -305,6 +303,10 @@ prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/�
 anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
 alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
 alone/along (with)/among   |əˈləʊn|       独自的 adj/adv/沿着/和...一起/在...当中 prep
+revised/rectified/modified/edited/updated/changed       /ˈedɪtɪd/       修订过的,编辑过的 adj
+verify/verification/validate/validation     /ˈvælɪdeɪt/     验证,核实/确认,验证 v/n
+deduct/deducted     /dɪˈdʌkt/        减去，扣除 v
+The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     交付截止时间为8月5那一周
 
 
 
@@ -316,14 +318,8 @@ alone/along (with)/among   |əˈləʊn|       独自的 adj/adv/沿着/和...一
 
 
 
-deducted
-week commencing     起始于…的一周
 
 
-
-
-
-be up       运行起来,启动成功
 
 
 
