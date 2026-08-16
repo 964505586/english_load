@@ -244,8 +244,9 @@ sequence diagram                时序图,顺序图 n
 low level design        底层设计
 process flows       处理流程
 phase           阶段 n
-who can (help with) this?                         处理、缓解、解决 v/谁能帮忙处理这个？
+who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个？
 stakeholder                  相关方,利益相关者
+instead     相反
 
 
 

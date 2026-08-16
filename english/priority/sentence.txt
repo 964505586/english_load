@@ -390,6 +390,7 @@ the call to be moved forward in order to help with the timezone differences     
 therefore what we do need to build (for this phase)      因此,我们需要做什么
 the best slot i could pick based on availability and time zones     基于各方的时间与时区,选出的最佳会议时间段
 without it being a cast of thousands(involving too many stakeholders)       不必牵扯一大堆人(相关方)
+i believe it's worth a go       我认为这值得一试
 
 
 

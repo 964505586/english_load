@@ -223,26 +223,14 @@ merge/combine/integrate/consolidate
 
 
 
-probably/likely/unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
-most likely     大概率、很可能
-high probability of a conflict          冲突的可能性很高
-it's probably the same                              可能是一样的
-probably the train/today(when target)              大概率是sth
-it probably won't work          大概率不行
 
-(the best) slot        时间段,时段 n/最佳时间段
-after a time/while/period of time      一段时间后
-a short/long period of time                                                 一段短/长时间
-in a short time/period                      在短时间内
-period                  一段时间,时期 n
 
-forward             向前,今后 adv/向前的 adj/转交 v
-forward on       转发出去
-move forward     往前调、提前
 
-pass onto        转发给、转交
-instead
-instead of
+
+
+
+
+
 
 
 
