@@ -5,16 +5,6 @@ won't bother with sth           无需处理,忽略sth
 (won't) bother doing(to do) sth     费心去做,花时间研究
 sorry to keep bothering you         很抱歉一次次打扰你
 
-dialog/pop-up/prompt            大型完整配置弹窗/所有弹窗的通用统称/简短确认弹窗 n
-dialog/pop up/pop-up/prompt         对话框/弹窗,弹出式的 v,adj,n/弹窗,提示(框) v/n
-pop/popped up a prompt to remind user               弹出一个提示框以提醒用户
-display a prompt to alert user                      显示一个提示信息以提醒用户
-show a popup message to user                        向用户显示一个弹出消息
-the system will prompt us how to do it              系统会提示如何操作
-this error keeps popping up                         这个报错老是弹出来
-things like this always happen                      这样的事情经常发生
-this error pops/popped up                           这个报错 经常/刚 出现了
-
 url         https://nexus.com/repository/download
 uri         /repository/download
 
@@ -97,14 +87,6 @@ besides/in addition to      + prep/此外,而且 adv
 except              - prep 排除
 apart from          +/-(靠语境判断)
 unless          除非 conj/除...之外 prep
-
-punctuation     /ˌpʌŋktʃuˈeɪʃ(ə)n/     标点符号 n
-spacing     /ˈspeɪsɪŋ/      字距,行距,间隔 n
-(single/double) quote       /kwəʊt/     引号 n
-underscore/underline        /ˌʌndərˈlaɪn/        下划线_
-hyphen      /ˈhaɪfn/        连字符,中划线-
-line break      换行符
-special character       特殊字符
 
 lastly              最后 adv
 eventually          终于,等了很久,几经波折后
@@ -428,12 +410,6 @@ build                   物理建筑的建造
 establish               正式场合,强调权威性的确立
 set up/config           搭建,安装(组织,机构或系统的建立)/配置,设置
 
-tidy (up)     /?ta?di/    整洁的 adj/整理
-prepare document       整理文档
-put together documentation
-sort (out)      排序,分类 v/整理,解决
-organize            整理,组织,安排
-
 advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 prematurely     /ˌpriːməˈtʃʊrli/        过早地 adv
 ahead (of time/schedule)       提前 adj/adv
@@ -464,6 +440,33 @@ in a short/long time/period      在一段短/长时间内
 forward             转发,转交,发送 v/向前,今后，往后 adv/向前的,前进的 adj
 move forward     往前调,提前 v
 forward (on)/pass on to       转发出去/转交,传递 v
+
+tidy (up)       /ˈtaɪdi/        整洁的 adj/整理
+prepare document       整理文档
+put together documentation
+sort (out)      排序,分类 v/整理,解决
+organize            整理,组织,安排
+cleanup/removal        /ˈklinˌʌp/      清理,整理,梳理 n/移走,去掉 n
+
+prompts     大模型提示词
+dialog/pop-up/prompt            大型完整配置弹窗/所有弹窗的通用统称/简短确认弹窗 n
+dialog/pop up/pop-up/prompt         对话框/弹窗,弹出式的 v,adj,n/弹窗,提示(框) v/n
+pop/popped up a prompt to remind user               弹出一个提示框以提醒用户
+display a prompt to alert user                      显示一个提示信息以提醒用户
+show a popup message to user                        向用户显示一个弹出消息
+the system will prompt us how to do it              系统会提示如何操作
+this error keeps popping up                         这个报错老是弹出来
+things like this always happen                      这样的事情经常发生
+this error pops/popped up                           这个报错 经常/刚 出现了
+
+punctuation     /ˌpʌŋktʃuˈeɪʃ(ə)n/     标点符号 n
+spacing     /ˈspeɪsɪŋ/      字距,行距,间隔 n
+(single/double) quote       /kwəʊt/     引号 n
+underscore/underline        /ˌʌndərˈlaɪn/        下划线_
+hyphen      /ˈhaɪfn/        连字符,中划线-
+line break      换行符
+special character       特殊字符
+placeholder     占位符
 
 
 

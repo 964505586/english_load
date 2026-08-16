@@ -177,7 +177,6 @@ interface   接口,界面 n
 ruleset        规则集 n
 administrator       管理人 n
 feature highlight       功能亮点
-organizational feed     组织动态流
 key area for changes        变更核心范围
 secure-by-design    安全设计优先的 adj
 pilot        试点的 adj/试点 n
@@ -238,15 +237,23 @@ regression              回归,后退,倒退 n
 feel free to v                请随意,尽管
 constantly          总是,经常地,不断地
 seek                    寻找 v
-pick up         拿起,接人,接电话,搭讪
 timezone differences        时区差异
 sequence diagram                时序图,顺序图 n
 low level design        底层设计
-process flows       处理流程
 phase           阶段 n
 who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个？
 stakeholder                  相关方,利益相关者
 instead     相反
+apply (for)/application         应用 vt/申请 vi/n
+pick (up)         挑选/接手,获取,恢复、继续 v
+follow (up)/following (day)     跟随,遵循,听懂、跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
+self‑owned workable (backend)       自研,自有的 adj/可运行的 adj
+in‑scope/out‑of‑scope       项目范围内/外
+(investigate) playbook        业务操作手册 n/调查手册
+process flows and requirements      处理流程和需求
+if any gaps
+agentic part        代理的 adj/智能代理模块
+(organizational) feed (into)     组织动态流/供给,输入到
 
 
 

@@ -144,7 +144,7 @@ shown                   /ʃəʊn/
 hotkey          快捷键 n       /hɒt/
 editable            /ˈedɪtəbl/          可编辑的 adj
 borrow/borrowing            /ˈbɒrəʊ/    /ˈbɒrəʊɪŋ/
-follow me                       /ˈfɑːloʊ/
+follow me           /ˈfɑːloʊ/
 scope           /skoʊp/
 browser                          /ˈbraʊzə(r)/
 upsert(update + insert)                      /ˈʌpsɜːrt/
@@ -207,7 +207,6 @@ very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 ad
 comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj/adv/概述 n
 notification noise      /nɔɪz/      通知干扰,冗余通知
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
-parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的 adj/adv
 quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
 vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
 participate/participating/participant/participation     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n/参与
@@ -252,7 +251,6 @@ minor/minority/major/majority     /ˈmaɪnə(r)/ /maɪˈnɔːrəti/     较小�
 most/almost/majority    /məˈdʒɒrəti/        很多 adj/adv/近全满 adv/必过半 adj/n
 mass/massive/at scale        /ˈmæsɪv/        大规模的/巨大的,大规模的 adj/adv
 propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,向上传播(异常) v
-cleanup/removal        /ˈklinˌʌp/      清理,清除 n/移走,去掉 n
 purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
 capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/精力,产能 n
@@ -312,6 +310,8 @@ mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːməd
 represent/stand for/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
 (assess system) fitment     /ˈfɪtmənt/      适配,匹配度 n
+parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
+redact/(data) redaction      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
 
 
 

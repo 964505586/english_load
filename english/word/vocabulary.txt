@@ -18,11 +18,8 @@ anxious/anxiously                   焦虑的,不安地 adj/adv
 anywhere                任何地方 n/adv
 apologize/apologise(英式)                       道歉 v
 appearance                  外观
-apply for               申请
-apply/application               申请 vi/n
-arrange                                         安排 v
-arrest                          逮捕 v/n
-arrested                        逮捕的 adj
+arrange         安排 v
+arrest/arrested                          逮捕 v/n/逮捕的 adj
 arrogant                                    傲慢的,自大的 adj
 article 文章
 aspect                              方面 n

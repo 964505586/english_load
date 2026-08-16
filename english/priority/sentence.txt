@@ -136,8 +136,6 @@ at 17:00 hours
 at a time               一次
 i'm a java developer, but since there isn't much java work in our team right now, i sometimes also take on big data tasks               我是java开发,但我们团队目前没有太多java的工作,所以我有时也会做一些大数据相关的任务
 we have (encountered) a new issue currently. jack needs to modify the code in backend to fix it. i've added relevant comments in the ticket           目前我们遇到了一个新的问题jack需要修改backend的代码来解决这个问题我在工单中添加了相关的comment
-the day before yesterday                前天
-the day after tomorrow                  后天
 the week after next week                下下周
 at any time/moment(feel free to)                      随时
 at least/most/best/worst                至少/至多/顶多/最坏
@@ -218,7 +216,7 @@ in either of these columns          在这两列中的任意一列里
 it will be considered (as) a failure                它会被视为失败
 for your convenience, answers to frequently asked questions can be found here           为方便您查阅,常见问题解答可在此查看
 especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
-please let me know if any questions. otherwise, your confirmation & sign-off would be much appreciated            如有任何问题请告知我若无疑问,烦请确认并签字审批
+if any questions. otherwise, your confirmation & sign-off would be much appreciated            如有任何问题请告知我若无疑问,烦请确认并签字审批
 it shouldn't ideally have any impact               理想情况,它不应产生任何影响
 for reference only/this is for informational purposes only          此内容仅供参考
 i think it may not be so straightforward                            我觉得这事可能没那么简单

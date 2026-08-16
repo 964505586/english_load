@@ -69,7 +69,7 @@ segmentation fault         段错误
 facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情
 detailedly(in detail)            详细地 adv
 up      向上
-investigate/investigation                 调查 n
+investigate/investigation       调查,调研 n
 
 
 
