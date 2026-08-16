@@ -21,10 +21,8 @@ lag/delay       延迟,推迟,延期 v/n
 dynamic/static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
 balance exercise            平衡考量,折中方案 n
-conclude/conclusion                 得出结论,敲定,结束 v/结论 n
 i will be off/away/on leave next week           下周我将请假
 proceed with(carry on) sign-off/production release            继续做,接着推进 v
-pending/tbd         待定的,待处理的 adj
 a row/column filter         行/列 筛选器
 monitored/an external monitor       受监控的 adj/外接显示器 n
 commit to/promise(make a promise)      承诺 v
@@ -39,7 +37,6 @@ underlying/low-level/foundation code                底层代码 n
 impact/an impact on sb/sth                 影响 v/对sth的影响 n
 just(totally) normal/standard practice/quite common       正常操作
 chase/push/urge sb to do(for sth)             催促 v
-consolidate/consolidated/merge                合并,使巩固 v/巩固的,统一的 adj
 homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟,伙伴/乡亲们 n
 looks fine/Seems all good/Looks no problem
 recommended action/solution      推荐操作,方案
@@ -76,7 +73,6 @@ as usual/planned/expected                       像往常一样/按计划/按预
 discrepancy/difference                 差异 n
 obstacle/friction(block v/n)                障碍,阻碍,困难 n/阻碍,摩擦阻力,繁琐卡点
 edition/version                     版本 n
-integrate/Integration/merge            集成,合并,成为一体 v/n
 may/can
 seem/look/sounds like good/fine
 isn't it(主语是it, right?)
@@ -159,7 +155,6 @@ rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
 (apologize for the) short(late) notice/last-minute change(cancellation)          临时通知,变更
 just asking/wondering       只是问问
 (after) a short while (ago)       不久前/不久之后
-after a time/while/period of time      一段时间后
 local/native
 ever/before            强调有没有过/强调在这之前
 override/overwrite            覆盖,重写(方法)/覆盖文件,数据
@@ -202,12 +197,11 @@ consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
 inherit/extend/expand          继承/扩展(接口),继承(类)/扩展 v
 discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
-explore/exploration/discover             探索,探究,研究,排查 v/n
+explore/exploration/discover             探索,研究,排查 v/n
 i (just) saw/noticed that     刚注意到
 local/native        本地的,当地的/原生的 adj/n
 (core) concept/definition/overview     (核心)概念/定义 n/概述,简述 v/n
 expect/look forward to n        期待 v
-underway/ongoing/in progress         进行中的 adj
 update/(make great) progress      进展,(进度) n/取得进步
 launch/release new feature/version         启动,打开,发起,推出,执行 v
 at the earliest/ASAP     最早/尽快
@@ -216,8 +210,12 @@ recall/remember/memorize (to)        记起,回想起,撤回/记得,记起/记�
 (express) license/authorize(authorise)          执照,许可证 n/许可,特许/授权,批准 v/正式书面授权
 kind/type/category          种类/类型/类别 n
 align/alignment/misalignment/consistent        对齐 v/n
-detect/identify/check     探测,检测(脚本自动查)/认出，识别,定位/检查 v
+detect/identify/check     探测,检测(脚本自动查)/认出,识别,定位/检查 v
 follow (up)/following (day)     跟随,遵循/跟进,继续追踪/以下的 adj/第二天,翌日 n
+conclude/conclusion/summary                 得出结论,敲定,结束 v/结论 n/总结,概要 n/adj
+underway/in progress/ongoing/pending/tbd         进行中的/仍在进行的/待定的,待处理的 adj
+the current conclusion/data discrepancy conclusion         目前的结论,现阶段结论/数据差异结论
+merge/combine/integrate/consolidate
 
 
 
@@ -225,10 +223,26 @@ follow (up)/following (day)     跟随,遵循/跟进,继续追踪/以下的 adj/
 
 
 
+probably/likely/unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
+most likely     大概率、很可能
+high probability of a conflict          冲突的可能性很高
+it's probably the same                              可能是一样的
+probably the train/today(when target)              大概率是sth
+it probably won't work          大概率不行
 
+(the best) slot        时间段,时段 n/最佳时间段
+after a time/while/period of time      一段时间后
+a short/long period of time                                                 一段短/长时间
+in a short time/period                      在短时间内
+period                  一段时间,时期 n
 
+forward             向前,今后 adv/向前的 adj/转交 v
+forward on       转发出去
+move forward     往前调、提前
 
-
+pass onto        转发给、转交
+instead
+instead of
 
 
 

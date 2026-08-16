@@ -53,7 +53,6 @@ remediate/remediation                   补救,修复 v/补救,纠正 n
 rest                            余下的 n
 rich            丰富的 adj
 slightly                稍微,轻微地 adv
-slot                                    时间段,时段 n
 stage                       阶段
 stick/stuck/stuck                   卡住 v
 strange/strangely/strangeness                        奇怪的,陌生的 adj/奇怪地,奇怪的是 adv/奇怪,陌生感 n

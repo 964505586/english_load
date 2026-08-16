@@ -215,7 +215,6 @@ hurriedly(in a hurry)                      匆忙地 adv
 immediate           立刻的,即时的,目前的,直接的 adj
 improve                     提高,改善,康复 v
 in a different way
-in a short time/period                      在短时间内
 in recent days(years)                  最近几天
 in sight                        在视线范围内
 in the first place                  首先
@@ -305,13 +304,11 @@ payment/prepayment                             支付款项,支付额,付款,支
 peer                                    同行 n
 pension                         养老金,退休金 n
 perhaps 可能
-period                  一段时间,时期 n
 personal quality                人品
 personality                             个性,性格 n
 personally(in person)                                       亲自地
 persuade/persuasive/persuasion          说服 v/adj/n
 physical                    身体的,物质的 adj
-pick up                 拿起,接人,接电话,搭讪
 poison/poisonous                              毒药 n/有毒的 adj
 polite/impolite                  礼貌的,客气的
 politely                        有礼貌地 adv

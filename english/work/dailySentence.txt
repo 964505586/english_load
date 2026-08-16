@@ -89,7 +89,6 @@ we read data in batches                         我们分批读取数据
 this api supports bulk requests                 这api支持批量请求
 at least not tonight                至少不是今晚
 what a pleasant surprise                    真是个惊喜(意外之喜)
-who can help with this?                         谁能帮忙这个？
 please find the (attached) recap(meeting minutes) from our meeting yesterday            请查收我们昨天会议的纪要
 that would be great if ...
 from now/2026/(next week) onwards           从...以后

@@ -82,7 +82,6 @@ anything urgent             紧急事项 n
 open(to do) item                   待处理事项 n
 work together           协同配合
 draft                                   起草,草拟 v/草稿 n
-phase           阶段 n
 rolling restart     滚动重启 n
 highlight           突出,强调 v
 (improving) context/contextual      /kənˈtekstʃuəl/     优化上下文/场景相关的,上下文的 adj
@@ -90,12 +89,10 @@ disconnected            割裂的,零散的 adj
 session         课程场次,会议 n
 specify/specified/specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确的,具体的地,特定的,特意的 adj/adv
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
-forward             向前,今后 adv/向前的 adj/转交 v
 map/maps/mapped/mapping         地图,分布图,映射 v
 onboarding          接入,上线 v
 upcoming                即将来临的 adj
 go live                 上线 v
-sequence diagram                时序图,顺序图 n
 usage-based billing model       按使用量的计费模式
 review              查阅 v
 during the maintenance window           维护窗口期间
@@ -229,7 +226,6 @@ intelligent/actionable (intelligence) platform     聪明的,智能的 adj/智�
 analyze/analytics                       分析 v/n
 exit properly       正常退出,正确关闭
 work out            制定,梳理,敲定
-stakeholder                  利益相关者
 absent                      缺勤的,缺席的 adj
 (harsh) complaint/complaints n          (激烈)抱怨
 fluctuation             波动 n
@@ -242,7 +238,14 @@ regression              回归,后退,倒退 n
 feel free to v                请随意,尽管
 constantly          总是,经常地,不断地
 seek                    寻找 v
-combine/combination                  结合,合并
+pick up         拿起,接人,接电话,搭讪
+timezone differences        时区差异
+sequence diagram                时序图,顺序图 n
+low level design        底层设计
+process flows       处理流程
+phase           阶段 n
+who can (help with) this?                         处理、缓解、解决 v/谁能帮忙处理这个？
+stakeholder                  相关方,利益相关者
 
 
 

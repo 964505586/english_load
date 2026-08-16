@@ -75,7 +75,6 @@ rollout     /ˈrəʊlaʊt/         推广,试运行 n
 nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
 conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
-probably/likely/unlikely        /ʌnˈlaɪkli/     大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
 crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
@@ -92,7 +91,6 @@ aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
 inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
 defect/deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
-mobilize/coordinate/coordination     /ˈməʊbəlaɪz/ /kəʊˈɔːdɪneɪt/ /kəʊˌɔːdɪˈneɪʃ(ə)n/     调配,协调 v/协调,配合 v/n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
 spotlight/gather        /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 v
 quarter         /ˈkwɔːtə(r)/            季度
@@ -133,7 +131,7 @@ linkage                     /ˈlɪŋkɪdʒ/          联系 n
 withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
 angle           /ˈæŋɡ(ə)l/      角度 n
 bother/don't bother (me)    /ˈbɒðə(r)/      打扰,使烦恼,使担心 v/麻烦 n/别烦我
-statistical data/analysis(summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的  adj
+statistical data/analysis (summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的 adj/统计数据
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
 preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
@@ -261,7 +259,6 @@ capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/    
 tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
 toggle/on-off switch        /ˈtɑːɡl/      开关 n
 present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
-represent/stand for/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 (if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
 protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,协定 n/约定好的,同意的 adj
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
@@ -305,8 +302,16 @@ alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
 alone/along (with)/among   |əˈləʊn|       独自的 adj/adv/沿着/和...一起/在...当中 prep
 revised/rectified/modified/edited/updated/changed       /ˈedɪtɪd/       修订过的,编辑过的 adj
 verify/verification/validate/validation     /ˈvælɪdeɪt/     验证,核实/确认,验证 v/n
-deduct/deducted     /dɪˈdʌkt/        减去，扣除 v
+deduct/deducted     /dɪˈdʌkt/        减去,扣除 v
 The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     交付截止时间为8月5那一周
+procurement     /prəˈkjʊrmənt/      采购,购买 n
+conscious       /ˈkɑːnʃəs/        意识到的 adj
+diary invites       /ˈdaɪəri/        日历会议邀请
+infra/infrastructure        /ˈɪnfrəstrʌktʃər/       基础设施 n
+mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就、协调配合 v/协调,配合 v,n
+represent/stand for/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
+increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
+(assess system) fitment     /ˈfɪtmənt/      适配,匹配度 n
 
 
 

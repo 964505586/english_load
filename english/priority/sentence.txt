@@ -31,7 +31,6 @@ gotcha      got you
 
 
 
-the current conclusion/data discrepancy conclusion          目前的结论,现阶段结论/数据差异结论
 as long as(once) we click here       连词,只要...
 (it's) no wonder why/that                难怪
 (be) no longer (v)                     不再 abv
@@ -383,6 +382,14 @@ will be directed to new version         将被导向至新版本
 doing sth involves sth (adding data to db involves two stages)        添加数据库到db涉及两个阶段
 if doing sth is needed/feasible (using an alternative solution is needed)       如果需要替代方案
 (all services) are up & running       系统正常运行,服务就绪
+please include me in the call       把某人加入会议/请把我加入
+(be) conscious it's nearly the end of the day for you       意识到你们那边差不多快下班了
+is there anyone else (whom) you’d like (to have) on next Wednesday’s sessions   你想增加其他人员参下周的会议嘛
+i'll ask for the call to be moved forward to better suit your timezone     将会议往前调整,以便更好适配你们的时区
+the call to be moved forward in order to help with the timezone differences     缓解时区差异问题
+therefore what we do need to build (for this phase)      因此,我们需要做什么
+the best slot i could pick based on availability and time zones     基于各方的时间与时区,选出的最佳会议时间段
+without it being a cast of thousands(involving too many stakeholders)       不必牵扯一大堆人(相关方)
 
 
 
