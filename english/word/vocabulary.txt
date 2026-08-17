@@ -327,7 +327,6 @@ pursue                              追求,致力于 v
 quality    素质,质量
 random/randomly                                          随意,随机 n/任意的,随机的 adj/随机地 adv
 rapid/rapidly                   快速地 adj/adv
-rate                            速度,比率 n
 rather    adv 相当,宁愿
 react                       反应 v
 realise 意识到

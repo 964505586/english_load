@@ -36,29 +36,24 @@ as long as(once) we click here       连词,只要...
 (be) no longer (v)                     不再 abv
 are you online/there               你在吗
 (it's) a piece of cake              小case
-it's nothing but small potatoes         小事一桩,微不足道
 we'll do everything we can  我 将/已经 竭尽全力
 we'll find a way to 我会想办法...(语气坚定,靠谱)
 it's just so so                一般般,马马虎虎
 hi there                       嗨,你好
-i hope so                          我希望如此
 what a coincidence             真巧
 what a great/fantastic idea          多棒的主意啊
 didn't/doesn't make any difference             没作用
-it/system/program throw/threw failure error/exception
 if everything goes well         如果一切顺利
 maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
-let's pause(hold on) here. for the introduction & process i mentioned previously. is there any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
+let's pause(hold on) here. for the introduction & process i mentioned previously. any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
 why/how did you navigate to(land on) that page?         您是如何访问(到达)那个页面的？
 these two fields are reversed                这两个字段的值颠倒了
 data(email) attached for your reference                 附上邮件供您参考
-postman has been disabled in hsbc                   汇丰银行已禁用 postman
 how/why/what is it?              怎么样/为什么/这是什么
 (so can i understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
 this is just/simply my personal perspective            这仅仅是我个人的看法
 will it work？
-not sure if john will join the call？            不确定托尼是否会参加这次通话？
 in that case, i think everything will be fine/all right     既然如此,我觉得一切都会顺利的
 you need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与hk保持一致
 look/sounds like your situation is different(not same) from mine                看起来/听起来您的情况与我的情况不同
@@ -66,8 +61,6 @@ no further error so far                     到目前为止没有再出现错误
 have no particular idea at the moment           目前还没有特别的想法
 implement pagination functionality              实现分页功能
 of course, it wasn't me who caused it               当然,造成这一情况的并非是我
-(it's) almost the same                  几乎一样
-almost at once                 几乎马上
 let jenkins rest for a while                        让jenkins休息一会
 we usually/normally do it this way, unless someone challenges it            我们一般都这么做
 if we use the pattern, others may misunderstand it as cust id instead of auto-increment id          如果我们使用这pattern,其他人可能会将其误解为客户编号,而非自增编号
@@ -389,6 +382,8 @@ therefore what we do need to build (for this phase)      因此,我们需要做�
 the best slot i could pick based on availability and time zones     基于各方的时间与时区,选出的最佳会议时间段
 without it being a cast of thousands(involving too many stakeholders)       不必牵扯一大堆人(相关方)
 i believe it's worth a go       我认为这值得一试
+the API rate limit has been exceeded        API请求速率限制已超出
+Postman has been disabled within the corporation      银行已禁用postman
 
 
 

@@ -102,8 +102,6 @@ ontology        /ɒnˈtɒlədʒi/        本体(论)
 reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
 retrieve/retrieval/search/query/retrievable     /rɪˈtriːvl/         检索 v/n/可检索的 adj
 blueprint       /ˈbluːprɪnt/        方案,蓝图 n
-upon n(success/failure/completion/receipt)/once adj/句子    /əˈpɒn/        一...就(一旦失败,发生异常时/接收)
-eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/          符合条件的,合格的 adj/资格,合格 n/资格审查
 preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
@@ -179,12 +177,9 @@ preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːr
 middleware      /ˈmɪdlweə(r)/       中间件 n
 legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
 readiness/ready     /ˈredinəs/     准备就绪状态 n
-enterprise/corporation/company      /ˈentəpraɪz/        企业,事业单位 n
 dig out     /dɪɡ aʊt/         找出,挖掘出 v
 we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
-persist/persistent/materialize/insist      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj/坚持 v
-material/materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
 facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
 fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
@@ -312,6 +307,13 @@ increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈�
 (assess system) fitment     /ˈfɪtmənt/      适配,匹配度 n
 parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 redact/(data) redaction      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
+persist/persistent/materialize/insist      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj/坚持 v
+material/materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
+eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合格的 adj/资格,合格 n/资格审查
+rationale       /ˌræʃəˈnæl/         根本原因，逻辑依据
+pharmacy        /ˈfɑːrməsi/         药店,药房
+reconvene       /ˌriːkənˈviːn/      再召集,再聚会
+encode/encoding     /ɪnˈkoʊd/      编码 v
 
 
 

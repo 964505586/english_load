@@ -254,6 +254,9 @@ process flows and requirements      处理流程和需求
 if any gaps
 agentic part        代理的 adj/智能代理模块
 (organizational) feed (into)     组织动态流/供给,输入到
+retesting           复测 n
+exceed/exceeded         超过，超出,超越 v
+(dry) run         预跑、试运行/干的 adj
 
 
 

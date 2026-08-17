@@ -24,7 +24,9 @@ jack, you're frozen                    你卡住了
 i froze/lagged for a second/moment                   我 卡/延迟 了一 秒钟/会儿
 
 meeting
-sorry, i join later
+right. let's wait a few more minutes        再多等一会儿
+sorry. i'm so late. sorry about that        抱歉，我来晚了
+not sure if john will join the call            不确定托尼是否会参加这次通话
 let's wait for others to join (the call)            让我们等待其他人加入(通话)
 (okay, no more delay) let's jump right in                     (好了,不再耽搁了)咱们直接开始吧
 let's go through tickets first              我们先处理一下票务的事

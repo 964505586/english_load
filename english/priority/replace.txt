@@ -107,7 +107,6 @@ newly added/created columns             新增的列
 urgency/urgent/urgently     紧急,迫切,紧迫感,紧迫性,紧急性 n/紧急的,急切的 adj
 believe/trust/trusty/trustworthy/truth         相信 v/信任 v/n/可信的,值得信赖的 adj/真相 n
 day-to-day/daily (meeting)      每日,日常 adv/adj
-rate/traffic        流量,速率,比率 n/交通,流量 n
 predict/predictable/prediction/forecast      预言,预计 v/可预测的,可预料的 adj/预测 n/预测,预报 v/n
 correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整改措施/正确地 adv
 spend/cost       钱,时间/钱(受益方为主语)
@@ -216,6 +215,11 @@ underway/in progress/ongoing/pending/tbd         进行中的/仍在进行的/�
 the current conclusion/data discrepancy conclusion         目前的结论,现阶段结论/数据差异结论
 merge/combine/integrate/consolidate
 the day before yesterday/after tomorrow                前天/后天
+rate/traffic        流量,速率,速度,比率 n/交通,流量 n
+enterprise/corporation/company/accompany       企业,事业单位 n/大企业,集团 n/公司,陪伴 n/伴随，附带 v
+it/system/program throw/threw failure error/exception       抛出错误/异常
+(it's) almost at once(the same)             几乎 马上/一样
+upon n(success/confirmation/completion/receipt)/once adj/句子    /əˈpɒn/        一...就,在...上
 
 
 
