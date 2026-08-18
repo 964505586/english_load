@@ -453,6 +453,7 @@ determine                  决定 v
 and then                    于是,然后
 (can't) stand (for)           忍受 v/无法忍受/代表
 if so/not/possible/necessary        如果这样,不是,可能,必要
+false_positive/negative      误报/漏报
 
 
 

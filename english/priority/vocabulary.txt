@@ -219,7 +219,6 @@ intercept/intercepted/interception       拦截 v/n
 independence/independent/independently/dependent      独立 n/adj/adv
 be (dependent) on/independence       依赖的,依靠的 adj/sth依赖.../独立
 escalate/escalation                 上报,升级 v
-implement/perform       执行,实现 v
 challenge                       质问,质疑,挑战 v/n
 intelligent/actionable (intelligence) platform     聪明的,智能的 adj/智力,智能 n/可落地智能平台
 analyze/analytics                       分析 v/n
@@ -245,10 +244,9 @@ who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个�
 stakeholder                  相关方,利益相关者
 instead     相反
 apply (for)/application         应用 vt/申请 vi/n
-pick (up)         挑选/接手,获取,恢复、继续 v
-follow (up)/following (day)     跟随,遵循,听懂、跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
+pick (up)         挑选/接手,获取,恢复,继续 v
+follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
 self‑owned workable (backend)       自研,自有的 adj/可运行的 adj
-in‑scope/out‑of‑scope       项目范围内/外
 (investigate) playbook        业务操作手册 n/调查手册
 process flows and requirements      处理流程和需求
 if any gaps
@@ -256,7 +254,8 @@ agentic part        代理的 adj/智能代理模块
 (organizational) feed (into)     组织动态流/供给,输入到
 retesting           复测 n
 exceed/exceeded         超过，超出,超越 v
-(dry) run         预跑、试运行/干的 adj
+(dry) run         预跑,试运行/干的 adj
+factor (in)     因素，要素 n/将...计入,将...考虑进去 v
 
 
 

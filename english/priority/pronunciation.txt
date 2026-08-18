@@ -137,7 +137,6 @@ scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 urge        /ɜːdʒ/            敦促,催促 v
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
 obtain/gain/get                  /əbˈteɪn/   得到,获得
-redundant/useless               /rɪˈdʌndənt/        多余的 adj
 shown                   /ʃəʊn/
 hotkey          快捷键 n       /hɒt/
 editable            /ˈedɪtəbl/          可编辑的 adj
@@ -307,13 +306,17 @@ increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈�
 (assess system) fitment     /ˈfɪtmənt/      适配,匹配度 n
 parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 redact/(data) redaction      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
-persist/persistent/materialize/insist      /pəˈsɪst/          持久化存储,持续,坚持 v/持久化的 adj/坚持 v
-material/materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
-eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合格的 adj/资格,合格 n/资格审查
 rationale       /ˌræʃəˈnæl/         根本原因，逻辑依据
 pharmacy        /ˈfɑːrməsi/         药店,药房
 reconvene       /ˌriːkənˈviːn/      再召集,再聚会
 encode/encoding     /ɪnˈkoʊd/      编码 v
+persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,持续,坚持 v/持久化的，执着的,持续的 adj/物化,落地生成/坚持 v
+material/materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
+upon n(success/confirmation/completion/receipt)/once adj/句子    /əˈpɒn/        一...就,在...上
+redundant/duplicate/useless/unused/invalid    /rɪˈdʌndənt/    多余的/重复的/无用的,无效的/未使用的,闲置的/无效的 adj
+duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
+replicate/replication (factor)      /ˈreplɪkeɪt/        副本同步,复制 n/因子,系数,要素,份数 n/副本
+eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合格的 adj/资格,合格 n/资格审查
 
 
 
@@ -322,6 +325,50 @@ encode/encoding     /ɪnˈkoʊd/      编码 v
 
 
 
+
+
+
+
+not yet, for now we are using sth
+it's now waiting for testing
+
+
+
+instantly   立刻，即刻
+leave
+left
+hiccups临时小故障、突发小问题（本意打嗝）
+neg = negative 聊天简写：负面的
+in the past few months在过去数月（正式需要加the）
+gain good impressions 收获好印象、好口碑
+retire下线、停用，退休？
+suspend暂停；intentionally有意地、主动地
+主动的
+we are aware of this    我们已知晓该情况。
+mainly on the checking of true hits of those csp flags  句子成分
+exceeding 300
+against
+regarding
+comparison
+before and after comparison前后对比
+maker‑checker mechanism编制复核机制
+gone thru   聊天简写=gone through
+4‑eyes checking四眼复核，双人审核
+come up with    整理得出、输出
+notify
+99.99%
+dot,  point？
+certainty确定性
+not to blame anyone并不是想要追责任何人。
+don’t get me wrong 别误会
+i can't tell now
+翻译：我目前无法下定论
+seamless deployment无缝/无感知部署
+as the deployment is taking seamless deployment approach, there will be no service interruption
+regroup重新梳理复盘；
+re‑run handling重跑处置方案
+backup备份n
+amend code
 
 
 

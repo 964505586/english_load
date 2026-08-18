@@ -70,32 +70,28 @@ about when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
 this has been happening a lot recently. it didn't happen before             这种情况最近频繁发生.以前从未出现过这种情况.
 the problem occurs when writing data to hdfs, & then the exception is thrown
-please press ctrl & c on your keyboard    请在键盘上按下"ctrl"和"c"键
+please press ctrl & c on your keyboard      /kənˈtroʊl/    请在键盘上按下"ctrl"和"c"键
 logs are only kept for one or two days              日志只保存一天或两天
 is/isn't this what we expected?             这难道不是我们所期望的吗？
 wait a minute. let me quickly check the dictionary to see how to say it     我查下字段
 could you tell me who i should contact?         你可以告诉我应该联系谁吗？
-out of the scope                    超出范围
 this has never been done before        以前从没人干过
-develop a script to identify data discrepancies in specific indices. if discrepancies are found, save the conclusion in an es index             编写一个脚本来识别特定索引中的数据差异如果发现差异,将结论保存到es索引中
+develop a script to identify data discrepancies in specific indices. if discrepancies are found, save the conclusion             编写一个脚本来识别特定索引中的数据差异如果发现差异,保存结论
 this is an automatically generated notification from confluence             这是confluence自动生成的通知
-i'm preparing to create a sample for the spark project. once it's complete, i'll work out the detailed timeline         我正在准备为 spark 项目创建一个示例完成后,我会制定详细的时间表
+i'm preparing to create a sample. once completion, i'll work out the detailed timeline         我正在准备为 spark 项目创建一个示例完成后,我会制定详细的时间表
 whose responsibility is it？                 这是谁的责任？
 actually, it's afternoon in china               实际上,中国现在是下午
 what time do you start work in the morning          你早上几点开始工作
 using a command             方式状语
 the issue had always existed. however, it wasn't discovered before                这问题一直都存在,之前没被发现
 this problem was caused while developing backend feature (this happen because ...)          这个问题是在开发此功能的过程中产生的
-as (we) discussed (with jack)                   正如我与jack所讨论的那样
-please help check the email draft, i'm preparing to send to kevin & claire for clarification          请帮忙检查一下这份邮件草稿,我正准备将其发送给kevin和claire以获取进一步的说明
+please help check the email draft, i'm preparing to send to kevin for clarification          帮忙检查一下这份邮件草稿,我准备发给kevin以获取进一步的说明
 everyone is complaining that jenkins is unstable         大家都抱怨jenkins不稳定
 sth be pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
 nothing(no need) for now                     暂时没有/暂时不需要
 let's work out the (detailed) timeline               制定出时间计划,敲定时间线
 just add a space anywhere (you like)                    随便添加个空格
-this field is not editable                  此字段不可编辑
-set the field to uneditable
 i have 2 tickets (which are) assigned to me/there are 2 tickets assigned to me      有两张票分给我了
 feel free to join the call or skip as you prefer                自由选择加入或者跳过,随您喜好
 i see/get/know/understand what you mean                         我明白您的意思
@@ -104,13 +100,11 @@ we are talking about the same issue?                            我们说的是�
 just rename the field display name on the ui                    就重命名字段的显示名称
 seems there are no better solutions either                      似乎也没更好方案了
 is there any ticket for the follow-up actions?                         对后续行动,有对应ticket么
-what's this ticket for?                             这ticket干嘛的
 would like to clarify sth/make a clarification on sth           想澄清下sth
 would like to clarify some points/details about backend with you
 i'd like to tell you something      我想告诉你一些事情
 i hardly ever use the method(command line) to operate git          我几乎不用sth
 then talk to jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟jack说
-this is redundant               这是多余的
 still have one more day             还有一天呢
 please verify if the issue also occurs in uat(also check the uat env for the issue)        看下uat env有没有这个问题
 after talking with john             经过和john交谈
@@ -308,7 +302,6 @@ i might be over-worried/overthinking     过度担忧的 adj
 maybe i'm just overthinking it/over-worried  想太多,多虑 v/可能是我想多了,或许是我多虑了
 some subsequent issues may be identified going forward, which i'm just worried about    后续可能会出一些问题,我担忧
 do u have any ideas on the capability to retrieve both teacher & student data in a single run?  有没有方案可以单次运行同时获取
-factor in/i'd like to factor this in as part of the new req as well   将...计入,将...考虑进去 v/想将这个也纳入新的需求里
 introduces a streamlined interface      引入更简洁,流线型的界面
 the most appropriate model for your task    最适合您任务的模型
 review updates and activities       查看更新与活动
@@ -384,6 +377,7 @@ without it being a cast of thousands(involving too many stakeholders)       不�
 i believe it's worth a go       我认为这值得一试
 the API rate limit has been exceeded        API请求速率限制已超出
 Postman has been disabled within the corporation      银行已禁用postman
+i'd like to factor this in as part of the new req as well   将这个也纳入新的需求里
 
 
 

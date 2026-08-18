@@ -219,7 +219,11 @@ rate/traffic        流量,速率,速度,比率 n/交通,流量 n
 enterprise/corporation/company/accompany       企业,事业单位 n/大企业,集团 n/公司,陪伴 n/伴随，附带 v
 it/system/program throw/threw failure error/exception       抛出错误/异常
 (it's) almost at once(the same)             几乎 马上/一样
-upon n(success/confirmation/completion/receipt)/once adj/句子    /əˈpɒn/        一...就,在...上
+as/after we planned/discussed/talking (with jack) previously        正如我与jack所 讨论/计划 的
+this field isn't editable/set the field to uneditable       此字段不可编辑
+what's the ticket for/what's purpose for the ticket        这ticket干嘛的
+in‑scope/out‑of‑scope       (超出)范围内/外
+perform/do/implement        xxx/执行,实现 v
 
 
 
