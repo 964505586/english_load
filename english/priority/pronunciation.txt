@@ -322,6 +322,13 @@ seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感�
 
 
 
+
+the issue might be a bit complicated            这问题可能有点复杂
+that will be more complicated       那将会更复杂
+
+request
+request for
+
 notify
 notice/(outage) notification    意识,注意 v/通知 n/断网,服务中断通知
 
@@ -329,12 +336,16 @@ exceeding 300
 exceed/exceeded         超过，超出,超越 v
 exceed/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 
-we are aware of this    我们已知晓该情况
-(did) you know(are you aware of) that       你知道这件事吗？
-i know about this           我知道这件事
-i'm aware of this           我了解这件事
-i wasn't aware of this
+the week after next week                下下周
+the day before yesterday/after tomorrow                前天/后天
 
+
+
+
+hold on to sth      暂缓,搁置某事
+give you the green light        开绿灯,予以批准
+go this way     采用这个方案，按这个方式走
+workaround      临时变通方案,权宜之计
 not yet, for now we are using sth
 instantly   立刻，即刻
 gain good impressions   收获好印象,好口碑
@@ -344,13 +355,6 @@ gone thru       gone through
 certainty       确定性
 amend code
 land in     归属到,落入
-map/mapped/mapping
-hold on to sth      暂缓,搁置某事
-give you the green light        开绿灯,予以批准
-go this way     采用这个方案，按这个方式走
-request
-request for
-workaround      临时变通方案,权宜之计
 referring to
 re‑engage the team      重新对接团队
 flexible

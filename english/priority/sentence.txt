@@ -116,23 +116,20 @@ the detail page supports single record updates only             仅支持单个�
 i didn't see the group chat just now               我刚才没有看到群聊
 the values across the selected items must be consistent             所选项的值必须一致
 will review the resource usage today                   今天将对资源的使用情况进行审查
-the only time the score had an issue was on sunday            唯一一次分数出问题是在周日
+the only time (that) the score had an issue was on sunday            唯一一次分数出问题是在周日
 the way/solution i can think of is to                我能想到的办法是~
 there are two potential solutions i've thought of for the issue             我想到的两个可能的解决方案
 at 17:00 hours
 at a time               一次
 i'm a java developer, but since there isn't much java work in our team right now, i sometimes also take on big data tasks               我是java开发,但我们团队目前没有太多java的工作,所以我有时也会做一些大数据相关的任务
-we have (encountered) a new issue currently. jack needs to modify the code in backend to fix it. i've added relevant comments in the ticket           目前我们遇到了一个新的问题jack需要修改backend的代码来解决这个问题我在工单中添加了相关的comment
-the week after next week                下下周
+we have (encountered) a new issue currently. jack needs to modify backend code to fix it. i've added relevant comments in ticket           目前我们遇到了一个新的问题jack需要修改backend的代码来解决这个问题我在工单中添加了相关的comment
 at any time/moment(feel free to)                      随时
 at least/most/best/worst                至少/至多/顶多/最坏
 at (exactly) that moment                          就在那一刻/恰恰就在那一刻
-when did your last restart?                     你上次重启是啥时候？
+when did you last restart?                     你上次重启是啥时候？
 if program works well/as expected(all tests pass)      如果逻辑运行正常
 as a short/long-term solution               作为 短期/长期 方案
 has your part of this change been released/deployed to prod env ?       你的那部分发布到生产环境了吗？
-please follow the guide(follow it up)           请跟随这guide
-the issue might be a bit complicated            这问题可能有点复杂
 since it's a bit urgent            因为有点急
 please give me a bit/little more time           请再多给我点时间
 a bit of delay is normal/common                 有延迟很常见,正常

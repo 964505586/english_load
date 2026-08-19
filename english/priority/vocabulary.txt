@@ -89,7 +89,6 @@ disconnected            割裂的,零散的 adj
 session         课程场次,会议 n
 specify/specified/specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确的,具体的地,特定的,特意的 adj/adv
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
-map/maps/mapped/mapping         地图,分布图,映射 v
 onboarding          接入,上线 v
 upcoming                即将来临的 adj
 go live                 上线 v
@@ -106,7 +105,6 @@ terminate/terminal      终止 v    终端 adj/n
 terms of reference      职权范围 n
 federated       联邦的 adj
 data ingestion          数据接入,摄取 n
-map/mapped/mapping         地图,映射 n/映射 v
 (work) handover item/content/object            工作交接/交接项,内容,对象 n
 continued               持续的 adj
 inaccessible            不可及的 adj
@@ -261,6 +259,7 @@ maker‑checker mechanism     编制复核机制
 4‑eyes checking     四眼复核,双人审核
 regroup     重新梳理,复盘 v
 retire      退休,下线,停用 v
+map/maps/mapped/mapping         地图,映射,分布图 n/映射 v
 
 
 

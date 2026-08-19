@@ -212,7 +212,6 @@ conclude/conclusion/summary                 得出结论,敲定,结束 v/结论 
 underway/in progress/ongoing/pending/tbd         进行中的/仍在进行的/待定的,待处理的 adj
 the current conclusion/data discrepancy conclusion         目前的结论,现阶段结论/数据差异结论
 merge/combine/integrate/consolidate
-the day before yesterday/after tomorrow                前天/后天
 rate/traffic        流量,速率,速度,比率 n/交通,流量 n
 enterprise/corporation/company/accompany       企业,事业单位 n/大企业,集团 n/公司,陪伴 n/伴随，附带 v
 it/system/program throw/threw failure error/exception       抛出错误/异常
