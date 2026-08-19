@@ -50,11 +50,6 @@ storage                     储存,存储空间 n
 restore                     恢复,还原 v         把东西变回原来的状态,原样
 resume                      恢复,简历 v            停下后(人)继续干
 
-would like to understand
-i wonder 句子(if/疑问词)                 想知道(随口)
-i'm wondering 句子         我现在在想
-i've been wondering 句子               我一直在想(从过去到现在)
-
 you said before that we should do it. do you remember           你之前说我们应该这么做你还记得吗？
 (regarding) the process i mentioned earlier                     关于之前提到的
 as(like) jack said/mentioned/proposed before/earlier, it's a business issue               正如jack之前 说的/提到的/提议,提出(暗示他不仅说了,还给出了观点或方案)
@@ -255,11 +250,6 @@ compare a against b         把a与b相比
 compared with n             与...相比/过去分词做条件状语
 compare/comparison      /kəmˈpærɪs(ə)n/     比较 v/比较,对照 n
 
-(did) you know(are you aware of) that       你知道这件事吗？
-i know about this           我知道这件事
-i'm aware of this           我了解这件事
-i wasn't aware of this
-
 oops/my goodness        哎哟,啊呀,糟糕/我的天
 jesus/my god/damn it       天哪/我的天/该死(脏话,熟人)
 holy shit       天哪(粗俗)
@@ -424,13 +414,6 @@ forward             转发,转交,发送 v/向前,今后，往后 adv/向前的,
 move forward     往前调,提前 v
 forward (on)/pass on to       转发出去/转交,传递 v
 
-tidy (up)       /ˈtaɪdi/        整洁的 adj/整理
-prepare document       整理文档
-put together documentation
-sort (out)      排序,分类 v/整理,解决
-organize            整理,组织,安排
-cleanup/removal        /ˈklinˌʌp/      清理,整理,梳理 n/移走,去掉 n
-
 prompts     大模型提示词
 dialog/pop-up/prompt            大型完整配置弹窗/所有弹窗的通用统称/简短确认弹窗 n
 dialog/pop up/pop-up/prompt         对话框/弹窗,弹出式的 v,adj,n/弹窗,提示(框) v/n
@@ -467,11 +450,25 @@ make sure of/to/that        确保...
 guarantee               确保,保证 v/n
 (quality) assurance/assure          保证 n/v/质量保证
 
-whoever/whomever         无论谁；不管是谁 anyone who/whom
-whatever        无论什么；不管什么
+whoever/whomever         无论谁,不管是谁 anyone who/whom
+whatever        无论什么,不管什么
 whichever       无论哪一个
-wherever        无论哪里；不管在哪
+wherever        无论哪里,不管在哪
 whenever        每当,无论什么时候
+
+may i know
+would like to understand
+i wonder 句子(if/疑问词)                 想知道(随口)
+i'm (just) wondering 句子(how come 句子)         我现在在想/怎么会,为什么会...
+i've been wondering 句子               我一直在想(从过去到现在)
+
+tidy (up)       /ˈtaɪdi/        整洁的 adj/整理 v
+prepare document       整理文档
+put together documentation
+sort (out)      排序,分类 v/整理,解决
+organize            整理,组织,安排
+come up with (a solution)        整理得出,输出 v
+cleanup/removal        /ˈklinˌʌp/      清理,整理,梳理 n/移走,去掉 n
 
 
 

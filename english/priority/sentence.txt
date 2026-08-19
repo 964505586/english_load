@@ -161,7 +161,6 @@ please find the email chain below               邮件往来请见下方
 jack mentioned that you are already aware of this               jack说你已经知道这个了
 your hard/excellent work is well recognized                 你的出色工作得到了认可
 let's ask in the team group             在群里问下吧
-in the past/last few days               在过去几天里
 17 months of data               17 个月的数据
 kind reminder to provide the info below          温馨提示: 请提供以下信息
 i have received the file from your separate email           我已经从您单独发来的邮件中收到了那份文件
@@ -235,7 +234,6 @@ let's hang over (the work) to jack     接下来交给杰克来讲,现在请杰�
 it's a scenario we didn't cover before/the situation wasn't covered     这情况之前未曾涉及
 mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
 left a note/remark in my calendar             在日历里添加了备注
-leave/left (a comment)             留下评论/离开 v/假期 n
 some access may take some time to activate           部分权限需等待一段时间方可生效
 some permissions usually take some time to go live          有些权限通常需要一段时间才能生效
 let's wait & see              我们先等等看
@@ -284,7 +282,6 @@ lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 not a fan of sth            不推荐,不认可,不喜欢sth
 not entirely sure/i'm not sure that(about sb/sth)        不完全确定/我不确定~
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
-(i was wondering) how come that       为什么,怎么会/我在想,为什么
 only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
 kindly remind you once again that        再次温馨提醒您
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
@@ -378,6 +375,11 @@ i believe it's worth a go       我认为这值得一试
 the API rate limit has been exceeded        API请求速率限制已超出
 Postman has been disabled within the corporation      银行已禁用postman
 i'd like to factor this in as part of the new req as well   将这个也纳入新的需求里
+as the deployment is taking seamless deployment approach, there will be no service interruption     部署采用无缝方式进行，因此不会造成服务中断
+don’t get me wrong          别误会
+no worries at all       完全不用担心
+not to blame anyone     不是要追究谁的责任
+
 
 
 

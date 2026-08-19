@@ -22,7 +22,6 @@ reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/�
 almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
 manifest/configuration file        /ˈmænɪfest/         清单,配置文件 n
-embed/embedding         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
 cascade (down further)         /kæˈskeɪd/          逐级下发,连续传递 v
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
@@ -104,7 +103,6 @@ retrieve/retrieval/search/query/retrievable     /rɪˈtriːvl/         检索 v/
 blueprint       /ˈbluːprɪnt/        方案,蓝图 n
 preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
-suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 starting/effective 1 june 2026          自6月1日起
 any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
@@ -226,7 +224,6 @@ bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
 simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
-exceed/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量api流量
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
 ignore/neglect      /nɪˈɡlekt/      有意/无意,疏忽 v
@@ -314,68 +311,53 @@ persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,�
 material/materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
 upon n(success/confirmation/completion/receipt)/once adj/句子    /əˈpɒn/        一...就,在...上
 redundant/duplicate/useless/unused/invalid    /rɪˈdʌndənt/    多余的/重复的/无用的,无效的/未使用的,闲置的/无效的 adj
-duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
-replicate/replication (factor)      /ˈreplɪkeɪt/        副本同步,复制 n/因子,系数,要素,份数 n/副本
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合格的 adj/资格,合格 n/资格审查
+suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
+embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
+similarity search       /ˌsɪməˈlærəti/       相似度搜索
+before and after comparison     /kəmˈpærɪsn/     前后对比
+duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
+replicate/replication (factor)/replica      /ˈreplɪkeɪt/        复现,重复 v/复制/因子,系数,要素,份数/副本 n
+seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
 
 
 
+notify
+notice/(outage) notification    意识,注意 v/通知 n/断网,服务中断通知
 
+exceeding 300
+exceed/exceeded         超过，超出,超越 v
+exceed/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 
-
-
-
-
-
-
+we are aware of this    我们已知晓该情况
+(did) you know(are you aware of) that       你知道这件事吗？
+i know about this           我知道这件事
+i'm aware of this           我了解这件事
+i wasn't aware of this
 
 not yet, for now we are using sth
-it's now waiting for testing
-
-
-
 instantly   立刻，即刻
-leave
-left
-hiccups临时小故障、突发小问题（本意打嗝）
-neg = negative 聊天简写：负面的
-in the past few months在过去数月（正式需要加the）
-gain good impressions 收获好印象、好口碑
-retire下线、停用，退休？
-suspend暂停；intentionally有意地、主动地
-主动的
-we are aware of this    我们已知晓该情况。
+gain good impressions   收获好印象,好口碑
+intentionally       有意地,主动地
 mainly on the checking of true hits of those csp flags  句子成分
-exceeding 300
-against
-regarding
-comparison
-before and after comparison前后对比
-maker‑checker mechanism编制复核机制
-gone thru   聊天简写=gone through
-4‑eyes checking四眼复核，双人审核
-come up with    整理得出、输出
-notify
-99.99%
-dot,  point？
-certainty确定性
-not to blame anyone并不是想要追责任何人。
-don’t get me wrong 别误会
-i can't tell now
-翻译：我目前无法下定论
-seamless deployment无缝/无感知部署
-as the deployment is taking seamless deployment approach, there will be no service interruption
-regroup重新梳理复盘；
-re‑run handling重跑处置方案
-backup备份n
+gone thru       gone through
+certainty       确定性
 amend code
-
-
-
-
-
-
-
+land in     归属到,落入
+map/mapped/mapping
+hold on to sth      暂缓,搁置某事
+give you the green light        开绿灯,予以批准
+go this way     采用这个方案，按这个方式走
+request
+request for
+workaround      临时变通方案,权宜之计
+referring to
+re‑engage the team      重新对接团队
+flexible
+we will have a headstart
+i think that's one moving piece
+i kept hearing we could integrate with a team through cyber, i don't know what it mean yet
+i'm likely overrunning current meeting
 
 
 

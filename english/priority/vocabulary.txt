@@ -191,7 +191,6 @@ renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度�
 tip     小技巧,最新提交(git专业术语: 分支末端最新提交节点)
 acknowledge/acknowledged                         确认,认可,承认,感谢 v
 mini fund       小额理财基金
-reproduce/reproduction       复现 v/n
 (your) hours worked       你的工作时长
 functional manager          职能经理
 capture         采集,捕获,截取 v
@@ -253,9 +252,15 @@ if any gaps
 agentic part        代理的 adj/智能代理模块
 (organizational) feed (into)     组织动态流/供给,输入到
 retesting           复测 n
-exceed/exceeded         超过，超出,超越 v
 (dry) run         预跑,试运行/干的 adj
 factor (in)     因素，要素 n/将...计入,将...考虑进去 v
+leave/left/leaving (a comment)             留下评论/离开 v/假期 n
+hiccup     打嗝,临时小故障,突发小问题 n
+vector store        向量存储
+maker‑checker mechanism     编制复核机制
+4‑eyes checking     四眼复核,双人审核
+regroup     重新梳理,复盘 v
+retire      退休,下线,停用 v
 
 
 

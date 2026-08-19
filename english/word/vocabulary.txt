@@ -29,7 +29,6 @@ attack                                  攻击 v
 audience                                观众,听众 n
 automatic/automatically             自动的 adj/adv
 avoid                                   避免 v
-back-up                                 备份 n
 backward/backwards                      向后的 adj/adv
 bad luck                                        厄运
 bad/worse/worst                             坏的/更坏的/最坏的
@@ -292,7 +291,6 @@ over the moon               兴高采烈,欣喜若狂
 own                                 有,拥有 v                  自己的 adj
 pandemic        流行病 n
 pass by             经过,走过,逝去
-past                过去 n/adj/adv
 patient 耐心的
 pay                         支付 v                    工资 n
 pay back                            报答,回报,偿还

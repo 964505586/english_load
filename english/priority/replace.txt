@@ -152,7 +152,6 @@ tips/tricks/recommendations/kind(a warm) reminder       小贴士,技巧,建议,
 location/position                地点,位置 n(客观物理地点/职位,岗位)
 rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
 (apologize for the) short(late) notice/last-minute change(cancellation)          临时通知,变更
-just asking/wondering       只是问问
 (after) a short while (ago)       不久前/不久之后
 local/native
 ever/before            强调有没有过/强调在这之前
@@ -186,7 +185,6 @@ backfill/write back/replay        回填,装填/回写/重放 v
 differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 adj/区别 n
 feature/capability introductions    功能介绍
 in the near future/a brilliant (future)      未来 n,adj/在不久的将来/光明的未来
-notice/(outage) notification    意识,注意 v/通知 n/断网,服务中断通知
 top/(bottom) left/right corner        左上角,右下角/底部(的) adj/n
 outside/outsides (the firewall)         在外面 adv/外边的 adj/外部,外表 n/防火墙外
 cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
@@ -224,6 +222,12 @@ this field isn't editable/set the field to uneditable       此字段不可编�
 what's the ticket for/what's purpose for the ticket        这ticket干嘛的
 in‑scope/out‑of‑scope       (超出)范围内/外
 perform/do/implement        xxx/执行,实现 v
+just asking/wondering       只是问问/就是想知道
+against/regarding       针对 prep
+backup/back-up/replica/alternative      备份 n/adj/副本 n/可替代的,备选的 adj
+reproduce/replicate (question)/reproduction       复现 v/n
+in the (past)/last few days//months     在过去 几天/数月
+I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
 
 
 
