@@ -1,5 +1,4 @@
 
-provision/provisioning/deploy      /prəˈvɪʒ(ə)n/              部署,配置,提供,供应 v/配置 n
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
 execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
@@ -106,7 +105,6 @@ billing         /ˈbɪlɪŋ/     计费,账单 n
 starting/effective 1 june 2026          自6月1日起
 any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
-fill in      /fɪl ɪn/             填写 v
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
@@ -220,7 +218,6 @@ consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消�
 laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电脑/笔记本/双耳式耳机
 (cash) deposit      /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款/兑现 v/现金 n
 bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升至
-(dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n//依赖解析
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
 simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
@@ -236,7 +233,6 @@ declarative/imperative coding     /dɪˈklærətɪv/ /ɪmˈperətɪv/     声明
 malformed (date)       /ˌmælˈfɔːrmd/       畸形的 adj
 (extra) workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
 idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置,空闲 adj/空闲自动扫描
-elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 without (explanatory) comment     /ɪkˈsplænətɔːri/      解释 adj/无解释性评论
 minor/minority/major/majority     /ˈmaɪnə(r)/ /maɪˈnɔːrəti/     较小的,次要的 adj/未成年人 n/少数 n/adj/大多数
 most/almost/majority    /məˈdʒɒrəti/        很多 adj/adv/近全满 adv/必过半 adj/n
@@ -319,29 +315,34 @@ before and after comparison     /kəmˈpærɪsn/     前后对比
 duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
 replicate/replication (factor)/replica      /ˈreplɪkeɪt/        复现,重复 v/复制/因子,系数,要素,份数/副本 n
 seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
+exceed/exceeded/exceeding/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
+elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
+Azure       /ˈæʒər/
+provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提供,供应 v/配置 n
+fill in/populate/enter      /fɪl ɪn/ /ˈentər/       填写/填充/进入,输入 v/回车键 n
+asynchronous/asynchronize/sync(synchronize)/synchronous     /eɪˈsɪŋkrənəs/   异步的 adj/n/同步 v/n/adj
+on‑prem(premises)       /ˈpremɪsɪz/     本地部署、私有化部署
+(secret/dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n/密钥,依赖解析
+stabilisation (period)        /ˌsteɪbələˈzeɪʃn/            稳定 n/稳定期
+(contract) hierarchy/level      /ˈhaɪərɑːrki/      层级 n/合同层级
+(retriever) microservice        /ˈmaɪkrəʊsɜːvɪs/      微服务/检索微服务
 
 
 
 
-the issue might be a bit complicated            这问题可能有点复杂
-that will be more complicated       那将会更复杂
-
-request
-request for
-
-notify
-notice/(outage) notification    意识,注意 v/通知 n/断网,服务中断通知
-
-exceeding 300
-exceed/exceeded         超过，超出,超越 v
-exceed/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
-
-the week after next week                下下周
-the day before yesterday/after tomorrow                前天/后天
 
 
 
 
+
+
+
+
+
+
+rework      返工 v/n
+(it's) a bit urgent            有点急
+need your team's support to keep pressing the ca team for sth, as it has been out of service for two years now
 hold on to sth      暂缓,搁置某事
 give you the green light        开绿灯,予以批准
 go this way     采用这个方案，按这个方式走
@@ -362,29 +363,39 @@ we will have a headstart
 i think that's one moving piece
 i kept hearing we could integrate with a team through cyber, i don't know what it mean yet
 i'm likely overrunning current meeting
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+with immediate effect 立即生效
+thanks for your support and cooperation
+by default          默认情况下 adv
+when prompted       当提示的时候
+privacy policy      隐私政策
+retrieval argumented generation
+chunk
+similarity
+reranker        知识重排序
+fine tuning     微调
+ahead
+not to blame anyone
+scared me
+versioning rules            版本控制规则
+release gates       发布门禁
+automate xxx process
+initial evaluation      初步评估
+as you see fit      按照你认为合适的情况
+extend to people        转发扩散给其他人
+how to architect the service description validation agent
+extracted           提取后的
+supplier        供应商
+a call‑off mapped to its parent agreement
+call‑off    子订单/分合同
+parent agreement        父级总协议
+citations       引用出处
+generated reasoning summary     模型生成推理摘要
+have walkthrough        过一遍、评审讲解
+give good indication很好说明；payload请求负载/请求体
+please keep researching how + where we could host one
+this should give good indication of what payload to send and what you receive
+the responses are generated for the following set of engagements咋翻译
+engagements     业务项目
 
 
 

@@ -8,7 +8,6 @@ workstation         工作站 n
 modern/modernization              现代的 adj/n
 self-service            自助服务
 read-only access            只读权限 n
-authenticate/authentication(auth)         认证 v/n
 as a whole          总体上,总的来说,整体来看 adv
 common used         常用
 portal          门户 n
@@ -47,7 +46,6 @@ comment     评估 v
 as of 2026/6/12     截至指定日期
 access application process      权限申请流程 n
 fine-tune           精细调优 n/精细地,细微的 adj/调校,调整,调节 v
-control             控制 v/管控 n
 where (it's) appropriate       在合适的场景/情形下
 development         制定,完善,构建 n
 developer usage acknowledgement         开发者使用 承诺书/声明
@@ -128,18 +126,14 @@ queue               排队 v
 per                     每,每一,按照,根据
 reverse                     相反的 adj
 range                       处于...之间 v
-rework      返工 v/n
 familiar            熟悉的 adj
 saving              节约,节省 n/节约的,节省的 adj
 (the risk of) human error             人为失误
 deliver                提供,交付 v
 existing                 现有的 adj
 outdated                过时的 adj
-sync(synchronize)           同步 v/n
 problematic (code)            有问题的 adj/有问题的代码
-utilize(utilise 英式)                 利用,使用 v
 succeed             成功 v
-by default          默认情况下 adv
 in use      在使用中 adv
 count           计数 v
 collect     收集 v
@@ -194,7 +188,6 @@ functional manager          职能经理
 capture         采集,捕获,截取 v
 affected        受影响的 adj
 refactor        重构 v/n
-associate/associated (guidance)     联系 v/相关的,关联的,配套的 adj/相关指引,配套说明
 approving authority         审批权责方
 permit/permitted to         批准,许可 v/被允许,有权限
 in correct sort order       正确的排序顺序
@@ -260,6 +253,7 @@ maker‑checker mechanism     编制复核机制
 regroup     重新梳理,复盘 v
 retire      退休,下线,停用 v
 map/maps/mapped/mapping         地图,映射,分布图 n/映射 v
+control         控制 v/管控 n
 
 
 

@@ -96,7 +96,6 @@ sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,�
 subject (customer)/subjective     目标的 adj/目标客户/主观的 adj
 the case currently displayed/(which is) open on the page        当前页面显示的case
 (security) patch/patching       补丁,补片 v/n
-host/hosting/hosted at             主办,举行,做东,托管,部署 v/主人,主持人 n/托管于
 violate/violation/break/breach/breaching        违反,违背,触犯 v/违规 n/违反/违反,破坏
 (in) practice/practical         练习 v/练习,实践 n/实际上,实际操作中/实用的,针对性的,真实的,实际的 adj
 (best/security) practice/exercise    练习 v/实践,实际操作 n/练习 v/运动,锻炼 v/n/最佳实践/安全规范,实践
@@ -178,7 +177,6 @@ quite reasonable/it make sense      相当合理,很有道理/有道理
 fetch/extract/read             获取,拉取 v/提取,抽取 v
 anyone/someone             有人
 remember/don't forget/kind(gentle/a warm) reminder to      记得做sth
-authorised/authorized/licensed/licenced         授权的/得到许可的 adj
 inspect/inspected/inspection/audit       检查,视察 v/n
 surface/show/display/displayed         显露,暴露 v/表面(的) n,adj/显示,展示 v/显示的 adj
 backfill/write back/replay        回填,装填/回写/重放 v
@@ -204,7 +202,6 @@ launch/release new feature/version         启动,打开,发起,推出,执行 v
 at the earliest/asap     最早/尽快
 direct/directly/indirect/indirectly/direction         指引,调度,指挥 v/直接的/间接的 adj/adv/方向,方位,指导 n
 recall/remember/memorize (to)        记起,回想起,撤回/记得,记起/记住 用心 v
-(express) license/authorize(authorise)          执照,许可证 n/许可,特许/授权,批准 v/正式书面授权
 kind/type/category          种类/类型/类别 n
 align/alignment/misalignment/consistent        对齐 v/n
 detect/identify/check     探测,检测(脚本自动查)/认出,识别,定位/检查 v
@@ -227,6 +224,15 @@ backup/back-up/replica/alternative      备份 n/adj/副本 n/可替代的,备�
 reproduce/replicate (question)/reproduction       复现 v/n
 in the (past)/last few days//months     在过去 几天/数月
 I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
+notify/(outage) notification/notice      通报，告知 v/通知 n/断网,服务中断通知/注意,意识 v
+the day/week after/before yesterday/tomorrow/next week      前天/后天/下下周
+a slight/little delay(a bit of delay) is normal/common      有延迟很常见,正常
+queue times are usually long in normal channel/long queue times are common      排队时间长是常见
+give you an overview of sth/briefly introduce sth/elaborate     概述,简述/详细说明
+utilize/leverage/utilise(英式)     利用,使用 v
+host/hosting/hosted at/deploy             举行,部署,托管,做东 v/主人,主持人 n/托管于
+suggest we (play around with) jack's proposal/try with sth       试一试jack的提议
+associate/associated (with)     联系 v/相关的,关联的,配套的 adj/与...关联
 
 
 

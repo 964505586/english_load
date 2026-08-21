@@ -44,7 +44,6 @@ one-off                  一次性的
 ordinary                普通的,平常的 adj
 partial                 部分的 adj
 permanently                 永久地/adv
-populate                 填充 v
 prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
 promotion                 晋升 n

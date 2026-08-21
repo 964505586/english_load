@@ -130,21 +130,11 @@ when did you last restart?                     你上次重启是啥时候？
 if program works well/as expected(all tests pass)      如果逻辑运行正常
 as a short/long-term solution               作为 短期/长期 方案
 has your part of this change been released/deployed to prod env ?       你的那部分发布到生产环境了吗？
-since it's a bit urgent            因为有点急
 please give me a bit/little more time           请再多给我点时间
-a bit of delay is normal/common                 有延迟很常见,正常
-a slight/little delay is normal/common          有延迟很常见,正常
-queue times are usually long in the normal channel          正常通道的排队时间通常很长
-long queue times are common          排队时间长是常见
-the key points are highlighted in yellow.               重点内容已用黄色标出
-please check the part highlighted in yellow             请查看标黄部分
-try to follow jack's proposal               试下jack的提议
-let's use this data as input                用这数据作为输入
+just use the data as input                用这数据作为输入
 we can categorize the changes above into two types       我们可以将上面changes归类为2种类型
-we need your team's support to keep pressing the ca team for the ce upgrade, as it has been out of service for two years now
 you may prioritize other ticket for now/you may work on other tickets first         可以优先做其他ticket
 we're (just) counting on you               我们就靠你了(指望)
-we utilize asynchronous tasks to improve performance        我们利用异步任务来提升性能
 could you have(help take) a look at this?             你能看一下xxx吗？
 when in doubt, use the reboot trick!             遇事不决,重启大法
 i spent over an hour on a call with jack yesterday, however, the issue is still unresolved. he said he'll double-check it today
@@ -325,7 +315,6 @@ ai-generated content might be inaccurate or misleading      ai生成的可能存
 i was updating jack on this info         刚刚正在做的动作/刚才正在向杰克更新这些信息
 it was not an issue previously      此前并无异常,之前没有出现过这个问题
 you are one of the approvers        审批人之一
-associated with/the comment associated with the manual trigger         与...关联
 (you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
 headphone/are you wearing headphones/do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
 it just occurred to me (that)     突然想到
@@ -376,6 +365,11 @@ as the deployment is taking seamless deployment approach, there will be no servi
 don’t get me wrong          别误会
 no worries at all       完全不用担心
 not to blame anyone     不是要追究谁的责任
+the issue might be (more complicated)/(a bit complicated)       这问题可能有点复杂/更复杂
+please check the part(key points) highlighted in yellow     请查看标黄部分(重点内容)
+we utilize asynchronous tasks to improve performance        我们利用异步任务来提升性能
+associated guidance/the comment associated with the Agent       相关指引,配套说明
+if the system encounters/experiences/suffers performance issues     如果系统遇到性能问题
 
 
 
