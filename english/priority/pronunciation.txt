@@ -94,7 +94,6 @@ traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
 whole/entire            全部的,整个的 adj
 bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
-reason/reasoned/reasoning       /ˈriːznɪŋ/          推理 v
 retrieve/retrieval/search/query/retrievable     /rɪˈtriːvl/         检索 v/n/可检索的 adj
 blueprint       /ˈbluːprɪnt/        方案,蓝图 n
 preferably      /ˈprefrəbli/                  最好是 adv
@@ -241,7 +240,6 @@ tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/
 toggle/on-off switch        /ˈtɑːɡl/      开关 n
 present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
 (if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
-protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,协定 n/约定好的,同意的 adj
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
 extra/extract/extraction    /ˈekstrækt; ɪkˈstrækt/      额外的 adj/提取,抽取 v/选段,引文 n/提取,抽取 n
 originate (from)/original/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创/起源 n
@@ -306,7 +304,6 @@ redundant/duplicate/useless/unused/invalid    /rɪˈdʌndənt/    多余的/重�
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合格的 adj/资格,合格 n/资格审查
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
-similarity search       /ˌsɪməˈlærəti/       相似度搜索
 before and after comparison     /kəmˈpærɪsn/     前后对比
 duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
 replicate/replication (factor)/replica      /ˈreplɪkeɪt/        复现,重复 v/复制/因子,系数,要素,份数/副本 n
@@ -328,65 +325,39 @@ stabilisation (period)        /ˌsteɪbələˈzeɪʃn/            稳定 n/稳�
 intend/intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,主动地 adj/adv/意图,目的 n
 (protect) privacy (policy/protection)/private       /ˈprɪvəsi/      隐私 n/私有的 adj/隐私政策
 alternatively(or)/alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
+flexible        /ˈfleksəb(ə)l/        灵活的 adj
+similarity (search)/similar/familiar       /ˌsɪməˈlærəti/       相似度 n/相似度搜索/相似的,类似的/熟悉的 adj
+citation       /saɪˈteɪʃ(ə)n/       引文 n
+reason/reasoned/reasoning/reasonable        /ˈriːznɪŋ/       推理 v/合理的 adj
+protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,一致 n/约定好的,同意的 adj
 
 
 
-flexible        灵活的 adj
 
-land in     归属到,落入
-0 case fell/fall into batch running last night      落入,陷入 v/0个case进入batch
-
-
-need your team's support to keep pressing the CA team for sth, as it has been out of service for two years now
-not yet, for now we are using sth
-mainly on the checking of true hits of those csp flags  句子成分
-gone thru       gone through
 amend code
-re‑engage the team      重新对接团队
-
 i think that's one moving piece
 i kept hearing we could integrate with a team through cyber, i don't know what it mean yet
 i'm likely overrunning current meeting
-with immediate effect 立即生效
 thanks for your support and cooperation
-by default          默认情况下 adv
-when prompted       当提示的时候
-retrieval argumented generation
-chunk
-similarity
-reranker        知识重排序
-fine tuning     微调
 ahead
-scared me
 versioning rules            版本控制规则
-release gates       发布门禁
-automate xxx process
-initial evaluation      初步评估
 as you see fit      按照你认为合适的情况
 extend to people        转发扩散给其他人
 how to architect the service description validation agent
 extracted           提取后的
-supplier        供应商
 a call‑off mapped to its parent agreement
 call‑off    子订单/分合同
-parent agreement        父级总协议
-citations       引用出处
-generated reasoning summary     模型生成推理摘要
-have walkthrough        过一遍,评审讲解
-give good indication        很好说明,payload请求负载/请求体
 please keep researching how + where we could host one
-this should give good indication of what payload to send and what you receive
 the responses are generated for the following set of engagements咋翻译
 engagements     业务项目
-
-
-
-Not this time 这次先不用啦
-touchwood英式口语，“但愿别出问题,祈求好运
+touchwood       但愿别出问题,祈求好运
 obtain buy‑in from users 获得相关方/业务用户的认同,支持,
 认可
 purchase
-criminal records犯罪记录,mobile verification 手机号核验,mobile on‑net verification手机号在网状态核验,sustain v.维持，支撑。
+criminal records        犯罪记录
+mobile verification        手机号核验
+mobile on‑net verification   手机号在网状态核验
+sustain v.维持，支撑。
 PoC = Proof‑of‑Concept      概念验证，技术试点
 SAMM capability extension
 support
@@ -403,15 +374,13 @@ they told use they were doing it in the last meeting or something
 they were doing it为什么是过去进行时，是因为他们已经在做了是吗？
 challenge that they are not thinking enough and full scope
 consolidatev        合并,汇总,
-Process v
 Average running time
 good for a call
 I will try my best to come up again
 clean v？？？
-PoC Proof of Concept，概念验证试点
-RAG Retrieval‑Augmented Generation，检索增强生成（大模型）
+PoC Proof of Concept        概念验证试点
+RAG Retrieval‑Augmented Generation      检索增强生成（大模型）
 Roman 10:15 How beautiful are the feet of those who bring good news!
-
 罗马书10:15，报福音传喜信的人，他们的脚踪何等佳美！
 圣经经文，团队玩梗，用来打趣“报喜报好消息”
 Philippians 4:8

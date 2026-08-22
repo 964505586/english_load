@@ -7,7 +7,6 @@ near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
 architect/architecture/framework   架构师/架构/框架
 given this/in the case(way)/so that
 up-to-date/latest           新式的,与时俱进的/最新的
-go/work/walk through          经历,逐条梳理,过一遍/解决/完整讲解,分步演示
 internal/external           内部的/外部的 adj
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的,可落地的 adj
 ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
@@ -70,7 +69,6 @@ marked/highlighted part/area/section/paragraph             高亮 部分/区域,
 occur/appear/happen
 as usual/planned/expected                       像往常一样/按计划/按预期
 discrepancy/difference                 差异 n
-obstacle/friction(block v/n)                障碍,阻碍,困难 n/阻碍,摩擦阻力,繁琐卡点
 edition/version                     版本 n
 may/can
 seem/look/sounds like good/fine
@@ -141,8 +139,6 @@ mad/crazy            发疯的/疯狂的
 decide/determine           决定/下决心
 habit/hobby               习惯/爱好
 contact/contract        联系/合同
-possess/process         拥有 v/过程,程序,进程 n
-similar/familiar        相似的,类似的 adj/熟悉的 adj
 volunteer/voluntary/voluntarily     志愿者/自愿的,主动的 adj/adv
 effective (action/measures)/effectively/efficient/efficiency    有效的 adj/高效地,有效地 adv/高效的 adj/效率 n
 tips/tricks/recommendations/kind(a warm) reminder       小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
@@ -236,6 +232,10 @@ could you please acknowledge/confirm        请确认(已收到/知晓/知悉)
 self-service/introduction/check link or tools       自助服务/自我介绍/自查链接,工具
 Our effort (flows away)/effort will go to waste       流走,白白流失,付诸东流 v/投入付诸东流
 lag/delay/hold on to sth       延迟,推迟,延期 v/n/暂缓,搁置某事
+supply/offer/provide        供应,提供 v/供应 n
+supplier/vendor        供应商
+possess/process/flow         拥有/处理 v/过程,程序,进程/流 n
+0 case (fell/fall into) batch running last night/land in    /lænd ɪn/      落入,陷入/归属到,落入 v/0个case进入batch
 
 
 

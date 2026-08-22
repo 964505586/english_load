@@ -10,8 +10,6 @@ read-only access            只读权限 n
 as a whole          总体上,总的来说,整体来看 adv
 common used         常用
 portal          门户 n
-block/blocker         阻碍 v/n
-(request) payload         有效负载 n
 third-party     第三方
 cyber       网络的 adj
 foundational (branch)            基础的,基本的 adj
@@ -60,7 +58,6 @@ codebase            代码库 n
 snippet         小片,片断	 n
 datapoint           数据点 n
 re-platform         平台重构,系统迁移 n
-building block       基础模块,核心组件,积木块 n
 somewhat            稍微,有点 adv
 maintain                            保持,维持,维护 v
 clarify/clarity                         澄清,阐明,明确 v/清晰 n
@@ -84,7 +81,6 @@ highlight           突出,强调 v
 disconnected            割裂的,零散的 adj
 session         课程场次,会议 n
 specify/specified/specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确的,具体的地,特定的,特意的 adj/adv
-unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
 onboarding          接入,上线 v
 upcoming                即将来临的 adj
 go live                 上线 v
@@ -244,7 +240,6 @@ retesting           复测 n
 factor (in)     因素，要素 n/将...计入,将...考虑进去 v
 leave/left/leaving (a comment)             留下评论/离开 v/假期 n
 hiccup     打嗝,临时小故障,突发小问题 n
-vector store        向量存储
 maker‑checker mechanism     编制复核机制
 4‑eyes checking     四眼复核,双人审核
 regroup     重新梳理,复盘 v
@@ -254,6 +249,18 @@ control         控制 v/管控 n
 P0          最高优先级故障,任务(P0 > P1 > P2 > P3)
 rework      返工 v/n
 refer/referring to sth/reference       参考,查阅 v/参考,引用 n/v
+by default          默认情况下 adv
+when prompted       当提示的时候
+vector store        向量存储
+rerank        重排序
+fine‑tuning     微调
+generated reasoning summary     生成推理摘要
+release gates       发布门禁
+(request) payload         有效负载 n/请求负载,请求体
+(parent/child) chunk       文本块、切片 n/父块,子块
+parent‑child agreement      父子块一致性
+initial evaluation      初步评估
+with immediate effect           立即生效
 
 
 

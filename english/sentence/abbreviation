@@ -53,6 +53,7 @@ LLM         Large Language Model 大语言模型
 MRM         Model Risk Management (metrics) 模型风险管理(指标)
 BAU         Business‑As‑Usual 日常业务,常规工作,常态化业务
 CICD        Continuous Integration Continuous Delivery
+RAG         retrieval augmented generation 检索增强生成
 
 
 

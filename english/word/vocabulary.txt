@@ -327,7 +327,6 @@ rather    adv 相当,宁愿
 react                       反应 v
 realise 意识到
 reality                             真实,现实 n
-reasonable            合理的
 recognize                           辨别出 v
 regard                              把...看作
 regret                      n 后悔(做了的),遗憾(未做的)

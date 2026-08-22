@@ -369,6 +369,14 @@ just ask in Teams group     直接在群里问就行
 go this way     采用这个方案，按这个方式走
 will get/have a head‑start(early advantage)       将会占据先机
 give you the green/red light        给某人开绿灯,批准/否决,叫停
+scared me       吓我
+re‑engage the team      重新对接团队
+this should (give a good indication) of what payload to send and what you receive     很好说明了。。。
+Not this time       这次不行；这回就算了
+automate devops process        使自动化 v
+please keep pressing CA team for sth, as it has been out of service for two years now       请继续向CA团队施压,推动此事
+not yet, for now we are using sth       还没有，目前我们正在用sth
+Work is (mainly on the checking of) true value of those metrics     主要集中在
 
 
 
