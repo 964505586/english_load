@@ -334,6 +334,19 @@ protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条�
 
 
 
+furthermore         此外,而且 adv
+moreover/in addition/btw/besides            另外,此外 adv
+on the other hand/side             另一方面
+and what's more, ...     而且,此外
+from another an
+
+When will this be ready for UAT     什么时候准备好进入UAT
+how long will you need to get this done         你要多久做完这个？
+when do we target to get this ready             我们预计啥时候能准备好这个
+
+what's it/this for?             干嘛用的
+what's the ticket for/what's purpose for the ticket        这ticket干嘛的
+
 amend code
 i think that's one moving piece
 i kept hearing we could integrate with a team through cyber, i don't know what it mean yet
