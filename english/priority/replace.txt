@@ -17,7 +17,6 @@ as shown/stated/mentioned below/above          如下所示/如前所述/前文�
 change/changeable                          变化,变更 n/多变的 adj
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
 regulatory compliance/compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
-lag/delay       延迟,推迟,延期 v/n
 dynamic/static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
 balance exercise            平衡考量,折中方案 n
@@ -113,7 +112,6 @@ time-saving/consuming       省时的/耗时的 adj
 respond/response                 响应 v/n
 shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造服务
 involve/include/contain/cover/covering      涉及/包含/覆盖 v
-refer to sth/reference       参考,查阅 v/参考,引用 n/v
 post-upgrade/after upgrade          版本升级后
 minimum reliable path/solution       最简可靠方案
 confuse/confused/confusing/confusion    使困惑,使迷惑 v/困惑的,糊涂的 adj/困惑,混乱 n
@@ -220,7 +218,6 @@ in‑scope/out‑of‑scope       (超出)范围内/外
 perform/do/implement        xxx/执行,实现 v
 just asking/wondering       只是问问/就是想知道
 against/regarding       针对 prep
-backup/back-up/replica/alternative      备份 n/adj/副本 n/可替代的,备选的 adj
 reproduce/replicate (question)/reproduction       复现 v/n
 in the (past)/last few days//months     在过去 几天/数月
 I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
@@ -233,6 +230,12 @@ utilize/leverage/utilise(英式)     利用,使用 v
 host/hosting/hosted at/deploy             举行,部署,托管,做东 v/主人,主持人 n/托管于
 suggest we (play around with) jack's proposal/try with sth       试一试jack的提议
 associate/associated (with)     联系 v/相关的,关联的,配套的 adj/与...关联
+(the best) slot/period        时间段,时段/一段时间,时期 n/最佳时间段
+plan/intend/would like to           打算,想要/计划 v
+could you please acknowledge/confirm        请确认(已收到/知晓/知悉)
+self-service/introduction/check link or tools       自助服务/自我介绍/自查链接,工具
+Our effort (flows away)/effort will go to waste       流走,白白流失,付诸东流 v/投入付诸东流
+lag/delay/hold on to sth       延迟,推迟,延期 v/n/暂缓,搁置某事
 
 
 

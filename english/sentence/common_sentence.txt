@@ -56,7 +56,6 @@ sorry to interrupt                              抱歉打扰一下
 please excuse/forgive me                                对不起,打扰一下,请原谅我
 my bad/fault/apologies                            我的错
 i'm quite guilty for this                       我对此很愧疚
-apologize for the delay in response
 once again, really sorry for the confusion
 i'm (so) sorry to hear that             听到这个我很 遗憾/难过
 i'm sorry to have kept you waiting          对不起,让你久等了
@@ -88,9 +87,9 @@ it makes sense
 (i totally) agree with you          我完全同意你
 can't agree more            非常同意
 how nice/wonderful          太好了
-exactly/certainly/absolutely/definitely
 yep/yup/sure/of course
 (you're) (exactly) right/correct
+exactly/certainly/absolutely/definitely
 
 否定
 nope/never/incorrect                  没有/从不/不正确

@@ -142,20 +142,15 @@ the problematic code is from frontend, not backend           有问题的代码�
 could you please help guide the new joiners through the onboarding process?     帮忙带下新人
 the header disappears when i scroll down        当向下滚动,标题就消失了
 how do i freeze the top/header row so (that) it stays visible when scrolling down?          如何将标题行冻结,使其在向下滚动时仍保持可见状态？
-could you please acknowledge                你能确认 已收到/知晓,知悉 吗？
 platform patching led to an (unexpected) production outage last night           导致生产环境宕机
-please find the email chain below               邮件往来请见下方
 jack mentioned that you are already aware of this               jack说你已经知道这个了
-your hard/excellent work is well recognized                 你的出色工作得到了认可
-let's ask in the team group             在群里问下吧
 17 months of data               17 个月的数据
 kind reminder to provide the info below          温馨提示: 请提供以下信息
 i have received the file from your separate email           我已经从您单独发来的邮件中收到了那份文件
 i noticed/observed that the score ranges from 0 to 9                我注意到分数的范围是从0到9
-please ignore this email if you have already actioned this              如果您已采取行动,请忽略此邮件
+please ignore the email if you have already actioned this              如果您已采取行动,请忽略此邮件
 jack is staring at sb/sth                       jack正盯着它看
-troubleshooting is ongoing. no eta for resolution has been confirmed at this time(troubleshooting ongoing, no eta yet)           问题正在排查中,目前暂未确认解决时间
-self-check link or tools                自查链接或工具
+troubleshooting (is) ongoing. no ETA yet(no ETA for resolution has been confirmed at this time)     问题正在排查中,目前暂未确认解决时间
 it will be a time-consuming effort for all of us            对我们所有人,都是一项耗时的工作
 further updates will be shared as progress is made          有进展后会同步更多更新
 better to save this link as a bookmark—you'll use it often              最好保存书签,你会经常用的
@@ -194,7 +189,7 @@ it shouldn't ideally have any impact               理想情况,它不应产生�
 for reference only/this is for informational purposes only          此内容仅供参考
 i think it may not be so straightforward                            我觉得这事可能没那么简单
 (it's) not so fast             别太快,别急,没那么容易
-please kindly give this email your full attention                   烦请务必仔细查阅并重视本邮件
+please kindly give the email your full attention                   烦请务必仔细查阅并重视本邮件
 we need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
 i can't remember very well either           我也记不太清楚了
 they'll restrict us from raising prs, which will lead to escalation & a lot more paperwork. i'm sure none of us wants to go through all that
@@ -206,8 +201,7 @@ what id did you use             你用的是什么id？
 we're on it            我们正在处理
 or what would be the next step          接下来该怎么做呢
 seeking the next step           等待下一步指示
-rescheduling the slot to accommodate the uk team member, as the current slot overlaps/conflicts with their lunch hour           重新安排时间以容纳英国团队成员,因为当前的时间安排与他们的午餐时间有冲突/重叠
-please find all the details below
+rescheduling the slot to accommodate the uk team member, as the current slot overlaps/conflicts with their lunch hour           重新安排时间以容纳UK团队,as当前时间与他们的午餐有冲突
 there will be downtime around 1 to 2 hours required to complete the patching activity from pre-check & post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
 so that you can (better) understand the project (more)          以至于你能更好地理解这个项目
 somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
@@ -347,7 +341,6 @@ the result was beyond(out of) my expectations       出乎我的意料
 would like to seek guidance from your side on the following     希望向贵方寻求指导
 will be directed to new version         将被导向至新版本
 doing sth involves sth (adding data to db involves two stages)        添加数据库到db涉及两个阶段
-if doing sth is needed/feasible (using an alternative solution is needed)       如果需要替代方案
 (all services) are up & running       系统正常运行,服务就绪
 please include me in the call       把某人加入会议/请把我加入
 (be) conscious it's nearly the end of the day for you       意识到你们那边差不多快下班了
@@ -370,6 +363,12 @@ please check the part(key points) highlighted in yellow     请查看标黄部�
 we utilize asynchronous tasks to improve performance        我们利用异步任务来提升性能
 associated guidance/the comment associated with the Agent       相关指引,配套说明
 if the system encounters/experiences/suffers performance issues     如果系统遇到性能问题
+When will this be ready for UAT     什么时候准备好进入UAT
+just ask in Teams group     直接在群里问就行
+(it's) a bit urgent            有点急
+go this way     采用这个方案，按这个方式走
+will get/have a head‑start(early advantage)       将会占据先机
+give you the green/red light        给某人开绿灯,批准/否决,叫停
 
 
 

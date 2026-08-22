@@ -87,7 +87,6 @@ we read data in batches                         我们分批读取数据
 this api supports bulk requests                 这api支持批量请求
 at least not tonight                至少不是今晚
 what a pleasant surprise                    真是个惊喜(意外之喜)
-please find the (attached) recap(meeting minutes) from our meeting yesterday            请查收我们昨天会议的纪要
 that would be great if ...
 from now/2026/(next week) onwards           从...以后
 we are not the owner of the priority channel; let me check if this can be added to the priority channel for the 16:00 batch
@@ -97,7 +96,6 @@ i've come up with two potential solutions for the issue         我想出了两�
 the frontline is complaining(shouting 大喊大叫) every day
 make good/full use of                               充分利用
 just get familiar with the main process first. for the specific details, ask jack, me or other team members when you start working on it    先了解主流程,至于细节,等你开始做了,在找人问
-for your convenience, please find FAQS here             为方便您使用,常见问题请在此查阅
 the fact of the matter is no matter how well we take care of him
 if that was my husband, if there was a chance, no matter how small, i would go having said that
 

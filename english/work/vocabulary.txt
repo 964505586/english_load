@@ -9,7 +9,6 @@ conflict                    冲突 n/v
 such                这种
 proxy                 代理
 ingest                 摄取 v
-find                 查收 v
 fraud                 欺诈 n
 insert          插入 v
 access                          访问 v

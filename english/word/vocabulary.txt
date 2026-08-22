@@ -61,7 +61,6 @@ careful/carefully               小心地
 catch/caught
 celebrate   庆祝
 central                             中央的,中心的 adj
-certain/certainly                 必然的,确定的
 certificate                         证书
 character               性格 n
 characteristic                          特征,特点 n
@@ -208,7 +207,6 @@ horizon                     眼界
 housing fund                        住房公积金
 humorous                        幽默的
 hurriedly(in a hurry)                      匆忙地 adv
-immediate           立刻的,即时的,目前的,直接的 adj
 improve                     提高,改善,康复 v
 in a different way
 in recent days(years)                  最近几天
@@ -352,7 +350,6 @@ same as                             等同于
 screen                      屏蔽 v        屏幕 n
 seem                        似乎
 select/selection                                选择,挑选 v/n
-self-introduction
 selfish                             自私的 adj
 sell/sold out            卖完
 share with sb

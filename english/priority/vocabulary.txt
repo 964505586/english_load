@@ -6,7 +6,6 @@ extensively         大量地,频繁地 adv
 desktop         桌面 n
 workstation         工作站 n
 modern/modernization              现代的 adj/n
-self-service            自助服务
 read-only access            只读权限 n
 as a whole          总体上,总的来说,整体来看 adv
 common used         常用
@@ -76,7 +75,6 @@ on your calendar            你的日程
 ahead           在前的,提前的,未来的,即将到来的 adj
 last            最后的,最近的 adj/持续 v
 subset              子集 n
-anything urgent             紧急事项 n
 open(to do) item                   待处理事项 n
 work together           协同配合
 draft                                   起草,草拟 v/草稿 n
@@ -140,7 +138,6 @@ collect     收集 v
 frequent/frequently(often)          经常地,频繁地 adj/adv
 anyway          总之,反正
 hold on            等一下,坚持住
-find out more       了解更多
 multimodal model     多模态(模型)
 significant/significantly       显著地,大幅度地,重要地 adj/adv
 as needed       按需 adv
@@ -254,6 +251,9 @@ regroup     重新梳理,复盘 v
 retire      退休,下线,停用 v
 map/maps/mapped/mapping         地图,映射,分布图 n/映射 v
 control         控制 v/管控 n
+P0          最高优先级故障,任务(P0 > P1 > P2 > P3)
+rework      返工 v/n
+refer/referring to sth/reference       参考,查阅 v/参考,引用 n/v
 
 
 
