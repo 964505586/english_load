@@ -138,7 +138,6 @@ could you have(help take) a look at this?             你能看一下xxx吗？
 when in doubt, use the reboot trick!             遇事不决,重启大法
 i spent over an hour on a call with jack yesterday, however, the issue is still unresolved. he said he'll double-check it today
 the problematic code is from frontend, not backend           有问题的代码来自frontend,而非backend
-could you please help guide the new joiners through the onboarding process?     帮忙带下新人
 the header disappears when i scroll down        当向下滚动,标题就消失了
 how do i freeze the top/header row so (that) it stays visible when scrolling down?          如何将标题行冻结,使其在向下滚动时仍保持可见状态？
 platform patching led to an (unexpected) production outage last night           导致生产环境宕机
@@ -251,7 +250,6 @@ we likely need to           我们可能需要
 can you reproduce this issue/can this issue be reproduced       你能复现这个问题吗?
 (it's) nothing, i barely helped at all/didn't help much anyway      几乎没帮上忙,并未提供多少帮助
 end up as sth           最终变成,最终格式为
-guide sb through sth        带sb一步步走完,逐项讲解sth
 lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 not a fan of sth            不推荐,不认可,不喜欢sth
 not entirely sure/i'm not sure that(about sb/sth)        不完全确定/我不确定~
@@ -373,6 +371,15 @@ made a correction on sth      对n进行了修正
 i still don't know what it means yet       目前还不清楚这啥意思
 i (kept hearing) we could integrate with a team through SAS     一直反复听到/一直听大家说，可以通过Cyber和另一个团队做整合
 i'm likely to overrun the current meeting       超出，超过 v/这会议大概率会超时
+in one's free/spare time        在某人的空闲时间
+sell ideas to sb        向某人推销,推广方案
+it will not be that easy for us to do sth        对我们来说，做这事没那么容易
+please keep researching how & where we could host one       继续研究我们如何 & 在哪里可以举办一次
+touch‑wood(can make it a back-up for (touch‑wood) next time)       老天保佑；希望别出问题
+specially creating an online doc to list all BAU issues we have identified      专门建了个文档，列出发现的所有BAU issue
+challenge that they are not thinking enough and not considering the full scope      质疑他们思考不够，没有覆盖完整范围
+could you please help guide new joiners through the onboarding process     帮忙带下新人
+would you mind doing(having a look at the issue)       可否麻烦你看一下这个问题
 
 
 

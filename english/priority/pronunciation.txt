@@ -239,7 +239,6 @@ toggle/on-off switch        /ˈtɑːɡl/      开关 n
 present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
 (if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
-extra/extract/extraction    /ˈekstrækt; ɪkˈstrækt/      额外的 adj/提取,抽取 v/选段,引文 n/提取,抽取 n
 originate (from)/original/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创/起源 n
 raw (data)/row/column        /rɔː/     原始的 adj/原始数据/行/纵列
 precious/valuable/invaluable/valueless       /ˈpreʃəs/        宝贵的/贵重的/无价的/无价值的 adj
@@ -332,6 +331,7 @@ exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/
 steady/unsteady/stable/unstable     /ˈstedi/         稳定的,平稳的,持续的 adj/adv/稳定的,牢固的 adj
 attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
 ahead of/prior to/before (deployment)       /ˈpraɪər/       在deployment之前
+extract/extracted/extraction/extra    /ˈekstrækt; ɪkˈstrækt/      提取,抽取 v/选段,引文 n/提取后的 adj/提取,抽取 n/额外的 adj
 
 
 
@@ -340,47 +340,24 @@ ahead of/prior to/before (deployment)       /ˈpraɪər/       在deployment之�
 
 
 
-
-
-versioning rules            版本控制规则
-as you see fit      按照你认为合适的情况
-extend to people        转发扩散给其他人
-how to architect the service description validation agent
-extracted           提取后的
-a call‑off mapped to its parent agreement
-call‑off    子订单/分合同
-please keep researching how + where we could host one
-the responses are generated for the following set of engagements咋翻译
-engagements     业务项目
-touchwood       但愿别出问题,祈求好运
-mobile (on‑net) verification        手机号核验/手机号在网状态核验
-team capability extension
-sell ideas to sb        向某人推销/推广方案,
-it will not be that easy for us on selling new ideas / capability to them
-specially       专门地
-specially creating this defects and issues log for listing all BAU issues that we found
-issue resolving     问题处置,故障处理。
-discounting
-they told use they were doing it in the last meeting or something
-they were doing it为什么是过去进行时，是因为他们已经在做了是吗？
-challenge that they are not thinking enough and full scope
-Average running time
-good for a call
-I will try my best to come up again
-clean v？？？
-Roman 10:15 How beautiful are the feet of those who bring good news!
-罗马书10:15，报福音传喜信的人，他们的脚踪何等佳美！
-圣经经文，团队玩梗，用来打趣“报喜报好消息”
-Philippians 4:8
 whatever is true，noble,  right, pure, lovely, admirable
 keep sb informed on sth     将某事同步告知某人
-guide sb on sth     指导某人处理某事
-Would you mind having a look and checking the file format?
-would you mind + doing
 work with the team      和团队协同工作
 be good to do sth 可以做,准备就绪可以做
 
 
+as you see fit      酌情,按照你认为合适的情况,方式
+extend to people        转发扩散给其他人
+
+(parent/child) chunk       文本块、切片 n/父块,子块
+parent‑child agreement      父子块一致性
+a call‑off mapped to its parent agreement
+call‑off    子订单/分合同
+
+roman 10:15 how beautiful are the feet of those who bring good news!
+罗马书10:15，报福音传喜信的人，他们的脚踪何等佳美！
+圣经经文，团队玩梗，用来打趣“报喜报好消息”
+philippians 4:8
 
 
 
@@ -399,155 +376,6 @@ be good to do sth 可以做,准备就绪可以做
 
 
 其实现在的话还算好,就怕以后会有更多的数据更新场景操作。用英语怎么说？
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

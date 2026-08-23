@@ -83,7 +83,6 @@ in particular/detail/specifically       具体来说/详细地 adv
 let's say for/such as/for example       举例来说/多个例子/举例1–2个
 at times/sometimes        偶尔,时不时,有时 adv
 if so/desired/necessary           如果这样/需要/必要
-move/remove/shift       挪动,更改/移除,删掉/移动,转移,偏移,延后
 aside from/except/other than      除...以外 +-/-/-
 (app) lossless compression/compress        无损的 adj/压缩 v/n/无损压缩应用
 typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
@@ -117,7 +116,6 @@ watched/automatic watching      关注的 adj/自动关注
 staging/pre-prod env        预发布环境
 be closing down/sth will be gone    逐步下线,陆续停用,即将关停/即将下线,移除,不复存在
 pin up/pinned (to version xxx)/fixed      /ˈpɪn ʌp/     置顶,挂图 v/已置顶的 adj/固定版本,锁定版本/固定的 adj
-engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,投入度 n/持续参与,使用,投入
 1h/2h/h2 2026/achievements/half year 2     (2026)下半年/上半年成绩
 estimated (duration)/judge      估计的,判断,评价 v/(预估的)持续时间 n
 (human/professional) judgement/judge/estimate      判断,意见,判断力 n/判断,评判,评价 v/人工,专业判断
@@ -168,7 +166,6 @@ underlying/potential        潜在的,可能的
 each/every
 truly/really        真正地
 quite reasonable/it make sense      相当合理,很有道理/有道理
-fetch/extract/read             获取,拉取 v/提取,抽取 v
 anyone/someone             有人
 inspect/inspected/inspection/audit       检查,视察 v/n
 surface/show/display/displayed         显露,暴露 v/表面(的) n,adj/显示,展示 v/显示的 adj
@@ -239,6 +236,11 @@ modify/update/change/edit           修改/更新/改变/编辑 v
 sustain/support     维持，支撑/支持 v
 could you please acknowledge/confirm/acknowledged        确认,认可,感谢 v/请确认(已收到/知晓/知悉)
 stakeholder/related parties                  相关方,利益相关者/相关方
+fetch/extract/read             获取,拉取 v/提取,抽取 v
+how to (architect/design) the agent     设计 v
+engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,业务项目 n/持续参与,使用,投入
+looks to me/in my view(opinion/perspective)     在我看来
+guide sb on/through sth     指导某人/带sb一步步走完
 
 
 

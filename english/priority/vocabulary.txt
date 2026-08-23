@@ -253,11 +253,15 @@ fine‑tuning     微调
 generated reasoning summary     生成推理摘要
 release gates       发布门禁
 (request) payload         有效负载 n/请求负载,请求体
-(parent/child) chunk       文本块、切片 n/父块,子块
-parent‑child agreement      父子块一致性
 initial evaluation      初步评估
 with immediate effect           立即生效
 criminal (records)        犯法的,犯罪的 adj/罪犯 n/犯罪记录
+versioning rules            版本控制规则
+average running time        平均运行时长,执行时间
+issue resolving     问题处置,故障处理
+mobile/on‑net verification        手机号核验/手机号在网状态核验
+team capability extension       团队能力扩展
+discount/discounting     打折,减价,折扣 v/n
 
 
 
