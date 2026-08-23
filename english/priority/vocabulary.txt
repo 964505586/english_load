@@ -27,7 +27,6 @@ workshop            车间,工场,作坊 n
 shell company       空壳公司
 money mule          资金骡(洗钱中转人/中转企业)
 go public           上市,公开募股
-criminal            犯法的,犯罪的 adj/罪犯 n
 knowingly/unknowingly         不知情地,不知不觉地 adv
 adoption        采用,接受 n
 contain            包含,遏制 v
@@ -69,7 +68,6 @@ outcome         结果 n
 end-to-end          端对端的 adj/adv
 built-in                内置的 adj
 on your calendar            你的日程
-ahead           在前的,提前的,未来的,即将到来的 adj
 last            最后的,最近的 adj/持续 v
 subset              子集 n
 open(to do) item                   待处理事项 n
@@ -174,7 +172,6 @@ platform improvement    平台优化
 step-by-step guide     分步指南
 renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度重视,重新强调
 tip     小技巧,最新提交(git专业术语: 分支末端最新提交节点)
-acknowledge/acknowledged                         确认,认可,承认,感谢 v
 mini fund       小额理财基金
 (your) hours worked       你的工作时长
 functional manager          职能经理
@@ -224,7 +221,6 @@ sequence diagram                时序图,顺序图 n
 low level design        底层设计
 phase           阶段 n
 who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个？
-stakeholder                  相关方,利益相关者
 instead     相反
 apply (for)/application         应用 vt/申请 vi/n
 pick (up)         挑选/接手,获取,恢复,继续 v
@@ -261,6 +257,7 @@ release gates       发布门禁
 parent‑child agreement      父子块一致性
 initial evaluation      初步评估
 with immediate effect           立即生效
+criminal (records)        犯法的,犯罪的 adj/罪犯 n/犯罪记录
 
 
 

@@ -44,7 +44,6 @@ govern/governed/governing/governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统�
 retriable        /rɪˈtraɪəbl/           可重试的 adj
 plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编码 v
 discard/dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
-attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
 stay tuned/please bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 opt out of      /ɒpt aʊt əv/      选择退出 v
@@ -78,7 +77,6 @@ swap/switch/replace     /swɒp/      替换,切换 v
 isolate/quarantine      /ˈkwɒrəntiːn/       隔离,孤立 v/隔离 v/n
 quartermaster info      /ˈkwɔːtəmɑːstə(r)/          统筹,后勤信息
 expedite/accelerate/speed up        /spiːd ʌp/        加快
-(in the) interim        /ˈɪntərɪm/     过渡期,中间期 n
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
 arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
@@ -243,8 +241,6 @@ present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
 extra/extract/extraction    /ˈekstrækt; ɪkˈstrækt/      额外的 adj/提取,抽取 v/选段,引文 n/提取,抽取 n
 originate (from)/original/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创/起源 n
-revise/rectify/reword/modify/update/change/edit      /ˈrektɪfaɪ/     修正/纠正,矫正/改写/修改/更新/改变/编辑 v
-reword/revise/rectify error msg          /ˌriːˈwɜːrd/        改写/修正
 raw (data)/row/column        /rɔː/     原始的 adj/原始数据/行/纵列
 precious/valuable/invaluable/valueless       /ˈpreʃəs/        宝贵的/贵重的/无价的/无价值的 adj
 confidential/sensitive/sensitivity      /ˌkɑːnfɪˈdenʃ(ə)l/      机密的 adj/敏感的 adj/敏感性,敏感度 n
@@ -274,7 +270,6 @@ outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,�
 assess/assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n/进化
 rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/旋转,转动 n/值班名册,轮值表
 orchestration       /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
-ahead of/prior to/before (deployment)       /ˈpraɪər/       在deployment之前
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
 alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
@@ -308,7 +303,6 @@ before and after comparison     /kəmˈpærɪsn/     前后对比
 duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
 replicate/replication (factor)/replica      /ˈreplɪkeɪt/        复现,重复 v/复制/因子,系数,要素,份数/副本 n
 seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
-exceed/exceeded/exceeding/over/beyond one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 Azure       /ˈæʒər/
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提供,供应 v/配置 n
@@ -321,7 +315,6 @@ on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
 certain/certainly/certainty     /ˈsɜːrt(ə)nti/      必然的,确定的 adj/adv/确定性 n
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
 deprecated      /ˈdeprəkeɪtɪd/      已废弃的 adj
-stabilisation (period)        /ˌsteɪbələˈzeɪʃn/            稳定 n/稳定期
 intend/intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,主动地 adj/adv/意图,目的 n
 (protect) privacy (policy/protection)/private       /ˈprɪvəsi/      隐私 n/私有的 adj/隐私政策
 alternatively(or)/alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
@@ -330,29 +323,25 @@ similarity (search)/similar/familiar       /ˌsɪməˈlærəti/       相似度 
 citation       /saɪˈteɪʃ(ə)n/       引文 n
 reason/reasoned/reasoning/reasonable        /ˈriːznɪŋ/       推理 v/合理的 adj
 protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,一致 n/约定好的,同意的 adj
+purchase (100 tokens)        /ˈpɜːrtʃəs/         购买，采购 v/n
+(His effort is) praiseworthy        /ˈpreɪzwɜːrði/      值得称赞的 adj
+reword/revise/amend/rectify/correct error msg       /ˈrektɪfaɪ/ /ˌriːˈwɜːrd/    改写/修正，修订/修改，修订/纠正,矫正 v
+quit/quite/quiet/quietly        /kwɪt/        停止 v/很,非常 adv/安静 v/n/adj/adv
+exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
+(in the) interim/stabilisation (period)        /ˈɪntərɪm/ /ˌsteɪbələˈzeɪʃn/     过渡期,中间期 n/稳定 n/稳定期
+steady/unsteady/stable/unstable     /ˈstedi/         稳定的,平稳的,持续的 adj/adv/稳定的,牢固的 adj
+attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
+ahead of/prior to/before (deployment)       /ˈpraɪər/       在deployment之前
 
 
 
 
-furthermore         此外,而且 adv
-moreover/in addition/btw/besides            另外,此外 adv
-on the other hand/side             另一方面
-and what's more, ...     而且,此外
-from another an
 
-When will this be ready for UAT     什么时候准备好进入UAT
-how long will you need to get this done         你要多久做完这个？
-when do we target to get this ready             我们预计啥时候能准备好这个
 
-what's it/this for?             干嘛用的
-what's the ticket for/what's purpose for the ticket        这ticket干嘛的
 
-amend code
-i think that's one moving piece
-i kept hearing we could integrate with a team through cyber, i don't know what it mean yet
-i'm likely overrunning current meeting
-thanks for your support and cooperation
-ahead
+
+
+
 versioning rules            版本控制规则
 as you see fit      按照你认为合适的情况
 extend to people        转发扩散给其他人
@@ -364,19 +353,8 @@ please keep researching how + where we could host one
 the responses are generated for the following set of engagements咋翻译
 engagements     业务项目
 touchwood       但愿别出问题,祈求好运
-obtain buy‑in from users 获得相关方/业务用户的认同,支持,
-认可
-purchase
-criminal records        犯罪记录
-mobile verification        手机号核验
-mobile on‑net verification   手机号在网状态核验
-sustain v.维持，支撑。
-PoC = Proof‑of‑Concept      概念验证，技术试点
-SAMM capability extension
-support
-Great thanks
-we win trust from business users
-dedicated support       全力以赴的支持,
+mobile (on‑net) verification        手机号核验/手机号在网状态核验
+team capability extension
 sell ideas to sb        向某人推销/推广方案,
 it will not be that easy for us on selling new ideas / capability to them
 specially       专门地
@@ -386,22 +364,16 @@ discounting
 they told use they were doing it in the last meeting or something
 they were doing it为什么是过去进行时，是因为他们已经在做了是吗？
 challenge that they are not thinking enough and full scope
-consolidatev        合并,汇总,
 Average running time
 good for a call
 I will try my best to come up again
 clean v？？？
-PoC Proof of Concept        概念验证试点
-RAG Retrieval‑Augmented Generation      检索增强生成（大模型）
 Roman 10:15 How beautiful are the feet of those who bring good news!
 罗马书10:15，报福音传喜信的人，他们的脚踪何等佳美！
 圣经经文，团队玩梗，用来打趣“报喜报好消息”
 Philippians 4:8
 whatever is true，noble,  right, pure, lovely, admirable
-praiseworthy
-reach out to Ethan to get
-找sb做某事
-keep sb informed on sth     将某事同步告知某人（外企邮件聊天必背）
+keep sb informed on sth     将某事同步告知某人
 guide sb on sth     指导某人处理某事
 Would you mind having a look and checking the file format?
 would you mind + doing

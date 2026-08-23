@@ -64,7 +64,6 @@ of course, it wasn't me who caused it               当然,造成这一情况的
 let jenkins rest for a while                        让jenkins休息一会
 we usually/normally do it this way, unless someone challenges it            我们一般都这么做
 if we use the pattern, others may misunderstand it as cust id instead of auto-increment id          如果我们使用这pattern,其他人可能会将其误解为客户编号,而非自增编号
-remember/reminder to add the piece of code in the end                记得在最后添加这段代码
 no need to start the run from the beginning         不需要从头开始run
 about when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
@@ -145,7 +144,6 @@ how do i freeze the top/header row so (that) it stays visible when scrolling dow
 platform patching led to an (unexpected) production outage last night           导致生产环境宕机
 jack mentioned that you are already aware of this               jack说你已经知道这个了
 17 months of data               17 个月的数据
-kind reminder to provide the info below          温馨提示: 请提供以下信息
 i have received the file from your separate email           我已经从您单独发来的邮件中收到了那份文件
 i noticed/observed that the score ranges from 0 to 9                我注意到分数的范围是从0到9
 please ignore the email if you have already actioned this              如果您已采取行动,请忽略此邮件
@@ -168,7 +166,6 @@ i ran the relevant scheduled job & obtained the latest batch of data this mornin
 just an example, no offense             就举个例子,无意冒犯
 we need to find a long-term solution                我们需要找一个长期的解决方案
 recommended that ...                        推荐...
-from another angle(point of view)              从另一个角度来看
 i'm slowly combing through my notes             我正在慢慢梳理我的笔记
 as far as i know(can see)           据我所 知/见
 if the issue can't be resolved promptly/quickly, i'll raise a related ticket later          如果这问题不能迅速解决,我将会提交一个相关的工单
@@ -188,7 +185,6 @@ i think it may not be so straightforward                            我觉得这
 (it's) not so fast             别太快,别急,没那么容易
 please kindly give the email your full attention                   烦请务必仔细查阅并重视本邮件
 we need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
-i can't remember very well either           我也记不太清楚了
 they'll restrict us from raising prs, which will lead to escalation & a lot more paperwork. i'm sure none of us wants to go through all that
 how did you do it/that?             你怎么做到的？
 the boss is keeping a close eye on this             老板很关注这件事
@@ -261,7 +257,6 @@ not a fan of sth            不推荐,不认可,不喜欢sth
 not entirely sure/i'm not sure that(about sb/sth)        不完全确定/我不确定~
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
 only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
-kindly remind you once again that        再次温馨提醒您
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
 may i know why      请问为什么
 could you please help push the matter        帮忙推动这事
@@ -373,6 +368,11 @@ automate devops process        使自动化 v
 please keep pressing CA team for sth, as it has been out of service for two years now       请继续向CA团队施压,推动此事
 not yet, for now we are using sth       还没有，目前我们正在用sth
 Work is (mainly on the checking of) true value of those metrics     主要集中在
+that's one moving piece     这只是其中一项变动因素
+made a correction on sth      对n进行了修正
+i still don't know what it means yet       目前还不清楚这啥意思
+i (kept hearing) we could integrate with a team through SAS     一直反复听到/一直听大家说，可以通过Cyber和另一个团队做整合
+i'm likely to overrun the current meeting       超出，超过 v/这会议大概率会超时
 
 
 
