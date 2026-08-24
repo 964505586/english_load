@@ -262,6 +262,10 @@ issue resolving     问题处置,故障处理
 mobile/on‑net verification        手机号核验/手机号在网状态核验
 team capability extension       团队能力扩展
 discount/discounting     打折,减价,折扣 v/n
+champion        项目负责人,冠军 n
+inspire/inspired/inspiration/expire        激励,鼓舞 v/受启发的,鼓舞的,能力卓越的 adj/灵感,启发 n/到期,失效 v
+expire/expired/expiration/inspire       到期,失效 v/过期的 adj/到期 n/激励,鼓舞 v
+newly generated artifact        工件 n/新生成的工件
 
 
 

@@ -14,7 +14,6 @@ insert          插入 v
 access                          访问 v
 adverse                         不利的 adj
 buddy                           伙伴 n
-concise                     简洁的
 data set                    数据集 n
 deny/denied                  否定 v
 diagram                  图表 n

@@ -140,7 +140,6 @@ exercise 运动,锻炼
 exist                                   存在 v
 expense             代价,费用 n     向...收取费用 v
 experiment                              实验 n
-expire                              到期,失效 v
 exploit                             剥削,压榨 v
 eye-catching/eye-catcher                         引人注目的 adj/引人注目的东西 n
 fake                伪造的,虚假的 adj         假货,贋品 n/伪造,冒充,假装 v

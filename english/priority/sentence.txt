@@ -165,22 +165,16 @@ i ran the relevant scheduled job & obtained the latest batch of data this mornin
 just an example, no offense             就举个例子,无意冒犯
 we need to find a long-term solution                我们需要找一个长期的解决方案
 recommended that ...                        推荐...
-i'm slowly combing through my notes             我正在慢慢梳理我的笔记
 as far as i know(can see)           据我所 知/见
 if the issue can't be resolved promptly/quickly, i'll raise a related ticket later          如果这问题不能迅速解决,我将会提交一个相关的工单
 (you just) follow suit with sth                    效仿sth(依葫芦画瓢)
-it can make tracking much easier(it can be easier for the tracking of progress)             这能让追踪工作简单很多
+it can make tracking much easier(it can be easier for the progress tracking)             这能让追踪工作简单很多
 you're gonna say something else?                    你要说点别的?
-please kindly provide your sign-off             若无疑问,烦请确认签收/办结
-if (there are) any of your tickets          如果你任何一张票
-in either of these columns          在这两列中的任意一列里
 it will be considered (as) a failure                它会被视为失败
 for your convenience, answers to frequently asked questions can be found here           为方便您查阅,常见问题解答可在此查看
 especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
-if any questions. otherwise, your confirmation & sign-off would be much appreciated            如有任何问题请告知我若无疑问,烦请确认并签字审批
 it shouldn't ideally have any impact               理想情况,它不应产生任何影响
 for reference only/this is for informational purposes only          此内容仅供参考
-i think it may not be so straightforward                            我觉得这事可能没那么简单
 (it's) not so fast             别太快,别急,没那么容易
 please kindly give the email your full attention                   烦请务必仔细查阅并重视本邮件
 we need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
@@ -361,7 +355,7 @@ give you the green/red light        给某人开绿灯,批准/否决,叫停
 scared me       吓我
 re‑engage the team      重新对接团队
 this should (give a good indication) of what payload to send and what you receive     很好说明了。。。
-Not this time       这次不行；这回就算了
+Not this time       这次不行,这回就算了
 automate devops process        使自动化 v
 please keep pressing CA team for sth, as it has been out of service for two years now       请继续向CA团队施压,推动此事
 not yet, for now we are using sth       还没有，目前我们正在用sth
@@ -375,11 +369,18 @@ in one's free/spare time        在某人的空闲时间
 sell ideas to sb        向某人推销,推广方案
 it will not be that easy for us to do sth        对我们来说，做这事没那么容易
 please keep researching how & where we could host one       继续研究我们如何 & 在哪里可以举办一次
-touch‑wood(can make it a back-up for (touch‑wood) next time)       老天保佑；希望别出问题
+touch‑wood(can make it a back-up for (touch‑wood) next time)       老天保佑,希望别出问题
 specially creating an online doc to list all BAU issues we have identified      专门建了个文档，列出发现的所有BAU issue
 challenge that they are not thinking enough and not considering the full scope      质疑他们思考不够，没有覆盖完整范围
 could you please help guide new joiners through the onboarding process     帮忙带下新人
 would you mind doing(having a look at the issue)       可否麻烦你看一下这个问题
+work with Jack together on SAS      和sb协同工作
+All the best on the new project     祝新项目一切顺利
+If the issue can't be resolved promptly/quickly, a related ticket needs to be created   不能快速解決,需要建个ticket
+if any questions. otherwise, your confirmation & sign-off would be much appreciated     烦请确认并签字审批
+please kindly provide your sign-off             若无疑问,烦请确认签收/办结
+available options will be listed here       可用选项将列于此
+the deployment must be blocked until remediation is completed       完成修复前，部署被阻塞
 
 
 

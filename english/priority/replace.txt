@@ -2,7 +2,6 @@ solve/resolve/address/get sorted            解决
 uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未被选中的,未勾选的 v
 introduce risk/cause incidents(failures)        引进,引入 v
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
-inspire/inspired            激励,鼓舞 v/受启发的,受鼓舞的,能力卓越的 adj
 near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
 architect/architecture/framework   架构师/架构/框架
 given this/in the case(way)/so that
@@ -128,8 +127,6 @@ suspect/suspicious         怀疑 v/可疑的 adj
 cluster/grid/list            集群/表格,算力网格/列表 n
 as per/according to/based on/as for (me)        按照/根据/基于n/至于/对我来说
 due (date/soon)/deadline/overdue        到期的/即将到期/截止日期/逾期的 adj
-before/earlier/previously       口语/中性/正式
-early/earlier/earliest      早的/更早的/最早的 adj/adv
 (in) fact/to be honest/frank(actually) (with sb)      事实 n/事实上
 college/colleague            大学/同事
 go/come        去/来
@@ -241,6 +238,10 @@ how to (architect/design) the agent     设计 v
 engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,业务项目 n/持续参与,使用,投入
 looks to me/in my view(opinion/perspective)     在我看来
 guide sb on/through sth     指导某人/带sb一步步走完
+be good to do sth(at sth)      适宜,乐意做/擅长做sth
+concise/briefly     简洁的 adj/简短的,简要的 adv
+before/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
+as appropriate/as(whenever) you see fit      酌情,按照你认为合适的情况,方式
 
 
 

@@ -3,7 +3,6 @@ erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/�
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
 execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
-privilege       /ˈprɪvəlɪdʒ/        特权,权限 n
 (in) reality/actually         /riˈæləti/      真实,现实 n/实际上,事实上
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 sophisticated           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
@@ -19,7 +18,6 @@ truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
-manifest/configuration file        /ˈmænɪfest/         清单,配置文件 n
 cascade (down further)         /kæˈskeɪd/          逐级下发,连续传递 v
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
@@ -141,7 +139,6 @@ typology                        类型学,分类体系 n
 @       at
 forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
 continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
-(query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
 loop sb in/looping jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让jack参与进来
@@ -204,7 +201,6 @@ convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化�
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
-(as per current ui) convention      /kənˈvenʃ(ə)n/        惯例,规范
 (hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/(分配的)工作时长
 exceeds your (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
 (audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/线程,邮件往来记录,邮件链 n
@@ -256,7 +252,6 @@ alert/advisory/advisories/notification   /ədˈvaɪzəri/       告警,警报 n/
 recurring (error/issue)     /rɪˈkɜːrɪŋ/     反复出现的 adj
 shout/yell/yelling      /ʃaʊt/ /jel/ /ˈjelɪŋ/        叫喊,叫嚷,大声说 v/n
 service tiering(tier)       /ˈtɪərɪŋ/       服务分级
-(guiding) principle       /ˈprɪnsəp(ə)l/ /ˈɡaɪdɪŋ/        准则,原则 n/处理原则,指导原则
 layer       /ˈleɪər/       层,等级 n
 illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
 point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,ip/英文句末句号/点,斑点,地点 n
@@ -312,7 +307,6 @@ on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
 (contract) hierarchy/level      /ˈhaɪərɑːrki/      层级 n/合同层级
 (retriever) microservice        /ˈmaɪkrəʊsɜːvɪs/      微服务/检索微服务
 certain/certainly/certainty     /ˈsɜːrt(ə)nti/      必然的,确定的 adj/adv/确定性 n
-enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
 deprecated      /ˈdeprəkeɪtɪd/      已废弃的 adj
 intend/intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,主动地 adj/adv/意图,目的 n
 (protect) privacy (policy/protection)/private       /ˈprɪvəsi/      隐私 n/私有的 adj/隐私政策
@@ -323,7 +317,6 @@ citation       /saɪˈteɪʃ(ə)n/       引文 n
 reason/reasoned/reasoning/reasonable        /ˈriːznɪŋ/       推理 v/合理的 adj
 protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,一致 n/约定好的,同意的 adj
 purchase (100 tokens)        /ˈpɜːrtʃəs/         购买，采购 v/n
-(His effort is) praiseworthy        /ˈpreɪzwɜːrði/      值得称赞的 adj
 reword/revise/amend/rectify/correct error msg       /ˈrektɪfaɪ/ /ˌriːˈwɜːrd/    改写/修正，修订/修改，修订/纠正,矫正 v
 quit/quite/quiet/quietly        /kwɪt/        停止 v/很,非常 adv/安静 v/n/adj/adv
 exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
@@ -332,21 +325,33 @@ steady/unsteady/stable/unstable     /ˈstedi/         稳定的,平稳的,持续
 attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
 ahead of/prior to/before (deployment)       /ˈpraɪər/       在deployment之前
 extract/extracted/extraction/extra    /ˈekstrækt; ɪkˈstrækt/      提取,抽取 v/选段,引文 n/提取后的 adj/提取,抽取 n/额外的 adj
+(His effort is) admirable/praiseworthy        /ˈpreɪzwɜːrði/      值得称赞的 adj
+enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
+(Max/query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
+manifest/list        /ˈmænɪfest/     清单
+as per naming(current UI) convention      /kənˈvenʃ(ə)n/        惯例,规范 n/命名规范
+immutable       /ɪˈmjuːtəbl/      不可修改、不可变更 adj
+tutorial (document)        /tuːˈtɔːriəl/       导师的，辅导的/指导文档
+monotonically (increasing)        /ˌmɒnəˈtɒnɪkli/        单调地 adv/单调递增
+i think it may not be so (straightforward)      /ˌstreɪtˈfɔːwəd/        简单的，易懂的 adj/adv/我觉得这事可能没那么简单
+grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
+(guiding/security) principle       /ˈprɪnsəp(ə)l/ /ˈɡaɪdɪŋ/        准则,原则 n/处理,指导,安全原则
+i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳理我的笔记
 
 
 
 
 
 
+if any of your tickets          如果你任何一张票
+in either of these columns          在这两列中的任意一列里
+ownership and gating process for the required scans     所需安全扫描的责任归属以及发布门禁流程
+gating process          门禁流程
+release gates
 
 
-whatever is true，noble,  right, pure, lovely, admirable
-keep sb informed on sth     将某事同步告知某人
-work with the team      和团队协同工作
-be good to do sth 可以做,准备就绪可以做
 
 
-as you see fit      酌情,按照你认为合适的情况,方式
 extend to people        转发扩散给其他人
 
 (parent/child) chunk       文本块、切片 n/父块,子块
