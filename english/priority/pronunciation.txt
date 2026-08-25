@@ -275,7 +275,6 @@ The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     �
 procurement     /prəˈkjʊrmənt/      采购,购买 n
 conscious       /ˈkɑːnʃəs/        意识到的 adj
 diary invites       /ˈdaɪəri/        日历会议邀请
-infra/infrastructure        /ˈɪnfrəstrʌktʃər/       基础设施 n
 mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就,协调配合 v/协调,配合 v,n
 represent/stand for/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
@@ -337,6 +336,10 @@ i think it may not be so (straightforward)      /ˌstreɪtˈfɔːwəd/        �
 grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
 (guiding/security) principle       /ˈprɪnsəp(ə)l/ /ˈɡaɪdɪŋ/        准则,原则 n/处理,指导,安全原则
 i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳理我的笔记
+infra/infrastructure        /ˈɪnfrəstrʌktʃər/       基础设施 n
+delegate        /ˈdelɪɡət/        代理人,代表 n/授权 v
+any (preference) where to deploy      /ˈprefrəns/      偏好、倾向性 n
+(storage/processing) venue/place/location/position      /ˈvenjuː/      存储,处理场地/地点，场所 n/放置 v/地点,位置 n(物理地点/职位,岗位)
 
 
 
@@ -345,14 +348,8 @@ i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳�
 
 if any of your tickets          如果你任何一张票
 in either of these columns          在这两列中的任意一列里
-ownership and gating process for the required scans     所需安全扫描的责任归属以及发布门禁流程
-gating process          门禁流程
-release gates
-
-
-
-
 extend to people        转发扩散给其他人
+If you've helped me with a task then please assume I've said ‘Thank you!' – I won't be sending emails with just this in to reduce my email footprint.
 
 (parent/child) chunk       文本块、切片 n/父块,子块
 parent‑child agreement      父子块一致性
@@ -361,7 +358,7 @@ call‑off    子订单/分合同
 
 roman 10:15 how beautiful are the feet of those who bring good news!
 罗马书10:15，报福音传喜信的人，他们的脚踪何等佳美！
-圣经经文，团队玩梗，用来打趣“报喜报好消息”
+圣经经文，团队玩梗，用来打趣"报喜报好消息”
 philippians 4:8
 
 

@@ -177,7 +177,6 @@ glass 玻璃杯,眼镜
 go on forever                       永远继续下去
 go on with                      继续
 go/went away                走了,走开,离开
-gold 金
 grace/graceful/gracefully                   优美,优雅 n/adj/adv
 graciously                          和蔼地,仁慈地 adv
 grateful        感激的

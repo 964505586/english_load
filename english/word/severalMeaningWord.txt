@@ -17,7 +17,6 @@ look                            神情 n
 meet                            满足 v
 on                              开着的 adj
 out                             外面
-place                           放置 v
 please                          取悦,使开心/满意 v
 pretty                          非常 adv
 primary                         初级的,主要的,基本的 adj

@@ -39,11 +39,9 @@ are you online/there               你在吗
 we'll do everything we can  我 将/已经 竭尽全力
 we'll find a way to 我会想办法...(语气坚定,靠谱)
 it's just so so                一般般,马马虎虎
-hi there                       嗨,你好
 what a coincidence             真巧
 what a great/fantastic idea          多棒的主意啊
 didn't/doesn't make any difference             没作用
-if everything goes well         如果一切顺利
 maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
 let's pause(hold on) here. for the introduction & process i mentioned previously. any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
@@ -203,7 +201,6 @@ mask sensitive data to avoid user info leakage/exposure       打码数据,防�
 left a note/remark in my calendar             在日历里添加了备注
 some access may take some time to activate           部分权限需等待一段时间方可生效
 some permissions usually take some time to go live          有些权限通常需要一段时间才能生效
-let's wait & see              我们先等等看
 ideally, yes                理想情况下是的
 i am thinking (if)... though        /ðəʊ/      不过我在想.../不过,可是,然而(前面说了一个意见,现在补充/转念一想另一个角度)
 guides are available here          在此处可用,可查看
@@ -328,7 +325,7 @@ doing sth involves sth (adding data to db involves two stages)        添加数�
 (all services) are up & running       系统正常运行,服务就绪
 please include me in the call       把某人加入会议/请把我加入
 (be) conscious it's nearly the end of the day for you       意识到你们那边差不多快下班了
-is there anyone else (whom) you’d like (to have) on next Wednesday’s sessions   你想增加其他人员参下周的会议嘛
+is there anyone else (whom) you'd like (to have) on next Wednesday's sessions   你想增加其他人员参下周的会议嘛
 i'll ask for the call to be moved forward to better suit your timezone     将会议往前调整,以便更好适配你们的时区
 the call to be moved forward in order to help with the timezone differences     缓解时区差异问题
 therefore what we do need to build (for this phase)      因此,我们需要做什么
@@ -339,7 +336,7 @@ the API rate limit has been exceeded        API请求速率限制已超出
 Postman has been disabled within the corporation      银行已禁用postman
 i'd like to factor this in as part of the new req as well   将这个也纳入新的需求里
 as the deployment is taking seamless deployment approach, there will be no service interruption     部署采用无缝方式进行，因此不会造成服务中断
-don’t get me wrong          别误会
+don't get me wrong          别误会
 no worries at all       完全不用担心
 not to blame anyone     不是要追究谁的责任
 the issue might be (more complicated)/(a bit complicated)       这问题可能有点复杂/更复杂
@@ -381,6 +378,8 @@ if any questions. otherwise, your confirmation & sign-off would be much apprecia
 please kindly provide your sign-off             若无疑问,烦请确认签收/办结
 available options will be listed here       可用选项将列于此
 the deployment must be blocked until remediation is completed       完成修复前，部署被阻塞
+hi there                       嗨,你好
+As it's been agreed by Jack       强调这件事已经被同意了
 
 
 

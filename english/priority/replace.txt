@@ -8,7 +8,6 @@ given this/in the case(way)/so that
 up-to-date/latest           新式的,与时俱进的/最新的
 internal/external           内部的/外部的 adj
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的,可落地的 adj
-ownership (model)/accountability        所有权 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 spark/java/python-based     基于spark
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
@@ -137,7 +136,6 @@ contact/contract        联系/合同
 volunteer/voluntary/voluntarily     志愿者/自愿的,主动的 adj/adv
 effective (action/measures)/effectively/efficient/efficiency    有效的 adj/高效地,有效地 adv/高效的 adj/效率 n
 tips/tricks/recommendations/kind(a warm) reminder       小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
-location/position                地点,位置 n(客观物理地点/职位,岗位)
 rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
 (apologize for the) short(late) notice/last-minute change(cancellation)          临时通知,变更
 (after) a short while (ago)       不久前/不久之后
@@ -242,6 +240,12 @@ be good to do sth(at sth)      适宜,乐意做/擅长做sth
 concise/briefly     简洁的 adj/简短的,简要的 adv
 before/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
 as appropriate/as(whenever) you see fit      酌情,按照你认为合适的情况,方式
+just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
+ownership (model)/accountability        权责归属、权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
+I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
+release gates/gating process        发布门禁/门禁流程
+alias name/(individual) other name/individual platform    别名/别名,曾用名 n/个人的，各个的、分别的 adj/各个平台
+lower‑level/lower down (detail)      更低层级的、细化的 adj/往下面、往下 adv/底层细节
 
 
 

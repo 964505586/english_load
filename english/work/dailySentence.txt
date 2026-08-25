@@ -89,8 +89,8 @@ what a pleasant surprise                    真是个惊喜(意外之喜)
 that would be great if ...
 from now/2026/(next week) onwards           从...以后
 we are not the owner of the priority channel; let me check if this can be added to the priority channel for the 16:00 batch
-yes, the normal channel often has long wait times,since we don't own the priority channel, i'll confirm whether it can be added to the priority channel for the 16:00 batch
-we have to wait for their analytics
+the normal channel often has long wait times,since we don't own the priority channel, i'll confirm whether it can be added to the priority channel for the 16:00 batch
+have to wait for their feedback
 i've come up with two potential solutions for the issue         我想出了两个可能的解决方案
 the frontline is complaining(shouting 大喊大叫) every day
 make good/full use of                               充分利用

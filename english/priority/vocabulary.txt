@@ -88,7 +88,6 @@ during the maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
 flood       泛滥 n
 trigger     触发(器) v/n
-alias name/individual other name          别名/个人别名,曾用名 n
 natural person              自然人 n
 distribute/distribution/distributed locks          分发,分配 v/n    分布式锁 n
 terminate/terminal      终止 v    终端 adj/n
@@ -251,7 +250,6 @@ vector store        向量存储
 rerank        重排序
 fine‑tuning     微调
 generated reasoning summary     生成推理摘要
-release gates       发布门禁
 (request) payload         有效负载 n/请求负载,请求体
 initial evaluation      初步评估
 with immediate effect           立即生效
@@ -266,6 +264,9 @@ champion        项目负责人,冠军 n
 inspire/inspired/inspiration/expire        激励,鼓舞 v/受启发的,鼓舞的,能力卓越的 adj/灵感,启发 n/到期,失效 v
 expire/expired/expiration/inspire       到期,失效 v/过期的 adj/到期 n/激励,鼓舞 v
 newly generated artifact        工件 n/新生成的工件
+gold/golden practice     金 n/金色的 adj/宝贵经验、干货方法
+The timeline is (more or less) set        差不多 adv/确定的、敲定的、既定的 adj/大致已定、基本确定
+in terms of (capabilities)        就...而言,在...方面/在能力层面
 
 
 
