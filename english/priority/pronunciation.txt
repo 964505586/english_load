@@ -3,7 +3,6 @@ erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/�
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
 execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
-(in) reality/actually         /riˈæləti/      真实,现实 n/实际上,事实上
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 sophisticated           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
 decent      /ˈdiːsnt/      像样的 adj
@@ -276,7 +275,6 @@ procurement     /prəˈkjʊrmənt/      采购,购买 n
 conscious       /ˈkɑːnʃəs/        意识到的 adj
 diary invites       /ˈdaɪəri/        日历会议邀请
 mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就,协调配合 v/协调,配合 v,n
-represent/stand for/representative        /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/         代表 v/n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
 (assess system) fitment     /ˈfɪtmənt/      适配,匹配度 n
 parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
@@ -329,7 +327,7 @@ enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v
 (Max/query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
 manifest/list        /ˈmænɪfest/     清单
 as per naming(current UI) convention      /kənˈvenʃ(ə)n/        惯例,规范 n/命名规范
-immutable       /ɪˈmjuːtəbl/      不可修改、不可变更 adj
+immutable       /ɪˈmjuːtəbl/      不可修改,不可变更 adj
 tutorial (document)        /tuːˈtɔːriəl/       导师的，辅导的/指导文档
 monotonically (increasing)        /ˌmɒnəˈtɒnɪkli/        单调地 adv/单调递增
 i think it may not be so (straightforward)      /ˌstreɪtˈfɔːwəd/        简单的，易懂的 adj/adv/我觉得这事可能没那么简单
@@ -338,8 +336,14 @@ grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特�
 i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳理我的笔记
 infra/infrastructure        /ˈɪnfrəstrʌktʃər/       基础设施 n
 delegate        /ˈdelɪɡət/        代理人,代表 n/授权 v
-any (preference) where to deploy      /ˈprefrəns/      偏好、倾向性 n
+any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
 (storage/processing) venue/place/location/position      /ˈvenjuː/      存储,处理场地/地点，场所 n/放置 v/地点,位置 n(物理地点/职位,岗位)
+imagine/imaginary/imagination/image       /ɪˈmædʒɪneri/       想像,设想 v/想象的,虚构的 adj/想像力,想像/镜像 n
+(in) reality/actually (not)     /riˈæləti/      真实,现实 n/实际上,事实上/实际上不是
+represent/stand for/representative/on behalf of QA team     /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/     代表 v/n
+
+
+
 
 
 
@@ -349,9 +353,9 @@ any (preference) where to deploy      /ˈprefrəns/      偏好、倾向性 n
 if any of your tickets          如果你任何一张票
 in either of these columns          在这两列中的任意一列里
 extend to people        转发扩散给其他人
-If you've helped me with a task then please assume I've said ‘Thank you!' – I won't be sending emails with just this in to reduce my email footprint.
+if you've helped me with a task then please assume I've said ‘Thank you!' – I won't be sending emails with just this in to reduce my email footprint.
 
-(parent/child) chunk       文本块、切片 n/父块,子块
+(parent/child) chunk       文本块,切片 n/父块,子块
 parent‑child agreement      父子块一致性
 a call‑off mapped to its parent agreement
 call‑off    子订单/分合同

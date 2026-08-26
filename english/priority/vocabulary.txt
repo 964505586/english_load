@@ -6,7 +6,6 @@ extensively         大量地,频繁地 adv
 desktop         桌面 n
 workstation         工作站 n
 modern/modernization              现代的 adj/n
-read-only access            只读权限 n
 as a whole          总体上,总的来说,整体来看 adv
 common used         常用
 portal          门户 n
@@ -264,9 +263,13 @@ champion        项目负责人,冠军 n
 inspire/inspired/inspiration/expire        激励,鼓舞 v/受启发的,鼓舞的,能力卓越的 adj/灵感,启发 n/到期,失效 v
 expire/expired/expiration/inspire       到期,失效 v/过期的 adj/到期 n/激励,鼓舞 v
 newly generated artifact        工件 n/新生成的工件
-gold/golden practice     金 n/金色的 adj/宝贵经验、干货方法
-The timeline is (more or less) set        差不多 adv/确定的、敲定的、既定的 adj/大致已定、基本确定
+gold/golden practice     金 n/金色的 adj/宝贵经验,干货方法
+The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
 in terms of (capabilities)        就...而言,在...方面/在能力层面
+playwright      /ˈpleɪraɪt/      ui自动化测试工具
+(build/bake) image (generation)       镜像,形象,印象,图像 n/构建镜像/镜像生成
+first of all        首先 adv
+(environment) variable            易变的,多变的 adj/可变性，可变因素 n/环境变量
 
 
 

@@ -175,8 +175,8 @@ it shouldn't ideally have any impact               理想情况,它不应产生�
 for reference only/this is for informational purposes only          此内容仅供参考
 (it's) not so fast             别太快,别急,没那么容易
 please kindly give the email your full attention                   烦请务必仔细查阅并重视本邮件
-we need to manually run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
-they'll restrict us from raising prs, which will lead to escalation & a lot more paperwork. i'm sure none of us wants to go through all that
+we have to manually re-run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
+they'll restrict us from raising PR, which will lead to escalation & a lot more paperwork. i'm sure none of us wants to go through all that
 how did you do it/that?             你怎么做到的？
 the boss is keeping a close eye on this             老板很关注这件事
 if the error persists/if still same error(the same error still occurs)          如果错误依旧存在
@@ -204,7 +204,6 @@ some permissions usually take some time to go live          有些权限通常�
 ideally, yes                理想情况下是的
 i am thinking (if)... though        /ðəʊ/      不过我在想.../不过,可是,然而(前面说了一个意见,现在补充/转念一想另一个角度)
 guides are available here          在此处可用,可查看
-package manager tool            包管理工具
 i'll meet jack offline           线下会面
 i am writing to             我写信是为了
 the first three are             前三个是

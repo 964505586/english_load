@@ -35,15 +35,13 @@ haven't got time to pick it up yet/didn't have time to handle this          还�
 i'll try to get it done by today/i'm trying to get this resolved today  将争取/正努力 今天把这事解决掉
 i spent all my time finishing the ticket yesterday              昨天我把所有时间都花在完成这张票上
 will check later. have no idea how big it(this ticket) is (how many story point do u need)    我不知道这ticket多大(你要多少effort)
-answered some questions Jack encountered     回答了jack遇到的一些问题
 if everything goes well         如果一切顺利
-yesterday i helped check the issue jack encountered & the issue Lion faced       昨天我帮助检查了jack遇到的问题和john面临的问题
+yesterday i answered(helped check) some issue jack encountered & the issues Lion faced       昨天我帮助检查了jack遇到的问题和john面临的问题
 i keep getting interrupted by other (urgent) matters recently, therefore the progress is only about 20%     我最近总是会被其他紧急事务打断
-let's go/come back to jira board(the track)         我们回到n吧
+let's go/come back to the track(Jira Board)         我们回到n吧
 thanks for joining              感谢您的参与
 any items you want to raise/talk/discuss here or we can end/close the call     您这里还有想要 提出/讨论/交流 的 内容/事项吗？或者我们可以结束这次通话
-if there are no items to discuss        如果没有任何需要讨论的事项的话
-will see if no problem, we can end the call         我们会看看是否没有问题,然后就可以结束通话了
+will see if there are no items/problem to discuss         如果没有任何需要讨论的事项的话
 anything else from you      你这边还有其他情况吗
 sorry, you just broke up a little bit       刚才你的声音卡顿,断了一小段
 which one should i prioritize and work on first?        我应该先做哪一个

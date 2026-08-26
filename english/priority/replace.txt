@@ -241,11 +241,14 @@ concise/briefly     简洁的 adj/简短的,简要的 adv
 before/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
 as appropriate/as(whenever) you see fit      酌情,按照你认为合适的情况,方式
 just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
-ownership (model)/accountability        权责归属、权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
+ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
 release gates/gating process        发布门禁/门禁流程
-alias name/(individual) other name/individual platform    别名/别名,曾用名 n/个人的，各个的、分别的 adj/各个平台
-lower‑level/lower down (detail)      更低层级的、细化的 adj/往下面、往下 adv/底层细节
+alias name/(individual) other name/individual platform    别名/别名,曾用名 n/个人的，各个的,分别的 adj/各个平台
+lower‑level/lower down (detail)      更低层级的,细化的 adj/往下面,往下 adv/底层细节
+package/packaging (manager tool)            打包 v/包管理工具
+read-only access/permissions            只读权限 n
+customize/customized/custom/accustom     自定义 v/定制的,自定义的 adj/习俗 n/使习惯于,使适应于 v
 
 
 

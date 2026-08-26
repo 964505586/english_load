@@ -4,9 +4,6 @@ absolutely                      绝对地,完全地 adv
 absorb                              吸收 v
 accessible                                  平易近人的 adj
 accommodation           住宿 n
-accustom                            使习惯于,使适应于 v
-actual/actually         adj/adv
-actually not                                    实际上不是
 again & again                         一次又一次,反复地
 alcohol                         酒
 amaze/amazing                 使惊奇,使惊愕 v/惊人的,令人惊讶的 adj
@@ -91,7 +88,6 @@ credential                      资格,证明,文凭,资格证书 n
 cruel                                   残酷的 adj
 curiosity                                       好奇心 n
 curious                             好奇的 adj
-custom                          习俗 n
 danger                          危险 n
 dashboard                               仪表板 n
 day after day                                 日复一日
@@ -397,11 +393,10 @@ turn down                               拒绝 v
 turn/switch off 关掉
 umbrella 伞
 understanding                   善解人意 n
-undertake                                       承担,答应 v
+undertake           承担,答应 v
 unethical                               不道德的 adj
 unique                                  独特的,独一无二的
 vacation                        假期
-variable                            易变的,多变的 adj
 variety/varieties                     种类,品种,变化 n
 various                             各种各样的 adj
 victory                             胜利,成功 n
@@ -409,8 +404,7 @@ violence/violent                    暴力 n/adj
 visit                        浏览 v
 vocabulary
 voracity/voracious          贪婪 n/adj
-warm                                            (使)温暖,(使)变暖和 v/adj
-warmly                                          热情地,温暖地,亲切地 adv
+warm/warmly        (使)温暖,(使)变暖和 v/adj/热情地,温暖地,亲切地 adv
 waste                n/v 浪费            n 废物
 wealth                      财富 n
 wedding                             婚礼 n
