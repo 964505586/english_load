@@ -15,7 +15,6 @@ big/large/huge/giant       /ˈdʒaɪənt/          巨大的,伟大的 adj
 compute/computation/calculate/calculation         /kəmˈpjuːt/         运算,测算 v/计算,核算 v
 truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
-almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
 cascade (down further)         /kæˈskeɪd/          逐级下发,连续传递 v
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
@@ -66,7 +65,6 @@ postpone/postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
 nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
-conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
 tidy/tidier/tidiest     /ˈtaɪdi/         整洁的 adj
 prolong/prolonged     /prəˈlɒŋ/         延长 v/长期的,延长的 adj
 crash/application crashing      /ˈkræʃɪŋ/       崩溃 n/系统崩溃
@@ -132,7 +130,6 @@ follow me           /ˈfɑːloʊ/
 scope           /skoʊp/
 browser                          /ˈbraʊzə(r)/
 upsert(update + insert)                      /ˈʌpsɜːrt/
-criteria                /kraɪˈtɪəriə/
 auto-increment id               递增 id
 typology                        类型学,分类体系 n
 @       at
@@ -141,7 +138,6 @@ continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,�
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
 loop sb in/looping jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让jack参与进来
-mitigate/mitigation (the risk)       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险
 crime       /kraɪm/     罪,罪行,犯罪 n
 territory       /ˈterətɔːri/        领地,领域 n
 (is this an urgent) referral        /rɪˈfɜːrəl/        转介,转送,转诊 n
@@ -155,7 +151,6 @@ trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
 (data) volume/size     /ˈvɑːljəm/     数据量/音量 n
 layout      /ˈleɪaʊt/          布局,排版 n
 spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
-eliminate (redundant code)/eliminating      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
 cater to (sth/sb/business demands)/meet       /ˈkeɪtər/     满足,迎合 v
 preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
@@ -186,7 +181,6 @@ very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 ad
 (live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
 comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj/adv/概述 n
 notification noise      /nɔɪz/      通知干扰,冗余通知
-meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
 vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
 participate/participating/participant/participation     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n/参与
@@ -195,8 +189,6 @@ the work on his plate/hands     /pleɪt/      手头的工作
 data estate     /ɪˈsteɪt/     数据资产
 the email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此提醒/某物充当,用作
 (monthly) scoring cycle       /ˈskɔːrɪŋ/       计分,评分周期
-momentum        /moʊˈmentəm/        势头,冲力,推力 n
-convert momentum into (measurable) outcomes     /ˈmeʒərəbl/       可量化的 adj/将发展势能转化为可量化成果
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
@@ -277,8 +269,6 @@ diary invites       /ˈdaɪəri/        日历会议邀请
 mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就,协调配合 v/协调,配合 v,n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
 (assess system) fitment     /ˈfɪtmənt/      适配,匹配度 n
-parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
-redact/(data) redaction      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
 rationale       /ˌræʃəˈnæl/         根本原因，逻辑依据
 pharmacy        /ˈfɑːrməsi/         药店,药房
 reconvene       /ˌriːkənˈviːn/      再召集,再聚会
@@ -305,7 +295,6 @@ on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
 (retriever) microservice        /ˈmaɪkrəʊsɜːvɪs/      微服务/检索微服务
 certain/certainly/certainty     /ˈsɜːrt(ə)nti/      必然的,确定的 adj/adv/确定性 n
 deprecated      /ˈdeprəkeɪtɪd/      已废弃的 adj
-intend/intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,主动地 adj/adv/意图,目的 n
 (protect) privacy (policy/protection)/private       /ˈprɪvəsi/      隐私 n/私有的 adj/隐私政策
 alternatively(or)/alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 flexible        /ˈfleksəb(ə)l/        灵活的 adj
@@ -341,19 +330,53 @@ any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
 imagine/imaginary/imagination/image       /ɪˈmædʒɪneri/       想像,设想 v/想象的,虚构的 adj/想像力,想像/镜像 n
 (in) reality/actually (not)     /riˈæləti/      真实,现实 n/实际上,事实上/实际上不是
 represent/stand for/representative/on behalf of QA team     /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/     代表 v/n
+almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
+parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
+meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
+(acceptance) criteria/standard       /kraɪˈtɪəriə/       标准 n/验收标准
+intend/(if) intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,主动地 adj/adv/意图,目的 n/如果是有意,故意
+eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
+mitigate (the risk of service outage)/mitigation/eliminate       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险/剔除,根除 v
+convert momentum into measurable outcomes     /moʊˈmentəm/ /ˈmeʒərəbl/       势头,冲力,推力 n/可量化的 adj/将发展势能转化为可量化成果
+doable/feasible/feasibility      /ˈduːəbl/      可实现的/可行的 adj/可行性 n
+redact/(data) redaction/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
 
 
 
 
 
+overlaps/conflict
+conflict                    冲突 n/v
+conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
+
+nice tip/learned a useful trick/that's useful, learned something new
+good learning
+
+if the timeline slips
+as needed
+only when urgent
+this to ensure no communication gap
+at end of sep and start of oct
 
 
 
+evaluate feasibility of callback
+instantiate
+foreseeable future      可预见的未来
+interpretation      理解、解读
+best placed to do sth       最适合做某事
+capacity constraints        能力约束、资源瓶颈
+best approach
+brainstorm
+go‑live     系统上线
+however procurement indicated capacity constraints around integration delivery in 2026
+is this doable for november go‑live? process impact mitigation needed if not
+the job ran (for over) 24 hours
 
 if any of your tickets          如果你任何一张票
 in either of these columns          在这两列中的任意一列里
 extend to people        转发扩散给其他人
-if you've helped me with a task then please assume I've said ‘Thank you!' – I won't be sending emails with just this in to reduce my email footprint.
+if you've helped me with a task then please assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
 
 (parent/child) chunk       文本块,切片 n/父块,子块
 parent‑child agreement      父子块一致性

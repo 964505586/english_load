@@ -33,7 +33,6 @@ gotcha      got you
 
 as long as(once) we click here       连词,只要...
 (it's) no wonder why/that                难怪
-(be) no longer (v)                     不再 abv
 are you online/there               你在吗
 (it's) a piece of cake              小case
 we'll do everything we can  我 将/已经 竭尽全力
@@ -179,23 +178,20 @@ we have to manually re-run the job each time we face the issue         每次遇
 they'll restrict us from raising PR, which will lead to escalation & a lot more paperwork. i'm sure none of us wants to go through all that
 how did you do it/that?             你怎么做到的？
 the boss is keeping a close eye on this             老板很关注这件事
-if the error persists/if still same error(the same error still occurs)          如果错误依旧存在
-if error has not been resolved              如果错误尚未得到解决
+if the error persists/if the same error still (occurs)/error hasn't been resolved       如果错误依旧存在
 what id did you use             你用的是什么id？
 we're on it            我们正在处理
-or what would be the next step          接下来该怎么做呢
-seeking the next step           等待下一步指示
-rescheduling the slot to accommodate the uk team member, as the current slot overlaps/conflicts with their lunch hour           重新安排时间以容纳UK团队,as当前时间与他们的午餐有冲突
+or what would be the next step/seeking the next step           接下来该怎么做呢/等待下一步指示
+rescheduling the slot to accommodate UK team, as the current slot overlaps/conflicts with their lunch hour      重新安排去容纳UK团队,当前时间与他们的午餐有冲突
 there will be downtime around 1 to 2 hours required to complete the patching activity from pre-check & post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
 so that you can (better) understand the project (more)          以至于你能更好地理解这个项目
 somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
-nice tip/learned a useful trick/that's useful, learned something new
 not too busy today              今天不太忙
 to ensure its continued stability & performance       为确保其持续的稳定性和性能
 please address it at the earliest to avoid further escalation       请尽快处理此事,以免情况进一步恶化
 make your work easier, faster & more effective        让您的工作变得更轻松,更快捷,更高效
-please supplement if anything that should be included       如有遗漏内容,请予以补充
-let's hang over (the work) to jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
+Please supplement any missing items       请补充遗漏内容
+let's hang over (the work) to Jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
 it's a scenario we didn't cover before/the situation wasn't covered     这情况之前未曾涉及
 mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
 left a note/remark in my calendar             在日历里添加了备注
@@ -270,7 +266,6 @@ assessed dependency checks      评估依赖项检查
 is wired to         被配置为,被设置为
 (whether) sth references xxx directly       sth是否直接引用
 this change is specific to sth      本次变更针对sth
-be no longer supported     不再支持
 to help you try them out        方便您上手试用,供您实操体验
 ready-to-use utilities      开箱即用工具,立即可用工具集
 please keep an eye on your inbox for this communication     请留意收件箱查收该通知
@@ -297,7 +292,6 @@ what does "vip" stand for/it stands for sth         vip代表什么?/它代表st
 there's nothing i can do (if nexus issue)        我无能为力
 another question we have        我们还有另一个问题
 (that's) (good) enough   足够的 adj/adv/够了/这已经足够好了
-acceptance criteria(if intended)             验收标准/如果是有意(故意)这么设计,则可以接受
 buy time for sth        争取时间,拖延时间
 please document the intent/purpose    请记录下 意图/目的
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
@@ -379,6 +373,9 @@ available options will be listed here       可用选项将列于此
 the deployment must be blocked until remediation is completed       完成修复前，部署被阻塞
 hi there                       嗨,你好
 As it's been agreed by Jack       强调这件事已经被同意了
+you will (no longer) get            不再 abv
+be no longer supported(merely n)        不再支持/不再只是
+specifics to be detailed        细节待补充
 
 
 

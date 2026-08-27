@@ -5,7 +5,6 @@ command                         命令 n
 algorithm                       算法 n
 alias                           别名 n
 decision/decide             决定 n/v
-conflict                    冲突 n/v
 such                这种
 proxy                 代理
 ingest                 摄取 v

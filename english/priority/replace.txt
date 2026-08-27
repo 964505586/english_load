@@ -1,4 +1,4 @@
-solve/resolve/address/get sorted            解决
+
 uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未被选中的,未勾选的 v
 introduce risk/cause incidents(failures)        引进,引入 v
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
@@ -14,7 +14,6 @@ as shown/stated/mentioned below/above          如下所示/如前所述/前文�
 change/changeable                          变化,变更 n/多变的 adj
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
 regulatory compliance/compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
-dynamic/static                 充满活力的,动态的 adj/动力,活力 n/静态的,静止的 adj
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
 balance exercise            平衡考量,折中方案 n
 i will be off/away/on leave next week           下周我将请假
@@ -56,7 +55,6 @@ faced/reported/raised/encountered
 formula(algorithm)                     公式 n
 as for n(regarding)  至于n/as for that point you mentioned previously     至于你之前提到的这一点
 procedure/step               做事的具体步骤 (process: 整件事的过程)
-criteria/standard                标准 n
 desired/needed
 deal with(handle)
 apply/request
@@ -174,7 +172,6 @@ cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
 be due to/caused by       归因于,由...导致/由...引起
 consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
 (problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
-indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
 inherit/extend/expand          继承/扩展(接口),继承(类)/扩展 v
 discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 explore/exploration/discover             探索,研究,排查 v/n
@@ -249,6 +246,15 @@ lower‑level/lower down (detail)      更低层级的,细化的 adj/往下面,�
 package/packaging (manager tool)            打包 v/包管理工具
 read-only access/permissions            只读权限 n
 customize/customized/custom/accustom     自定义 v/定制的,自定义的 adj/习俗 n/使习惯于,使适应于 v
+qualify/qualified/qualification/i'm not qualified enough     有资格 v/有资格的 adj/资格,资质,获得资格 n/还不够资格
+i'm looking into this right now/currently handling this     我现在正在处理/排查这个
+let me see/have a look          让我看看
+outcome/result      结果，效果/结果，后果 n
+dynamic/dynamically/static                 动力,活力 n/充满活力的,动态的 adj/adv/静态的,静止的 adj
+solve/(partially) resolved/address/get sorted            解决/已决议的 adj/部分解决
+indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
+Day Zero/One/Two        上线首日/上线后第1天/稳态运行阶段
+what do you want to do (on earth)       你想干嘛/你到底想要什么
 
 
 
