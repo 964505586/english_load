@@ -199,7 +199,6 @@ i'll meet Jack offline           线下会面
 the first three are             前三个是
 this is to notify (you) that ...            特此通知 ...
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
-table onboarding may be delayed for a month or even longer          数据接入可能延期一个月或更久
 enablement & adoption sessions            赋能培训 & 落地推广会议
 from concepts to implementation         从概念到落地实施
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
@@ -368,7 +367,11 @@ too ... to/Jack has been too busy to send any emails        太什么...以至�
 is currently occupied/busy doing/not too busy today        目前正忙/忙于做sth/今天不太忙
 let me add/park an agenda item for the call tmr         把这个议题加到明天会议的议程里
 multiple staff's requests within a single submission        一个提交中多个人请求
-
+if any of your tickets is (in either of these columns)          如果你任何一张票/在这两列中的任意一列里
+if doing sth needed(using an alternative solution needed)       如果需要替代方案
+escalate this kind of issue (only when it is urgent)    仅在紧急情况下
+Infra team (is best placed to) resolve the network issue       最适合做某事
+主句 with n doing/without doing sth     跟着,某人做某事,拆分主次/不做sth
 
 
 

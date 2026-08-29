@@ -16,7 +16,6 @@ compute/computation/calculate/calculation         /kəmˈpjuːt/         运算,
 truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
-cascade (down further)         /kæˈskeɪd/          逐级下发,连续传递 v
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
 noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnəs/      显而易见的,明显的 adj/缓慢,迟钝 n/持续数分钟卡顿
@@ -301,7 +300,6 @@ protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条�
 purchase (100 tokens)        /ˈpɜːrtʃəs/         购买,采购 v/n
 reword/revise/amend/rectify/correct error msg       /ˈrektɪfaɪ/ /ˌriːˈwɜːrd/    改写/修正,修订/修改,修订/纠正,矫正 v
 quit/quite/quiet/quietly        /kwɪt/        停止 v/很,非常 adv/安静 v/n/adj/adv
-exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 (in the) interim/stabilisation (period)        /ˈɪntərɪm/ /ˌsteɪbələˈzeɪʃn/     过渡期,中间期 n/稳定 n/稳定期
 steady/unsteady/stable/unstable     /ˈstedi/         稳定的,平稳的,持续的 adj/adv/稳定的,牢固的 adj
 attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
@@ -334,7 +332,6 @@ intend/(if) intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/
 eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
 mitigate (the risk of service outage)/mitigation/eliminate       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险/剔除,根除 v
 convert momentum into measurable outcomes     /moʊˈmentəm/ /ˈmeʒərəbl/       势头,冲力,推力 n/可量化的 adj/将发展势能转化为可量化成果
-doable/feasible/feasibility      /ˈduːəbl/      可实现的/可行的 adj/可行性 n
 redact/(data) redaction/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
 overlap/conflict/clash/clashes/clashed/clashing      /ˌoʊvərˈlæp/ /ˈklæʃɪŋ/       重叠 v/冲突 v/n
 access/accessible/inaccessible      /əkˈsesəb(ə)l/      访问 v/可到达的,平易近人的 adj/不可及的 adj
@@ -348,9 +345,9 @@ i've been fully swamped/occupied recently   /swɒmpt/ /ˈɒkjupaɪd/     最近�
 instant/instantly/instantiate (service instance/class object)       /ɪnsˈtænʃɪeɪt/     立刻,马上 adj/adv/实例化,例示,举例说明 v
 telemetry       /təˈlemətri/        遥测,远程采集测量数据 n
 in the near/(foreseeable) future/a brilliant ~    /fɔːrˈsiːəb(ə)l/    可预知，可预料的 adj/可预见的未来/在不久的将来/光明的未来
-
-
-
+is this (doable) for Nov go‑live/feasible/feasibility      /ˈduːəbl/      可实现的/可行的 adj/可行性 n
+exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
+cascade (down further)/extend to people     /kæˈskeɪd/      逐级下发,连续传递 v/转发扩散给其他人
 
 
 
@@ -358,18 +355,9 @@ in the near/(foreseeable) future/a brilliant ~    /fɔːrˈsiːəb(ə)l/    可�
 
 
 stay current with n         持续跟进更新n
-主句 with n doing/without doing sth     其中某人补充说明一件事,用来附带补充,拆分主次/不做sth
-if the timeline slips
-only when urgent
-evaluate feasibility of callback
-best placed to do sth       最适合做某事
-however procurement indicated capacity constraints around integration delivery in 2026
-is this doable for november go‑live? process impact mitigation needed if not
-the job ran (for over) 24 hours
-if any of your tickets          如果你任何一张票
-in either of these columns          在这两列中的任意一列里
-extend to people        转发扩散给其他人
-if you've helped me with a task then please assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
+follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
+chase/chased/chasing       跟进,催促 v
+
 
 
 
@@ -383,6 +371,7 @@ roman 10:15 how beautiful are the feet of those who bring good news!
 罗马书10:15,报福音传喜信的人,他们的脚踪何等佳美！
 圣经经文,团队玩梗,用来打趣"报喜报好消息”
 philippians 4:8
+if you've helped me with a task then please assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
 
 
 

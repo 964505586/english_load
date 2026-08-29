@@ -96,7 +96,6 @@ retrospective           追溯性,回顾的 adj
 precaution             预防措施 n
 almost              几乎,差不多
 freeze/freezes/froze/frozen         卡死,冻结,无响应
-chase/chased/chasing       跟进,催促 v
 logical             合情合理的,合乎逻辑的 adj
 real-time/in real time                 实时的 adj/adv
 address                 解决,处理 v
@@ -216,7 +215,6 @@ who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个�
 instead     相反
 apply (for)/application         应用 vt/申请 vi/n
 pick (up)         挑选/接手,获取,恢复,继续 v
-follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
 self‑owned workable (backend)       自研,自有的 adj/可运行的 adj
 (investigate) playbook        业务操作手册 n/调查手册
 process flows and requirements      处理流程和需求
