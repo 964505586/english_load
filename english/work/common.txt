@@ -8,7 +8,7 @@ if anything needs correcting or adding      任何需要修正或补充的地方
 hope this mail finds you well               祝你一切顺利
 hope you're doing well                     祝你一切顺利
 i am writing to             我写信是为了
-feel free to propose new slot in case of conflicts      如有冲突，欢迎提出新的时间
+feel free to propose new slot in case of conflicts      如有冲突,欢迎提出新的时间
 please correct me if i'm wrong
 action required from stakeholders           需要stakeholder采取的行动
 if further clarification or a call is needed
@@ -27,16 +27,16 @@ please be aware/noticed/informed of/that
 
 做更多
 do we need to take/provide any other information(further action)?                    我们还需要提供其他信息吗？
-will see if any support needed from my side     我会看看是否需要我这边提供支持
-will see if (there is) anything we can do (about it)？         有什么我可以做的吗？
-will see if we can do more going forward            会看看后续能否做得更多
+see if any support needed from my side     我会看看是否需要我这边提供支持
+see if (there is) anything we can do (about it)？         有什么我可以做的吗？
+see if we can do more going forward            会看看后续能否做得更多
 will see what more we can do going forward          将看看接下来还能做些什么
 if we can help proceed with the above items         如果我们能够协助推进上述事项的话
 
 你的想法
 what do you think (of/about the design)                 你觉得怎么样
 what's your idea/thoughts on this (matter)
-will see if that makes sense
+see if that makes sense
 have you any idea or is it reasonable?
 looking for any possible improvement
 

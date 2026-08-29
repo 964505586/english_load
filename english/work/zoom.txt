@@ -10,14 +10,14 @@ i'll leave you in peace
 sorry, my network seemed unstable       抱歉,我的网络似乎不太稳定
 my zoom is stuck                        我的 zoom 卡住了
 sorry, i just froze                     抱歉,我刚刚卡住了
-jack, you're frozen                    你卡住了
+Jack, you're frozen                    你卡住了
 i froze/lagged for a second/moment                   我 卡/延迟 了一 秒钟/会儿
 
 meeting
 let's wait & see/let's wait a few more minutes      静观其变,看看情况再说/再多等一会儿
 let's wait for others to join (the call)            让我们等待其他人加call
 let's start(kick off) first and see if they join later (on)      我们先开始,看他们稍后会不会加入
-sorry. i'm so late. sorry about that        抱歉，我来晚了
+sorry. i'm so late. sorry about that        抱歉,我来晚了
 not sure if john will join the call            不确定托尼是否会参加这次通话
 (okay, no more delay) let's jump right in                     (好了,不再耽搁了)咱们直接开始吧
 let's continue to go through tickets & then discuss it after the meeting          我们接着查看一下票务情况,会议结束后再进行讨论
@@ -35,12 +35,12 @@ i'll try to get it done by today/i'm trying to get this resolved today  将争�
 i spent all my time finishing the ticket yesterday              昨天我把所有时间都花在完成这张票上
 will check later. have no idea how big it(this ticket) is (how many story point do u need)    我不知道这ticket多大(你要多少effort)
 if everything goes well         如果一切顺利
-yesterday i answered(helped check) some issue jack encountered & the issues Lion faced       昨天我帮助检查了jack遇到的问题和john面临的问题
+yesterday i answered(helped check) some issue Jack encountered & the issues Lion faced       昨天我帮助检查了Jack遇到的问题和john面临的问题
 i keep getting interrupted by other (urgent) matters recently, therefore the progress is only about 20%     我最近总是会被其他紧急事务打断
 let's go/come back to the track(Jira Board)         我们回到n吧
 thanks for joining              感谢您的参与
 any items you want to raise/talk/discuss here or we can end/close the call     您这里还有想要 提出/讨论/交流 的 内容/事项吗？或者我们可以结束这次通话
-will see if there are no items/problem to discuss         如果没有任何需要讨论的事项的话
+see if there are no items/problem to discuss         如果没有任何需要讨论的事项的话
 anything else from you      你这边还有其他情况吗
 which one should i prioritize and work on first?        我应该先做哪一个
 sorry, you just broke up a little bit       刚才你的声音卡顿,断了一小段

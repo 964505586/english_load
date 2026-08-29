@@ -106,7 +106,7 @@ post-upgrade/after upgrade          版本升级后
 minimum reliable path/solution       最简可靠方案
 confuse/confused/confusing/confusion    使困惑,使迷惑 v/困惑的,糊涂的 adj/困惑,混乱 n
 watched/automatic watching      关注的 adj/自动关注
-staging/pre-prod env        预发布环境
+staging/Pre-Prod env        预发布环境
 be closing down/sth will be gone    逐步下线,陆续停用,即将关停/即将下线,移除,不复存在
 pin up/pinned (to version xxx)/fixed      /ˈpɪn ʌp/     置顶,挂图 v/已置顶的 adj/固定版本,锁定版本/固定的 adj
 1h/2h/h2 2026/achievements/half year 2     (2026)下半年/上半年成绩
@@ -160,7 +160,6 @@ surface/show/display/displayed         显露,暴露 v/表面(的) n,adj/显示,
 backfill/write back/replay        回填,装填/回写/重放 v
 differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 adj/区别 n
 feature/capability introductions    功能介绍
-in the near future/a brilliant (future)      未来 n,adj/在不久的将来/光明的未来
 top/(bottom) left/right corner        左上角,右下角/底部(的) adj/n
 outside/outsides (the firewall)         在外面 adv/外边的 adj/外部,外表 n/防火墙外
 cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
@@ -187,10 +186,10 @@ underway/in progress/ongoing/pending/tbd         进行中的/仍在进行的/�
 the current conclusion/data discrepancy conclusion         目前的结论,现阶段结论/数据差异结论
 merge/combine/integrate/consolidate
 rate/traffic        流量,速率,速度,比率 n/交通,流量 n
-enterprise/corporation/company/accompany       企业,事业单位 n/大企业,集团 n/公司,陪伴 n/伴随，附带 v
+enterprise/corporation/company/accompany       企业,事业单位 n/大企业,集团 n/公司,陪伴 n/伴随,附带 v
 it/system/program throw/threw failure error/exception       抛出错误/异常
 (it's) almost at once(the same)             几乎 马上/一样
-as/after we planned/discussed/talking (with jack) previously        正如我与jack所 讨论/计划 的
+as/after we planned/discussed/talking (with Jack) previously        正如我与Jack所 讨论/计划 的
 this field isn't editable/set the field to uneditable       此字段不可编辑
 in‑scope/out‑of‑scope       (超出)范围内/外
 perform/do/implement        xxx/执行,实现 v
@@ -199,14 +198,14 @@ against/regarding       针对 prep
 reproduce/replicate (question)/reproduction       复现 v/n
 in the (past)/last few days//months     在过去 几天/数月
 I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
-notify/(outage) notification/notice      通报，告知 v/通知 n/断网,服务中断通知/注意,意识 v
+notify/(outage) notification/notice      通报,告知 v/通知 n/断网,服务中断通知/注意,意识 v
 the day/week after/before yesterday/tomorrow/next week      前天/后天/下下周
 a slight/little delay(a bit of delay) is normal/common      有延迟很常见,正常
 queue times are usually long in normal channel/long queue times are common      排队时间长是常见
 give you an overview of sth/briefly introduce sth/elaborate     概述,简述/详细说明
 utilize/leverage/utilise(英式)     利用,使用 v
 host/hosting/hosted at/deploy             举行,部署,托管,做东 v/主人,主持人 n/托管于
-suggest we (play around with) jack's proposal/try with sth       试一试jack的提议
+suggest we (play around with) Jack's proposal/try with sth       试一试Jack的提议
 associate/associated (with)     联系 v/相关的,关联的,配套的 adj/与...关联
 (the best) slot/period        时间段,时段/一段时间,时期 n/最佳时间段
 plan/intend/would like to           打算,想要/计划 v
@@ -220,7 +219,7 @@ possess/process/flow         拥有/处理 v/过程,程序,进程/流 n
 confirm with/reach out to Jack to get       找sb做某事
 what's it/this (ticket) for/what's purpose for the ticket        这是干嘛的
 modify/update/change/edit           修改/更新/改变/编辑 v
-sustain/support     维持，支撑/支持 v
+sustain/support     维持,支撑/支持 v
 could you please acknowledge/confirm/acknowledged        确认,认可,感谢 v/请确认(已收到/知晓/知悉)
 stakeholder/related parties                  相关方,利益相关者/相关方
 fetch/extract/read             获取,拉取 v/提取,抽取 v
@@ -236,14 +235,14 @@ just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过
 ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
 release gates/gating process        发布门禁/门禁流程
-alias name/(individual) other name/individual platform    别名/别名,曾用名 n/个人的，各个的,分别的 adj/各个平台
+alias name/(individual) other name/individual platform    别名/别名,曾用名 n/个人的,各个的,分别的 adj/各个平台
 lower‑level/lower down (detail)      更低层级的,细化的 adj/往下面,往下 adv/底层细节
 package/packaging (manager tool)            打包 v/包管理工具
 customize/customized/custom/accustom     自定义 v/定制的,自定义的 adj/习俗 n/使习惯于,使适应于 v
 qualify/qualified/qualification/i'm not qualified enough     有资格 v/有资格的 adj/资格,资质,获得资格 n/还不够资格
 i'm looking into this right now/currently handling this     我现在正在处理/排查这个
 let me see/have a look          让我看看
-outcome/result      结果，效果/结果，后果 n
+outcome/result      结果,效果/结果,后果 n
 dynamic/dynamically/static                 动力,活力 n/充满活力的,动态的 adj/adv/静态的,静止的 adj
 solve/(partially) resolved/address/get sorted            解决/已决议的 adj/部分解决
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth

@@ -265,11 +265,11 @@ diary invites       /ˈdaɪəri/        日历会议邀请
 mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就,协调配合 v/协调,配合 v,n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
 (assess system) fitment     /ˈfɪtmənt/      适配,匹配度 n
-rationale       /ˌræʃəˈnæl/         根本原因，逻辑依据
+rationale       /ˌræʃəˈnæl/         根本原因,逻辑依据
 pharmacy        /ˈfɑːrməsi/         药店,药房
 reconvene       /ˌriːkənˈviːn/      再召集,再聚会
 encode/encoding     /ɪnˈkoʊd/      编码 v
-persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,持续,坚持 v/持久化的，执着的,持续的 adj/物化,落地生成/坚持 v
+persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,持续,坚持 v/持久化的,执着的,持续的 adj/物化,落地生成/坚持 v
 material/materialize(persist)     /məˈtɪriəlaɪz/      材料 n/物质的,非精神上的 adj/物化,落地持久化 v
 upon n(success/confirmation/completion/receipt)/once adj/句子    /əˈpɒn/        一...就,在...上
 redundant/duplicate/useless/unused/invalid    /rɪˈdʌndənt/    多余的/重复的/无用的,无效的/未使用的,闲置的/无效的 adj
@@ -298,8 +298,8 @@ similarity (search)/similar/familiar       /ˌsɪməˈlærəti/       相似度 
 citation       /saɪˈteɪʃ(ə)n/       引文 n
 reason/reasoned/reasoning/reasonable        /ˈriːznɪŋ/       推理 v/合理的 adj
 protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,一致 n/约定好的,同意的 adj
-purchase (100 tokens)        /ˈpɜːrtʃəs/         购买，采购 v/n
-reword/revise/amend/rectify/correct error msg       /ˈrektɪfaɪ/ /ˌriːˈwɜːrd/    改写/修正，修订/修改，修订/纠正,矫正 v
+purchase (100 tokens)        /ˈpɜːrtʃəs/         购买,采购 v/n
+reword/revise/amend/rectify/correct error msg       /ˈrektɪfaɪ/ /ˌriːˈwɜːrd/    改写/修正,修订/修改,修订/纠正,矫正 v
 quit/quite/quiet/quietly        /kwɪt/        停止 v/很,非常 adv/安静 v/n/adj/adv
 exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 (in the) interim/stabilisation (period)        /ˈɪntərɪm/ /ˌsteɪbələˈzeɪʃn/     过渡期,中间期 n/稳定 n/稳定期
@@ -313,16 +313,16 @@ enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v
 manifest/list        /ˈmænɪfest/     清单
 as per naming(current UI) convention      /kənˈvenʃ(ə)n/        惯例,规范 n/命名规范
 immutable       /ɪˈmjuːtəbl/      不可修改,不可变更 adj
-tutorial (document)        /tuːˈtɔːriəl/       导师的，辅导的/指导文档
+tutorial (document)        /tuːˈtɔːriəl/       导师的,辅导的/指导文档
 monotonically (increasing)        /ˌmɒnəˈtɒnɪkli/        单调地 adv/单调递增
-i think it may not be so (straightforward)      /ˌstreɪtˈfɔːwəd/        简单的，易懂的 adj/adv/我觉得这事可能没那么简单
+i think it may not be so (straightforward)      /ˌstreɪtˈfɔːwəd/        简单的,易懂的 adj/adv/我觉得这事可能没那么简单
 grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
 (guiding/security) principle       /ˈprɪnsəp(ə)l/ /ˈɡaɪdɪŋ/        准则,原则 n/处理,指导,安全原则
 i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳理我的笔记
 infra/infrastructure        /ˈɪnfrəstrʌktʃər/       基础设施 n
 delegate        /ˈdelɪɡət/        代理人,代表 n/授权 v
 any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
-(storage/processing) venue/place/location/position      /ˈvenjuː/      存储,处理场地/地点，场所 n/放置 v/地点,位置 n(物理地点/职位,岗位)
+(storage/processing) venue/place/location/position      /ˈvenjuː/      存储,处理场地/地点,场所 n/放置 v/地点,位置 n(物理地点/职位,岗位)
 imagine/imaginary/imagination/image       /ɪˈmædʒɪneri/       想像,设想 v/想象的,虚构的 adj/想像力,想像/镜像 n
 (in) reality/actually (not)     /riˈæləti/      真实,现实 n/实际上,事实上/实际上不是
 represent/stand for/representative/on behalf of QA team     /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/     代表 v/n
@@ -341,25 +341,28 @@ access/accessible/inaccessible      /əkˈsesəb(ə)l/      访问 v/可到达�
 deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动/停用,注销 v
 propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,同步,下发,向上传播(异常) v
-loop sb in/looping jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让jack参与进来
+loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 (agentic engineering) Hackathon       /ˈhækəθɑːn/       智能体工程黑客
+interpret/interpretation/understand        /ɪnˈtɜːrprət/      理解、解读 v/n
+i've been fully swamped/occupied recently   /swɒmpt/ /ˈɒkjupaɪd/     最近忙得焦头烂额,最近一直行程排满
+instant/instantly/instantiate (service instance/class object)       /ɪnsˈtænʃɪeɪt/     立刻,马上 adj/adv/实例化,例示,举例说明 v
+telemetry       /təˈlemətri/        遥测,远程采集测量数据 n
+in the near/(foreseeable) future/a brilliant ~    /fɔːrˈsiːəb(ə)l/    可预知，可预料的 adj/可预见的未来/在不久的将来/光明的未来
 
 
 
-(so can i interpret/understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
-interpret/interpretation        /ɪnˈtɜːrprət/      理解、解读
 
 
-multiple staff's requests within a single submission
-instant/instantly/instantiate       /ɪnsˈtænʃɪeɪt/     立刻，马上 adj/adv/实例化,例示，举例说明 v
-telemetry       /təˈlemətri/
-preload
+
+
+
+
+stay current with n         持续跟进更新n
+主句 with n doing/without doing sth     其中某人补充说明一件事,用来附带补充,拆分主次/不做sth
 if the timeline slips
 only when urgent
 evaluate feasibility of callback
-foreseeable future      可预见的未来
 best placed to do sth       最适合做某事
-capacity constraints        能力约束、资源瓶颈
 however procurement indicated capacity constraints around integration delivery in 2026
 is this doable for november go‑live? process impact mitigation needed if not
 the job ran (for over) 24 hours
@@ -377,8 +380,8 @@ a call‑off mapped to its parent agreement
 call‑off    子订单/分合同
 
 roman 10:15 how beautiful are the feet of those who bring good news!
-罗马书10:15，报福音传喜信的人，他们的脚踪何等佳美！
-圣经经文，团队玩梗，用来打趣"报喜报好消息”
+罗马书10:15,报福音传喜信的人,他们的脚踪何等佳美！
+圣经经文,团队玩梗,用来打趣"报喜报好消息”
 philippians 4:8
 
 

@@ -99,11 +99,11 @@ would like to clarify sth/make a clarification on sth           想澄清下sth
 would like to clarify some points/details about backend with you
 i'd like to tell you something      我想告诉你一些事情
 i hardly ever use the method(command line) to operate git          我几乎不用sth
-then talk to jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟jack说
+then talk to Jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟Jack说
 still have one more day             还有一天呢
 please verify if the issue also occurs in uat(also check the uat env for the issue)        看下uat env有没有这个问题
 after talking with john             经过和john交谈
-jack will help list out the schemas that are inconsistent           jack会帮忙列出不一致的schemas
+Jack will help list out the schemas that are inconsistent           Jack会帮忙列出不一致的schemas
 i'd like to know if the approach meets(aligns with) your expectations            是否符合您的预期
 in fact, we are borrowing another team's queue             我们在借用另一个team' queue
 need to make sure each case has at least one status              需要确保每个案例至少有一个状态
@@ -117,7 +117,7 @@ there are two potential solutions i've thought of for the issue             我�
 at 17:00 hours
 at a time               一次
 i'm a java developer, but since there isn't much java work in our team right now, i sometimes also take on big data tasks               我是java开发,但我们团队目前没有太多java的工作,所以我有时也会做一些大数据相关的任务
-we have (encountered) a new issue currently. jack needs to modify backend code to fix it. i've added relevant comments in ticket           目前我们遇到了一个新的问题jack需要修改backend的代码来解决这个问题我在工单中添加了相关的comment
+we have (encountered) a new issue currently. Jack needs to modify backend code to fix it. i've added relevant comments in ticket           目前我们遇到了一个新的问题Jack需要修改backend的代码来解决这个问题我在工单中添加了相关的comment
 at any time/moment(feel free to)                      随时
 at least/most/best/worst                至少/至多/顶多/最坏
 at (exactly) that moment                          就在那一刻/恰恰就在那一刻
@@ -137,12 +137,12 @@ the problematic code is from frontend, not backend           有问题的代码�
 the header disappears when i scroll down        当向下滚动,标题就消失了
 how do i freeze the top/header row so (that) it stays visible when scrolling down?          如何将标题行冻结,使其在向下滚动时仍保持可见状态？
 platform patching led to an (unexpected) production outage last night           导致生产环境宕机
-jack mentioned that you are already aware of this               jack说你已经知道这个了
+Jack mentioned that you are already aware of this               Jack说你已经知道这个了
 17 months of data               17 个月的数据
 i have received the file from your separate email           我已经从您单独发来的邮件中收到了那份文件
 i noticed/observed that the score ranges from 0 to 9                我注意到分数的范围是从0到9
 please ignore the email if you have already actioned this              如果您已采取行动,请忽略此邮件
-jack is staring at sb/sth                       jack正盯着它看
+Jack is staring at sb/sth                       Jack正盯着它看
 troubleshooting (is) ongoing. no ETA yet(no ETA for resolution has been confirmed at this time)     问题正在排查中,目前暂未确认解决时间
 it will be a time-consuming effort for all of us            对我们所有人,都是一项耗时的工作
 further updates will be shared as progress is made          有进展后会同步更多更新
@@ -185,7 +185,6 @@ rescheduling the slot to accommodate UK team, as the current slot overlaps/confl
 there will be downtime around 1 to 2 hours required to complete the patching activity from pre-check & post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
 so that you can (better) understand the project (more)          以至于你能更好地理解这个项目
 somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
-not too busy today              今天不太忙
 to ensure its continued stability & performance       为确保其持续的稳定性和性能
 please address it at the earliest to avoid further escalation       请尽快处理此事,以免情况进一步恶化
 make your work easier, faster & more effective        让您的工作变得更轻松,更快捷,更高效
@@ -196,7 +195,7 @@ mask sensitive data to avoid user info leakage/exposure       打码数据,防�
 left a note/remark in my calendar             在日历里添加了备注
 i am thinking (if)... though        /ðəʊ/      不过我在想.../不过,可是,然而(前面说了一个意见,现在补充/转念一想另一个角度)
 guides are available here          在此处可用,可查看
-i'll meet jack offline           线下会面
+i'll meet Jack offline           线下会面
 the first three are             前三个是
 this is to notify (you) that ...            特此通知 ...
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
@@ -204,16 +203,8 @@ table onboarding may be delayed for a month or even longer          数据接入
 enablement & adoption sessions            赋能培训 & 落地推广会议
 from concepts to implementation         从概念到落地实施
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
-in turn/service a calls b, which in turn queries db     继而,进而(插入性状语)/服务a调b,b继而去查询db
-主句 with n doing/without doing sth     其中某人补充说明一件事,用来附带补充,拆分主次/不做sth
-too ... to/jack has been too busy to send any emails        太什么...以至于不能
 as much as i would like to go, i have insufficient capacity     虽然我很想去,但我实在分身乏术
-let me park an agenda item for the call tmr         把这个议题加到明天会议的议程里
-my backend won't start. will see if your local can connect to the pre-prod env & run normally?
-can your local connect to pre-prod env & start the project ? will see if same issue
-the backend fails to start on my side. is your local able to connect to pre-prod env        你项目能启动么
 feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
-stay current with n         持续跟进更新n
 the change will only take effect after the end date                 end_date后才生效
 potential a change at backend level         后端层面可能会有change
 this change involves lots of underlying code            这改动涉及大量底层代码
@@ -274,7 +265,7 @@ if i recall correctly/or i remember it wrong       如果我没记错的话/或�
 sth is in use       正在使用中
 no risks found      未发现风险
 ai-generated content might be inaccurate or misleading      ai生成的可能存在不准确或误导性
-i was updating jack on this info         刚刚正在做的动作/刚才正在向杰克更新这些信息
+i was updating Jack on this info         刚刚正在做的动作/刚才正在向杰克更新这些信息
 it was not an issue previously      此前并无异常,之前没有出现过这个问题
 you are one of the approvers        审批人之一
 (you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
@@ -292,7 +283,7 @@ silently (returns)      默默地,静静地 adv/静默返回(无报错)
 stick to the original plan            坚持 v
 tentatively planned for July 8th    暂定计划
 could you take about 5 minutes to       能花大约5分钟
-i think jack is the right person to answer that     杰克是回答这个问题最合适的人
+i think Jack is the right person to answer that     杰克是回答这个问题最合适的人
 you can start on this first and work on that one afterwards      先做这一项,之后再做那项
 just waiting for the issue to be fixed      等待问题修复完成
 i don't really (have an update)       暂时没有新进展,更新/有最新进展,有新消息可以同步
@@ -321,7 +312,7 @@ i believe it's worth a go       我认为这值得一试
 the API rate limit has been exceeded        API请求速率限制已超出
 Postman has been disabled within the corporation      银行已禁用postman
 i'd like to factor this in as part of the new req as well   将这个也纳入新的需求里
-as the deployment is taking seamless deployment approach, there will be no service interruption     部署采用无缝方式进行，因此不会造成服务中断
+as the deployment is taking seamless deployment approach, there will be no service interruption     部署采用无缝方式进行,因此不会造成服务中断
 don't get me wrong          别误会
 no worries at all       完全不用担心
 not to blame anyone     不是要追究谁的责任
@@ -332,7 +323,7 @@ associated guidance/the comment associated with the Agent       相关指引,配
 if the system encounters/experiences/suffers performance issues     如果系统遇到性能问题
 just ask in Teams group     直接在群里问就行
 (it's) a bit urgent            有点急
-go this way     采用这个方案，按这个方式走
+go this way     采用这个方案,按这个方式走
 will get/have a head‑start(early advantage)       将会占据先机
 give you the green/red light        给某人开绿灯,批准/否决,叫停
 scared me       吓我
@@ -341,20 +332,20 @@ this should (give a good indication) of what payload to send and what you receiv
 Not this time       这次不行,这回就算了
 automate devops process        使自动化 v
 please keep pressing CA team for sth, as it has been out of service for two years now       请继续向CA团队施压,推动此事
-not yet, for now we are using sth       还没有，目前我们正在用sth
+not yet, for now we are using sth       还没有,目前我们正在用sth
 Work is (mainly on the checking of) true value of those metrics     主要集中在
 that's one moving piece     这只是其中一项变动因素
 made a correction on sth      对n进行了修正
 i still don't know what it means yet       目前还不清楚这啥意思
-i (kept hearing) we could integrate with a team through SAS     一直反复听到/一直听大家说，可以通过Cyber和另一个团队做整合
-i'm likely to overrun the current meeting       超出，超过 v/这会议大概率会超时
+i (kept hearing) we could integrate with a team through SAS     一直反复听到/一直听大家说,可以通过Cyber和另一个团队做整合
+i'm likely to overrun the current meeting       超出,超过 v/这会议大概率会超时
 in one's free/spare time        在某人的空闲时间
 sell ideas to sb        向某人推销,推广方案
-it will not be that easy for us to do sth        对我们来说，做这事没那么容易
+it will not be that easy for us to do sth        对我们来说,做这事没那么容易
 please keep researching how & where we could host one       继续研究我们如何 & 在哪里可以举办一次
 touch‑wood(can make it a back-up for (touch‑wood) next time)       老天保佑,希望别出问题
-specially creating an online doc to list all BAU issues we have identified      专门建了个文档，列出发现的所有BAU issue
-challenge that they are not thinking enough and not considering the full scope      质疑他们思考不够，没有覆盖完整范围
+specially creating an online doc to list all BAU issues we have identified      专门建了个文档,列出发现的所有BAU issue
+challenge that they are not thinking enough and not considering the full scope      质疑他们思考不够,没有覆盖完整范围
 could you please help guide new joiners through the onboarding process     帮忙带下新人
 would you mind doing(having a look at the issue)       可否麻烦你看一下这个问题
 work with Jack together on SAS      和sb协同工作
@@ -363,7 +354,7 @@ If the issue can't be resolved promptly/quickly, a related ticket needs to be cr
 if any questions. otherwise, your confirmation & sign-off would be much appreciated     烦请确认并签字审批
 please kindly provide your sign-off             若无疑问,烦请确认签收/办结
 available options will be listed here       可用选项将列于此
-the deployment must be blocked until remediation is completed       完成修复前，部署被阻塞
+the deployment must be blocked until remediation is completed       完成修复前,部署被阻塞
 hi there                       嗨,你好
 As it's been agreed by Jack       强调这件事已经被同意了
 you will (no longer) get            不再 abv
@@ -372,6 +363,11 @@ specifics to be detailed        细节待补充
 in the first/second iteration(for loop)         循环/在第一次循环中
 iterate through the list & collect their name              遍历列表并收集name
 there's no best/perfect approach/solution, only the most suitable/appropriate one       没有完美的解决方案,只有最适合的解决方案
+(so can i interpret/understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
+too ... to/Jack has been too busy to send any emails        太什么...以至于不能
+is currently occupied/busy doing/not too busy today        目前正忙/忙于做sth/今天不太忙
+let me add/park an agenda item for the call tmr         把这个议题加到明天会议的议程里
+multiple staff's requests within a single submission        一个提交中多个人请求
 
 
 
