@@ -42,8 +42,9 @@ thanks for joining              感谢您的参与
 any items you want to raise/talk/discuss here or we can end/close the call     您这里还有想要 提出/讨论/交流 的 内容/事项吗？或者我们可以结束这次通话
 will see if there are no items/problem to discuss         如果没有任何需要讨论的事项的话
 anything else from you      你这边还有其他情况吗
-sorry, you just broke up a little bit       刚才你的声音卡顿,断了一小段
 which one should i prioritize and work on first?        我应该先做哪一个
+sorry, you just broke up a little bit       刚才你的声音卡顿,断了一小段
+i didn't catch your last sentence/understand what you said at the end   没听懂你最后一句话
 
 
 

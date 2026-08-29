@@ -39,7 +39,6 @@ round/can we ask jack to perform the final round of check (on this)     一轮,�
 shortly                             不久,很快 adv
 comment     评估 v
 as of 2026/6/12     截至指定日期
-access application process      权限申请流程 n
 fine-tune           精细调优 n/精细地,细微的 adj/调校,调整,调节 v
 where (it's) appropriate       在合适的场景/情形下
 development         制定,完善,构建 n
@@ -62,7 +61,6 @@ clarify/clarity                         澄清,阐明,明确 v/清晰 n
 role                角色,作用,职责 n
 given n/that/time                    鉴于,考虑到.../给定的时间
 presence        出席 n
-user access review          用户访问权限审核
 end-to-end          端对端的 adj/adv
 built-in                内置的 adj
 on your calendar            你的日程
@@ -79,7 +77,6 @@ session         课程场次,会议 n
 specify/specified/specification/specific/specifically       指定 v/规定,指定的 adj/规格说明 n/明确的,具体的地,特定的,特意的 adj/adv
 onboarding          接入,上线 v
 upcoming                即将来临的 adj
-go live                 上线 v
 usage-based billing model       按使用量的计费模式
 review              查阅 v
 during the maintenance window           维护窗口期间
@@ -94,7 +91,6 @@ federated       联邦的 adj
 data ingestion          数据接入,摄取 n
 (work) handover item/content/object            工作交接/交接项,内容,对象 n
 continued               持续的 adj
-inaccessible            不可及的 adj
 user base           用户群
 retrospective           追溯性,回顾的 adj
 precaution             预防措施 n
@@ -131,7 +127,6 @@ anyway          总之,反正
 hold on            等一下,坚持住
 multimodal model     多模态(模型)
 significant/significantly       显著地,大幅度地,重要地 adj/adv
-as needed       按需 adv
 mix (a with b)             混合 v/n/把a和b混合
 by cob today        close of business   今日下班前
 regroup     复盘碰头,重新组合 v
@@ -269,6 +264,13 @@ playwright      /ˈpleɪraɪt/      ui自动化测试工具
 first of all        首先 adv
 (environment) variable            易变的,多变的 adj/可变性，可变因素 n/环境变量
 callback (url)        回调 n/回调地址
+read-only access/permissions            只读权限 n
+access application process/user access review      权限申请流程/用户访问权限审核
+url/uri         https://nexus.com(/repository/download)
+suspect/suspected/suspicious         怀疑 v/有嫌疑的，涉嫌的，疑似的/可疑的 adj
+go live/go‑live                 上线 v/adj/n
+brainstorm      集体讨论，集思广益,头脑风暴 v
+understanding       善解人意 n
 
 
 

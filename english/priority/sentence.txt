@@ -48,7 +48,6 @@ why/how did you navigate to(land on) that page?         您是如何访问(到�
 these two fields are reversed                这两个字段的值颠倒了
 data(email) attached for your reference                 附上邮件供您参考
 how/why/what is it?              怎么样/为什么/这是什么
-(so can i understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
 this is just/simply my personal perspective            这仅仅是我个人的看法
 will it work？
 in that case, i think everything will be fine/all right     既然如此,我觉得一切都会顺利的
@@ -79,7 +78,7 @@ whose responsibility is it？                 这是谁的责任？
 actually, it's afternoon in china               实际上,中国现在是下午
 what time do you start work in the morning          你早上几点开始工作
 using a command             方式状语
-the issue had always existed. however, it wasn't discovered before                这问题一直都存在,之前没被发现
+the issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
 this problem was caused while developing backend feature (this happen because ...)          这个问题是在开发此功能的过程中产生的
 please help check the email draft, i'm preparing to send to kevin for clarification          帮忙检查一下这份邮件草稿,我准备发给kevin以获取进一步的说明
 everyone is complaining that jenkins is unstable         大家都抱怨jenkins不稳定
@@ -133,7 +132,7 @@ you may prioritize other ticket for now/you may work on other tickets first     
 we're (just) counting on you               我们就靠你了(指望)
 could you have(help take) a look at this?             你能看一下xxx吗？
 when in doubt, use the reboot trick!             遇事不决,重启大法
-i spent over an hour on a call with jack yesterday, however, the issue is still unresolved. he said he'll double-check it today
+i spent over an hour on a call with Jack yesterday, however, the issue is still unresolved. He said he'll double-check it today
 the problematic code is from frontend, not backend           有问题的代码来自frontend,而非backend
 the header disappears when i scroll down        当向下滚动,标题就消失了
 how do i freeze the top/header row so (that) it stays visible when scrolling down?          如何将标题行冻结,使其在向下滚动时仍保持可见状态？
@@ -195,13 +194,9 @@ let's hang over (the work) to Jack     接下来交给杰克来讲,现在请杰�
 it's a scenario we didn't cover before/the situation wasn't covered     这情况之前未曾涉及
 mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
 left a note/remark in my calendar             在日历里添加了备注
-some access may take some time to activate           部分权限需等待一段时间方可生效
-some permissions usually take some time to go live          有些权限通常需要一段时间才能生效
-ideally, yes                理想情况下是的
 i am thinking (if)... though        /ðəʊ/      不过我在想.../不过,可是,然而(前面说了一个意见,现在补充/转念一想另一个角度)
 guides are available here          在此处可用,可查看
 i'll meet jack offline           线下会面
-i am writing to             我写信是为了
 the first three are             前三个是
 this is to notify (you) that ...            特此通知 ...
 the process may take (up to) 40 days                大概需要40天/最长可达40天,耗时最多40天
@@ -209,8 +204,6 @@ table onboarding may be delayed for a month or even longer          数据接入
 enablement & adoption sessions            赋能培训 & 落地推广会议
 from concepts to implementation         从概念到落地实施
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
-multiple staff's requests within a single submission
-i didn't catch your last sentence/understand what you said at the end   没听懂你最后一句话
 in turn/service a calls b, which in turn queries db     继而,进而(插入性状语)/服务a调b,b继而去查询db
 主句 with n doing/without doing sth     其中某人补充说明一件事,用来附带补充,拆分主次/不做sth
 too ... to/jack has been too busy to send any emails        太什么...以至于不能
@@ -376,6 +369,9 @@ As it's been agreed by Jack       强调这件事已经被同意了
 you will (no longer) get            不再 abv
 be no longer supported(merely n)        不再支持/不再只是
 specifics to be detailed        细节待补充
+in the first/second iteration(for loop)         循环/在第一次循环中
+iterate through the list & collect their name              遍历列表并收集name
+there's no best/perfect approach/solution, only the most suitable/appropriate one       没有完美的解决方案,只有最适合的解决方案
 
 
 

@@ -2,7 +2,6 @@ citizenship                                     公民身份 n
 abandoned                   被抛弃的,废弃的 adj/抛弃,遗弃 v
 absolutely                      绝对地,完全地 adv
 absorb                              吸收 v
-accessible                                  平易近人的 adj
 accommodation           住宿 n
 again & again                         一次又一次,反复地
 alcohol                         酒
@@ -258,7 +257,6 @@ moment                              瞬间,此刻 n
 moving                              感人的 adj
 national                            国家的 adj
 natura/natural/naturally               自然 n/adj/adv
-needed                                      需要的 adj
 negative                                    悲观的,消极的 adj
 negotiate                       谈判 v
 nervous 紧张的
@@ -379,7 +377,6 @@ that if                                 如果
 the main thing/reason               主要的事情
 the other day                   几天前
 then                                那个时候 adv
-therefore          因此,所以 adv
 these days                              如今,现今
 think of n                    想起,思考
 thoughtful          体贴入微的,考虑周到的 adj
@@ -392,7 +389,6 @@ trouble-free                            无故障的 adj
 turn down                               拒绝 v
 turn/switch off 关掉
 umbrella 伞
-understanding                   善解人意 n
 undertake           承担,答应 v
 unethical                               不道德的 adj
 unique                                  独特的,独一无二的

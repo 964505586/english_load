@@ -43,11 +43,11 @@ is this behavior forbidden?             这种行为是被禁止的吗？
 is this what you want?                  这是你想要的吗？
 it depends          看情况
 it won't take much time
-it's the only way to ensure the safety                  这是确保安全的唯一办法
-it's time to take a break                   是时候休息一下了
-(it's) up to you                                      取决于你,由你决定
+it's the only way to ensure the safety      这是确保安全的唯一办法
+it's time to take a break       是时候休息一下了
+(it's) up to you            取决于你,由你决定
 jack is coming                                      sb要来了
-jenkins keeps failing, so i'm thinking of trying to create a new pr          老是失败,我在想试着创建一个新的pr
+jenkins keeps failing, so i'm thinking of trying to create a new pr     老是失败,我在想试着创建一个新的pr
 just saw                            刚看到
 let's call it a day                 今天就到此为止
 let's catch up later

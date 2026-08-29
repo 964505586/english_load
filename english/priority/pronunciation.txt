@@ -137,7 +137,6 @@ forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
 continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
-loop sb in/looping jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让jack参与进来
 crime       /kraɪm/     罪,罪行,犯罪 n
 territory       /ˈterətɔːri/        领地,领域 n
 (is this an urgent) referral        /rɪˈfɜːrəl/        转介,转送,转诊 n
@@ -165,8 +164,6 @@ fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
 pose a minor risk to sth    /pəʊz/      造成,引起 v
 disk space      /dɪsk/      磁盘空间
-activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动 v/停用,注销
-deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
 cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
 normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
@@ -217,7 +214,6 @@ without (explanatory) comment     /ɪkˈsplænətɔːri/      解释 adj/无解�
 minor/minority/major/majority     /ˈmaɪnə(r)/ /maɪˈnɔːrəti/     较小的,次要的 adj/未成年人 n/少数 n/adj/大多数
 most/almost/majority    /məˈdʒɒrəti/        很多 adj/adv/近全满 adv/必过半 adj/n
 mass/massive/at scale        /ˈmæsɪv/        大规模的/巨大的,大规模的 adj/adv
-propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,向上传播(异常) v
 purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
 capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/精力,产能 n
@@ -340,43 +336,40 @@ mitigate (the risk of service outage)/mitigation/eliminate       /ˈmɪtɪɡeɪt
 convert momentum into measurable outcomes     /moʊˈmentəm/ /ˈmeʒərəbl/       势头,冲力,推力 n/可量化的 adj/将发展势能转化为可量化成果
 doable/feasible/feasibility      /ˈduːəbl/      可实现的/可行的 adj/可行性 n
 redact/(data) redaction/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
+overlap/conflict/clash/clashes/clashed/clashing      /ˌoʊvərˈlæp/ /ˈklæʃɪŋ/       重叠 v/冲突 v/n
+access/accessible/inaccessible      /əkˈsesəb(ə)l/      访问 v/可到达的,平易近人的 adj/不可及的 adj
+deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
+activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动/停用,注销 v
+propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,同步,下发,向上传播(异常) v
+loop sb in/looping jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让jack参与进来
+(agentic engineering) Hackathon       /ˈhækəθɑːn/       智能体工程黑客
 
 
 
+(so can i interpret/understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
+interpret/interpretation        /ɪnˈtɜːrprət/      理解、解读
 
 
-overlaps/conflict
-conflict                    冲突 n/v
-conflict/clash/clashes/clashed/clashing      /ˈklæʃɪŋ/       冲突 v(冲突 v/n)
-
-nice tip/learned a useful trick/that's useful, learned something new
-good learning
-
+multiple staff's requests within a single submission
+instant/instantly/instantiate       /ɪnsˈtænʃɪeɪt/     立刻，马上 adj/adv/实例化,例示，举例说明 v
+telemetry       /təˈlemətri/
+preload
 if the timeline slips
-as needed
 only when urgent
-this to ensure no communication gap
-at end of sep and start of oct
-
-
-
 evaluate feasibility of callback
-instantiate
 foreseeable future      可预见的未来
-interpretation      理解、解读
 best placed to do sth       最适合做某事
 capacity constraints        能力约束、资源瓶颈
-best approach
-brainstorm
-go‑live     系统上线
 however procurement indicated capacity constraints around integration delivery in 2026
 is this doable for november go‑live? process impact mitigation needed if not
 the job ran (for over) 24 hours
-
 if any of your tickets          如果你任何一张票
 in either of these columns          在这两列中的任意一列里
 extend to people        转发扩散给其他人
 if you've helped me with a task then please assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
+
+
+
 
 (parent/child) chunk       文本块,切片 n/父块,子块
 parent‑child agreement      父子块一致性

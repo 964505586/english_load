@@ -10,7 +10,6 @@ proxy                 代理
 ingest                 摄取 v
 fraud                 欺诈 n
 insert          插入 v
-access                          访问 v
 adverse                         不利的 adj
 buddy                           伙伴 n
 data set                    数据集 n
