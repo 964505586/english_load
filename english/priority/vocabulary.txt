@@ -271,6 +271,7 @@ brainstorm      集体讨论,集思广益,头脑风暴 v
 understanding       善解人意 n
 in turn/service a calls b, which in turn queries DB     继而,依次,轮流,相继地 adv/服务a调b,b继而去查询db
 preload     预加载，预载 v
+chase/chased/chasing       跟进,催促 v
 
 
 
@@ -291,16 +292,6 @@ preload     预加载，预载 v
 
 
 
-it's not a replacement but it is a very strong & important complement to the way that we serve our clients globally
-ai is going to change the employment landscape globally
-because all of the tasks that i did, i was an investment banking analyst out of school
-what did we do? we did tons of presentations & modeling & valuation.
-guess what? we have something now called ai that's gonna take care of all of that in the future.
-it's gonna create enormous amounts of efficiencies
-and in my business in private banking, there is no replacement for the human interaction of our clients.
-however, we do see it as a massive driver of efficiency in our business with everything from simplifying & fast tracking the account opening process
-we are planning in that way right to make sure that we understand what is the implications of this on our workforce, what are the tasks that ai will replace for us, what are the things that ai & the tools that will make our private bankers even more efficient in the future.
-and we are adopting those at scale & at speed with urgency
 
 
 

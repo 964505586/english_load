@@ -28,7 +28,6 @@ split/divide/separate/separately            拆分/均分/分离 v/单独的,独
 as much/early as possible                   尽可能 多/早
 workday/working/business days               工作日 n
 in the coming/upcoming months/years                    在未来几个月/年
-underlying/low-level/foundation code                底层代码 n
 impact/an impact on sb/sth                 影响 v/对sth的影响 n
 just(totally) normal/standard practice/quite common       正常操作
 chase/push/urge sb to do(for sth)             催促 v
@@ -250,6 +249,8 @@ some access/permissions may/usually take some time to activate/propagate(go live
 however/but/(therefore)/so n,句子/hence n     因此,所以 adv
 backup/back-up/replica/alternative/workaround      备份 n/adj/副本 n/可替代的,备选的 adj/临时变通方案,权宜之计
 underway/in progress/ongoing/pending/TBD         进行中的/持续存在的，仍在进行的/待定的,待处理的 adj
+this change involves lots of underlying/low-level/foundation code            这改动涉及大量 底层代码
+follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
 
 
 

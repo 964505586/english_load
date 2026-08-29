@@ -203,18 +203,15 @@ enablement & adoption sessions            赋能培训 & 落地推广会议
 from concepts to implementation         从概念到落地实施
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 as much as i would like to go, i have insufficient capacity     虽然我很想去,但我实在分身乏术
-feel free to try this script for the work above         欢迎尝试这个脚本用于上述工作
+feel free to try the script for works above         欢迎尝试这个脚本用于上述工作
 the change will only take effect after the end date                 end_date后才生效
 potential a change at backend level         后端层面可能会有change
-this change involves lots of underlying code            这改动涉及大量底层代码
-this change might be problematic                这个改动可能有问题
-the change is now taking effect. going forward, please follow the new process           变更已即刻生效,后续请按新流程执行
+the change might be problematic                这个改动可能有问题
+the change is now taking effect. please follow the new process going forward           变更已即刻生效,后续请按新流程执行
 the change has been in effect since last friday         这change自上周五就已经生效了
 don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
 plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
-you'll leave knowing when kgs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
 you'll leave with sth(walk away with)       你会带着
-be supposed to do                       应该做sth
 we likely need to           我们可能需要
 can you reproduce this issue/can this issue be reproduced       你能复现这个问题吗?
 (it's) nothing, i barely helped at all/didn't help much anyway      几乎没帮上忙,并未提供多少帮助
@@ -372,6 +369,8 @@ if doing sth needed(using an alternative solution needed)       如果需要替�
 escalate this kind of issue (only when it is urgent)    仅在紧急情况下
 Infra team (is best placed to) resolve the network issue       最适合做某事
 主句 with n doing/without doing sth     跟着,某人做某事,拆分主次/不做sth
+you'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
+we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
 
 
 

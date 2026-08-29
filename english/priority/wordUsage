@@ -538,6 +538,11 @@ it will cause a delay in our delivery              这会导致我们的交付�
 it will delay our delivery if we can't resolve this today             如果我们今天不能解决这个问题,那么我们的交付将会被推迟
 this may cause a slight delay in our delivery. but we are working on a solution     这可能导致我们交付稍有延迟.不过我们正在寻找办法
 
+call‑off    子订单/分合同
+(parent/child) chunk       文本块,切片 n/父块,子块
+parent‑child agreement      父子块一致性
+a call‑off mapped to its parent agreement
+
 
 
 

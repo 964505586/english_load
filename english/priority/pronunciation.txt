@@ -354,23 +354,13 @@ cascade (down further)/extend to people     /kæˈskeɪd/      逐级下发,连�
 
 
 
-stay current with n         持续跟进更新n
-follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
-chase/chased/chasing       跟进,催促 v
 
 
 
 
 
-(parent/child) chunk       文本块,切片 n/父块,子块
-parent‑child agreement      父子块一致性
-a call‑off mapped to its parent agreement
-call‑off    子订单/分合同
 
-roman 10:15 how beautiful are the feet of those who bring good news!
-罗马书10:15,报福音传喜信的人,他们的脚踪何等佳美！
-圣经经文,团队玩梗,用来打趣"报喜报好消息”
-philippians 4:8
+
 if you've helped me with a task then please assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
 
 
@@ -391,6 +381,16 @@ if you've helped me with a task then please assume i've said ‘thank you!' – 
 
 其实现在的话还算好,就怕以后会有更多的数据更新场景操作。用英语怎么说？
 
+it's not a replacement but it is a very strong & important complement to the way that we serve our clients globally
+ai is going to change the employment landscape globally
+because all of the tasks that i did, i was an investment banking analyst out of school
+what did we do? we did tons of presentations & modeling & valuation.
+guess what? we have something now called ai that's gonna take care of all of that in the future.
+it's gonna create enormous amounts of efficiencies
+and in my business in private banking, there is no replacement for the human interaction of our clients.
+however, we do see it as a massive driver of efficiency in our business with everything from simplifying & fast tracking the account opening process
+we are planning in that way right to make sure that we understand what is the implications of this on our workforce, what are the tasks that ai will replace for us, what are the things that ai & the tools that will make our private bankers even more efficient in the future.
+and we are adopting those at scale & at speed with urgency
 
 
 
