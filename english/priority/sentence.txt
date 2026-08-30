@@ -371,6 +371,7 @@ Infra team (is best placed to) resolve the network issue       最适合做某�
 主句 with n doing/without doing sth     跟着,某人做某事,拆分主次/不做sth
 you'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
 we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
+sorry to (hijack) the call        劫持,篡改,盗用 v
 
 
 

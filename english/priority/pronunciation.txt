@@ -50,7 +50,6 @@ ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
 fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
 (unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
 emerging/newly        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
-malicious       /məˈlɪʃəs/          恶意的,恶毒的 adj
 destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
 interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
 resell/reselling        /ˌriːˈselɪŋ/        转售,转卖 v
@@ -158,7 +157,6 @@ readiness/ready     /ˈredinəs/     准备就绪状态 n
 dig out     /dɪɡ aʊt/         找出,挖掘出 v
 we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
-facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
 fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
 pose a minor risk to sth    /pəʊz/      造成,引起 v
@@ -200,7 +198,6 @@ simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,�
 necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
 excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量api流量
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
-ignore/neglect      /nɪˈɡlekt/      有意/无意,疏忽 v
 purpose/intent/destination/target/goal/intend      /ɪnˈtent/     有意,打算 v/意图,设计初衷,目的/目的 n/打算,想要 v
 compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协,折中 v/危及安全
 abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/异常,反常 n
@@ -229,7 +226,6 @@ at the (discretion) of sb/audit      /dɪˈskreʃ(ə)n/      自行决定权 n/�
 personnel       /ˌpɜːrsəˈnel/       人员 n/人员的 adj
 suppress/suppressed     /səˈpres/      抑制,镇压,压制,阻止 v/抑制的 adj
 distinguish/differentiate     /dɪˈstɪŋɡwɪʃ/ /ˌdɪfəˈrenʃieɪt/               区分,认出,区别 v/使不同,区分,区别
-questionnaire       /ˌkwestʃəˈner/       问卷,调查表 n
 outage/embargo      /ɪmˈbɑːrɡoʊ/      中断,停运,停止供应期/禁运 n(人为)
 failed for 3 consecutive weeks/times      /kənˈsekjətɪv/      连续三周失败/连续的,不间断的 adj
 fictional/fiction/novel       /ˈnɑːv(ə)l/       虚构的 adj/小说 n
@@ -253,7 +249,6 @@ orchestration       /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
 alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
-alone/along (with)/among   |əˈləʊn|       独自的 adj/adv/沿着/和...一起/在...当中 prep
 revised/rectified/modified/edited/updated/changed       /ˈedɪtɪd/       修订过的,编辑过的 adj
 verify/verification/validate/validation     /ˈvælɪdeɪt/     验证,核实/确认,验证 v/n
 deduct/deducted     /dɪˈdʌkt/        减去,扣除 v
@@ -309,7 +304,6 @@ extract/extracted/extraction/extra    /ˈekstrækt; ɪkˈstrækt/      提取,�
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
 (Max/query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
 manifest/list        /ˈmænɪfest/     清单
-as per naming(current UI) convention      /kənˈvenʃ(ə)n/        惯例,规范 n/命名规范
 immutable       /ɪˈmjuːtəbl/      不可修改,不可变更 adj
 tutorial (document)        /tuːˈtɔːriəl/       导师的,辅导的/指导文档
 monotonically (increasing)        /ˌmɒnəˈtɒnɪkli/        单调地 adv/单调递增
@@ -340,7 +334,7 @@ activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激�
 propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,同步,下发,向上传播(异常) v
 loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 (agentic engineering) Hackathon       /ˈhækəθɑːn/       智能体工程黑客
-interpret/interpretation/understand        /ɪnˈtɜːrprət/      理解、解读 v/n
+interpret/interpretation/understand        /ɪnˈtɜːrprət/      理解,解读 v/n
 i've been fully swamped/occupied recently   /swɒmpt/ /ˈɒkjupaɪd/     最近忙得焦头烂额,最近一直行程排满
 instant/instantly/instantiate (service instance/class object)       /ɪnsˈtænʃɪeɪt/     立刻,马上 adj/adv/实例化,例示,举例说明 v
 telemetry       /təˈlemətri/        遥测,远程采集测量数据 n
@@ -348,9 +342,28 @@ in the near/(foreseeable) future/a brilliant ~    /fɔːrˈsiːəb(ə)l/    可�
 is this (doable) for Nov go‑live/feasible/feasibility      /ˈduːəbl/      可实现的/可行的 adj/可行性 n
 exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 cascade (down further)/extend to people     /kæˈskeɪd/      逐级下发,连续传递 v/转发扩散给其他人
+questionnaire/Survey       /ˌkwestʃəˈner/       问卷,调查表/调查,调研 n
+as per (naming convention) of current UI    /neɪm/ /kənˈvenʃ(ə)n/   命名/惯例,规范 n/命名规范
+dumb/stupid (question)        /dʌm/        小白问题,低级问题/愚蠢的(贬义) adj
+neglect/overlook/ignore      /nɪˈɡlekt/      无意,疏忽/有意 v
+malicious (request)       /məˈlɪʃəs/          恶意的,恶毒的 adj/恶意请求
+embrace an agile spirit     /ɪmˈbreɪs/ /ˈædʒ(ə)l/      拥抱；欣然接受，乐意采纳 v/敏捷的，灵活的 adj/秉持敏捷理念,拥抱敏捷精神
+alone/along (with)/among(between) teams   |əˈləʊn|       独自的 adj/adv/沿着/和...一起/在...当中 prep/在各个团队之间
+facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
 
 
 
+
+won't bother with sth           无需处理,忽略sth
+(won't) bother doing(to do) sth     费心去做,花时间研究
+sorry to keep bothering you         很抱歉一次次打扰你
+
+
+
+unbind      解绑
+rule of thumb       经验法则，凭经验的做法
+Jack has spent weeks making this document
+there is easier way to achieve the same effect
 
 
 

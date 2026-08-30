@@ -141,7 +141,6 @@ conduct/keep monitoring closely              实施,进行 密切监控 v
 conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
 area/district       通用/城市行政分区,政府管辖
 method/approach/approaching/way     方法 n/方式,靠近,接近 v/方式
-duty/fault                                    责任,义务/错误,责任
 maybe/perhaps           随意,直白/委婉,礼貌 偏正式
 technical/technology/technique                 技术的,专业的 adj/科技,技术/技巧,手法 n
 luck/lucky/fortunate/fortunately        n/adj/adv
@@ -251,6 +250,8 @@ backup/back-up/replica/alternative/workaround      备份 n/adj/副本 n/可替�
 underway/in progress/ongoing/pending/TBD         进行中的/持续存在的，仍在进行的/待定的,待处理的 adj
 this change involves lots of underlying/low-level/foundation code            这改动涉及大量 底层代码
 follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
+duty/fault      责任,义务/错误,责任
+dumb me/my fault, (the wrong link I used/I overlooked sth)     都怪我,我脑子短路了,是我疏忽(自嘲)/偏严肃
 
 
 
