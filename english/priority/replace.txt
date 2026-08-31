@@ -74,7 +74,6 @@ retry/take/allow/keep up to 3 times/hours on failure   (失败时)最多重试3�
 in particular/detail/specifically       具体来说/详细地 adv
 let's say for/such as/for example       举例来说/多个例子/举例1–2个
 at times/sometimes        偶尔,时不时,有时 adv
-if so/desired/necessary           如果这样/需要/必要
 aside from/except/other than      除...以外 +-/-/-
 (app) lossless compression/compress        无损的 adj/压缩 v/n/无损压缩应用
 typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
@@ -129,7 +128,6 @@ volunteer/voluntary/voluntarily     志愿者/自愿的,主动的 adj/adv
 effective (action/measures)/effectively/efficient/efficiency    有效的 adj/高效地,有效地 adv/高效的 adj/效率 n
 tips/tricks/recommendations/kind(a warm) reminder       小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
 rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
-(apologize for the) short(late) notice/last-minute change(cancellation)          临时通知,变更
 (after) a short while (ago)       不久前/不久之后
 local/native
 ever/before            强调有没有过/强调在这之前
@@ -146,7 +144,6 @@ technical/technology/technique                 技术的,专业的 adj/科技,�
 luck/lucky/fortunate/fortunately        n/adj/adv
 same/identical      (大致无差异)/完全相同的 adj(无任何差别)
 occasionally/occasion/sometimes         偶然,偶尔 adv/场合 n/有时
-refuse/decline          xxx/委婉谢绝
 rise by/to 10%                         增长(至)10%
 underlying/potential        潜在的,可能的
 each/every
@@ -243,15 +240,20 @@ solve/(partially) resolved/address/get sorted            解决/已决议的 adj
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
 Day Zero/One/Two        上线首日/上线后第1天/稳态运行阶段
 what do you want to do (on earth)       你想干嘛/你到底想要什么
-if/as desired/needed      需要的 adj
 some access/permissions may/usually take some time to activate/propagate(go live)   一些权限通常需要一段时间方可生效
 however/but/(therefore)/so n,句子/hence n     因此,所以 adv
 backup/back-up/replica/alternative/workaround      备份 n/adj/副本 n/可替代的,备选的 adj/临时变通方案,权宜之计
-underway/in progress/ongoing/pending/TBD         进行中的/持续存在的，仍在进行的/待定的,待处理的 adj
+underway/in progress/ongoing/pending/TBD         进行中的/持续存在的,仍在进行的/待定的,待处理的 adj
 this change involves lots of underlying/low-level/foundation code            这改动涉及大量 底层代码
 follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
 duty/fault      责任,义务/错误,责任
 dumb me/my fault, (the wrong link I used/I overlooked sth)     都怪我,我脑子短路了,是我疏忽(自嘲)/偏严肃
+my experience(rule of thumb)/user experience        xxx/实操经验/用户体验
+reuse/recycle         再次使用,重复使用/回收利用 v/n
+lean/rely(relying) on sb/sth              依托,依靠/依靠,依赖
+(data) foundation/foundational (code/branch)    基础的,基本的 n/adj/数据基础/底层代码/基础分支
+if(as) so/desired/necessary/needed           如果这样/需要/必要/根据需要
+reject/refuse/decline/declined          拒绝,驳回/拒绝/婉拒、礼貌谢绝 v
 
 
 

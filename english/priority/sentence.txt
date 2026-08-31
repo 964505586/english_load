@@ -211,14 +211,12 @@ the change is now taking effect. please follow the new process going forward    
 the change has been in effect since last friday         这change自上周五就已经生效了
 don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
 plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
-you'll leave with sth(walk away with)       你会带着
+you'll leave(walk away) with sth       你会带着
 we likely need to           我们可能需要
-can you reproduce this issue/can this issue be reproduced       你能复现这个问题吗?
+can you reproduce the issue/can the issue be reproduced       你能复现这个问题吗?
 (it's) nothing, i barely helped at all/didn't help much anyway      几乎没帮上忙,并未提供多少帮助
 end up as sth           最终变成,最终格式为
-lean on/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 not a fan of sth            不推荐,不认可,不喜欢sth
-not entirely sure/i'm not sure that(about sb/sth)        不完全确定/我不确定~
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
 only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
@@ -259,7 +257,6 @@ set out our primary/strategic focus       阐明,明确我们首要工作重心
 can you elaborate more?     你能再详细说明一下吗
 if i recall correctly/or i remember it wrong       如果我没记错的话/或我记错了
 sth is in use       正在使用中
-no risks found      未发现风险
 ai-generated content might be inaccurate or misleading      ai生成的可能存在不准确或误导性
 i was updating Jack on this info         刚刚正在做的动作/刚才正在向杰克更新这些信息
 it was not an issue previously      此前并无异常,之前没有出现过这个问题
@@ -371,7 +368,8 @@ Infra team (is best placed to) resolve the network issue       最适合做某�
 主句 with n doing/without doing sth     跟着,某人做某事,拆分主次/不做sth
 you'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
 we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
-sorry to (hijack) the call        劫持,篡改,盗用 v
+I'm not (entirely) sure that(about sb/sth)        不完全确定/我不确定~
+list/enumerate all the data we required
 
 
 

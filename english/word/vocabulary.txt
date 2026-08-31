@@ -11,7 +11,6 @@ annual pay/party                    年会/年薪
 anonymous                               匿名的 adj
 anxious/anxiously                   焦虑的,不安地 adj/adv
 anywhere                任何地方 n/adv
-apologize/apologise(英式)                       道歉 v
 appearance                  外观
 arrange         安排 v
 arrest/arrested                          逮捕 v/n/逮捕的 adj
@@ -329,8 +328,6 @@ repeat/repeated/repeatedly                     重复 v/重复地 adj/adv
 research                    研究 n/v
 reset                           调整,重新设置 v/n
 reward/rewarding                      奖励 n/v 值得的,有意义的 adj
-risk                            危险,风险 n             使遭受...危险,冒...的危险 v
-risky                               有危险的,有风险的 adj
 rival       对手 n        竞争的 adj
 role-play               角色扮演
 roommate                                室友 n

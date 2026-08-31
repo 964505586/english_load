@@ -11,7 +11,6 @@ common used         常用
 portal          门户 n
 third-party     第三方
 cyber       网络的 adj
-foundational (branch)            基础的,基本的 adj
 move/movement                    移动,措施,转移 n/动作 n
 engineering     工程,工程学 n
 powerful            强大的,有影响力的 adj
@@ -112,7 +111,6 @@ reverse                     相反的 adj
 range                       处于...之间 v
 familiar            熟悉的 adj
 saving              节约,节省 n/节约的,节省的 adj
-(the risk of) human error             人为失误
 deliver                提供,交付 v
 existing                 现有的 adj
 outdated                过时的 adj
@@ -133,7 +131,6 @@ baseline/re-baseline        基线,基准 n/重新设定基线 v
 document/raise a ticket to document the backend workflow in confluence       记录,记载 v/在confluence记录backend的workflow
 over time       随着时间流逝
 const(construction)         建造,建筑,建筑材料 n
-recycle         复用,回收利用 v/n
 actual loss (amount)        失去,损失 n/实际损失金额
 cash deposit machine-bulk/large       大额现金自助存款机
 outstanding (defect)         未解决的,杰出的,优秀的 adj/严重缺陷
@@ -141,7 +138,6 @@ devx        developer experience 开发者体验
 known as (live migrations)       被称为,叫作/在线迁移
 preview     预览 v
 at speed                高速度地 adv
-user experience         用户体验
 in public preview       公开预览阶段
 subject to change       后续可能调整,可能变更,视情况调整
 premium     高级的,增值的 adj
@@ -156,7 +152,6 @@ secure-by-design    安全设计优先的 adj
 pilot        试点的 adj/试点 n
 serve (as)       服务 v/n/充当,作为
 fingers crossed     但愿一切顺利,祝好运
-data foundation    数据基础
 ways of working     工作方式
 evolve (over time)        进化,演化 v/随时间演变
 platform improvement    平台优化
@@ -255,7 +250,6 @@ inspire/inspired/inspiration/expire        激励,鼓舞 v/受启发的,鼓舞�
 expire/expired/expiration/inspire       到期,失效 v/过期的 adj/到期 n/激励,鼓舞 v
 newly generated artifact        工件 n/新生成的工件
 gold/golden practice     金 n/金色的 adj/宝贵经验,干货方法
-The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
 in terms of (capabilities)        就...而言,在...方面/在能力层面
 playwright      /ˈpleɪraɪt/      ui自动化测试工具
 (build/bake) image (generation)       镜像,形象,印象,图像 n/构建镜像/镜像生成
@@ -270,8 +264,10 @@ go live/go‑live                 上线 v/adj/n
 brainstorm      集体讨论,集思广益,头脑风暴 v
 understanding       善解人意 n
 in turn/service a calls b, which in turn queries DB     继而,依次,轮流,相继地 adv/服务a调b,b继而去查询db
-preload     预加载，预载 v
+preload     预加载,预载 v
 chase/chased/chasing       跟进,催促 v
+The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
+bind/unbind     /baɪnd/      捆绑/解绑 v
 
 
 

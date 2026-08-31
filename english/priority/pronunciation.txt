@@ -44,7 +44,6 @@ fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,
 opt out of      /ɒpt aʊt əv/      选择退出 v
 fellow      /ˈfeləʊ/              同类的,同伴的 adj
 commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
-experience(好/坏/普通)/undergo(只接艰难,痛苦,漫长,被动承受的事)   /ˌʌndəˈɡəʊ/     经历,经受 v
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
 ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
 fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
@@ -159,7 +158,6 @@ we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
 fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
-pose a minor risk to sth    /pəʊz/      造成,引起 v
 disk space      /dɪsk/      磁盘空间
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
 cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
@@ -237,7 +235,6 @@ service tiering(tier)       /ˈtɪərɪŋ/       服务分级
 layer       /ˈleɪər/       层,等级 n
 illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
 point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,ip/英文句末句号/点,斑点,地点 n
-presume/assume/suppose/if     /prɪˈzuːm/         推测,假设 v/假设 v
 manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/成功做sth/我成功解决了这个问题
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 n/v/暴露
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
@@ -301,9 +298,7 @@ attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当
 ahead of/prior to/before (deployment)       /ˈpraɪər/       在deployment之前
 extract/extracted/extraction/extra    /ˈekstrækt; ɪkˈstrækt/      提取,抽取 v/选段,引文 n/提取后的 adj/提取,抽取 n/额外的 adj
 (His effort is) admirable/praiseworthy        /ˈpreɪzwɜːrði/      值得称赞的 adj
-enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
 (Max/query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
-manifest/list        /ˈmænɪfest/     清单
 immutable       /ɪˈmjuːtəbl/      不可修改,不可变更 adj
 tutorial (document)        /tuːˈtɔːriəl/       导师的,辅导的/指导文档
 monotonically (increasing)        /ˌmɒnəˈtɒnɪkli/        单调地 adv/单调递增
@@ -318,7 +313,6 @@ any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
 imagine/imaginary/imagination/image       /ɪˈmædʒɪneri/       想像,设想 v/想象的,虚构的 adj/想像力,想像/镜像 n
 (in) reality/actually (not)     /riˈæləti/      真实,现实 n/实际上,事实上/实际上不是
 represent/stand for/representative/on behalf of QA team     /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/     代表 v/n
-almost/nearly/hardly/barely     /ˈberli/    几乎 adv/几乎不 adv
 parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 (acceptance) criteria/standard       /kraɪˈtɪəriə/       标准 n/验收标准
@@ -334,11 +328,11 @@ activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激�
 propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,同步,下发,向上传播(异常) v
 loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 (agentic engineering) Hackathon       /ˈhækəθɑːn/       智能体工程黑客
-interpret/interpretation/understand        /ɪnˈtɜːrprət/      理解,解读 v/n
+interpret/interpretation/understand        /ɪnˈtɜːrprət/      理解,解读,解释,说明 v/n
 i've been fully swamped/occupied recently   /swɒmpt/ /ˈɒkjupaɪd/     最近忙得焦头烂额,最近一直行程排满
 instant/instantly/instantiate (service instance/class object)       /ɪnsˈtænʃɪeɪt/     立刻,马上 adj/adv/实例化,例示,举例说明 v
 telemetry       /təˈlemətri/        遥测,远程采集测量数据 n
-in the near/(foreseeable) future/a brilliant ~    /fɔːrˈsiːəb(ə)l/    可预知，可预料的 adj/可预见的未来/在不久的将来/光明的未来
+in the near/(foreseeable) future/a brilliant ~    /fɔːrˈsiːəb(ə)l/    可预知,可预料的 adj/可预见的未来/在不久的将来/光明的未来
 is this (doable) for Nov go‑live/feasible/feasibility      /ˈduːəbl/      可实现的/可行的 adj/可行性 n
 exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 cascade (down further)/extend to people     /kæˈskeɪd/      逐级下发,连续传递 v/转发扩散给其他人
@@ -347,25 +341,22 @@ as per (naming convention) of current UI    /neɪm/ /kənˈvenʃ(ə)n/   命名/
 dumb/stupid (question)        /dʌm/        小白问题,低级问题/愚蠢的(贬义) adj
 neglect/overlook/ignore      /nɪˈɡlekt/      无意,疏忽/有意 v
 malicious (request)       /məˈlɪʃəs/          恶意的,恶毒的 adj/恶意请求
-embrace an agile spirit     /ɪmˈbreɪs/ /ˈædʒ(ə)l/      拥抱；欣然接受，乐意采纳 v/敏捷的，灵活的 adj/秉持敏捷理念,拥抱敏捷精神
+embrace an agile spirit     /ɪmˈbreɪs/ /ˈædʒ(ə)l/      拥抱,欣然接受,乐意采纳 v/敏捷的,灵活的 adj/秉持敏捷理念,拥抱敏捷精神
 alone/along (with)/among(between) teams   |əˈləʊn|       独自的 adj/adv/沿着/和...一起/在...当中 prep/在各个团队之间
 facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
+experience/undergo   /ˌʌndəˈɡəʊ/     经历,经受 v/(艰难,痛苦,漫长,被动承受的事)
+presume/assume/suppose/if/assumption     /prɪˈzuːm/         推测,假设 v/假设 v
+enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
+manifest/list        /ˈmænɪfest/     清单
+(start free) trial        /ˈtraɪəl/     试用 n/开始免费试用
 
 
 
 
-won't bother with sth           无需处理,忽略sth
-(won't) bother doing(to do) sth     费心去做,花时间研究
-sorry to keep bothering you         很抱歉一次次打扰你
 
 
-
-unbind      解绑
-rule of thumb       经验法则，凭经验的做法
+wrap text
 Jack has spent weeks making this document
-there is easier way to achieve the same effect
-
-
 
 
 
@@ -375,22 +366,6 @@ there is easier way to achieve the same effect
 
 
 if you've helped me with a task then please assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 其实现在的话还算好,就怕以后会有更多的数据更新场景操作。用英语怎么说？
 
