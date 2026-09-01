@@ -14,7 +14,6 @@ adverse                         不利的 adj
 buddy                           伙伴 n
 data set                    数据集 n
 deny/denied                  否定 v
-diagram                  图表 n
 disclose                  泄露,透漏v
 domain                 领域 n
 doubt                  疑问,疑惑 n

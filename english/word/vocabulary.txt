@@ -354,7 +354,6 @@ stay up/focused/overnight                             熬夜/保持专注/过夜
 striking            惊人的,异常的 adj
 strength                        力量,优点 n
 structure                       结构 n
-stupid                  笨的,傻的 adj           傻瓜,笨蛋 n
 success/succeed/successful/successfully              n/v/adj/adv
 suddenly                            突然的
 sugar-free                          无糖的

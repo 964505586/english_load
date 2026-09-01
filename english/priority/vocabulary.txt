@@ -196,14 +196,11 @@ fluctuation             波动 n
 abnormal                反常的 adj
 precondition            前置条件,前提状态 n
 transform               使转化 v
-elementary problem                  低级问题
 finalize/finalized      最终确定,敲定,完成 v
 regression              回归,后退,倒退 n
 feel free to v                请随意,尽管
-constantly          总是,经常地,不断地
 seek                    寻找 v
 timezone differences        时区差异
-sequence diagram                时序图,顺序图 n
 low level design        底层设计
 phase           阶段 n
 who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个？
@@ -235,7 +232,6 @@ when prompted       当提示的时候
 vector store        向量存储
 rerank        重排序
 fine‑tuning     微调
-generated reasoning summary     生成推理摘要
 (request) payload         有效负载 n/请求负载,请求体
 initial evaluation      初步评估
 with immediate effect           立即生效
@@ -248,7 +244,6 @@ discount/discounting     打折,减价,折扣 v/n
 champion        项目负责人,冠军 n
 inspire/inspired/inspiration/expire        激励,鼓舞 v/受启发的,鼓舞的,能力卓越的 adj/灵感,启发 n/到期,失效 v
 expire/expired/expiration/inspire       到期,失效 v/过期的 adj/到期 n/激励,鼓舞 v
-newly generated artifact        工件 n/新生成的工件
 gold/golden practice     金 n/金色的 adj/宝贵经验,干货方法
 in terms of (capabilities)        就...而言,在...方面/在能力层面
 playwright      /ˈpleɪraɪt/      ui自动化测试工具
@@ -267,7 +262,7 @@ in turn/service a calls b, which in turn queries DB     继而,依次,轮流,相
 preload     预加载,预载 v
 chase/chased/chasing       跟进,催促 v
 The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
-bind/unbind     /baɪnd/      捆绑/解绑 v
+newly generated artifact(reasoning summary)        工件 n/新生成的工件/生成推理摘要
 
 
 

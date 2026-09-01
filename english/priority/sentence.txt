@@ -218,10 +218,9 @@ can you reproduce the issue/can the issue be reproduced       你能复现这个
 end up as sth           最终变成,最终格式为
 not a fan of sth            不推荐,不认可,不喜欢sth
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
-only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
 may i know why      请问为什么
-could you please help push the matter        帮忙推动这事
+could you please help push/accommodate the matter        帮忙推动这事
 take care of/that (yourself)    处理,接手,照顾 v
 prevent sth from doing sth			防止sth产生不良影响
 which helps prevent excessive traffic from degrading overall system performance & user experience     有助于防止过度流量影响整体系统性能和用户体验
@@ -369,7 +368,9 @@ Infra team (is best placed to) resolve the network issue       最适合做某�
 you'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
 we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
 I'm not (entirely) sure that(about sb/sth)        不完全确定/我不确定~
-list/enumerate all the data we required
+list/enumerate all the data we required     列出所需的所有数据
+not yet, still loading/it's coming (Can you see my screen)
+Jack has spent weeks making this document       花了好几周时间来做这份文档
 
 
 

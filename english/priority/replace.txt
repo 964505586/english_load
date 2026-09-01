@@ -254,6 +254,10 @@ lean/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 (data) foundation/foundational (code/branch)    基础的,基本的 n/adj/数据基础/底层代码/基础分支
 if(as) so/desired/necessary/needed           如果这样/需要/必要/根据需要
 reject/refuse/decline/declined          拒绝,驳回/拒绝/婉拒、礼貌谢绝 v
+always/constantly        xxx/总是,经常地,不断地
+graph/(sequence) diagram        图表,曲线图/图表，图解 n(结构,逻辑,流程)/时序图,顺序图 n
+(either)...or.../neither...nor...          要么...要么...(两者中的一个/两者都不)
+
 
 
 

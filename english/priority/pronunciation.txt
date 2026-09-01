@@ -146,7 +146,6 @@ counterpart     /ˈkaʊntərpɑːrt/     对应物 n
 trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
 (data) volume/size     /ˈvɑːljəm/     数据量/音量 n
 layout      /ˈleɪaʊt/          布局,排版 n
-spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       生成 v/n
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
 cater to (sth/sb/business demands)/meet       /ˈkeɪtər/     满足,迎合 v
 preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
@@ -338,7 +337,6 @@ exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/
 cascade (down further)/extend to people     /kæˈskeɪd/      逐级下发,连续传递 v/转发扩散给其他人
 questionnaire/Survey       /ˌkwestʃəˈner/       问卷,调查表/调查,调研 n
 as per (naming convention) of current UI    /neɪm/ /kənˈvenʃ(ə)n/   命名/惯例,规范 n/命名规范
-dumb/stupid (question)        /dʌm/        小白问题,低级问题/愚蠢的(贬义) adj
 neglect/overlook/ignore      /nɪˈɡlekt/      无意,疏忽/有意 v
 malicious (request)       /məˈlɪʃəs/          恶意的,恶毒的 adj/恶意请求
 embrace an agile spirit     /ɪmˈbreɪs/ /ˈædʒ(ə)l/      拥抱,欣然接受,乐意采纳 v/敏捷的,灵活的 adj/秉持敏捷理念,拥抱敏捷精神
@@ -349,14 +347,26 @@ presume/assume/suppose/if/assumption     /prɪˈzuːm/         推测,假设 v/�
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
 manifest/list        /ˈmænɪfest/     清单
 (start free) trial        /ˈtraɪəl/     试用 n/开始免费试用
+dumb/elementary/stupid (question)       /dʌm/       小白,低级问题(自嘲)/中性/愚蠢的(贬义)/笨的,傻的 adj/傻瓜,笨蛋 n
+wrap text/text‑wrapping     /ræp/       自动换行；文本换行
+bind/unbind     /baɪnd/      捆绑/解绑 v
+spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       孵化,派生/生成 v
 
 
 
 
 
 
-wrap text
-Jack has spent weeks making this document
+
+
+
+
+
+only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
+
+
+
+
 
 
 
