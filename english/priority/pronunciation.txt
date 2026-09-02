@@ -17,7 +17,6 @@ truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
-contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
 noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnəs/      显而易见的,明显的 adj/缓慢,迟钝 n/持续数分钟卡顿
 (on-demand) burst/bursting          /bɜːst/         爆炸,猛冲,涨满,突发扩容,瞬时带宽扩容 n/按需的 adj
 progressive/progressively/gradually/step by step     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv/逐步 adv
@@ -131,7 +130,6 @@ auto-increment id               递增 id
 typology                        类型学,分类体系 n
 @       at
 forum       /ˈfɔːrəm/       研讨会议,讨论会,论坛
-continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
 minimized/(at) minimum/maximum      /ˈmɪnɪməm/ /ˈmæksɪməm/     使减少,使缩到最小 v/最小化的,最小化 adj/最小值 n/最小的 adj/最低,至少 adv
 be capable of doing sth/be able to     /ˈkeɪpəb(ə)l/    能够,有能力做某事
 crime       /kraɪm/     罪,罪行,犯罪 n
@@ -232,16 +230,13 @@ recurring (error/issue)     /rɪˈkɜːrɪŋ/     反复出现的 adj
 shout/yell/yelling      /ʃaʊt/ /jel/ /ˈjelɪŋ/        叫喊,叫嚷,大声说 v/n
 service tiering(tier)       /ˈtɪərɪŋ/       服务分级
 layer       /ˈleɪər/       层,等级 n
-illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
 point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,ip/英文句末句号/点,斑点,地点 n
 manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/成功做sth/我成功解决了这个问题
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 n/v/暴露
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
 outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv
-(three-stages/phase) evolution/evaluation       /ˌevəˈluːʃ(ə)n/     进化,演进,迭代发展/三阶段迭代演进/评估 n
 assess/assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n/进化
 rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/旋转,转动 n/值班名册,轮值表
-orchestration       /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
 alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
@@ -250,7 +245,6 @@ verify/verification/validate/validation     /ˈvælɪdeɪt/     验证,核实/�
 deduct/deducted     /dɪˈdʌkt/        减去,扣除 v
 The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     交付截止时间为8月5那一周
 procurement     /prəˈkjʊrmənt/      采购,购买 n
-conscious       /ˈkɑːnʃəs/        意识到的 adj
 diary invites       /ˈdaɪəri/        日历会议邀请
 mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就,协调配合 v/协调,配合 v,n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
@@ -274,7 +268,6 @@ elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说
 Azure       /ˈæʒər/
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提供,供应 v/配置 n
 fill in/populate/enter      /fɪl ɪn/ /ˈentər/       填写/填充/进入,输入 v/回车键 n
-asynchronous/asynchronize/sync(synchronize)/synchronous     /eɪˈsɪŋkrənəs/   异步的 adj/n/同步 v/n/adj
 on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
 (secret/dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n/密钥,依赖解析
 (contract) hierarchy/level      /ˈhaɪərɑːrki/      层级 n/合同层级
@@ -348,9 +341,20 @@ enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v
 manifest/list        /ˈmænɪfest/     清单
 (start free) trial        /ˈtraɪəl/     试用 n/开始免费试用
 dumb/elementary/stupid (question)       /dʌm/       小白,低级问题(自嘲)/中性/愚蠢的(贬义)/笨的,傻的 adj/傻瓜,笨蛋 n
-wrap text/text‑wrapping     /ræp/       自动换行；文本换行
+wrap text/text‑wrapping     /ræp/       自动换行,文本换行
 bind/unbind     /baɪnd/      捆绑/解绑 v
 spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       孵化,派生/生成 v
+AI‑augmented/argument/argue/quarrel        /ɔːɡˈment/       增大,增加,增强的/AI增强/争论,争吵 n,v(善意)/争吵(恶意)
+contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
+(3-stages/phase) evolution/evolve (over time)/evaluation    /ˌevəˈluːʃ(ə)n/     进化,演进 n,v/三阶段迭代发展/随时间演变/评估
+materiality (assessment)/importance      /məˌtɪriˈæləti/      重要性(审计,风控,合规)/重要性评估
+be (conscious) it's nearly by EOD for you       /ˈkɑːnʃəs/      意识到的 adj/意识到你们那边差不多快下班了
+supplier (performance management)/vendor     /səˈplaɪər/        供应商/供应商绩效管理
+not a (exhaustive) list/exhausted     /ɪɡˈzɔːstɪv/       详尽无遗的 adj/使精疲力尽,耗尽 v/adj
+idempotency (key)/idempotence     /ˌaɪdəmˈpəʊtənsi/       幂等性(重复请求不会产生重复效果)/幂等键
+workflow (orchestration) simplifies complex multi‑step tasks        /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
+illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
+asynchronous/asynchronize/sync(synchronize)/synchronous     /eɪˈsɪŋkrənəs/   异步的 adj/n/同步 v/n/adj
 
 
 
@@ -361,7 +365,16 @@ spawning/generate/spawn test-cases        /spɑːn/ /ˈspɔːnɪŋ/       孵化
 
 
 
+permit/permitted to         批准,许可 v/被允许,有权限
+read-only access/permissions            只读权限 n
+authenticate/authentication(auth)         认证 v/n
+authorize(authorise)/authorization       授权,批准 v/n
+licensed/authorised/authorized (result reference)         得到许可的/已授权的 adj/已授权结果引用(地址)
+(express) license          执照,许可证 n/许可,特许 v/正式书面授权
+approving (authority)/access     /əˈθɔːrəti/         权限,权力/审批权力
 
+
+get back on the case        重新处理此事
 only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
 
 

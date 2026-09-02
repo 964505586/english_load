@@ -41,7 +41,6 @@ as of 2026/6/12     截至指定日期
 fine-tune           精细调优 n/精细地,细微的 adj/调校,调整,调节 v
 where (it's) appropriate       在合适的场景/情形下
 development         制定,完善,构建 n
-developer usage acknowledgement         开发者使用 承诺书/声明
 progressive rollout         逐步部署,分阶段上线部署
 weekly          每周,每星期 adv
 driven by n     被n驱动,主导,制约
@@ -89,7 +88,6 @@ terms of reference      职权范围 n
 federated       联邦的 adj
 data ingestion          数据接入,摄取 n
 (work) handover item/content/object            工作交接/交接项,内容,对象 n
-continued               持续的 adj
 user base           用户群
 retrospective           追溯性,回顾的 adj
 precaution             预防措施 n
@@ -97,7 +95,6 @@ almost              几乎,差不多
 freeze/freezes/froze/frozen         卡死,冻结,无响应
 logical             合情合理的,合乎逻辑的 adj
 real-time/in real time                 实时的 adj/adv
-address                 解决,处理 v
 oversee                     统筹,监督 v
 take/took/taken
 programmatically                通过编程方式 adv
@@ -143,17 +140,14 @@ subject to change       后续可能调整,可能变更,视情况调整
 premium     高级的,增值的 adj
 source of truth     最终依据,可信数据源
 directory       文件夹,目录 n
-interface   接口,界面 n
 ruleset        规则集 n
 administrator       管理人 n
 feature highlight       功能亮点
 key area for changes        变更核心范围
 secure-by-design    安全设计优先的 adj
-pilot        试点的 adj/试点 n
 serve (as)       服务 v/n/充当,作为
 fingers crossed     但愿一切顺利,祝好运
 ways of working     工作方式
-evolve (over time)        进化,演化 v/随时间演变
 platform improvement    平台优化
 step-by-step guide     分步指南
 renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度重视,重新强调
@@ -164,8 +158,6 @@ functional manager          职能经理
 capture         采集,捕获,截取 v
 affected        受影响的 adj
 refactor        重构 v/n
-approving authority         审批权责方
-permit/permitted to         批准,许可 v/被允许,有权限
 in correct sort order       正确的排序顺序
 junk            抛弃,丢掉 v/垃圾 n
 uninstall/install                 卸载/安装,设置 v
@@ -204,12 +196,10 @@ timezone differences        时区差异
 low level design        底层设计
 phase           阶段 n
 who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个？
-instead     相反
 apply (for)/application         应用 vt/申请 vi/n
 pick (up)         挑选/接手,获取,恢复,继续 v
 self‑owned workable (backend)       自研,自有的 adj/可运行的 adj
 (investigate) playbook        业务操作手册 n/调查手册
-process flows and requirements      处理流程和需求
 if any gaps
 agentic part        代理的 adj/智能代理模块
 (organizational) feed (into)     组织动态流/供给,输入到
@@ -250,8 +240,6 @@ playwright      /ˈpleɪraɪt/      ui自动化测试工具
 (build/bake) image (generation)       镜像,形象,印象,图像 n/构建镜像/镜像生成
 first of all        首先 adv
 (environment) variable            易变的,多变的 adj/可变性,可变因素 n/环境变量
-callback (url)        回调 n/回调地址
-read-only access/permissions            只读权限 n
 access application process/user access review      权限申请流程/用户访问权限审核
 url/uri         https://nexus.com(/repository/download)
 suspect/suspected/suspicious         怀疑 v/有嫌疑的,涉嫌的,疑似的/可疑的 adj
@@ -263,6 +251,13 @@ preload     预加载,预载 v
 chase/chased/chasing       跟进,催促 v
 The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
 newly generated artifact(reasoning summary)        工件 n/新生成的工件/生成推理摘要
+developer usage acknowledgement         承认,感谢,应答回执 n/开发者使用承诺书
+instead     相反
+pilot(proof of Concept)        试点的 adj/试点 n/概念验证
+callback (url/endpoint)        回调 n/回调地址
+(integration) pattern     模式,方式,样式 n/集成模式
+outsourcing determination       外包,外购 n/外包判定
+(asynchronous) processing/process (flows)      流程，程序,处理 n/异步处理/处理流程和需求
 
 
 

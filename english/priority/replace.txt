@@ -205,7 +205,6 @@ plan/intend/would like to           打算,想要/计划 v
 self-service/introduction/check link or tools       自助服务/自我介绍/自查链接,工具
 Our effort (flows away)/effort will go to waste       流走,白白流失,付诸东流 v/投入付诸东流
 supply/offer/provide        供应,提供 v/供应 n
-supplier/vendor        供应商
 possess/process/flow         拥有/处理 v/过程,程序,进程/流 n
 0 case (fell/fall into) batch running last night/land in    /lænd ɪn/      落入,陷入/归属到,落入 v/0个case进入batch
 confirm with/reach out to Jack to get       找sb做某事
@@ -224,7 +223,6 @@ concise/briefly     简洁的 adj/简短的,简要的 adv
 before/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
 as appropriate/as(whenever) you see fit      酌情,按照你认为合适的情况,方式
 just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
-ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
 release gates/gating process        发布门禁/门禁流程
 alias name/(individual) other name/individual platform    别名/别名,曾用名 n/个人的,各个的,分别的 adj/各个平台
@@ -255,8 +253,9 @@ lean/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 if(as) so/desired/necessary/needed           如果这样/需要/必要/根据需要
 reject/refuse/decline/declined          拒绝,驳回/拒绝/婉拒、礼貌谢绝 v
 always/constantly        xxx/总是,经常地,不断地
-graph/(sequence) diagram        图表,曲线图/图表，图解 n(结构,逻辑,流程)/时序图,顺序图 n
+graph/(sequence) diagram        图表,曲线图/图表,图解 n(结构,逻辑,流程)/时序图,顺序图 n
 (either)...or.../neither...nor...          要么...要么...(两者中的一个/两者都不)
+ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 
 
 
