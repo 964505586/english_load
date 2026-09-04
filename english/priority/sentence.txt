@@ -16,12 +16,12 @@ this is             /ðɪ‿sɪz/
 this is a offset             |ðɪ sɪ zə|
 let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
 let's keep it as is             /lets kiːp ɪt əz ɪz/
-i'll let you know
+i'll let u know
 for a moment
 let's move on           /lets muːvɒn/          让我们继续前进
 i'll pick it up         /aɪl pɪk ɪt ʌp/
 for all of us               /fɔː(r) ɔːl əv əs/
-please reach out to me              /pliːz riːtʃ aʊt tu miː/
+plz reach out to me              /pliːz riːtʃ aʊt tu miː/
 gotcha      got you
 
 
@@ -33,7 +33,7 @@ gotcha      got you
 
 as long as(once) we click here       连词,只要...
 (it's) no wonder why/that                难怪
-are you online/there               你在吗
+are u online/there               你在吗
 (it's) a piece of cake              小case
 we'll do everything we can  我 将/已经 竭尽全力
 we'll find a way to 我会想办法...(语气坚定,靠谱)
@@ -44,14 +44,14 @@ didn't/doesn't make any difference             没作用
 maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
 let's pause(hold on) here. for the introduction & process i mentioned previously. any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
-why/how did you navigate to(land on) that page?         您是如何访问(到达)那个页面的？
+why/how did u navigate to(land on) that page?         您是如何访问(到达)那个页面的？
 these two fields are reversed                这两个字段的值颠倒了
 data(email) attached for your reference                 附上邮件供您参考
 how/why/what is it?              怎么样/为什么/这是什么
 this is just/simply my personal perspective            这仅仅是我个人的看法
 will it work？
 in that case, i think everything will be fine/all right     既然如此,我觉得一切都会顺利的
-you need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与hk保持一致
+u need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与hk保持一致
 look/sounds like your situation is different(not same) from mine                看起来/听起来您的情况与我的情况不同
 no further error so far                     到目前为止没有再出现错误
 have no particular idea at the moment           目前还没有特别的想法
@@ -65,31 +65,31 @@ about when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
 this has been happening a lot recently. it didn't happen before             这种情况最近频繁发生.以前从未出现过这种情况.
 the problem occurs when writing data to hdfs, & then the exception is thrown
-please press ctrl & c on your keyboard      /kənˈtroʊl/    请在键盘上按下"ctrl"和"c"键
+plz press ctrl & c on your keyboard      /kənˈtroʊl/    请在键盘上按下"ctrl"和"c"键
 logs are only kept for one or two days              日志只保存一天或两天
 is/isn't this what we expected?             这难道不是我们所期望的吗？
 wait a minute. let me quickly check the dictionary to see how to say it     我查下字段
-could you tell me who i should contact?         你可以告诉我应该联系谁吗？
+could u tell me who i should contact?         你可以告诉我应该联系谁吗？
 this has never been done before        以前从没人干过
 develop a script to identify data discrepancies in specific indices. if discrepancies are found, save the conclusion             编写一个脚本来识别特定索引中的数据差异如果发现差异,保存结论
 this is an automatically generated notification from confluence             这是confluence自动生成的通知
 i'm preparing to create a sample. once completion, i'll work out the detailed timeline         我正在准备为 spark 项目创建一个示例完成后,我会制定详细的时间表
 whose responsibility is it？                 这是谁的责任？
 actually, it's afternoon in china               实际上,中国现在是下午
-what time do you start work in the morning          你早上几点开始工作
+what time do u start work in the morning          你早上几点开始工作
 using a command             方式状语
 the issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
 this problem was caused while developing backend feature (this happen because ...)          这个问题是在开发此功能的过程中产生的
-please help check the email draft, i'm preparing to send to kevin for clarification          帮忙检查一下这份邮件草稿,我准备发给kevin以获取进一步的说明
+plz help check the email draft, i'm preparing to send to kevin for clarification          帮忙检查一下这份邮件草稿,我准备发给kevin以获取进一步的说明
 everyone is complaining that jenkins is unstable         大家都抱怨jenkins不稳定
 sth be pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
 nothing(no need) for now                     暂时没有/暂时不需要
 let's work out the (detailed) timeline               制定出时间计划,敲定时间线
-just add a space anywhere (you like)                    随便添加个空格
+just add a space anywhere (u like)                    随便添加个空格
 i have 2 tickets (which are) assigned to me/there are 2 tickets assigned to me      有两张票分给我了
-feel free to join the call or skip as you prefer                自由选择加入或者跳过,随您喜好
-i see/get/know/understand what you mean                         我明白您的意思
+feel free to join the call or skip as u prefer                自由选择加入或者跳过,随您喜好
+i see/get/know/understand what u mean                         我明白您的意思
 i believe i understand your point          我想我明白你的意思了
 we are talking about the same issue?                            我们说的是一个问题？
 just rename the field display name on the ui                    就重命名字段的显示名称
@@ -97,11 +97,11 @@ seems there are no better solutions either                      似乎也没更�
 is there any ticket for the follow-up actions?                         对后续行动,有对应ticket么
 would like to clarify sth/make a clarification on sth           想澄清下sth
 would like to clarify some points/details about backend with you
-i'd like to tell you something      我想告诉你一些事情
+i'd like to tell u something      我想告诉你一些事情
 i hardly ever use the method(command line) to operate git          我几乎不用sth
 then talk to Jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟Jack说
 still have one more day             还有一天呢
-please verify if the issue also occurs in uat(also check the uat env for the issue)        看下uat env有没有这个问题
+plz verify if the issue also occurs in uat(also check the uat env for the issue)        看下uat env有没有这个问题
 after talking with john             经过和john交谈
 Jack will help list out the schemas that are inconsistent           Jack会帮忙列出不一致的schemas
 i'd like to know if the approach meets(aligns with) your expectations            是否符合您的预期
@@ -121,35 +121,35 @@ we have (encountered) a new issue currently. Jack needs to modify backend code t
 at any time/moment(feel free to)                      随时
 at least/most/best/worst                至少/至多/顶多/最坏
 at (exactly) that moment                          就在那一刻/恰恰就在那一刻
-when did you last restart?                     你上次重启是啥时候？
+when did u last restart?                     你上次重启是啥时候？
 if program works well/as expected(all tests pass)      如果逻辑运行正常
 as a short/long-term solution               作为 短期/长期 方案
-has your part of this change been released/deployed to prod env ?       你的那部分发布到生产环境了吗？
-please give me a bit/little more time           请再多给我点时间
+has your part of the change been released/deployed to prod env ?       你的那部分发布到生产环境了吗？
+plz give me a bit/little more time           请再多给我点时间
 just use the data as input                用这数据作为输入
 we can categorize the changes above into two types       我们可以将上面changes归类为2种类型
-we're (just) counting on you               我们就靠你了(指望)
-could you have(help take) a look at this?             你能看一下xxx吗？
+we're (just) counting on u               我们就靠你了(指望)
+could u have(help take) a look at this?             你能看一下xxx吗？
 when in doubt, use the reboot trick!             遇事不决,重启大法
 i spent over an hour on a call with Jack yesterday, however, the issue is still unresolved. He said he'll double-check it today
 the problematic code is from frontend, not backend           有问题的代码来自frontend,而非backend
 the header disappears when i scroll down        当向下滚动,标题就消失了
 how do i freeze the top/header row so (that) it stays visible when scrolling down?          如何将标题行冻结,使其在向下滚动时仍保持可见状态？
 platform patching led to an (unexpected) production outage last night           导致生产环境宕机
-Jack mentioned that you are already aware of this               Jack说你已经知道这个了
+Jack mentioned that u are already aware of this               Jack说你已经知道这个了
 17 months of data               17 个月的数据
 i have received the file from your separate email           我已经从您单独发来的邮件中收到了那份文件
 i noticed/observed that the score ranges from 0 to 9                我注意到分数的范围是从0到9
-please ignore the email if you have already actioned this              如果您已采取行动,请忽略此邮件
+plz ignore the email if u have already actioned this              如果您已采取行动,请忽略此邮件
 Jack is staring at sb/sth                       Jack正盯着它看
 troubleshooting (is) ongoing. no ETA yet(no ETA for resolution has been confirmed at this time)     问题正在排查中,目前暂未确认解决时间
 it will be a time-consuming effort for all of us            对我们所有人,都是一项耗时的工作
 further updates will be shared as progress is made          有进展后会同步更多更新
-better to save this link as a bookmark—you'll use it often              最好保存书签,你会经常用的
+better to save the link as a bookmark—you'll use it often              最好保存书签,你会经常用的
 do i need to refresh the page                   需要刷新页面吗？
 hope it/this/that helps(hope this clarifies)                 希望这有帮助/希望这能解释清楚
 they're not doing their jobs                他们没在干活,没履行职责
-please release after 16:00 cutoff batch         请在16:00后进行release
+plz release after 16:00 cutoff batch         请在16:00后进行release
 the contact person from SAS team                sas团队的联系人
 there's no good solution (on this)           没什么好办法
 same old problem, jenkins is constantly unstable        还是老问题,jenkins 一直不稳定
@@ -162,7 +162,7 @@ we need to find a long-term solution                我们需要找一个长期�
 recommended that ...                        推荐...
 as far as i know(can see)           据我所 知/见
 if the issue can't be resolved promptly/quickly, i'll raise a related ticket later          如果这问题不能迅速解决,我将会提交一个相关的工单
-(you just) follow suit with sth                    效仿sth(依葫芦画瓢)
+(u just) follow suit with sth                    效仿sth(依葫芦画瓢)
 it can make tracking much easier(it can be easier for the progress tracking)             这能让追踪工作简单很多
 you're gonna say something else?                    你要说点别的?
 it will be considered (as) a failure                它会被视为失败
@@ -171,23 +171,23 @@ especially where the following columns are marked as failed         尤其是以
 it shouldn't ideally have any impact               理想情况,它不应产生任何影响
 for reference only/this is for informational purposes only          此内容仅供参考
 (it's) not so fast             别太快,别急,没那么容易
-please kindly give the email your full attention                   烦请务必仔细查阅并重视本邮件
+plz kindly give the email your full attention                   烦请务必仔细查阅并重视本邮件
 we have to manually re-run the job each time we face the issue         每次遇到这个问题时,我们都需要手动运行这项任务
 they'll restrict us from raising PR, which will lead to escalation & a lot more paperwork. i'm sure none of us wants to go through all that
-how did you do it/that?             你怎么做到的？
+how did u do it/that?             你怎么做到的？
 the boss is keeping a close eye on this             老板很关注这件事
 if the error persists/if the same error still (occurs)/error hasn't been resolved       如果错误依旧存在
-what id did you use             你用的是什么id？
+what id did u use             你用的是什么id？
 we're on it            我们正在处理
 or what would be the next step/seeking the next step           接下来该怎么做呢/等待下一步指示
 rescheduling the slot to accommodate UK team, as the current slot overlaps/conflicts with their lunch hour      重新安排去容纳UK团队,当前时间与他们的午餐有冲突
 there will be downtime around 1 to 2 hours required to complete the patching activity from pre-check & post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
-so that you can (better) understand the project (more)          以至于你能更好地理解这个项目
+so that u can (better) understand the project (more)          以至于你能更好地理解这个项目
 somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
 to ensure its continued stability & performance       为确保其持续的稳定性和性能
-please address it at the earliest to avoid further escalation       请尽快处理此事,以免情况进一步恶化
+plz address it at the earliest to avoid further escalation       请尽快处理此事,以免情况进一步恶化
 make your work easier, faster & more effective        让您的工作变得更轻松,更快捷,更高效
-Please supplement any missing items       请补充遗漏内容
+plz supplement any missing items       请补充遗漏内容
 let's hang over (the work) to Jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
 it's a scenario we didn't cover before/the situation wasn't covered     这情况之前未曾涉及
 left a note/remark in my calendar             在日历里添加了备注
@@ -204,20 +204,20 @@ feel free to try the script for works above         欢迎尝试这个脚本用�
 the change will only take effect after the end date                 end_date后才生效
 potential a change at backend level         后端层面可能会有change
 the change might be problematic                这个改动可能有问题
-the change is now taking effect. please follow the new process going forward           变更已即刻生效,后续请按新流程执行
+the change is now taking effect. plz follow the new process going forward           变更已即刻生效,后续请按新流程执行
 the change has been in effect since last friday         这change自上周五就已经生效了
 don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
 plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
 you'll leave(walk away) with sth       你会带着
 we likely need to           我们可能需要
-can you reproduce the issue/can the issue be reproduced       你能复现这个问题吗?
+can u reproduce the issue/can the issue be reproduced       你能复现这个问题吗?
 (it's) nothing, i barely helped at all/didn't help much anyway      几乎没帮上忙,并未提供多少帮助
 end up as sth           最终变成,最终格式为
 not a fan of sth            不推荐,不认可,不喜欢sth
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
 may i know why      请问为什么
-could you please help push/accommodate the matter        帮忙推动这事
+could u plz help push/accommodate the matter        帮忙推动这事
 take care of/that (yourself)    处理,接手,照顾 v
 prevent sth from doing sth			防止sth产生不良影响
 which helps prevent excessive traffic from degrading overall system performance & user experience     有助于防止过度流量影响整体系统性能和用户体验
@@ -232,33 +232,33 @@ assessed dependency checks      评估依赖项检查
 is wired to         被配置为,被设置为
 (whether) A references B directly       A是否直接引用B
 the change is specific to sth      本次变更针对sth
-to help you try them out        方便您上手试用,供您实操体验
+to help u try them out        方便您上手试用,供您实操体验
 separate assignment communication       单独下发的分配通知,专项告知邮件
 customer-led value      以客户为中心的价值
 including common how-to topics      包含常见操作指南
 be carried out      被执行,实施
-can you elaborate more?     你能再详细说明一下吗
+can u elaborate more?     你能再详细说明一下吗
 if i recall correctly/or i remember it wrong       如果我没记错的话/或我记错了
 sth is in use       正在使用中
 ai-generated content might be inaccurate or misleading      ai生成的可能存在不准确或误导性
 i was updating Jack on the info         刚刚正在做的动作/刚才正在向杰克更新这些信息
 it wasn't an issue previously      此前并无异常,之前没有出现过这个问题
-you are one of the approvers        审批人之一
-(you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
-headphone/are you wearing headphones/do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
+u are one of the approvers        审批人之一
+(u are super) efficient/inefficient        高效的/低效的 adj/你效率超高
+headphone/are u wearing headphones/do u have headphones on?      你戴着耳机吗/你戴耳机了吗？
 it just occurred to me (that)     突然想到
-just noticed/realized this guide is two pages long, not just one    突然意识到/才注意到这guide有两页,而不是一页
+just noticed/realized the guide is two pages long, not just one    突然意识到/才注意到这guide有两页,而不是一页
 what does "vip" stand for/it stands for sth         vip代表什么?/它代表sth
 there's nothing i can do (if nexus issue)        我无能为力
 another question we have        我们还有另一个问题
 (that's) (good) enough   足够的 adj/adv/够了/这已经足够好了
 buy time for sth        争取时间,拖延时间
-please document the intent/purpose    请记录下 意图/目的
+plz document the intent/purpose    请记录下 意图/目的
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
 silently (returns)      默默地,静静地 adv/静默返回(无报错)
 stick to the original plan            坚持 v
 tentatively planned for July 8th    暂定计划
-could you take about 5 minutes to       能花大约5分钟
+could u take about 5 minutes to       能花大约5分钟
 i think Jack is the right person to answer that     杰克是回答这个问题最合适的人
 just waiting for the issue to be fixed      等待问题修复完成
 i don't really (have an update)       暂时没有新进展,更新/有最新进展,有新消息可以同步
@@ -268,18 +268,18 @@ expose sb to sth       使某人直面,遭受某事
 feel free to reach out to either Jack/me/Lily       欢迎随时联系Jack,我或Lily
 we don't expect any impact to existing pipelines    预计不会对现有流水线造成影响
 remediation is ongoing & (is) expected to take approximately 1-3 hours          修复在进行中,预计约1-3个钟
-how long do you expect it to take to fix        预计修复需要多久能完成
+how long do u expect it to take to fix        预计修复需要多久能完成
 doing sth is expected to take a similar amount of time      预计花费相似的时长
 the result was beyond(out of) my expectations       出乎我的意料
 would like to seek guidance from your side on the following     希望向贵方寻求指导
 will be directed to new version         将被导向至新版本
 doing sth involves sth (adding data to db involves two stages)        添加数据库到db涉及两个阶段
 (all services) are up & running       系统正常运行,服务就绪
-please include me in the call       把某人加入会议/请把我加入
+plz include me in the call       把某人加入会议/请把我加入
 is there anyone else (whom) you'd like (to have) on next Wednesday's sessions   你想增加其他人员参下周的会议嘛
 i'll ask for the call to be moved forward to better suit your timezone     将会议往前调整,以便更好适配你们的时区
 the call to be moved forward in order to help with the timezone differences     缓解时区差异问题
-therefore what we do need to build (for this phase)      因此,我们需要做什么
+therefore what we do need to build (for the phase)      因此,我们需要做什么
 the best slot i could pick based on availability and time zones     基于各方的时间与时区,选出的最佳会议时间段
 without it being a cast of thousands(involving too many stakeholders)       不必牵扯一大堆人(相关方)
 i believe it's worth a go       我认为这值得一试
@@ -298,10 +298,10 @@ just ask in Teams group     直接在群里问就行
 (it's) a bit urgent            有点急
 go this way     采用这个方案,按这个方式走
 will get/have a head‑start(early advantage)       将会占据先机
-give you the green/red light        给某人开绿灯,批准/否决,叫停
+give u the green/red light        给某人开绿灯,批准/否决,叫停
 scared me       吓我
 re‑engage the team      重新对接团队
-this should (give a good indication) of what payload to send and what you receive     很好说明了。。。
+this should (give a good indication) of what payload to send and what u receive     很好说明了。。。
 Not this time       这次不行,这回就算了
 automate devops process        使自动化 v
 not yet, for now we are using sth       还没有,目前我们正在用sth
@@ -317,13 +317,13 @@ it will not be that easy for us to do sth        对我们来说,做这事没那
 touch‑wood(can make it a back-up for (touch‑wood) next time)       老天保佑,希望别出问题
 specially creating an online doc to list all BAU issues we have identified      专门建了个文档,列出发现的所有BAU issue
 challenge that they are not thinking enough and not considering the full scope      质疑他们思考不够,没有覆盖完整范围
-could you please help guide new joiners through the onboarding process     帮忙带下新人
-would you mind doing(having a look at the issue)       可否麻烦你看一下这个问题
+could u plz help guide new joiners through the onboarding process     帮忙带下新人
+would u mind doing(having a look at the issue)       可否麻烦你看一下这个问题
 work with Jack together on SAS      和sb协同工作
 All the best on the new project     祝新项目一切顺利
 If the issue can't be resolved promptly/quickly, a related ticket needs to be created   不能快速解決,需要建个ticket
 if any questions. otherwise, your confirmation & sign-off would be much appreciated     烦请确认并签字审批
-please kindly provide your sign-off             若无疑问,烦请确认签收/办结
+plz kindly provide your sign-off             若无疑问,烦请确认签收/办结
 available options will be listed here       可用选项将列于此
 the deployment must be blocked until remediation is completed       完成修复前,部署被阻塞
 hi there                       嗨,你好
@@ -338,15 +338,15 @@ let me add/park an agenda item for the call tmr         把这个议题加到明
 multiple staff's requests within a single submission        一个提交中多个人请求
 if any of your tickets is (in either of these columns)          如果你任何一张票/在这两列中的任意一列里
 if doing sth needed(using an alternative solution needed)       如果需要替代方案
-escalate this kind of issue (only when it is urgent)    仅在紧急情况下
+escalate the kind of issue (only when it is urgent)    仅在紧急情况下
 Infra team (is best placed to) resolve the network issue       最适合做某事
 主句 with n doing/without doing sth     跟着,某人做某事,拆分主次/不做sth
 you'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
 we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
 I'm not (entirely) sure that(about sb/sth)        不完全确定/我不确定~
 list/enumerate all the data we required     列出所需的所有数据
-not yet, still loading/it's coming (Can you see my screen)
-Jack has spent weeks making this document       花了好几周时间来做这份文档
+not yet, still loading/it's coming (Can u see my screen)
+Jack has spent weeks making the document       花了好几周时间来做这份文档
 2xx acknowledgement is the happy path       返回2xx响应确认代表正常流程
 a timeout or non‑2xx response is the unhappy path and (triggers bounded retries) with the same id     触发重试
 introduces a streamlined (interface)/UI      接口,界面 n/引入更简洁,流线型的界面

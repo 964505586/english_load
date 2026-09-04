@@ -37,7 +37,7 @@ govern/governed/governing/governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统�
 retriable        /rɪˈtraɪəbl/           可重试的 adj
 plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编码 v
 discard/dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
-stay tuned/please bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
+stay tuned/plz bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 opt out of      /ɒpt aʊt əv/      选择退出 v
 fellow      /ˈfeləʊ/              同类的,同伴的 adj
@@ -342,7 +342,7 @@ AI‑augmented/argument/argue/quarrel        /ɔːɡˈment/       增大,增加,
 contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
 (3-stages/phase) evolution/evolve (over time)/evaluation    /ˌevəˈluːʃ(ə)n/     进化,演进 n,v/三阶段迭代发展/随时间演变/评估
 materiality (assessment)/importance      /məˌtɪriˈæləti/      重要性(审计,风控,合规)/重要性评估
-be (conscious) it's nearly by EOD for you       /ˈkɑːnʃəs/      意识到的 adj/意识到你们那边差不多快下班了
+be (conscious) it's nearly by EOD for u       /ˈkɑːnʃəs/      意识到的 adj/意识到你们那边差不多快下班了
 supplier (performance management)/vendor     /səˈplaɪər/        供应商/供应商绩效管理
 not a (exhaustive) list/exhausted     /ɪɡˈzɔːstɪv/       详尽无遗的 adj/使精疲力尽,耗尽 v/adj
 idempotency (key)/idempotence     /ˌaɪdəmˈpəʊtənsi/       幂等性(重复请求不会产生重复效果)/幂等键
@@ -375,7 +375,7 @@ let's get started
 free/good for a (quick) call?
 can/shall we call now?
 wanna call now?(关系熟)
-call me whenever you see it
+call me whenever u see it
 whenever        每当,无论什么时候
 whenever convenient/appropriate
 convenience
@@ -419,7 +419,7 @@ redact/(data) redaction/masking      /rɪˈdækʃn/      编辑,校订 n/数据�
 mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
 
 be no longer supported(merely n)        不再支持/不再只是
-you will (no longer) get            不再 abv
+u will (no longer) get            不再 abv
 
 permit/permitted to         批准,许可 v/被允许,有权限
 read-only access/permissions            只读权限 n
@@ -455,7 +455,7 @@ outcome结果、结局
 outcome/result      结果,效果/结果,后果 n
 
 treat A as B把A视作B
-This diagram treats TPRM as a single service
+the diagram treats TPRM as a single service
 
 Pubsub
 Publish‑Subscribe 发布订阅
@@ -466,7 +466,7 @@ Public
 feature highlight       功能亮点
 highlight           突出,强调 v
 highlighted
-please check the part(key points) highlighted in yellow     请查看标黄部分(重点内容)
+plz check the part(key points) highlighted in yellow     请查看标黄部分(重点内容)
 marked/highlighted part/area/section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
 
 browse/browser         /braʊz/ /ˈbraʊzə(r)/
@@ -489,7 +489,7 @@ identify/identified/identification/identifier     /aɪˈdentɪfaɪə(r)/       �
 
 so we could narrow down and digest the catalogue
 data refinery
-i think this Monday call is NOT needed if the agenda is just for data access
+i think the Monday call is NOT needed if the agenda is just for data access
 we will go from there       从这里继续往下推进、基于现状继续开展后续工作
 get back on the case        重新处理此事
 only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
@@ -546,7 +546,7 @@ There was uncertainty about whether … 对于……存在不确定性
 
 
 
-if you've helped me with a task then please assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
+if you've helped me with a task then plz assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
 
 其实现在的话还算好,就怕以后会有更多的数据更新场景操作。用英语怎么说？
 

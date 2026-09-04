@@ -37,7 +37,7 @@ recommended action/solution      推荐操作,方案
 present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 dummy/mock                       假的 adj
 ideal/normal                        理想的,最佳的/正常的,标准的 adj
-at your convenience/if you get a chance     你有空的时候
+at your convenience/if u get a chance     你有空的时候
 self/internal/(my/our own) check            自测
 with n/there is ...
 alright(all right)
@@ -50,7 +50,7 @@ on/when/while/during            同时,然而,当...时候
 really/pretty/quite/super   (very/so)
 faced/reported/raised/encountered
 formula(algorithm)                     公式 n
-as for n(regarding)  至于n/as for that point you mentioned previously     至于你之前提到的这一点
+as for n(regarding)  至于n/as for that point u mentioned previously     至于你之前提到的这一点
 procedure/step               做事的具体步骤 (process: 整件事的过程)
 deal with(handle)
 apply/request
@@ -64,9 +64,9 @@ edition/version                     版本 n
 may/can
 seem/look/sounds like good/fine
 isn't it(主语是it, right?)
-see/catch you later
+see/catch u later
 by today/tomorrow/afternoon(by the end of day)               今天之内,明天下午前
-i misunderstood(i got it/you wrong)             我理解错了/我理解错你意思了
+i misunderstood(i got it/u wrong)             我理解错了/我理解错你意思了
 at least/minimum/maximum/including at minimum:          至少 adv/至少包含
 retry/take/allow/keep up to 3 times/hours on failure   (失败时)最多重试3次/最多占用/预留至多/最多保留
 in particular/detail/specifically       具体来说/详细地 adv
@@ -182,7 +182,7 @@ enterprise/corporation/company/accompany       企业,事业单位 n/大企业,�
 it/system/program throw/threw failure error/exception       抛出错误/异常
 (it's) almost at once(the same)             几乎 马上/一样
 as/after we planned/discussed/talking (with Jack) previously        正如我与Jack所 讨论/计划 的
-this field isn't editable/set the field to uneditable       此字段不可编辑
+the field isn't editable/set the field to uneditable       此字段不可编辑
 in‑scope/out‑of‑scope       (超出)范围内/外
 perform/do/implement        xxx/执行,实现 v
 just asking/wondering       只是问问/就是想知道
@@ -193,7 +193,7 @@ I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
 notify/(outage) notification/notice      通报,告知 v/通知 n/断网,服务中断通知/注意,意识 v
 the day/week after/before yesterday/tomorrow/next week      前天/后天/下下周
 queue times are usually long in normal channel/long queue times are common      排队时间长是常见
-give you an overview of sth/briefly introduce sth/elaborate     概述,简述/详细说明
+give u an overview of sth/briefly introduce sth/elaborate     概述,简述/详细说明
 utilize/leverage/utilise(英式)     利用,使用 v
 host/hosting/hosted at/deploy             举行,部署,托管,做东 v/主人,主持人 n/托管于
 suggest we (play around with) Jack's proposal/try with sth       试一试Jack的提议
@@ -209,7 +209,7 @@ confirm with/reach out to Jack to get       找sb做某事
 what's it/this (ticket) for/what's purpose for the ticket        这是干嘛的
 modify/update/change/edit           修改/更新/改变/编辑 v
 sustain/support     维持,支撑/支持 v
-could you please acknowledge/confirm/acknowledged        确认,认可,感谢 v/请确认(已收到/知晓/知悉)
+could u plz acknowledge/confirm/acknowledged        确认,认可,感谢 v/请确认(已收到/知晓/知悉)
 stakeholder/related parties                  相关方,利益相关者/相关方
 fetch/extract/read             获取,拉取 v/提取,抽取 v
 how to (architect/design) the agent     设计 v
@@ -219,7 +219,7 @@ guide sb on/through sth     指导某人/带sb一步步走完
 be good to do sth(at sth)      适宜,乐意做/擅长做sth
 concise/briefly     简洁的 adj/简短的,简要的 adv
 before/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
-as appropriate/as(whenever) you see fit      酌情,按照你认为合适的情况,方式
+as appropriate/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
 just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
 I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
 release gates/gating process        发布门禁/门禁流程
@@ -234,12 +234,12 @@ dynamic/dynamically/static                 动力,活力 n/充满活力的,动�
 solve/(partially) resolved/address/get sorted            解决/已决议的 adj/部分解决
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
 Day Zero/One/Two        上线首日/上线后第1天/稳态运行阶段
-what do you want to do (on earth)       你想干嘛/你到底想要什么
+what do u want to do (on earth)       你想干嘛/你到底想要什么
 some access/permissions may/usually take some time to activate/propagate(go live)   一些权限通常需要一段时间方可生效
 however/but/(therefore)/so n,句子/hence n     因此,所以 adv
 backup/back-up/replica/alternative/workaround      备份 n/adj/副本 n/可替代的,备选的 adj/临时变通方案,权宜之计
 underway/in progress/ongoing/pending/TBD         进行中的/持续存在的,仍在进行的/待定的,待处理的 adj
-this change involves lots of underlying/low-level/foundation code            这改动涉及大量 底层代码
+the change involves lots of underlying/low-level/foundation code            这改动涉及大量 底层代码
 follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
 duty/fault      责任,义务/错误,责任
 dumb me/my fault, (the wrong link I used/I overlooked sth)     都怪我,我脑子短路了,是我疏忽(自嘲)/偏严肃
