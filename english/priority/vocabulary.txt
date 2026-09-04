@@ -254,6 +254,7 @@ outsourcing determination       外包,外购 n/外包判定
 ready-to-use (utilities)      随时可用的 adj/开箱即用工具,立即可用工具集
 source (the data)/resource          获得 v/来源/资源 n/获取数据
 single (source of truth)      单一的，单个的 adj/唯一可信数据源(SSOT)
+hold (on)/held         举行,保存/等一下,坚持住
 
 
 

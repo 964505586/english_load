@@ -353,6 +353,7 @@ lineage         /ˈlɪniɪdʒ/      (数据)血缘,依赖链 n
 excessive/excessively       /ɪkˈsesɪv/       过度的,过多的 adj/过分地 adv
 set out our primary/(strategic) focus     /strəˈtiːdʒɪk/       战略(性)的 adj/阐明,明确我们首要工作重心
 cantonese       /ˌkæntəˈniːz/       广州人,广东人,粤语 n/广州的,广东的 adj
+narrow down (sth)/       /ˈnæroʊ/       缩小范围
 
 
 
@@ -361,57 +362,6 @@ cantonese       /ˌkæntəˈniːz/       广州人,广东人,粤语 n/广州的,
 
 
 
-
-
-
-
-
-
-
-can call?
-come on/go ahead/any time/available now
-here we go          我们开始吧
-let's get started
-free/good for a (quick) call?
-can/shall we call now?
-wanna call now?(关系熟)
-call me whenever u see it
-whenever        每当,无论什么时候
-whenever convenient/appropriate
-convenience
-
-start up/start‑up/(at) startup     /ˈstɑːt ʌp/      启动 v/新成立的,刚创办的 adj/开始,启动 n/启动时
-start out/starting      着手 v/起始的,开始的 adj
-start‑up (flow/company)      /ˈstɑːtʌp/     /启动流程/初创公司
-issues occurs when starting up the backend service
-
-walkthrough        过一遍
-we've completed the work through/have gone thru all the tickets     已经完成了walkthrough
-let's go through tickets first              我们先处理一下票务的事
-go/work/walk through/walkthrough          经历,逐条梳理,过一遍/解决/完整讲解,分步演示v/n
-walk sb through sth
-带某人逐项过一遍、逐项讲解某事
-
-narrow down (sth)       缩小范围
-narrow down digesting the catalogue     /ˈnæroʊ/ /daɪˈdʒest/
-digest      梳理、研读、消化理解
-
-work out            制定,梳理,敲定
-regroup     重新梳理,复盘 v
-i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳理我的笔记
-tidy (up)       /ˈtaɪdi/        整洁的 adj/整理 v
-prepare(put together) documentation     整理文档
-sort (out)/organize      排序,分类/整理,解决 v/整理,组织,安排
-come up with (a solution)        整理得出,输出 v
-clear/clean/cleanup/removal        /ˈklinˌʌp/      清除 v,n/清理,整理,梳理 n/移走,去掉 n
-move/remove/shift       挪动,更改/移除,删掉/移动,转移,偏移,延后
-
-hold        存储、承载
-hold/held           举行
-hold on         等一下,坚持住
-
-approximate/approximately/造句       类似,接近 v/大概的,近似的 adj/adv
-roughly/circa/around/about  /ˈrʌfli/ /ˈsɜːrkə/    粗略地,大约 adv/大约 prep/adv
 
 masking
 scrambled adj.经过扰乱脱敏；unhashed adj.未做哈希处理（明文）
