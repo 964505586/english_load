@@ -8,9 +8,6 @@ key takeaways          主要收获,会议核心要点,关键结论 n
 meeting recap           会议总结,概要(简版)
 (meeting) minutes       /ˈriːkæp/       将sth写进会议记录 v/会议纪要,记录(完整版) n
 
-identity/identical            身份 n/完全相同 adj
-identify/identified/identification/identifier     /aɪˈdentɪfaɪə(r)/       认出,识别v/n/标识符 n
-
 遵守
 act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
 attest (following guardrails)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明,确认,作证,承诺遵守 v/声明,证明,证据,证实 n
@@ -171,7 +168,7 @@ compare a against b         把a与b相比
 compared with n             与...相比/过去分词做条件状语
 compare/comparison      /kəmˈpærɪs(ə)n/     比较 v/比较,对照 n
 
-oops/my goodness        哎哟,啊呀,糟糕/我的天
+oops/my goodness        /ʊps/        哎哟,啊呀,糟糕/我的天
 jesus/my god/damn it       天哪/我的天/该死(脏话,熟人)
 holy shit       天哪(粗俗)
 
@@ -256,9 +253,7 @@ contribute (to)/contribution    捐赠,为...做贡献 v/有助于,促成,计入
 massive         大规模地 adv
 expand/extension        扩展,扩容磁盘,扩大规模 v/扩展 n
 scale/scalable/scalability     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n
-
-approximate/approximately       类似,接近 v/大概的,近似的 adj/adv
-roughly/circa/around/about  /ˈrʌfli/ /ˈsɜːrkə/    粗略地,大约 adv/大约 prep/adv
+scaling ai responsibly/scale with stronger control      /rɪˈspɑːnsəbli/     负责任地推进ai规模化/在更强管控下实现规模化
 
 (system) entry/central front door   /ˈentri/    入口,条目,记录,进入,加入 n/核心,系统入口 n
 (first/prior) entry (prerequisite)        首条/先前条目,历史记录/准入前置条件
@@ -363,10 +358,6 @@ obstacle/friction(block v/n)                障碍,阻碍,困难/阻碍,摩擦�
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
 (building) block/blocker         阻碍 v/n/基础模块,核心组件,积木块 n
 
-we've completed the work through/have gone thru all the tickets     已经完成了walkthrough
-let's go through tickets first              我们先处理一下票务的事
-go/work/walk through/walkthrough          经历,逐条梳理,过一遍/解决/完整讲解,分步演示v/n
-
 what's more, ...     而且,此外
 moreover/in addition/btw/besides/furthermore            另外,此外 adv
 on the other hand/side             另一方面
@@ -394,13 +385,6 @@ ahead (of time/schedule)       在前面的,提前的 adj/adv
 advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,晚期的 adj
 beforehand/(2 months) in advance   /bɪˈfɔːrhænd/   事先,提前 adj,adv/提前地 adv/提前2个月
 provide advance notice/give you a heads-up     提前下发通知,预先告知/提前告知,预先提醒
-
-tidy (up)       /ˈtaɪdi/        整洁的 adj/整理 v
-prepare(put together) documentation     整理文档
-sort (out)/organize      排序,分类/整理,解决 v/整理,组织,安排
-come up with (a solution)        整理得出,输出 v
-clear/clean/cleanup/removal        /ˈklinˌʌp/      清除 v,n/清理,整理,梳理 n/移走,去掉 n
-move/remove/shift       挪动,更改/移除,删掉/移动,转移,偏移,延后
 
 best
 i'll do/try my best to                                我会尽力去做sth
@@ -436,20 +420,6 @@ accurate/precise/inaccurate/accuracy     /ˈækjərət/ /prɪˈsaɪs/     准确
 select bar/box      选择栏/选择框
 dropdown (list)                 下拉(列表) n
 radio/checkbox (button)/input box       单选/复选框/输入框 n
-
-can call?
-come on/go ahead/any time/available now
-here we go          我们开始吧
-let's get started
-free/good for a (quick) call?
-can/shall we call now?
-wanna call now?(关系熟)
-call me whenever you see it
-
-start up/start‑up/(at) startup     /ˈstɑːt ʌp/      启动 v/新成立的,刚创办的 adj/开始,启动 n/启动时
-start out/starting      着手 v/起始的,开始的 adj
-start‑up (flow/company)      /ˈstɑːtʌp/     /启动流程/初创公司
-issues occurs when starting up the backend project
 
 map             映射 v
 reflect (the correct ownership)         反映,体现,显示 v
@@ -549,7 +519,7 @@ limit/limitation/restrict/restriction       限制,限定 v/限度,限制 n/限�
 
 preserve/preserving      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
 retain/retention (rule)                  保留 v/保持,保留,保存 n/保留规则
-remain/remaining/testing remains        仍然是,保持,剩余,留下 v/剩下的,遗留的 adj/仍在测试
+remain/remaining/testing remains/keep        仍然是,保持,剩余,留下 v/剩下的,遗留的 adj/仍在测试
 the other features remains unchanged/unaffected     保持不变
 
 business (continuity) plans       /ˌkɑːntɪˈnuːəti/       连续性,连贯性 n/业务连续性计划
@@ -560,6 +530,16 @@ you can start on this first and work on that one afterwards      先做这一项
 you may prioritize other ticket for now/may work on other tickets first         可以优先做其他ticket
 which one should i prioritize and work on first?        我应该先做哪一个
 which one has the highest priority      哪一项优先级最高
+
+keep (on)/remain (hidden)     一直,老是,保持/热衷于 v/保持隐藏
+keep doing sth/getting the error       一直持续做某事(老是)/老是碰到这个报错
+the error keeps popping up      这个报错老是弹出来
+keep quiet/balance(a good relationship with)        保持安静,平衡/与某人保持良好的关系
+jenkins keeps failing, so i'm thinking of trying to create a new pr     老是失败,我在想试着创建一个新的pr
+i keep getting interrupted by other (urgent) matters recently, therefore the progress is only about 20%     我最近总是会被其他紧急事务打断
+plz keep researching how & where we could host one       继续研究我们如何 & 在哪里可以举办一次
+plz keep pressing CA team for sth, as it has been out of service for two years now       请继续向CA团队施压,推动此事
+plz keep an eye on your inbox for the communication     请留意收件箱查收该通知
 
 
 

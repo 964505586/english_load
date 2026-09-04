@@ -58,6 +58,7 @@ AC          Acceptance Criteria 验收条件
 FQDN        fully qualified domain name 域名
 SMT         Senior Management Team 高层管理团队
 PoC         proof of Concept 概念验证,技术试点
+PII         Personally Identifiable Information 个人身份敏感信息
 
 
 

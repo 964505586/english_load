@@ -9,7 +9,6 @@ decent      /ˈdiːsnt/      像样的 adj
 awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
 shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
 differ          /ˈdɪfər/            不同于 v
-lineage         /ˈlɪniɪdʒ/          血缘,依赖链 n
 catalyst        /ˈkætəlɪst/         优化器,催化剂
 big/large/huge/giant       /ˈdʒaɪənt/          巨大的,伟大的 adj
 compute/computation/calculate/calculation         /kəmˈpjuːt/         运算,测算 v/计算,核算 v
@@ -124,7 +123,6 @@ editable            /ˈedɪtəbl/          可编辑的 adj
 borrow/borrowing            /ˈbɒrəʊ/    /ˈbɒrəʊɪŋ/
 follow me           /ˈfɑːloʊ/
 scope           /skoʊp/
-browser                          /ˈbraʊzə(r)/
 upsert(update + insert)                      /ˈʌpsɜːrt/
 auto-increment id               递增 id
 typology                        类型学,分类体系 n
@@ -239,7 +237,6 @@ assess/assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(�
 rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/旋转,转动 n/值班名册,轮值表
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
-alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
 revised/rectified/modified/edited/updated/changed       /ˈedɪtɪd/       修订过的,编辑过的 adj
 verify/verification/validate/validation     /ˈvælɪdeɪt/     验证,核实/确认,验证 v/n
 deduct/deducted     /dɪˈdʌkt/        减去,扣除 v
@@ -297,7 +294,6 @@ monotonically (increasing)        /ˌmɒnəˈtɒnɪkli/        单调地 adv/单
 i think it may not be so (straightforward)      /ˌstreɪtˈfɔːwəd/        简单的,易懂的 adj/adv/我觉得这事可能没那么简单
 grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
 (guiding/security) principle       /ˈprɪnsəp(ə)l/ /ˈɡaɪdɪŋ/        准则,原则 n/处理,指导,安全原则
-i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳理我的笔记
 infra/infrastructure        /ˈɪnfrəstrʌktʃər/       基础设施 n
 delegate        /ˈdelɪɡət/        代理人,代表 n/授权 v
 any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
@@ -312,13 +308,11 @@ intend/(if) intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/
 eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
 mitigate (the risk of service outage)/mitigation/eliminate       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险/剔除,根除 v
 convert momentum into measurable outcomes     /moʊˈmentəm/ /ˈmeʒərəbl/       势头,冲力,推力 n/可量化的 adj/将发展势能转化为可量化成果
-redact/(data) redaction/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
 overlap/conflict/clash/clashes/clashed/clashing      /ˌoʊvərˈlæp/ /ˈklæʃɪŋ/       重叠 v/冲突 v/n
 access/accessible/inaccessible      /əkˈsesəb(ə)l/      访问 v/可到达的,平易近人的 adj/不可及的 adj
 deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动/停用,注销 v
 propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,同步,下发,向上传播(异常) v
-loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 (agentic engineering) Hackathon       /ˈhækəθɑːn/       智能体工程黑客
 interpret/interpretation/understand        /ɪnˈtɜːrprət/      理解,解读,解释,说明 v/n
 i've been fully swamped/occupied recently   /swɒmpt/ /ˈɒkjupaɪd/     最近忙得焦头烂额,最近一直行程排满
@@ -355,6 +349,10 @@ idempotency (key)/idempotence     /ˌaɪdəmˈpəʊtənsi/       幂等性(重�
 workflow (orchestration) simplifies complex multi‑step tasks        /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
 illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
 asynchronous/asynchronize/sync(synchronize)/synchronous     /eɪˈsɪŋkrənəs/   异步的 adj/n/同步 v/n/adj
+lineage         /ˈlɪniɪdʒ/      (数据)血缘,依赖链 n
+excessive/excessively       /ɪkˈsesɪv/       过度的,过多的 adj/过分地 adv
+set out our primary/(strategic) focus     /strəˈtiːdʒɪk/       战略(性)的 adj/阐明,明确我们首要工作重心
+cantonese       /ˌkæntəˈniːz/       广州人,广东人,粤语 n/广州的,广东的 adj
 
 
 
@@ -364,6 +362,64 @@ asynchronous/asynchronize/sync(synchronize)/synchronous     /eɪˈsɪŋkrənəs/
 
 
 
+
+
+
+
+
+
+can call?
+come on/go ahead/any time/available now
+here we go          我们开始吧
+let's get started
+free/good for a (quick) call?
+can/shall we call now?
+wanna call now?(关系熟)
+call me whenever you see it
+whenever        每当,无论什么时候
+whenever convenient/appropriate
+convenience
+
+start up/start‑up/(at) startup     /ˈstɑːt ʌp/      启动 v/新成立的,刚创办的 adj/开始,启动 n/启动时
+start out/starting      着手 v/起始的,开始的 adj
+start‑up (flow/company)      /ˈstɑːtʌp/     /启动流程/初创公司
+issues occurs when starting up the backend service
+
+walkthrough        过一遍
+we've completed the work through/have gone thru all the tickets     已经完成了walkthrough
+let's go through tickets first              我们先处理一下票务的事
+go/work/walk through/walkthrough          经历,逐条梳理,过一遍/解决/完整讲解,分步演示v/n
+walk sb through sth
+带某人逐项过一遍、逐项讲解某事
+
+narrow down (sth)       缩小范围
+narrow down digesting the catalogue     /ˈnæroʊ/ /daɪˈdʒest/
+digest      梳理、研读、消化理解
+
+work out            制定,梳理,敲定
+regroup     重新梳理,复盘 v
+i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳理我的笔记
+tidy (up)       /ˈtaɪdi/        整洁的 adj/整理 v
+prepare(put together) documentation     整理文档
+sort (out)/organize      排序,分类/整理,解决 v/整理,组织,安排
+come up with (a solution)        整理得出,输出 v
+clear/clean/cleanup/removal        /ˈklinˌʌp/      清除 v,n/清理,整理,梳理 n/移走,去掉 n
+move/remove/shift       挪动,更改/移除,删掉/移动,转移,偏移,延后
+
+hold        存储、承载
+hold/held           举行
+hold on         等一下,坚持住
+
+approximate/approximately/造句       类似,接近 v/大概的,近似的 adj/adv
+roughly/circa/around/about  /ˈrʌfli/ /ˈsɜːrkə/    粗略地,大约 adv/大约 prep/adv
+
+masking
+scrambled adj.经过扰乱脱敏；unhashed adj.未做哈希处理（明文）
+redact/(data) redaction/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
+mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
+
+be no longer supported(merely n)        不再支持/不再只是
+you will (no longer) get            不再 abv
 
 permit/permitted to         批准,许可 v/被允许,有权限
 read-only access/permissions            只读权限 n
@@ -373,9 +429,111 @@ licensed/authorised/authorized (result reference)         得到许可的/已授
 (express) license          执照,许可证 n/许可,特许 v/正式书面授权
 approving (authority)/access     /əˈθɔːrəti/         权限,权力/审批权力
 
+because
+since
+as
+due to n/since 句子(because/because of)
+everywhere adv 到处 n 每个地方
+ever since                          自从,从那时起一直到现在
+since then                                          从那以后
 
+though
+but
+however
+
+along with连同
+alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
+
+polling轮询
+polls for轮询
+stop polling停止轮询
+
+handle terminal outcome处理终态结果
+final
+
+outcome结果、结局
+outcome/result      结果,效果/结果,后果 n
+
+treat A as B把A视作B
+This diagram treats TPRM as a single service
+
+Pubsub
+Publish‑Subscribe 发布订阅
+publish and consume发布消息、消费消息
+Published
+Public
+
+feature highlight       功能亮点
+highlight           突出,强调 v
+highlighted
+please check the part(key points) highlighted in yellow     请查看标黄部分(重点内容)
+marked/highlighted part/area/section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
+
+browse/browser         /braʊz/ /ˈbraʊzə(r)/
+the root cause is there an offset on browser
+
+attribute descriptions属性/字段描述
+column
+field
+
+loop循环块
+in the first/second iteration(for loop)         循环/在第一次循环中
+loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
+
+Identification
+issue identified                            识别到的问题
+identity/identical            身份 n/完全相同 adj
+identify/identified/identification/identifier     /aɪˈdentɪfaɪə(r)/       认出,识别v/n/标识符 n
+
+
+
+so we could narrow down and digest the catalogue
+data refinery
+i think this Monday call is NOT needed if the agenda is just for data access
+we will go from there       从这里继续往下推进、基于现状继续开展后续工作
 get back on the case        重新处理此事
 only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
+your CR is almost out of time
+starve
+treasure
+Short‑lived access token短期访问令牌
+processes处理v
+Until delivered or callback retry limit reached
+terminal status终态
+client deadline客户端截止时间
+Until a terminal status is reached or client deadline is hit
+authorized token已授权令牌
+terminal outcome终态结果
+inbox/outbox收件箱、发件箱
+GET result using … 使用……获取结果
+The team discussed what structured and unstructured data is currently available
+句子成分
+uncertainty     不确定性
+There was uncertainty about whether…正式纪要高频句型：对于……存在疑问
+it could be added as a requirement if not already available
+demonstrated
+pre‑population预填充
+an existing asset organized by engagement ID
+consolidates
+it could potentially be extended
+connectivity        连通性
+access governance       访问权限治理
+raised concerns about … 对……提出顾虑
+团队达成共识
+The team acknowledged
+A vs. B
+vs？？？
+There was uncertainty about whether … 对于……存在不确定性
+
+
+
+
+
+
+
+
+
+
 
 
 

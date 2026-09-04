@@ -190,7 +190,6 @@ make your work easier, faster & more effective        让您的工作变得更�
 Please supplement any missing items       请补充遗漏内容
 let's hang over (the work) to Jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
 it's a scenario we didn't cover before/the situation wasn't covered     这情况之前未曾涉及
-mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
 left a note/remark in my calendar             在日历里添加了备注
 i am thinking (if)... though        /ðəʊ/      不过我在想.../不过,可是,然而(前面说了一个意见,现在补充/转念一想另一个角度)
 guides are available here          在此处可用,可查看
@@ -231,24 +230,19 @@ i haven't been getting any pop-up notifications lately      最近我一直没�
 the pop-up alerts haven't been showing up for me recently       最近我的弹窗提醒一直不显示
 assessed dependency checks      评估依赖项检查
 is wired to         被配置为,被设置为
-(whether) sth references xxx directly       sth是否直接引用
-this change is specific to sth      本次变更针对sth
+(whether) A references B directly       A是否直接引用B
+the change is specific to sth      本次变更针对sth
 to help you try them out        方便您上手试用,供您实操体验
-ready-to-use utilities      开箱即用工具,立即可用工具集
-please keep an eye on your inbox for this communication     请留意收件箱查收该通知
 separate assignment communication       单独下发的分配通知,专项告知邮件
 customer-led value      以客户为中心的价值
-scaling ai responsibly      负责任地推进ai规模化
-scale with stronger control     在更强管控下实现规模化
-including common how-to topics      包含常见实操指引类主题,各类通用操作指南
+including common how-to topics      包含常见操作指南
 be carried out      被执行,实施
-set out our primary/strategic focus       阐明,明确我们首要工作重心
 can you elaborate more?     你能再详细说明一下吗
 if i recall correctly/or i remember it wrong       如果我没记错的话/或我记错了
 sth is in use       正在使用中
 ai-generated content might be inaccurate or misleading      ai生成的可能存在不准确或误导性
-i was updating Jack on this info         刚刚正在做的动作/刚才正在向杰克更新这些信息
-it was not an issue previously      此前并无异常,之前没有出现过这个问题
+i was updating Jack on the info         刚刚正在做的动作/刚才正在向杰克更新这些信息
+it wasn't an issue previously      此前并无异常,之前没有出现过这个问题
 you are one of the approvers        审批人之一
 (you are super) efficient/inefficient        高效的/低效的 adj/你效率超高
 headphone/are you wearing headphones/do you have headphones on?      你戴着耳机吗/你戴耳机了吗？
@@ -297,7 +291,6 @@ don't get me wrong          别误会
 no worries at all       完全不用担心
 not to blame anyone     不是要追究谁的责任
 the issue might be (more complicated)/(a bit complicated)       这问题可能有点复杂/更复杂
-please check the part(key points) highlighted in yellow     请查看标黄部分(重点内容)
 we utilize asynchronous tasks to improve performance        我们利用异步任务来提升性能
 associated guidance/the comment associated with the Agent       相关指引,配套说明
 if the system encounters/experiences/suffers performance issues     如果系统遇到性能问题
@@ -311,7 +304,6 @@ re‑engage the team      重新对接团队
 this should (give a good indication) of what payload to send and what you receive     很好说明了。。。
 Not this time       这次不行,这回就算了
 automate devops process        使自动化 v
-please keep pressing CA team for sth, as it has been out of service for two years now       请继续向CA团队施压,推动此事
 not yet, for now we are using sth       还没有,目前我们正在用sth
 Work is (mainly on the checking of) true value of those metrics     主要集中在
 that's one moving piece     这只是其中一项变动因素
@@ -322,7 +314,6 @@ i'm likely to overrun the current meeting       超出,超过 v/这会议大概�
 in one's free/spare time        在某人的空闲时间
 sell ideas to sb        向某人推销,推广方案
 it will not be that easy for us to do sth        对我们来说,做这事没那么容易
-please keep researching how & where we could host one       继续研究我们如何 & 在哪里可以举办一次
 touch‑wood(can make it a back-up for (touch‑wood) next time)       老天保佑,希望别出问题
 specially creating an online doc to list all BAU issues we have identified      专门建了个文档,列出发现的所有BAU issue
 challenge that they are not thinking enough and not considering the full scope      质疑他们思考不够,没有覆盖完整范围
@@ -337,10 +328,7 @@ available options will be listed here       可用选项将列于此
 the deployment must be blocked until remediation is completed       完成修复前,部署被阻塞
 hi there                       嗨,你好
 As it's been agreed by Jack       强调这件事已经被同意了
-you will (no longer) get            不再 abv
-be no longer supported(merely n)        不再支持/不再只是
 specifics to be detailed        细节待补充
-in the first/second iteration(for loop)         循环/在第一次循环中
 iterate through the list & collect their name              遍历列表并收集name
 there's no best/perfect approach/solution, only the most suitable/appropriate one       没有完美的解决方案,只有最适合的解决方案
 (so can i interpret/understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？

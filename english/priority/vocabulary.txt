@@ -33,7 +33,6 @@ apply straight away     直接落地,立刻投入使用 v
 implement           落地,部署 n/实现 v
 language        专业术语 n
 fit         适合,合身,匹配 n
-issue identified                            识别到的问题
 round/can we ask Jack to perform the final round of check (on this)     一轮,一遍 n/我们可以请Jack做最后一轮检查吗
 shortly                             不久,很快 adv
 comment     评估 v
@@ -68,7 +67,6 @@ open(to do) item                   待处理事项 n
 work together           协同配合
 draft                                   起草,草拟 v/草稿 n
 rolling restart     滚动重启 n
-highlight           突出,强调 v
 (improving) context/contextual      /kənˈtekstʃuəl/     优化上下文/场景相关的,上下文的 adj
 disconnected            割裂的,零散的 adj
 session         课程场次,会议 n
@@ -118,7 +116,6 @@ count           计数 v
 collect     收集 v
 frequent/frequently(often)          经常地,频繁地 adj/adv
 anyway          总之,反正
-hold on            等一下,坚持住
 multimodal model     多模态(模型)
 significant/significantly       显著地,大幅度地,重要地 adj/adv
 mix (a with b)             混合 v/n/把a和b混合
@@ -138,11 +135,9 @@ at speed                高速度地 adv
 in public preview       公开预览阶段
 subject to change       后续可能调整,可能变更,视情况调整
 premium     高级的,增值的 adj
-source of truth     最终依据,可信数据源
 directory       文件夹,目录 n
 ruleset        规则集 n
 administrator       管理人 n
-feature highlight       功能亮点
 key area for changes        变更核心范围
 secure-by-design    安全设计优先的 adj
 serve (as)       服务 v/n/充当,作为
@@ -181,7 +176,6 @@ challenge                       质问,质疑,挑战 v/n
 intelligent/actionable (intelligence) platform     聪明的,智能的 adj/智力,智能 n/可落地智能平台
 analyze/analytics                       分析 v/n
 exit properly       正常退出,正确关闭
-work out            制定,梳理,敲定
 absent                      缺勤的,缺席的 adj
 (harsh) complaint/complaints n          (激烈)抱怨
 fluctuation             波动 n
@@ -210,7 +204,6 @@ leave/left/leaving (a comment)             留下评论/离开 v/假期 n
 hiccup     打嗝,临时小故障,突发小问题 n
 maker‑checker mechanism     编制复核机制
 4‑eyes checking     四眼复核,双人审核
-regroup     重新梳理,复盘 v
 retire      退休,下线,停用 v
 map/maps/mapped/mapping         地图,映射,分布图 n/映射 v
 control         控制 v/管控 n
@@ -258,6 +251,9 @@ callback (url/endpoint)        回调 n/回调地址
 (integration) pattern     模式,方式,样式 n/集成模式
 outsourcing determination       外包,外购 n/外包判定
 (asynchronous) processing/process (flows)      流程，程序,处理 n/异步处理/处理流程和需求
+ready-to-use (utilities)      随时可用的 adj/开箱即用工具,立即可用工具集
+source (the data)/resource          获得 v/来源/资源 n/获取数据
+single (source of truth)      单一的，单个的 adj/唯一可信数据源(SSOT)
 
 
 

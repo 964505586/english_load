@@ -22,7 +22,6 @@ atmosphere                              气氛,情调,感染力,大气层
 attack                                  攻击 v
 audience                                观众,听众 n
 automatic/automatically             自动的 adj/adv
-avoid                                   避免 v
 backward/backwards                      向后的 adj/adv
 bad luck                                        厄运
 bad/worse/worst                             坏的/更坏的/最坏的
@@ -49,7 +48,6 @@ but
 but for n                   要不是,如果没有
 by...                           截止到...
 calendar            日历
-cantonese                   广州人,广东人,广东话,粤语 n        广州的,广东的 adj
 career 事业
 careful/carefully               小心地
 catch/caught
@@ -122,12 +120,8 @@ energy                      精力
 enjoyable                           令人愉快的 adj
 envy                        羡慕 v/n
 escape                              逃跑 v/n
-ever since                          自从,从那时起一直到现在
-everywhere adv 到处 n 每个地方
 evidence            证明 n/v      证据 n
 exactly 精确地,完全地
-excessive                           过度的,过多的 adj
-excessively                         过分地 adv
 exclaim                v 大声说
 excuse                  借口 n        no excuse 没有借口
 exercise 运动,锻炼
@@ -192,7 +186,6 @@ here & there 到处
 hesitate/hesitation            犹豫 v/n
 high-class                                      高级的 adj
 highly                          极其,钦佩地,赞赏地,高度地,高水平地,非常
-hold/held 举行
 holiday                     假日 n                度假 v
 horizon                     眼界
 housing fund                        住房公积金
@@ -221,9 +214,6 @@ invite 邀请
 jam             堵塞,拥挤 n             塞满,挤满 v
 joke                                笑话
 joy/rejoice                 欢欣,高兴 n/感到高兴,感到欣喜 v
-keep fighting                           继续战斗
-keep on                                 热衷于
-keep quiet
 kind-hearted                            好心的 adj
 knowledgeable               知识渊博 adj
 lack                        缺乏 n/v

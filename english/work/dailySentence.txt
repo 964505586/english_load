@@ -47,7 +47,6 @@ it's the only way to ensure the safety      这是确保安全的唯一办法
 it's time to take a break       是时候休息一下了
 (it's) up to you            取决于你,由你决定
 Jack is coming                                      sb要来了
-jenkins keeps failing, so i'm thinking of trying to create a new pr     老是失败,我在想试着创建一个新的pr
 just saw                            刚看到
 let's call it a day                 今天就到此为止
 let's catch up later
@@ -81,7 +80,6 @@ nothing (particularly) important                      没什么特别重要的�
 if they were removed due to the status              如果它们是因状态而被移除
 do you know how to get the actual sql that was executed in es for this piece of java code?
 why does this happen?                 为什么会出现这个问题？
-the root cause is there an offset on browser
 we read data in batches                         我们分批读取数据
 this api supports bulk requests                 这api支持批量请求
 at least not tonight                至少不是今晚
