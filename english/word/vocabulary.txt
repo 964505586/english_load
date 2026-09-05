@@ -120,7 +120,7 @@ energy                      精力
 enjoyable                           令人愉快的 adj
 envy                        羡慕 v/n
 escape                              逃跑 v/n
-evidence            证明 n/v      证据 n
+evidence            证明 n/v
 exactly 精确地,完全地
 exclaim                v 大声说
 excuse                  借口 n        no excuse 没有借口
@@ -389,23 +389,21 @@ warm/warmly        (使)温暖,(使)变暖和 v/adj/热情地,温暖地,亲切�
 waste                n/v 浪费            n 废物
 wealth                      财富 n
 wedding                             婚礼 n
-which one                                   哪一个
-wholehearted/wholeheartedly                 全心全意地 adj/adv
-within                                      在...之内
-within 1 hour                               1小时内
-work on                                     从事,致力于
-work overtime                               加班
-workplace                                   办公室,工厂
-worry-free                                  无忧无虑的 adj
-worth                                       值得的 adj/价值 n
-worthy                                      值得尊敬的 adj
-wrong                                       错误的 adj/adv
-years ago                                   多年前
-u two                                         你俩
-youth                                       青春 n
-convince                                    使确信,使信服 v
-virtual                                     虚拟的 adj
-specialized                                 专业的 adj
+which one                       哪一个
+wholehearted/wholeheartedly     全心全意地 adj/adv
+within                          在...之内
+within 1 hour                   1小时内
+work on                         从事,致力于
+work overtime                   加班
+workplace                       办公室,工厂
+worry-free                      无忧无虑的 adj
+worth                           值得的 adj/价值 n
+worthy                          值得尊敬的 adj
+years ago                       多年前
+youth                           青春 n
+convince                        使确信,使信服 v
+virtual                         虚拟的 adj
+specialized                     专业的 adj
 tasty/yummy/delicious                   美味的
 on earth                究竟,到底(疑问句)
 all in all          总而言之
@@ -418,6 +416,8 @@ and then                    于是,然后
 (can't) stand (for)           忍受 v/无法忍受/代表
 if so/not/possible/necessary        如果这样,不是,可能,必要
 false_positive/negative      误报/漏报
+treasure        珍爱，珍藏 v/珠宝，财富 n
+starve      /stɑːrv/        (使)挨饿，饿死 v
 
 
 

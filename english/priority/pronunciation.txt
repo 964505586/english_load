@@ -189,7 +189,6 @@ excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量api�
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
 compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协,折中 v/危及安全
 abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/异常,反常 n
-proceed (subsequent/follow-up/next) steps/actions   /ˈsʌbsɪkwənt/   随后的,接着的 adj/后续的 adj/后续行动
 declarative/imperative coding     /dɪˈklærətɪv/ /ɪmˈperətɪv/     声明式的,陈述的/命令的,必要的 adj
 malformed (date)       /ˌmælˈfɔːrmd/       畸形的 adj
 (extra) workload/capacity(depends on their current n)    /kəˈpæsəti/     工作量,工作负荷/产能,精力,时间 n/取决于他们当前的
@@ -258,7 +257,6 @@ seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感�
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 Azure       /ˈæʒər/
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提供,供应 v/配置 n
-fill in/populate/enter      /fɪl ɪn/ /ˈentər/       填写/填充/进入,输入 v/回车键 n
 on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
 (secret/dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n/密钥,依赖解析
 (contract) hierarchy/level      /ˈhaɪərɑːrki/      层级 n/合同层级
@@ -343,7 +341,6 @@ lineage         /ˈlɪniɪdʒ/      (数据)血缘,依赖链 n
 excessive/excessively       /ɪkˈsesɪv/       过度的,过多的 adj/过分地 adv
 set out our primary/(strategic) focus     /strəˈtiːdʒɪk/       战略(性)的 adj/阐明,明确我们首要工作重心
 cantonese       /ˌkæntəˈniːz/       广州人,广东人,粤语 n/广州的,广东的 adj
-narrow down (sth)/       /ˈnæroʊ/       缩小范围
 intent/purpose/destination/target/goal/intend      /ɪnˈtent/     意图,目的 n/有意,打算 v/.../打算,想要 v
 intend/(if) intended/intentionally/plan/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的 adj/adv/如果是有意,故意/意图,目的 n
 It (polls for) job completion status/(stop) polling     /poʊl/       轮询/停止轮询
@@ -353,34 +350,9 @@ loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb
 (live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
 certain/certainly/certainty/uncertainty     /ˈsɜːrt(ə)nti/      必然的,确定的 adj/adv/确定性 n/不确定性
 any concern based on ur expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
+we could (narrow down) & digest the catalogue       /ˈnæroʊ/       缩小范围
+fill in/populate/enter/pre‑population   /fɪl ɪn/ /ˈentər/   填写/填充/进入,输入 v/回车键/预填充 n
 
-
-
-
-
-
-
-
-so we could narrow down & digest the catalogue
-data refinery
-i think the Monday call is NOT needed if the agenda is just for data access
-we will go from there       从这里继续往下推进、基于现状继续开展后续工作
-get back on the case        重新处理此事
-only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
-ur CR is almost out of time
-starve
-treasure
-processes       处理 v
-Until delivered or callback retry limit reached
-client deadline     客户端截止时间
-Until a terminal status is reached or client deadline is hit
-There was uncertainty about whether...      对于sth存在疑问
-it could be added as a requirement if not already available
-pre‑population      预填充
-an existing asset organized by engagement ID
-consolidates
-it could potentially be extended
-There was uncertainty about whether     对于sth存在不确定性
 
 
 

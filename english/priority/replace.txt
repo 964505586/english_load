@@ -44,7 +44,7 @@ i'll reboot/restart it. it's freezing badly(super laggy /ˈlæɡi/)        重�
 mention/say            提到,谈到 v
 lead/led to n(cause)                           导致
 perhaps/maybe
-mistake/incorrect(wrong)
+mistake/incorrect(wrong)        错误的 adj/adv
 on/when/while/during            同时,然而,当...时候
 really/pretty/quite/super   (very/so)
 faced/reported/raised/encountered
@@ -111,7 +111,6 @@ good/great/excellent/thoughtful point/question        好问题
 tap/click/press               点(手机/鼠标/键盘)
 cluster/grid/list            集群/表格,算力网格/列表 n
 as per/according to/based on/as for (me)        按照/根据/基于n/至于/对我来说
-due (date/soon)/deadline/overdue        到期的/即将到期/截止日期/逾期的 adj
 (in) fact/to be honest/frank(actually) (with sb)      事实 n/事实上
 college/colleague            大学/同事
 go/come        去/来
@@ -156,7 +155,6 @@ cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
 be due to/caused by       归因于,由...导致/由...引起
 consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
 (problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
-inherit/extend/expand          继承/扩展(接口),继承(类)/扩展 v
 discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 explore/exploration/discover             探索,研究,排查 v/n
 i (just) saw/noticed that     刚注意到
@@ -173,7 +171,6 @@ align/alignment/misalignment/consistent        对齐 v/n
 detect/identify/check     探测,检测(脚本自动查)/认出,识别,定位/检查 v
 conclude/conclusion/summary                 得出结论,敲定,结束 v/结论 n/总结,概要 n/adj
 the current conclusion/data discrepancy conclusion         目前的结论,现阶段结论/数据差异结论
-merge/combine/integrate/consolidate
 rate/traffic        流量,速率,速度,比率 n/交通,流量 n
 enterprise/corporation/company/accompany       企业,事业单位 n/大企业,集团 n/公司,陪伴 n/伴随,附带 v
 it/system/program throw/threw failure error/exception       抛出错误/异常
@@ -200,7 +197,6 @@ plan/intend/would like to           打算,想要/计划 v
 self-service/introduction/check link or tools       自助服务/自我介绍/自查链接,工具
 Our effort (flows away)/effort will go to waste       流走,白白流失,付诸东流 v/投入付诸东流
 supply/offer/provide        供应,提供 v/供应 n
-possess/process/flow         拥有/处理 v/过程,程序,进程/流 n
 0 case (fell/fall into) batch running last night/land in    /lænd ɪn/      落入,陷入/归属到,落入 v/0个case进入batch
 confirm with/reach out to Jack to get       找sb做某事
 what's it/this (ticket) for/what's purpose for the ticket        这是干嘛的
@@ -243,7 +239,7 @@ reuse/recycle         再次使用,重复使用/回收利用 v/n
 lean/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 (data) foundation/foundational (code/branch)    基础的,基本的 n/adj/数据基础/底层代码/基础分支
 if(as) so/desired/necessary/needed           如果这样/需要/必要/根据需要
-reject/refuse/decline/declined          拒绝,驳回/拒绝/婉拒、礼貌谢绝 v
+reject/refuse/decline/declined          拒绝,驳回/拒绝/婉拒,礼貌谢绝 v
 always/constantly        xxx/总是,经常地,不断地
 graph/(sequence) diagram        图表,曲线图/图表,图解 n(结构,逻辑,流程)/时序图,顺序图 n
 (either)...or.../neither...nor...          要么...要么...(两者中的一个/两者都不)
@@ -251,12 +247,17 @@ ownership (model)/accountability        权责归属,权责人 n/权责归属模
 avoid/prevent/in case 句子/to avoid n       避免/阻止 v/以防...
 however/but/(therefore)/so n,句子/hence n/hence,句子     因此,所以 adv
 with/along with/alongside       /əˌlɒŋˈsaɪd/        连同,附带 prep
-published/public/publish & consume   已发布的/公众的,大众的,公共的 adj/发布消息、消费消息
+published/public/publish & consume   已发布的/公众的,大众的,公共的 adj/发布消息,消费消息
 outcome/result      结果,效果/结果,后果 n
 terminate/terminal (status/outcome)/final      终止 v/终端 adj/n/终态(结果)
 ever since/since then      自从,从那时起一直到现在/从那以后
 as/since/bcos/since 句子/bcos of/due to n
 in the first/second iteration(for loop)         循环/在第一次循环中
+possess/process (flow)/(asynchronous) processing   拥有/处理 v/流程,处理,程序,进程/流 n/处理流程/异步处理
+automate (devops process)        使自动化 v
+merge/combine/integrate/consolidate     合并/集成 v
+due (date/soon)/(client) deadline/overdue   到期的/到期日期/即将到期/截止日期/客户端截止时间/逾期的 adj
+inherit/expand/it could potentially be (extended)       继承/扩展/扩展,继承 v/有扩展的潜力
 
 
 

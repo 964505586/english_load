@@ -248,7 +248,6 @@ pilot(proof of Concept)        试点的 adj/试点 n/概念验证
 callback (url/endpoint)        回调 n/回调地址
 (integration) pattern     模式,方式,样式 n/集成模式
 outsourcing determination       外包,外购 n/外包判定
-(asynchronous) processing/process (flows)      流程,程序,处理 n/异步处理/处理流程和需求
 ready-to-use (utilities)      随时可用的 adj/开箱即用工具,立即可用工具集
 source (the data)/resource          获得 v/来源/资源 n/获取数据
 single (source of truth)      单一的,单个的 adj/唯一可信数据源(SSOT)
