@@ -326,12 +326,6 @@ mandatory               强制的 adj(法律,公司政策,行业标准要求)
 compulsory/compulsively     /kəmˈpʌlsəri/       强制性的 adj/adv(内部规则,规章制度要求)
 force (upon)/forcible/forcibly      暴力 n/强行,强迫,强制地 v/adj/adv/强加 v(物理力量,暴力手段)
 
-whoever/whomever         无论谁,不管是谁 anyone who/whom
-whatever        无论什么,不管什么
-whichever       无论哪一个
-wherever        无论哪里,不管在哪
-whenever        每当,无论什么时候
-
 (did) u know(are u aware of) that       你知道这件事吗？
 i know about this           我知道这件事
 i'm(we are) aware of this           我 已知晓/了解这件事
@@ -441,7 +435,7 @@ good learning experience
 learned a useful trick
 that's useful, learned something new
 
-at late(the end of) Sep and early(the start of) Oct
+at late(the end of) Sep & early(the start of) Oct
 early June(next/this week)       在 月初/月末
 
 to (ensure) no communication gap     确保,保证 v
@@ -526,9 +520,9 @@ business (continuity) plans       /ˌkɑːntɪˈnuːəti/       连续性,连贯
 continued/continually        持续的,频繁的 adv/连续不断地,不间断的 adv
 continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
 
-u can start on this first and work on that one afterwards      先做这一项,之后再做那项
+u can start on this first & work on that one afterwards      先做这一项,之后再做那项
 u may prioritize other ticket for now/may work on other tickets first         可以优先做其他ticket
-which one should i prioritize and work on first?        我应该先做哪一个
+which one should i prioritize & work on first?        我应该先做哪一个
 which one has the highest priority      哪一项优先级最高
 
 keep (on)/remain (hidden)     一直,老是,保持/热衷于 v/保持隐藏
@@ -575,6 +569,52 @@ come up with (a solution)        整理得出,输出 v
 
 approximate/approximately (10 minutes)       类似,接近 v/大概的,近似的 adj/adv
 roughly/circa/around/about  /ˈrʌfli/ /ˈsɜːrkə/    粗略地,大约 adv/大约 prep/adv
+
+scrambled (data)      /ˈskræmbld/      被打乱,搅乱的
+plaintext (password)/unhashed/hardcode      /pleɪnˈtekst/      明文 n/未做哈希处理 adj/硬编码 v
+redact/(data) redaction/mask/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
+mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
+
+u will (no longer) get            不再 abv
+the legacy API (is no longer supported)      旧版API不再提供支持
+It (is no longer merely) a technical issue      不再仅仅只是一个性能问题
+
+govern/governed/governing/(access) governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统治,支配,控制 v/adj/治理/权限治理
+read-only access/Short‑lived access token            只读权限 n/短期访问令牌
+access application process/user access review      权限申请流程/用户访问权限审核
+approving (authority)/access/permission/privilege     /əˈθɔːrəti/         权限,权力 n/访问 v/审批权限
+accessible/inaccessible      /əkˈsesəb(ə)l/      可到达的,平易近人的 adj/不可及的 adj
+grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
+yesterday i basically finished the access request           昨天我基本上完成了权限请求
+some access/permissions may/usually take some time to activate/propagate(go live)   一些权限通常需要一段时间方可生效
+authenticate/authentication(auth)         认证 v/n
+authorize(authorise)/authorization       授权,批准 v/n
+licensed/authorised/authorized token(result reference)         得到许可的/已授权的 adj/已授权令牌,结果引用
+permit/permitted to         批准,许可 v/n/被允许,有权限
+(express) license          执照,许可证 n/许可,特许 v/正式书面授权
+
+treat       /triːt/     对待,治疗 v
+the error shouldn't be treated as a critical risk
+treat A as B(a joke)        把A视作B/把sth当作笑话
+treat sb like sb/sth        把sb当作sb/sth对待
+treat sb to sth             用sth款待某人
+
+whoever/whomever         无论谁,不管是谁 anyone who/whom
+whatever        无论什么,不管什么
+whichever       无论哪一个
+wherever        无论哪里,不管在哪
+whenever        每当,无论什么时候
+everywhere      到处 adv/每个地方 n
+
+(feature) highlight/highlighted       突出,强调 v/功能亮点
+plz check the part(key points) highlighted in yellow     查看标黄部分
+(marked/highlighted) part/area/section/paragraph        部分/区域,块/部分,章节,大段/那一个自然段
+
+identity/identify       身份 n/认出,识别 v
+(issue) identified      被识别的 adj/识别到的问题
+identifier     /aɪˈdentɪfaɪə(r)/       标识符 n
+identical        完全相同 adj
+identification      识别,确认 n
 
 
 

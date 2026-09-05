@@ -18,7 +18,6 @@ percent/percentage          百分之... n/adj/adv/百分比,百分率 n
 balance exercise            平衡考量,折中方案 n
 i will be off/away/on leave next week           下周我将请假
 proceed with(carry on) sign-off/production release            继续做,接着推进 v
-a row/column filter         行/列 筛选器
 monitored/an external monitor       受监控的 adj/外接显示器 n
 commit to/promise(make a promise)      承诺 v
 please/kindly
@@ -86,7 +85,6 @@ violate/violation/break/breach/breaching        违反,违背,触犯 v/违规 n/
 (best/security) practice/exercise    练习 v/实践,实际操作 n/练习 v/运动,锻炼 v/n/最佳实践/安全规范,实践
 (in) peak (traffic)/rush hours      巅峰状态的,最高的 adj/在高峰期
 near/nearing/nearby                    近的,在附近 adj/接近 n/附近的 adj/在附近 adv
-newly added/created columns             新增的列
 (any) context/background        上下文,背景 n
 urgency/urgent/urgently     紧急,迫切,紧迫感,紧迫性,紧急性 n/紧急的,急切的 adj
 believe/trust/trusty/trustworthy/truth         相信 v/信任 v/n/可信的,值得信赖的 adj/真相 n
@@ -235,8 +233,6 @@ solve/(partially) resolved/address/get sorted            解决/已决议的 adj
 indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
 Day Zero/One/Two        上线首日/上线后第1天/稳态运行阶段
 what do u want to do (on earth)       你想干嘛/你到底想要什么
-some access/permissions may/usually take some time to activate/propagate(go live)   一些权限通常需要一段时间方可生效
-however/but/(therefore)/so n,句子/hence n     因此,所以 adv
 backup/back-up/replica/alternative/workaround      备份 n/adj/副本 n/可替代的,备选的 adj/临时变通方案,权宜之计
 underway/in progress/ongoing/pending/TBD         进行中的/持续存在的,仍在进行的/待定的,待处理的 adj
 the change involves lots of underlying/low-level/foundation code            这改动涉及大量 底层代码
@@ -254,6 +250,15 @@ graph/(sequence) diagram        图表,曲线图/图表,图解 n(结构,逻辑,�
 (either)...or.../neither...nor...          要么...要么...(两者中的一个/两者都不)
 ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 avoid/prevent/in case 句子/to avoid n       避免/阻止 v/以防...
+however/but/(therefore)/so n,句子/hence n/hence,句子     因此,所以 adv
+with/along with/alongside       /əˌlɒŋˈsaɪd/        连同,附带 prep
+published/public/publish & consume   已发布的/公众的,大众的,公共的 adj/发布消息、消费消息
+outcome/result      结果,效果/结果,后果 n
+terminate/terminal (status/outcome)/final      终止 v/终端 adj/n/终态(结果)
+ever since/since then      自从,从那时起一直到现在/从那以后
+as/since/because/since 句子/because of/due to n
+in the first/second iteration(for loop)         循环/在第一次循环中
+
 
 
 

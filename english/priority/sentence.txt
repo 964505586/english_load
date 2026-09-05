@@ -45,7 +45,6 @@ maybe things will change later              也许以后情况会变
 no problem at all                           完全没问题
 let's pause(hold on) here. for the introduction & process i mentioned previously. any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
 why/how did u navigate to(land on) that page?         您是如何访问(到达)那个页面的？
-these two fields are reversed                这两个字段的值颠倒了
 data(email) attached for your reference                 附上邮件供您参考
 how/why/what is it?              怎么样/为什么/这是什么
 this is just/simply my personal perspective            这仅仅是我个人的看法
@@ -243,16 +242,15 @@ sth is in use       正在使用中
 ai-generated content might be inaccurate or misleading      ai生成的可能存在不准确或误导性
 i was updating Jack on the info         刚刚正在做的动作/刚才正在向杰克更新这些信息
 it wasn't an issue previously      此前并无异常,之前没有出现过这个问题
-u are one of the approvers        审批人之一
+u are one of the approvers        你是审批人之一
 (u are super) efficient/inefficient        高效的/低效的 adj/你效率超高
 headphone/are u wearing headphones/do u have headphones on?      你戴着耳机吗/你戴耳机了吗？
 it just occurred to me (that)     突然想到
 just noticed/realized the guide is two pages long, not just one    突然意识到/才注意到这guide有两页,而不是一页
 what does "vip" stand for/it stands for sth         vip代表什么?/它代表sth
 there's nothing i can do (if nexus issue)        我无能为力
-another question we have        我们还有另一个问题
+another question I have        我们还有另一个问题
 (that's) (good) enough   足够的 adj/adv/够了/这已经足够好了
-buy time for sth        争取时间,拖延时间
 plz document the intent/purpose    请记录下 意图/目的
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
 silently (returns)      默默地,静静地 adv/静默返回(无报错)
@@ -280,7 +278,7 @@ is there anyone else (whom) you'd like (to have) on next Wednesday's sessions   
 i'll ask for the call to be moved forward to better suit your timezone     将会议往前调整,以便更好适配你们的时区
 the call to be moved forward in order to help with the timezone differences     缓解时区差异问题
 therefore what we do need to build (for the phase)      因此,我们需要做什么
-the best slot i could pick based on availability and time zones     基于各方的时间与时区,选出的最佳会议时间段
+the best slot i could pick based on availability & time zones     基于各方的时间与时区,选出的最佳会议时间段
 without it being a cast of thousands(involving too many stakeholders)       不必牵扯一大堆人(相关方)
 i believe it's worth a go       我认为这值得一试
 the API rate limit has been exceeded        API请求速率限制已超出
@@ -301,7 +299,7 @@ will get/have a head‑start(early advantage)       将会占据先机
 give u the green/red light        给某人开绿灯,批准/否决,叫停
 scared me       吓我
 re‑engage the team      重新对接团队
-this should (give a good indication) of what payload to send and what u receive     很好说明了。。。
+this should (give a good indication) of what payload to send & what u receive     很好说明了。。。
 Not this time       这次不行,这回就算了
 automate devops process        使自动化 v
 not yet, for now we are using sth       还没有,目前我们正在用sth
@@ -316,7 +314,7 @@ sell ideas to sb        向某人推销,推广方案
 it will not be that easy for us to do sth        对我们来说,做这事没那么容易
 touch‑wood(can make it a back-up for (touch‑wood) next time)       老天保佑,希望别出问题
 specially creating an online doc to list all BAU issues we have identified      专门建了个文档,列出发现的所有BAU issue
-challenge that they are not thinking enough and not considering the full scope      质疑他们思考不够,没有覆盖完整范围
+challenge that they are not thinking enough & not considering the full scope      质疑他们思考不够,没有覆盖完整范围
 could u plz help guide new joiners through the onboarding process     帮忙带下新人
 would u mind doing(having a look at the issue)       可否麻烦你看一下这个问题
 work with Jack together on SAS      和sb协同工作
@@ -348,12 +346,17 @@ list/enumerate all the data we required     列出所需的所有数据
 not yet, still loading/it's coming (Can u see my screen)
 Jack has spent weeks making the document       花了好几周时间来做这份文档
 2xx acknowledgement is the happy path       返回2xx响应确认代表正常流程
-a timeout or non‑2xx response is the unhappy path and (triggers bounded retries) with the same id     触发重试
+a timeout or non‑2xx response is the unhappy path & (triggers bounded retries) with the same id     触发重试
 introduces a streamlined (interface)/UI      接口,界面 n/引入更简洁,流线型的界面
 i might be (just) over-worried/overthinking     过度担忧的/想太多,多虑 adj/可能是我想多了,或许是我多虑了
 that's it(to say)           就这样/那就是说
 this is to notify/illustrate that ...            特此通知 .../本文旨在说明
 try to address all possible issues (that don't require attention)      解决,处理 v/尽可能修复全部漏洞/需要/无需 重点关注
+just as(like) we thought     正如我们所想的
+don't be sad        别难过,不要伤心
+We need to (buy time for) the migration/the workaround can buy us some time      争取,拖延时间
+these two fields are reversed                这两个字段的值颠倒了
+the column hasn't been added yet                这一列还没被加上
 
 
 

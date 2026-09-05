@@ -81,7 +81,6 @@ flood       泛滥 n
 trigger     触发(器) v/n
 natural person              自然人 n
 distribute/distribution/distributed locks          分发,分配 v/n    分布式锁 n
-terminate/terminal      终止 v    终端 adj/n
 terms of reference      职权范围 n
 federated       联邦的 adj
 data ingestion          数据接入,摄取 n
@@ -233,7 +232,6 @@ playwright      /ˈpleɪraɪt/      ui自动化测试工具
 (build/bake) image (generation)       镜像,形象,印象,图像 n/构建镜像/镜像生成
 first of all        首先 adv
 (environment) variable            易变的,多变的 adj/可变性,可变因素 n/环境变量
-access application process/user access review      权限申请流程/用户访问权限审核
 url/uri         https://nexus.com(/repository/download)
 suspect/suspected/suspicious         怀疑 v/有嫌疑的,涉嫌的,疑似的/可疑的 adj
 go live/go‑live                 上线 v/adj/n
@@ -250,11 +248,12 @@ pilot(proof of Concept)        试点的 adj/试点 n/概念验证
 callback (url/endpoint)        回调 n/回调地址
 (integration) pattern     模式,方式,样式 n/集成模式
 outsourcing determination       外包,外购 n/外包判定
-(asynchronous) processing/process (flows)      流程，程序,处理 n/异步处理/处理流程和需求
+(asynchronous) processing/process (flows)      流程,程序,处理 n/异步处理/处理流程和需求
 ready-to-use (utilities)      随时可用的 adj/开箱即用工具,立即可用工具集
 source (the data)/resource          获得 v/来源/资源 n/获取数据
-single (source of truth)      单一的，单个的 adj/唯一可信数据源(SSOT)
+single (source of truth)      单一的,单个的 adj/唯一可信数据源(SSOT)
 hold (on)/held         举行,保存/等一下,坚持住
+a set of column/row(column) filter        一组列/行,列筛选器
 
 
 

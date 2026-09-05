@@ -19,9 +19,9 @@ it's okay/nothing                                           没关系,没什么
 感谢
 (Many/Great) thanks (a ton/million)       非常感谢
 i have no words to thank you        我不知道该怎么感谢你
-truly/really appreciate your time and valuable input    谢谢你抽出时间
+truly/really appreciate your time & valuable input    谢谢你抽出时间
 your help really made a difference                    你的帮助真的很重要
-thanks for your (dedicated) support and cooperation     感谢你的支持与配合
+thanks for your (dedicated) support & cooperation     感谢你的支持与配合
 how thoughtful of you!                                  你想得真周到
 thank you for everything                                感谢你所做的一切
 thanks for your hard work                               感谢你的辛勤工作
@@ -61,21 +61,6 @@ i'm (so) sorry to hear that             听到这个我很 遗憾/难过
 i'm sorry to have kept you waiting          对不起,让你久等了
 sorry for being late            对不起,我迟到了
 
-安慰
-cheer up            振作点
-take your time              慢慢来,不着急
-no rush/hurry/worries
-take it easy            别紧张,放轻松
-it's fine/okay
-don't worry (about sb/sth)          别担心sb/sth
-nothing serious         不要紧,不严重
-it doesn't matter (so much)         没关系/没那么重要,关系不大
-you did your best, that's enough            你已经尽力了,这就够了
-it's not the end of the world                   又不是世界末日
-everything will be fine/okay (in the end)           最终一切都会好起来的
-everything will be all right in the end
-everything will be better, take care of yourself
-
 肯定
 indeed      的确,确实 adv
 ideally, yes                理想情况下是的
@@ -108,12 +93,25 @@ fine/noted/understood
 i see/got it/will do
 all right/clear
 
-
 sorry, what did you say?                                    你说什么
 sorry, could you please speak more slowly/loudly            请你说慢一点好吗
 would you please repeat that?                               您能再说一遍吗？
 can you say it again?                                       你能再说一遍吗？
 could you repeat that, please?                 你能重复一下问题吗?
+
+安慰
+cheer up            振作点
+no rush/hurry/worries (at all)
+take it easy/take your time            别紧张,放轻松/慢慢来,不着急
+it's fine/okay
+don't worry about n          别担心
+nothing serious         不要紧,不严重
+it doesn't matter (so much)         没关系/没那么重要,关系不大
+you did your best, that's enough            你已经尽力了,这就够了
+it's not the end of the world                   又不是世界末日
+everything will be fine/okay (in the end)           最终一切都会好起来的
+everything will be all right in the end
+everything will be better, take care of yourself
 
 
 

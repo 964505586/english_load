@@ -29,7 +29,7 @@ BR                  Best Regards
 DoR             Definition of Ready 就绪准入标准
 SIC             Standard Industrial Classification 标准行业分类
 RP              Reference Point 参考点
-Q&A             Questions and Answers 问答环节
+Q&A             Questions & Answers 问答环节
 DevOps          Development Operations 开发运维一体化
 FAQ/FAQs        Frequently asked questions      常见问题解答
 TL;DR               Too Long; Didn't Read 一句话总结,摘要
@@ -60,6 +60,7 @@ SMT         Senior Management Team 高层管理团队
 PoC         proof of Concept 概念验证,技术试点
 PII         Personally Identifiable Information 个人身份敏感信息
 WLB         Work‑Life Balance
+pubsub      publish‑subscribe 发布订阅
 
 
 

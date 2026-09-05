@@ -54,7 +54,6 @@ let's go to the first one               我们去第一个吧
 (on a 30%) basis                                      在30%的基础上/基础,要素,基准 n
 that's exactly what we're going to do                这正是我们要做的.
 that's not what you thought it was              那不是你所想的那样
-the column hasn't been added yet                这一列还没被加上
 the meeting might be at 3 p.m
 there is no work for sas demise until the end of the month         在本月末之前,没有与sas有关的工作
 this line/piece of code
@@ -75,7 +74,6 @@ you should be able to guess that my english is quite poor       你应该能猜�
 how do you know about this?                                 你是怎么知道这个的？
 so that team members can better help you                团队成员能更好地帮你
 i've been getting/constantly interrupted by other matters recently
-a set of column                  一组列
 nothing (particularly) important                      没什么特别重要的事
 if they were removed due to the status              如果它们是因状态而被移除
 do you know how to get the actual sql that was executed in es for this piece of java code?

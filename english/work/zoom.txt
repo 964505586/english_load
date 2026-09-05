@@ -16,7 +16,7 @@ i froze/lagged for a second/moment                   我 卡/延迟 了一 秒�
 meeting
 let's wait & see/let's wait a few more minutes      静观其变,看看情况再说/再多等一会儿
 let's wait for others to join (the call)            让我们等待其他人加call
-let's start(kick off) first and see if they join later (on)      我们先开始,看他们稍后会不会加入
+let's start(kick off) first & see if they join later (on)      我们先开始,看他们稍后会不会加入
 sorry. i'm so late. sorry about that        抱歉,我来晚了
 not sure if john will join the call            不确定托尼是否会参加这次通话
 (okay, no more delay) let's jump right in                     (好了,不再耽搁了)咱们直接开始吧
@@ -25,7 +25,6 @@ can/shall i share my screen?            我能否共享我的屏幕？
 you're on mute             您已静音
 i can hear you, but your voice is too/super/quite/really low(a bit/little/much better)             我能听到你,但你的声音很低(超级小/挺小的,相当小/真的很小)
 you're really quiet. i can't hear you clearly                 你声音好小
-yesterday i basically finished the access request           昨天我基本上完成了权限请求
 i'll continue working/focusing on this today        今天我将继续 做/专注 于这件事
 i'll focus(follow up) on this today         今天我会关注(跟进)这件事
 i'll continue following it up today        会继续跟进此事

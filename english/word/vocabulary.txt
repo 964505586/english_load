@@ -367,12 +367,11 @@ these days                              如今,现今
 think of n                    想起,思考
 thoughtful          体贴入微的,考虑周到的 adj
 thus                                            因此,这样 adv
-time                                    时间 u            次数 c
-treat                                   对待,治疗 v
-trend                                   趋势 n
-trouble maker                           麻烦制造者
-trouble-free                            无故障的 adj
-turn down                               拒绝 v
+time                时间 u            次数 c
+trend               趋势 n
+trouble maker       麻烦制造者
+trouble-free        无故障的 adj
+turn down           拒绝 v
 turn/switch off 关掉
 umbrella 伞
 undertake           承担,答应 v

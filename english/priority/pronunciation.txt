@@ -33,9 +33,7 @@ concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可�
 accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就,成绩(功能落地,开发实现) n/
 supply/supplement       /ˈsʌplɪmənt/     供应,提供 v/补充,增加,增补 v
 occur/occurrence/reoccur/recurrence     /əˈkʌrəns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n
-govern/governed/governing/governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统治,支配,控制 adj/数据治理
 retriable        /rɪˈtraɪəbl/           可重试的 adj
-plaintext (passwords)/hardcode       /pleɪnˈtekst/           明文 n/硬编码 v
 discard/dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
 stay tuned/plz bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
@@ -191,7 +189,6 @@ simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,�
 necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
 excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量api流量
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
-purpose/intent/destination/target/goal/intend      /ɪnˈtent/     有意,打算 v/意图,设计初衷,目的/目的 n/打算,想要 v
 compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协,折中 v/危及安全
 abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/异常,反常 n
 proceed (subsequent/follow-up/next) steps/actions   /ˈsʌbsɪkwənt/   随后的,接着的 adj/后续的 adj/后续行动
@@ -212,7 +209,6 @@ present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
 (if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
 originate (from)/original/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创/起源 n
-raw (data)/row/column        /rɔː/     原始的 adj/原始数据/行/纵列
 precious/valuable/invaluable/valueless       /ˈpreʃəs/        宝贵的/贵重的/无价的/无价值的 adj
 confidential/sensitive/sensitivity      /ˌkɑːnfɪˈdenʃ(ə)l/      机密的 adj/敏感的 adj/敏感性,敏感度 n
 at the (discretion) of sb/audit      /dɪˈskreʃ(ə)n/      自行决定权 n/由某人酌情,自行决定,自由选择
@@ -257,7 +253,7 @@ redundant/duplicate/useless/unused/invalid    /rɪˈdʌndənt/    多余的/重�
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合格的 adj/资格,合格 n/资格审查
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
-before and after comparison     /kəmˈpærɪsn/     前后对比
+before & after comparison     /kəmˈpærɪsn/     前后对比
 duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
 replicate/replication (factor)/replica      /ˈreplɪkeɪt/        复现,重复 v/复制/因子,系数,要素,份数/副本 n
 seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
@@ -292,7 +288,6 @@ immutable       /ɪˈmjuːtəbl/      不可修改,不可变更 adj
 tutorial (document)        /tuːˈtɔːriəl/       导师的,辅导的/指导文档
 monotonically (increasing)        /ˌmɒnəˈtɒnɪkli/        单调地 adv/单调递增
 i think it may not be so (straightforward)      /ˌstreɪtˈfɔːwəd/        简单的,易懂的 adj/adv/我觉得这事可能没那么简单
-grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
 (guiding/security) principle       /ˈprɪnsəp(ə)l/ /ˈɡaɪdɪŋ/        准则,原则 n/处理,指导,安全原则
 infra/infrastructure        /ˈɪnfrəstrʌktʃər/       基础设施 n
 delegate        /ˈdelɪɡət/        代理人,代表 n/授权 v
@@ -304,12 +299,10 @@ represent/stand for/representative/on behalf of QA team     /ˌreprɪˈzent/ /ˌ
 parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 (acceptance) criteria/standard       /kraɪˈtɪəriə/       标准 n/验收标准
-intend/(if) intended/intentionally/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的,主动地 adj/adv/意图,目的 n/如果是有意,故意
 eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
 mitigate (the risk of service outage)/mitigation/eliminate       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险/剔除,根除 v
 convert momentum into measurable outcomes     /moʊˈmentəm/ /ˈmeʒərəbl/       势头,冲力,推力 n/可量化的 adj/将发展势能转化为可量化成果
 overlap/conflict/clash/clashes/clashed/clashing      /ˌoʊvərˈlæp/ /ˈklæʃɪŋ/       重叠 v/冲突 v/n
-access/accessible/inaccessible      /əkˈsesəb(ə)l/      访问 v/可到达的,平易近人的 adj/不可及的 adj
 deactivate (account)/deactivation/activate   /diːæktɪˈveɪʃən/    停用,注销 v/n/注销账户
 activate/reactivate/deactivate        /ˈæktɪveɪt/         激活/重新激活,使恢复活动/停用,注销 v
 propagate error/exception       /ˈprɑːpəɡeɪt/           散播,宣传,同步,下发,向上传播(异常) v
@@ -354,90 +347,20 @@ excessive/excessively       /ɪkˈsesɪv/       过度的,过多的 adj/过分�
 set out our primary/(strategic) focus     /strəˈtiːdʒɪk/       战略(性)的 adj/阐明,明确我们首要工作重心
 cantonese       /ˌkæntəˈniːz/       广州人,广东人,粤语 n/广州的,广东的 adj
 narrow down (sth)/       /ˈnæroʊ/       缩小范围
-
-
-
-
-
-
-
-
-
-masking
-scrambled adj.经过扰乱脱敏；unhashed adj.未做哈希处理（明文）
-redact/(data) redaction/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
-mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
-
-be no longer supported(merely n)        不再支持/不再只是
-u will (no longer) get            不再 abv
-
-permit/permitted to         批准,许可 v/被允许,有权限
-read-only access/permissions            只读权限 n
-authenticate/authentication(auth)         认证 v/n
-authorize(authorise)/authorization       授权,批准 v/n
-licensed/authorised/authorized (result reference)         得到许可的/已授权的 adj/已授权结果引用(地址)
-(express) license          执照,许可证 n/许可,特许 v/正式书面授权
-approving (authority)/access     /əˈθɔːrəti/         权限,权力/审批权力
-
-because
-since
-as
-due to n/since 句子(because/because of)
-everywhere adv 到处 n 每个地方
-ever since                          自从,从那时起一直到现在
-since then                                          从那以后
-
-though
-but
-however
-
-along with连同
-alongside/with       /əˌlɒŋˈsaɪd/        连同,附带 prep
-
-polling轮询
-polls for轮询
-stop polling停止轮询
-
-handle terminal outcome处理终态结果
-final
-
-outcome结果、结局
-outcome/result      结果,效果/结果,后果 n
-
-treat A as B把A视作B
-the diagram treats TPRM as a single service
-
-Pubsub
-Publish‑Subscribe 发布订阅
-publish and consume发布消息、消费消息
-Published
-Public
-
-feature highlight       功能亮点
-highlight           突出,强调 v
-highlighted
-plz check the part(key points) highlighted in yellow     请查看标黄部分(重点内容)
-marked/highlighted part/area/section/paragraph             高亮 部分/区域,块/章节,大段/那一个自然段
-
-browse/browser         /braʊz/ /ˈbraʊzə(r)/
-the root cause is there an offset on browser
-
-attribute descriptions属性/字段描述
-column
-field
-
-loop循环块
-in the first/second iteration(for loop)         循环/在第一次循环中
+intent/purpose/destination/target/goal/intend      /ɪnˈtent/     意图,目的 n/有意,打算 v/.../打算,想要 v
+intend/(if) intended/intentionally/plan/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的 adj/adv/如果是有意,故意/意图,目的 n
+It (polls for) job completion status/(stop) polling     /poʊl/       轮询/停止轮询
+the issue is there's an offset on browser/browse     /braʊz/ /ˈbraʊzə(r)/        浏览 v/n
+(newly added/created) field/attribute/column/row/raw (data)   /rɔː/      纵列/行/原始的 adj/原始数据/新增的列
 loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 
-Identification
-issue identified                            识别到的问题
-identity/identical            身份 n/完全相同 adj
-identify/identified/identification/identifier     /aɪˈdentɪfaɪə(r)/       认出,识别v/n/标识符 n
 
 
 
-so we could narrow down and digest the catalogue
+
+
+
+so we could narrow down & digest the catalogue
 data refinery
 i think the Monday call is NOT needed if the agenda is just for data access
 we will go from there       从这里继续往下推进、基于现状继续开展后续工作
@@ -446,17 +369,13 @@ only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
 your CR is almost out of time
 starve
 treasure
-Short‑lived access token短期访问令牌
 processes处理v
 Until delivered or callback retry limit reached
-terminal status终态
 client deadline客户端截止时间
 Until a terminal status is reached or client deadline is hit
-authorized token已授权令牌
-terminal outcome终态结果
 inbox/outbox收件箱、发件箱
 GET result using … 使用……获取结果
-The team discussed what structured and unstructured data is currently available
+The team discussed what structured & unstructured data is currently available
 句子成分
 uncertainty     不确定性
 There was uncertainty about whether…正式纪要高频句型：对于……存在疑问
@@ -467,7 +386,6 @@ an existing asset organized by engagement ID
 consolidates
 it could potentially be extended
 connectivity        连通性
-access governance       访问权限治理
 raised concerns about … 对……提出顾虑
 团队达成共识
 The team acknowledged
