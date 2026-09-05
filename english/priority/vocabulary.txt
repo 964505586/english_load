@@ -60,7 +60,7 @@ given n/that/time                    鉴于,考虑到.../给定的时间
 presence        出席 n
 end-to-end          端对端的 adj/adv
 built-in                内置的 adj
-on your calendar            你的日程
+on ur calendar            你的日程
 last            最后的,最近的 adj/持续 v
 subset              子集 n
 open(to do) item                   待处理事项 n

@@ -36,7 +36,7 @@ recommended action/solution      推荐操作,方案
 present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 dummy/mock                       假的 adj
 ideal/normal                        理想的,最佳的/正常的,标准的 adj
-at your convenience/if u get a chance     你有空的时候
+at ur convenience/if u get a chance     你有空的时候
 self/internal/(my/our own) check            自测
 with n/there is ...
 alright(all right)
@@ -125,7 +125,7 @@ tips/tricks/recommendations/kind(a warm) reminder       小贴士,技巧,建议,
 rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
 (after) a short while (ago)       不久前/不久之后
 local/native
-ever/before            强调有没有过/强调在这之前
+ever/b4            强调有没有过/强调在这之前
 override/overwrite            覆盖,重写(方法)/覆盖文件,数据
 blank/empty     表面空白(纸,屏幕,脑子)/内部空无一物(杯子,房间,盒子)
 feature/function         特点,特性,功能 n/起作用,运转 v/功能 n
@@ -188,7 +188,7 @@ reproduce/replicate (question)/reproduction       复现 v/n
 in the (past)/last few days//months     在过去 几天/数月
 I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
 notify/(outage) notification/notice      通报,告知 v/通知 n/断网,服务中断通知/注意,意识 v
-the day/week after/before yesterday/tomorrow/next week      前天/后天/下下周
+the day/week after/b4 yesterday/tomorrow/next week      前天/后天/下下周
 queue times are usually long in normal channel/long queue times are common      排队时间长是常见
 give u an overview of sth/briefly introduce sth/elaborate     概述,简述/详细说明
 utilize/leverage/utilise(英式)     利用,使用 v
@@ -215,7 +215,7 @@ looks to me/in my view(opinion/perspective)     在我看来
 guide sb on/through sth     指导某人/带sb一步步走完
 be good to do sth(at sth)      适宜,乐意做/擅长做sth
 concise/briefly     简洁的 adj/简短的,简要的 adv
-before/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
+b4/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
 as appropriate/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
 just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
 I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
@@ -255,7 +255,7 @@ published/public/publish & consume   已发布的/公众的,大众的,公共的 
 outcome/result      结果,效果/结果,后果 n
 terminate/terminal (status/outcome)/final      终止 v/终端 adj/n/终态(结果)
 ever since/since then      自从,从那时起一直到现在/从那以后
-as/since/because/since 句子/because of/due to n
+as/since/bcos/since 句子/bcos of/due to n
 in the first/second iteration(for loop)         循环/在第一次循环中
 
 

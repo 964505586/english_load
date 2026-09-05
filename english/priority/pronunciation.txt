@@ -176,7 +176,7 @@ guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
 (hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/(分配的)工作时长
-exceeds your (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
+exceeds ur (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
 (audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/线程,邮件往来记录,邮件链 n
 consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
 laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电脑/笔记本/双耳式耳机
@@ -251,7 +251,7 @@ redundant/duplicate/useless/unused/invalid    /rɪˈdʌndənt/    多余的/重�
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合格的 adj/资格,合格 n/资格审查
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
-before & after comparison     /kəmˈpærɪsn/     前后对比
+b4 & after comparison     /kəmˈpærɪsn/     前后对比
 duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
 replicate/replication (factor)/replica      /ˈreplɪkeɪt/        复现,重复 v/复制/因子,系数,要素,份数/副本 n
 seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
@@ -277,7 +277,7 @@ quit/quite/quiet/quietly        /kwɪt/        停止 v/很,非常 adv/安静 v/
 (in the) interim/stabilisation (period)        /ˈɪntərɪm/ /ˌsteɪbələˈzeɪʃn/     过渡期,中间期 n/稳定 n/稳定期
 steady/unsteady/stable/unstable     /ˈstedi/         稳定的,平稳的,持续的 adj/adv/稳定的,牢固的 adj
 attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
-ahead of/prior to/before (deployment)       /ˈpraɪər/       在deployment之前
+ahead of/prior to/b4 (deployment)       /ˈpraɪər/       在deployment之前
 extract/extracted/extraction/extra    /ˈekstrækt; ɪkˈstrækt/      提取,抽取 v/选段,引文 n/提取后的 adj/提取,抽取 n/额外的 adj
 (His effort is) admirable/praiseworthy        /ˈpreɪzwɜːrði/      值得称赞的 adj
 (Max/query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
@@ -352,7 +352,7 @@ the issue is there's an offset on browser/browse     /braʊz/ /ˈbraʊzə(r)/   
 loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 (live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
 certain/certainly/certainty/uncertainty     /ˈsɜːrt(ə)nti/      必然的,确定的 adj/adv/确定性 n/不确定性
-any concern based on your expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
+any concern based on ur expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 
 
 
@@ -367,7 +367,7 @@ i think the Monday call is NOT needed if the agenda is just for data access
 we will go from there       从这里继续往下推进、基于现状继续开展后续工作
 get back on the case        重新处理此事
 only exact c1/c2/c3 should pass     只有b1/b2/c1才能通过
-your CR is almost out of time
+ur CR is almost out of time
 starve
 treasure
 processes       处理 v
@@ -409,7 +409,7 @@ if you've helped me with a task then plz assume i've said ‘thank you!' – i w
 
 it's not a replacement but it is a very strong & important complement to the way that we serve our clients globally
 ai is going to change the employment landscape globally
-because all of the tasks that i did, i was an investment banking analyst out of school
+bcos all of the tasks that i did, i was an investment banking analyst out of school
 what did we do? we did tons of presentations & modeling & valuation.
 guess what? we have something now called ai that's gonna take care of all of that in the future.
 it's gonna create enormous amounts of efficiencies
