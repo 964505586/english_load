@@ -90,7 +90,6 @@ urgency/urgent/urgently     紧急,迫切,紧迫感,紧迫性,紧急性 n/紧急
 believe/trust/trusty/trustworthy/truth         相信 v/信任 v/n/可信的,值得信赖的 adj/真相 n
 day-to-day/daily (meeting)      每日,日常 adv/adj
 predict/predictable/prediction/forecast      预言,预计 v/可预测的,可预料的 adj/预测 n/预测,预报 v/n
-correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整改措施/正确地 adv
 spend/cost       钱,时间/钱(受益方为主语)
 time-saving/consuming       省时的/耗时的 adj
 respond/response                 响应 v/n

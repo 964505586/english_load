@@ -76,7 +76,6 @@ i'm preparing to create a sample. once completion, i'll work out the detailed ti
 whose responsibility is it？                 这是谁的责任？
 actually, it's afternoon in china               实际上,中国现在是下午
 what time do u start work in the morning          你早上几点开始工作
-using a command             方式状语
 the issue had always existed. However, it wasn't discovered before                这问题一直都存在,之前没被发现
 this problem was caused while developing backend feature (this happen because ...)          这个问题是在开发此功能的过程中产生的
 plz help check the email draft, i'm preparing to send to kevin for clarification          帮忙检查一下这份邮件草稿,我准备发给kevin以获取进一步的说明
@@ -357,6 +356,8 @@ don't be sad        别难过,不要伤心
 We need to (buy time for) the migration/the workaround can buy us some time      争取,拖延时间
 these two fields are reversed                这两个字段的值颠倒了
 the column hasn't been added yet                这一列还没被加上
+using a command/get result using Postman        方式状语/使用Postman获取结果
+raised concerns about       对sth提出顾虑
 
 
 

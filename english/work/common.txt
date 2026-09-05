@@ -5,14 +5,14 @@ best/kind regards                   最诚挚的问候
 yours sincerely                                          你的真诚,谨启(用于英文信件署名前)
 (hope you)have a good/nice/great day/time/night (then)          玩得开心
 if anything needs correcting or adding      任何需要修正或补充的地方
-hope this mail finds you well               祝你一切顺利
+hope this mail finds u well               祝你一切顺利
 hope you're doing well                     祝你一切顺利
 i am writing to             我写信是为了
 feel free to propose new slot in case of conflicts      如有冲突,欢迎提出新的时间
-please correct me if i'm wrong
 action required from stakeholders           需要stakeholder采取的行动
 if further clarification or a call is needed
 apologies for the late reply
+plz correct me if i'm wrong/correct it if it contains any issue
 apologize for any inconvenience this may have caused & appreciate your understanding & patience (support)      由此给您带来的不便,深表歉意.感谢您的理解与耐心
 
 
@@ -23,7 +23,7 @@ if no other questions, i think probably we can end the call
 请知悉
 fyi/for awareness           供您参考,供您知悉/周知事项,仅供知悉
 please/kindly note n/that
-please be aware/noticed/informed of/that
+plz be aware/noticed/informed of/that
 
 做更多
 do we need to take/provide any other information(further action)?                    我们还需要提供其他信息吗？
@@ -34,17 +34,17 @@ will see what more we can do going forward          将看看接下来还能做�
 if we can help proceed with the above items         如果我们能够协助推进上述事项的话
 
 你的想法
-what do you think (of/about the design)                 你觉得怎么样
+what do u think (of/about the design)                 你觉得怎么样
 what's your idea/thoughts on this (matter)
 see if that makes sense
-have you any idea or is it reasonable
+have u any idea or is it reasonable
 looking for any possible improvement
 there is easier way to achieve the same effect
 
 及时通知你
-i'll keep you posted/updated with any news/changes
+i'll keep u posted/updated with any news/changes
 may i have your feedback (on this)?
-could you please share the latest updates on this?
+could u plz share the latest updates on this?
 
 等一下
 just/wait a minute/second/moment

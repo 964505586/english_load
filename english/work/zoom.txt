@@ -1,10 +1,10 @@
 你先忙,不打扰你了
-i'll let you go
-i'll leave you to it(your work)
-i'll let you get back to (your) work/sth
+i'll let u go
+i'll leave u to it(your work)
+i'll let u get back to (your) work/sth
 i'll get out of your hair.
-i'll let you get on.
-i'll leave you in peace
+i'll let u get on.
+i'll leave u in peace
 
 卡了
 sorry, my network seemed unstable       抱歉,我的网络似乎不太稳定
@@ -24,7 +24,7 @@ let's continue to go through tickets & then discuss it after the meeting        
 can/shall i share my screen?            我能否共享我的屏幕？
 you're on mute             您已静音
 i can hear you, but your voice is too/super/quite/really low(a bit/little/much better)             我能听到你,但你的声音很低(超级小/挺小的,相当小/真的很小)
-you're really quiet. i can't hear you clearly                 你声音好小
+you're really quiet. i can't hear u clearly                 你声音好小
 i'll continue working/focusing on this today        今天我将继续 做/专注 于这件事
 i'll focus(follow up) on this today         今天我会关注(跟进)这件事
 i'll continue following it up today        会继续跟进此事
@@ -37,11 +37,11 @@ if everything goes well         如果一切顺利
 yesterday i answered(helped check) some issue Jack encountered & the issues Lion faced       昨天我帮助检查了Jack遇到的问题和john面临的问题
 let's go/come back to the track(Jira Board)         我们回到n吧
 thanks for joining              感谢您的参与
-any items you want to raise/talk/discuss here or we can end/close the call     您这里还有想要 提出/讨论/交流 的 内容/事项吗？或者我们可以结束这次通话
+any items u want to raise/talk/discuss here or we can end/close the call     您这里还有想要 提出/讨论/交流 的 内容/事项吗？或者我们可以结束这次通话
 see if there are no items/problem to discuss         如果没有任何需要讨论的事项的话
-anything else from you      你这边还有其他情况吗
-sorry, you just broke up a little bit       刚才你的声音卡顿,断了一小段
-i didn't catch your last sentence/understand what you said at the end   没听懂你最后一句话
+anything else from u      你这边还有其他情况吗
+sorry, u just broke up a little bit       刚才你的声音卡顿,断了一小段
+i didn't catch your last sentence/understand what u said at the end   没听懂你最后一句话
 
 
 

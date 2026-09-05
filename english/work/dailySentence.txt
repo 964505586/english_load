@@ -1,4 +1,4 @@
-please make sure you have updated relevant ticket statuses before the call
+plz make sure u have updated relevant ticket statuses before the call
 welcome back (after a long break)                   欢迎长假后回来
 provided/providing/supposing that        conj 假如,倘若
 to my surprise/relief                           让我 惊讶/欣慰(松了一口气) 的是
@@ -18,34 +18,34 @@ strong justification                  强有力的理由
 
 the change took effect last friday              这change上周五开始生效
 the change has taken effect since last friday           这change上周五起已开始生效
-what are you doing                                  你在干什么
-what can i do for(to help) you                               我能帮你做什么?
+what are u doing                                  你在干什么
+what can i do for(to help) u                               我能帮你做什么?
 ask for 2 days leave                                请2天假
 it's nothing more than a small problem/misunderstanding          这仅仅是一个 小问题/误会
 carry on, don't worry about me                  你继续忙,别担心我
-could you scroll up/down a little bit?              您能否把页面向上/向下滚动一点点
-did you get a chance to v
+could u scroll up/down a little bit?              您能否把页面向上/向下滚动一点点
+did u get a chance to v
 double click the shift key on your keyboard     双击你键盘上的shift键
 failed once         失败了一次
 has/have nothing to do with             与...无关
-how are you doing today/recently                          你 今天/最近 过得怎么样？
+how are u doing today/recently                          你 今天/最近 过得怎么样？
 hurry up                        快点
 i remember that someone asked me to change the return format last time      我记得上次有人让我改返回的格式
-if there is a capacity, you can start           如果有条件的话,你可以开始
+if there is a capacity, u can start           如果有条件的话,你可以开始
 i'm confirming this     我在确认这个
-i'm fortunate to work with you              很幸运能与您共事
-looking forward to meeting you at one of our meeting soon & working with you      期待很快能在我们的某次会议上与您相见,并与您共事
+i'm fortunate to work with u              很幸运能与您共事
+looking forward to meeting u at one of our meeting soon & working with u      期待很快能在我们的某次会议上与您相见,并与您共事
 i'm thinking about it                我正在考虑这件事
 in some aspects                                     在某些方面
 in the next two days                            在未来的两天
 is everything ok?                           一切都好吗
 is this behavior forbidden?             这种行为是被禁止的吗？
-is this what you want?                  这是你想要的吗？
+is this what u want?                  这是你想要的吗？
 it depends          看情况
 it won't take much time
 it's the only way to ensure the safety      这是确保安全的唯一办法
 it's time to take a break       是时候休息一下了
-(it's) up to you            取决于你,由你决定
+(it's) up to u            取决于你,由你决定
 Jack is coming                                      sb要来了
 just saw                            刚看到
 let's call it a day                 今天就到此为止
@@ -53,30 +53,30 @@ let's catch up later
 let's go to the first one               我们去第一个吧
 (on a 30%) basis                                      在30%的基础上/基础,要素,基准 n
 that's exactly what we're going to do                这正是我们要做的.
-that's not what you thought it was              那不是你所想的那样
+that's not what u thought it was              那不是你所想的那样
 the meeting might be at 3 p.m
 there is no work for sas demise until the end of the month         在本月末之前,没有与sas有关的工作
 this line/piece of code
-what action would you take?
-what have you heard                                 你听到啥了
-what will you do                                    你会怎么做?
-what would you do next                              接下来你会做什么
-what you should do is v             你应该做的是...(主语里有do,后面作表语的不定式to do可以省略to,直接用动词原形)
+what action would u take?
+what have u heard                                 你听到啥了
+what will u do                                    你会怎么做?
+what would u do next                              接下来你会做什么
+what u should do is v             你应该做的是...(主语里有do,后面作表语的不定式to do可以省略to,直接用动词原形)
 where can i find the guide           我可以在哪找到指南呢
-why did you do that?                    为什么这样做
+why did u do that?                    为什么这样做
 why is it so?                                           为什么会这样呢?
 will make every effort to                               竭尽全力做
-will you join/come                                           你会来吗?
-you can select the date you want            您可以选择您想要的日期
-you go on                                               你继续
-you guess right                 你猜对了
-you should be able to guess that my english is quite poor       你应该能猜到我的英语水平相当差吧.
-how do you know about this?                                 你是怎么知道这个的？
-so that team members can better help you                团队成员能更好地帮你
+will u join/come                                           你会来吗?
+u can select the date u want            您可以选择您想要的日期
+u go on                                               你继续
+u guess right                 你猜对了
+u should be able to guess that my english is quite poor       你应该能猜到我的英语水平相当差吧.
+how do u know about this?                                 你是怎么知道这个的？
+so that team members can better help u                团队成员能更好地帮你
 i've been getting/constantly interrupted by other matters recently
 nothing (particularly) important                      没什么特别重要的事
 if they were removed due to the status              如果它们是因状态而被移除
-do you know how to get the actual sql that was executed in es for this piece of java code?
+do u know how to get the actual sql that was executed in es for this piece of java code?
 why does this happen?                 为什么会出现这个问题？
 we read data in batches                         我们分批读取数据
 this api supports bulk requests                 这api支持批量请求
@@ -90,7 +90,7 @@ have to wait for their feedback
 i've come up with two potential solutions for the issue         我想出了两个可能的解决方案
 the frontline is complaining(shouting 大喊大叫) every day
 make good/full use of                               充分利用
-just get familiar with the main process first. for the specific details, ask Jack, me or other team members when you start working on it    先了解主流程,至于细节,等你开始做了,在找人问
+just get familiar with the main process first. for the specific details, ask Jack, me or other team members when u start working on it    先了解主流程,至于细节,等你开始做了,在找人问
 the fact of the matter is no matter how well we take care of him
 if that was my husband, if there was a chance, no matter how small, i would go having said that
 
