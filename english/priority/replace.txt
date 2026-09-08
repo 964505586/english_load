@@ -206,7 +206,7 @@ could u plz acknowledge/confirm/acknowledged        确认,认可,感谢 v/请�
 stakeholder/related parties                  相关方,利益相关者/相关方
 fetch/extract/read             获取,拉取 v/提取,抽取 v
 how to (architect/design) the agent     设计 v
-engage/(continued) engagement/working       参与,投入,使用,对接 v/参与度,业务项目 n/持续参与,使用,投入
+engage/(continued) engagement/working       对接,参与,投入,使用 v/参与度,业务项目 n/持续参与,使用,投入
 looks to me/in my view(opinion/perspective)     在我看来
 guide sb on/through sth     指导某人/带sb一步步走完
 be good to do sth(at sth)      适宜,乐意做/擅长做sth

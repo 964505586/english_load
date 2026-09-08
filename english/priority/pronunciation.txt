@@ -27,7 +27,6 @@ transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/
 recruit         /rɪˈkruːt/      招聘,招收,招募 v
 partner     /ˈpɑːtnə(r)/        搭档 n
 throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及,到处,自始至终,贯穿整个时期 adv/prep
-semantic        /sɪˈmæntɪk/        语义的 adj
 thorough/overall        /ˈθɜːroʊ/       彻底的,全面的 adj
 concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可落地 adj
 accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就,成绩(功能落地,开发实现) n/
@@ -90,7 +89,6 @@ closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
 casual/casually		/ˈkæʒuəli/	随意地,随便地 adv
-syntax error        /ˈsɪntæks/      语法错误
 pros & cons       /prəʊz/ /kɒnz/      利弊
 merits & demerits     /ˈmerɪts/       优劣
 figure/number/numeric       /njuːˈmerɪk/        数字,数目 n/数值的,数字的 adj
@@ -140,7 +138,6 @@ trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
 (data) volume/size     /ˈvɑːljəm/     数据量/音量 n
 layout      /ˈleɪaʊt/          布局,排版 n
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
-cater to (sth/sb/business demands)/meet       /ˈkeɪtər/     满足,迎合 v
 preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
 middleware      /ˈmɪdlweə(r)/       中间件 n
 legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
@@ -251,7 +248,6 @@ suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,�
 embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
 b4 & after comparison     /kəmˈpærɪsn/     前后对比
 duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
-replicate/replication (factor)/replica      /ˈreplɪkeɪt/        复现,重复 v/复制/因子,系数,要素,份数/副本 n
 seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 Azure       /ˈæʒər/
@@ -353,11 +349,9 @@ fill in/populate/enter/pre‑population   /fɪl ɪn/ /ˈentər/   填写/填充/
 be (conscious) it's nearly by EOD for u/realize       /ˈkɑːnʃəs/      意识到的 adj/意识到你们那边差不多快下班了
 stick to the original plan/persist      /stɪk/      坚持 v
 persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,持续,坚持 v/持久化的,执着的,持续的 adj/物化,落地生成/坚持 v
-
-
-
-
-
+syntax/semantic error       /ˈsɪntæks/ /sɪˈmæntɪk/      语法 n/语义的 adj
+cater to (requirement)/meet/met/fit       /ˈkeɪtər/     迎合,满足/满足 v/适合,合身,匹配 n
+replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,复制 v/复制/因子,系数,要素,份数/副本 n
 
 
 
@@ -369,42 +363,54 @@ persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,�
 
 
 expose sb to sth/exposure       使某人直面,遭受某事/暴露 n
+attest (following guardrails)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明,确认,作证,承诺遵守 v/声明,证明,证据,证实 n
+I'd like to get the info ahead of time for preparation(for my advance reference)        供预先参考
 
 handle
 processing
 
-also
-either
+workstation         工作站 n
+workshop            车间,工场,作坊 n
+workplace                       办公室,工厂
+final bit of work           收尾工作 n
+work together           协同配合
+ways of working     工作方式
+rework      返工 v/n
+work overtime                   加班
 
-attest (following guardrails)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明,确认,作证,承诺遵守 v/声明,证明,证据,证实 n
 
 
-for my advance reference供预先参考，完美表达
-get this information ahead of time for preparation
-semantic
 Where your head it is been confirmed
 Data warehouse platform
-fit
-meet
 regarding the API used to fetch data
 When you find a moment
+Please share samples code or a curl should be fine too
+Hope the mail finds you well.
+Do extend to anyone who you think would be relevant for this conversation
+subject to approvals
+Setting this up to discuss
+which will be replicated in UAT prod subject to approvals句子成分
+subject to n            受...约束,以...为前提,须获得审批。
+Mainly we want to have clear understanding on the integration pattern
+主要希望明确集成模式
+I am not sure if I can help here【职场IM高频】我这边未必能解决该问题。
+subscription        订阅
+If issues still occur       如果仍然出现问题
+the only option is to           唯一的方案是
 
-- retriever microservice 【AI RAG专有名词】检索微服务
+retriever microservice      检索微服务
 What are the services offered in the contract
 that are offered
-- contract hierarchy 合同层级结构
-- i.e. = that is 也就是
-Captures体现
-- citation n. 出处引用标注
-engagement合作项目
+contract hierarchy 合同层级结构
+i.e. = that is 也就是
+Captures        体现
+citation        出处引用标注
 model‑generated reasoning summary模型生成推理摘要
 where you heard it's been confirmed
 Where did you hear that this has been confirmed
 the info I got was it will be done by end of Sep
-- get blurred 变得模糊
-i think the line between poc and pilot are getting blurred变得
-- the line between A and B  A与B之间的界限
-a good starting point
+i think the line between poc and pilot are (getting blurred)      变得模糊
+the line between A and B  A与B之间的界限
 
 you should have a good starting point
 environment visuals     环境架构图示
@@ -414,8 +420,6 @@ go went gone？
 with particular emphasis on重点在于……
 with particular emphasis on testing latency
 latency     网络/接口延迟
-while       当...的时候，当...同时，然而，
-什么情况下它它翻译成当什么时候？什么情况翻译成什么？当什么同时？什么情况翻译成然而，
 address limitations 探讨、处理限制问题
 noting that while
 Require
@@ -433,8 +437,6 @@ Confirmed
 Assess the impact and feasibility of including
 captured actions 记录下来的行动项
 arrange a follow‑up meeting if needed.
-Siddharth explained that while production contains real contract data,
-while干嘛的？
 test latency and response times     测试延迟、响应时间
 later production access后续？
 at a later stage        后续阶段
@@ -446,7 +448,6 @@ obtain approval     获取审批
 focusing on         聚焦于
 eliminating the need for        省去、无需做某事
 sit in
-subscription        订阅
 pending from sb         等待某人输出/处理
 Siddharth explained that while currently only 4 regions and global tag contracts are available in their Contract Assistant system
 Contract Scope Expansion Discussion

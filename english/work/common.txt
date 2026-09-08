@@ -51,8 +51,7 @@ just/wait a minute/second/moment
 a couple of minutes                 几分钟
 
 现在完成进行时     一直在做,还没停
-i've been working on this since monday                从周一起我就一直在研究这个问题.
-i've been working on this for the past two days         我这两天一直在处理这个问题.
+i've been working on this (since monday/for the past 2 days)      从周一起我就一直在研究/这两天一直在处理
 she has been looking into it & should be able to provide update tomorrow          她一直在对此进行调查,明天应该能够给出最新情况
 
 我该怎么做？

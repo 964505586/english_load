@@ -292,7 +292,6 @@ if the system encounters/experiences/suffers performance issues     如果系统
 just ask in Teams group     直接在群里问就行
 (it's) a bit urgent            有点急
 go this way     采用这个方案,按这个方式走
-will get/have a head‑start(early advantage)       将会占据先机
 give u the green/red light        给某人开绿灯,批准/否决,叫停
 scared me       吓我
 re‑engage the team      重新对接团队
@@ -359,12 +358,13 @@ Raw data goes through (data refinery) b4 feeding into AI model       数据精�
 proceed with (subsequent/follow-up/next) steps(actions)/we will go from there   从这里继续往下推进,继续开展后续工作
 ur CR is almost out of time     CR快超时了
 I will (get back on the case) next week       下周会(重新处理此事)
-i think the Monday call is not needed if the agenda is just for data access     如果议程仅是讨论数据权限，那我认为周一会议没有必要开
+i think the Monday call is not needed if the agenda is just for data access     如果议程仅是讨论数据权限,那我认为周一会议没有必要开
 There was uncertainty about whether ...      对于sth存在不确定性
-it could be added as a requirement if unavailable       如果不可用，则可以新增为需求
-until delivered or callback retry limit is reached     直至投递完成，或达到回调重试上限
-until a terminal status is reached or client deadline is hit        直至到达终态，或触发客户端截止时间
+it could be added as a requirement if unavailable       如果不可用,则可以新增为需求
+until delivered or callback retry limit is reached     直至投递完成,或达到回调重试上限
+until a terminal status is reached or client deadline is hit        直至到达终态,或触发客户端截止时间
 only exact c1/c2/c3 should pass     精确的,完全匹配的 adj/只有b1/b2/c1才能通过
+will get/have a head‑start(early advantage/good starting point)       将会占据先机,良好的起点
 
 
 

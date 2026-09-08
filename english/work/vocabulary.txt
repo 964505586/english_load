@@ -32,7 +32,6 @@ learn/learned(learnt 英式)           学习 v
 life cycle                  生命周期
 lower(upper) case/capital                    小/大 写字母/资本,资金,大写字母 n
 medium                 中等的 adj
-meet/met/met                遇见,满足 v
 nested                 嵌套的
 observation                         观察 n
 one-off                  一次性的

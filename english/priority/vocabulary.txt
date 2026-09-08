@@ -4,7 +4,6 @@ technical stack     技术栈
 shutdown        关机 n
 extensively         大量地,频繁地 adv
 desktop         桌面 n
-workstation         工作站 n
 modern/modernization              现代的 adj/n
 as a whole          总体上,总的来说,整体来看 adv
 common used         常用
@@ -21,7 +20,6 @@ revert                 恢复,回复 v
 routine (maintenance)           常规,惯例 n/常规维护,日常保养
 disk            磁盘 n
 confidence          自信,信心,信任 n
-workshop            车间,工场,作坊 n
 shell company       空壳公司
 money mule          资金骡(洗钱中转人/中转企业)
 go public           上市,公开募股
@@ -32,7 +30,6 @@ lead time           任务耗时,处理时长 n
 apply straight away     直接落地,立刻投入使用 v
 implement           落地,部署 n/实现 v
 language        专业术语 n
-fit         适合,合身,匹配 n
 round/can we ask Jack to perform the final round of check (on this)     一轮,一遍 n/我们可以请Jack做最后一轮检查吗
 shortly                             不久,很快 adv
 comment     评估 v
@@ -46,7 +43,6 @@ driven by n     被n驱动,主导,制约
 revoke/revocation                 撤销 v/取消,撤回 n
 value                           价值,价值观 n
 recommended learning path           推荐学习路线 n
-final bit of work           收尾工作 n
 close down           收尾,完成 v
 codebase            代码库 n
 snippet         小片,片断	 n
@@ -64,8 +60,7 @@ on ur calendar            你的日程
 last            最后的,最近的 adj/持续 v
 subset              子集 n
 open(to do) item                   待处理事项 n
-work together           协同配合
-draft                                   起草,草拟 v/草稿 n
+draft           起草,草拟 v/草稿 n
 rolling restart     滚动重启 n
 (improving) context/contextual      /kənˈtekstʃuəl/     优化上下文/场景相关的,上下文的 adj
 disconnected            割裂的,零散的 adj
@@ -141,7 +136,6 @@ key area for changes        变更核心范围
 secure-by-design    安全设计优先的 adj
 serve (as)       服务 v/n/充当,作为
 fingers crossed     但愿一切顺利,祝好运
-ways of working     工作方式
 platform improvement    平台优化
 step-by-step guide     分步指南
 renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度重视,重新强调
@@ -207,7 +201,6 @@ retire      退休,下线,停用 v
 map/maps/mapped/mapping         地图,映射,分布图 n/映射 v
 control         控制 v/管控 n
 P0          最高优先级故障,任务(P0 > P1 > P2 > P3)
-rework      返工 v/n
 refer/referring to sth/reference       参考,查阅 v/参考,引用 n/v
 by default          默认情况下 adv
 when prompted       当提示的时候
@@ -246,7 +239,6 @@ developer usage acknowledgement         承认,感谢,应答回执 n/开发者�
 instead     相反
 pilot(proof of Concept)        试点的 adj/试点 n/概念验证
 callback (url/endpoint)        回调 n/回调地址
-(integration) pattern     模式,方式,样式 n/集成模式
 outsourcing determination       外包,外购 n/外包判定
 ready-to-use (utilities)      随时可用的 adj/开箱即用工具,立即可用工具集
 source (the data)/resource          获得 v/来源/资源 n/获取数据
@@ -255,6 +247,8 @@ hold (on)/held         举行,保存/等一下,坚持住
 a set of column/row(column) filter        一组列/行,列筛选器
 inbox/outbox        收件箱/发件箱
 correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整改措施/正确地 adv
+(integration) pattern     模式,方式,样式 n/集成模式
+while       当..的时候,当..同时,然而,虽然..但是..
 
 
 
