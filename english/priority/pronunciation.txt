@@ -1,3 +1,9 @@
+execute/was it executed twice     /ˈeksɪkjuːt/       执行了两次吗？
+multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
+adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
+exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
+
+
 
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
@@ -221,7 +227,6 @@ layer       /ˈleɪər/       层,等级 n
 point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,ip/英文句末句号/点,斑点,地点 n
 manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/成功做sth/我成功解决了这个问题
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 n/v/暴露
-(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
 outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv
 assess/assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n/进化
 rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/旋转,转动 n/值班名册,轮值表
@@ -352,6 +357,8 @@ persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,�
 syntax/semantic error       /ˈsɪntæks/ /sɪˈmæntɪk/      语法 n/语义的 adj
 cater to (requirement)/meet/met/fit       /ˈkeɪtər/     迎合,满足/满足 v/适合,合身,匹配 n
 replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,复制 v/复制/因子,系数,要素,份数/副本 n
+attest to (system stability)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明 v/声明,证据,证实,证明 n
+(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
 
 
 
@@ -361,26 +368,7 @@ replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,�
 
 
 
-
-expose sb to sth/exposure       使某人直面,遭受某事/暴露 n
-attest (following guardrails)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明,确认,作证,承诺遵守 v/声明,证明,证据,证实 n
-I'd like to get the info ahead of time for preparation(for my advance reference)        供预先参考
-
-handle
-processing
-
-workstation         工作站 n
-workshop            车间,工场,作坊 n
-workplace                       办公室,工厂
-final bit of work           收尾工作 n
-work together           协同配合
-ways of working     工作方式
-rework      返工 v/n
-work overtime                   加班
-
-
-
-Where your head it is been confirmed
+Where your head it has been confirmed
 Data warehouse platform
 regarding the API used to fetch data
 When you find a moment

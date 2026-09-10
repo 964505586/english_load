@@ -365,6 +365,8 @@ until delivered or callback retry limit is reached     直至投递完成,或达
 until a terminal status is reached or client deadline is hit        直至到达终态,或触发客户端截止时间
 only exact c1/c2/c3 should pass     精确的,完全匹配的 adj/只有b1/b2/c1才能通过
 will get/have a head‑start(early advantage/good starting point)       将会占据先机,良好的起点
+I'd like to get the info ahead of time for preparation(for my advance reference)        提前做准备/供预先参考
+expose sb to sth/the mistake will expose our system to security risks       使sb直面,遭受某事/将使系统面临安全风险
 
 
 

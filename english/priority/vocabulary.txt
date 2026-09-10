@@ -16,7 +16,6 @@ powerful            强大的,有影响力的 adj
 production-ready        可上线投产的 adj
 shortening      缩短,变短,缩写 v
 half        一半,二分之一 n
-revert                 恢复,回复 v
 routine (maintenance)           常规,惯例 n/常规维护,日常保养
 disk            磁盘 n
 confidence          自信,信心,信任 n
@@ -249,6 +248,8 @@ inbox/outbox        收件箱/发件箱
 correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整改措施/正确地 adv
 (integration) pattern     模式,方式,样式 n/集成模式
 while       当..的时候,当..同时,然而,虽然..但是..
+workshop/workplace/workstation      车间,工场,作坊 n/办公室,工厂/工作站 n
+rework/work overtime/final bit of work     返工 v,n/加班/收尾工作 n
 
 
 

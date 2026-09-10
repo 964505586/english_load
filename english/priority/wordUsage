@@ -6,38 +6,13 @@ key takeaways          主要收获,会议核心要点,关键结论 n
 meeting recap           会议总结,概要(简版)
 (meeting) minutes       /ˈriːkæp/       将sth写进会议记录 v/会议纪要,记录(完整版) n
 
-act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
-(regulatory) compliance/comply with (regulation)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
-obey/obedience      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v/n
-in line with enterprise's principle(obey/comply with)      遵照,符合/符合企业原则
-adhere/adhering (commitments made in this attestation)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
-
-consists of/the plan consists of two phases         由...组成
-made up of                                  由...组成
-be composed of                              由...组成
-
 defect/strength                     缺陷,bug,缺点/长处,优势,体力,力量, n
 weak/strong point                                      弱点/优点
 advantage/disadvantage                          优点,优势 n/有利于,有助于 v
 
-store                       储存 v/商店 n
-storage                     储存,存储空间 n
-restore                     恢复,还原 v         把东西变回原来的状态,原样
-resume                      恢复,简历 v            停下后(人)继续干
-
 u said b4 that we should do it. do u remember           你之前说我们应该这么做你还记得吗？
 (regarding) the process i mentioned earlier                     关于之前提到的
 as(like) Jack said/mentioned/proposed b4/earlier, it's a business issue               正如Jack之前 说的/提到的/提议,提出(暗示他不仅说了,还给出了观点或方案)
-
-was it executed twice ?          执行了两次吗？
-(not sure if) anyone has tried/encountered it b4?         之前有人尝试(遇到)过吗？
-have tried twice                       试过两次了
-have/haven't u used it b4?            你之前用过它吗
-have u heard/noticed that             你听说/注意到过吗？
-i heard the data from Jack will be ready at the end of april
-i've also heard/seen/encountered the error/a similar issue/such an issue/an issue like this b4         遇到过类似的问题
-i've heard about this           我听说了这件事
-i heard that                       我听说...
 
 beside          在n旁边,与n相比 prep
 besides/in addition to      + prep/此外,而且 adv
@@ -60,30 +35,23 @@ few/little                      否定: 几乎没有 cn/un
 a few/little               肯定: 有一点,少数几个 cn/un
 plenty      富裕,充裕 n
 
-priority                    优先的 adj/优先,优先权 n
-on (top) priority/as a priority              最高优先级
+(as a) priority/on (top) priority              优先的 adj/优先,优先权 n/最高优先级
 deprioritize/prioritize(fast-track) this      /praɪˈɒrətaɪz/     降低优先级别/优先处理sth,放在优先位置 v/加速推进 v
-the prod issue needs to be prioritized                 需要优先处理这个生产问题
+Prod issues always need to be prioritized       需要优先处理这个生产问题
 
 safe/safety     安全的 adj/安全 n
 secure/security     |sɪˈkjʊərəti|       安全的 adj/安全 n
 secret              |ˈsiːkrət|      秘密 adj/n
 
-respect             遵循,尊敬 v/尊敬 n
-respective                 分别,各自的 adj
-perspective/view        观点,看法 n
-retrospective                 回顾的 adj
-
-in the event of             倘若,万一
-in case of n                万一n,在n情况下
-in case 句子/to avoid n           以防...
+in case(the event) of (service outage)          万一n,在n情况下/万一服务中断
+in case (the prod issue recurs)/to avoid n           以防...
 in the/that case of n               在...情况下
 in a case like this                 像这样的情况
 
 timely/in a timely manner       及时的 adj/及时地,按时 adv
-in/on time/promptly/quickly        及时/按时/及时的,适时的 adj/及时地,迅速地 adv
+in(on) time/promptly/quickly        及时/按时/迅速地,立即 adv
 
-(apply for/take/get) a waiver      /ˈweɪvər/       豁免,放弃 n
+(apply for/get) a waiver      /ˈweɪvər/       豁免,放弃 n/申请豁免/拿到豁免
 exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
 
 (class/method/custom) annotation          注释,注解 n
@@ -166,7 +134,6 @@ complex             复杂的 adj
 complain            抱怨,投诉 v
 complicated/complicate         复杂的 adj/使复杂化 v
 companion                       同伴,伴侣 n/陪伴 v
-compliant/compliance                      合规的 adj/合规,遵守,遵从 n
 collaboration/cooperation   /kəˌlæbəˈreɪʃ(ə)n/       合作,共创,协作 n(一起做)/合作,配合 n(配合你)
 complexity/complex/complicated      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩
 compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 adj
@@ -624,6 +591,33 @@ twelve/12th/twelfth/xxxx
 yet                 否: 还没/疑问: 已经/连词: 然而
 either...or...          要么... 要么...(两者中的任意一个)
 neither...nor...        既不... 也不...(两者都不)
+
+
+(not sure if) anyone has tried/encountered it b4?         之前有人尝试(遇到)过吗？
+execute/was it executed twice     /ˈeksɪkjuːt/       执行了两次吗？
+have tried twice                       试过两次了
+have/haven't u used it b4?            你之前用过它吗
+have u heard/noticed that             你听说/注意到过吗？
+i heard the data will be ready at the end of april
+i've also heard/seen/encountered the error/a similar issue/such an issue/an issue like this b4         遇到过类似的问题
+i've heard about this/i heard that           我听说了这件事/我听说...
+
+store           储存 v/商店 n
+storage         储存,存储空间 n
+restore/revert      恢复,还原/恢复,回复 v/把东西变回原来的状态,原样
+resume      /rɪˈzuːm/       恢复,简历 v/停下后(人)继续干
+
+consists of/the plan consists of two phases     /kənˈsɪst/     由...组成
+made up of          /meɪd ʌp əv/        由...组成
+be composed of      /kəmˈpoʊz/        由...组成
+
+act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
+(regulatory) compliance/comply with (regulation)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
+obey (the rule)/obedience to (instructions)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v,n/遵守规则/遵从指令
+in line with (enterprise's principle)      遵照,符合/符合企业原则
+adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
+(fully) compliant/(regulatory) compliance (violation)       合规的 adj/合规,遵守,遵从 n/监管合规/合规违规,违反合规要求
+
 
 
 

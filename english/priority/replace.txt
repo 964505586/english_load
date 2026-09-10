@@ -13,7 +13,6 @@ kick-off/start          正式启动,开工/加速,立刻启动 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 change/changeable                          变化,变更 n/多变的 adj
 sanction/sanctioned/unsanctioned/unapproved    认可,准许,制裁,处罚 v/未获批的 adj
-regulatory compliance/compliance violation              监管的合规/合规违规,违反合规要求,违规行为 n
 percent/percentage          百分之... n/adj/adv/百分比,百分率 n
 balance exercise            平衡考量,折中方案 n
 i will be off/away/on leave next week           下周我将请假
@@ -253,11 +252,13 @@ terminate/terminal (status/outcome)/final      终止 v/终端 adj/n/终态(结�
 ever since/since then      自从,从那时起一直到现在/从那以后
 as/since/bcos/since 句子/bcos of/due to n
 in the first/second iteration(for loop)         循环/在第一次循环中
-possess/process (flow)/(asynchronous) processing   拥有/处理 v/流程,处理,程序,进程/流 n/处理流程/异步处理
 automate (devops process)        使自动化 v
 merge/combine/integrate/consolidate     合并/集成 v
 due (date/soon)/(client) deadline/overdue   到期的/到期日期/即将到期/截止日期/客户端截止时间/逾期的 adj
 inherit/expand/it could potentially be (extended)       继承/扩展/扩展,继承 v/有扩展的潜力
+possess/process (flow)/(asynchronous) processing/handle   拥有/处理 v/流程,处理,程序,进程/流 n/处理流程/异步处理
+respect/A and B handle their (respective) tasks     遵循,尊敬 v/尊敬 n/分别,各自的 adj/处理各自的任务
+perspective/view/retrospective        观点,看法 n/回顾的 adj
 
 
 
