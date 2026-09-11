@@ -211,7 +211,6 @@ guide sb on/through sth     指导某人/带sb一步步走完
 be good to do sth(at sth)      适宜,乐意做/擅长做sth
 concise/briefly     简洁的 adj/简短的,简要的 adv
 b4/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
-as appropriate/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
 just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
 I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
 release gates/gating process        发布门禁/门禁流程
@@ -241,7 +240,6 @@ if(as) so/desired/necessary/needed           如果这样/需要/必要/根据�
 reject/refuse/decline/declined          拒绝,驳回/拒绝/婉拒,礼貌谢绝 v
 always/constantly        xxx/总是,经常地,不断地
 graph/(sequence) diagram        图表,曲线图/图表,图解 n(结构,逻辑,流程)/时序图,顺序图 n
-(either)...or.../neither...nor...          要么...要么...(两者中的一个/两者都不)
 ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 avoid/prevent/in case 句子/to avoid n       避免/阻止 v/以防...
 however/but/(therefore)/so n,句子/hence n/hence,句子     因此,所以 adv
@@ -259,6 +257,9 @@ inherit/expand/it could potentially be (extended)       继承/扩展/扩展,继
 possess/process (flow)/(asynchronous) processing/handle   拥有/处理 v/流程,处理,程序,进程/流 n/处理流程/异步处理
 respect/A and B handle their (respective) tasks     遵循,尊敬 v/尊敬 n/分别,各自的 adj/处理各自的任务
 perspective/view/retrospective        观点,看法 n/回顾的 adj
+as appropriate/when you find a moment/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
+Where did u hear it's been confirmed/May I know where u heard it has been confirmed     你从哪里听说这事儿已经确认了
+(either)...or.../neither...nor.../both of them          要么...要么...(两者中的一个/两者都不)
 
 
 

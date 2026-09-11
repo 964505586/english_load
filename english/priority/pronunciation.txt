@@ -2,6 +2,7 @@ execute/was it executed twice     /ˈeksɪkjuːt/       执行了两次吗？
 multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
+allocate/allocation/assign/assignment       /ˈæləkeɪt/      分资源,钱,时间(分配)/分任务,工单,工作,人(工作)
 
 
 
@@ -109,7 +110,6 @@ stare/stares/stared/staring             /ˈsteərɪŋ/             凝视,盯着
 linkage                     /ˈlɪŋkɪdʒ/          联系 n
 withdraw request    /wɪðˈdrɔː/            撤回,撤销 v
 angle           /ˈæŋɡ(ə)l/      角度 n
-bother/don't bother (me)    /ˈbɒðə(r)/      打扰,使烦恼,使担心 v/麻烦 n/别烦我
 statistical data/analysis (summary/conclusion)         /stəˈtɪstɪk(ə)l/            统计的 adj/统计数据
 scold       /skəʊld/            责骂 v
 abbreviation        /əˌbriːviˈeɪʃn/     缩写 n
@@ -359,6 +359,7 @@ cater to (requirement)/meet/met/fit       /ˈkeɪtər/     迎合,满足/满足 
 replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,复制 v/复制/因子,系数,要素,份数/副本 n
 attest to (system stability)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明 v/声明,证据,证实,证明 n
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
+Data (warehouse) platform     /ˈwerhaʊs/     仓库 n/数据仓库平台
 
 
 
@@ -368,23 +369,7 @@ attest to (system stability)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/   
 
 
 
-Where your head it has been confirmed
-Data warehouse platform
-regarding the API used to fetch data
-When you find a moment
-Please share samples code or a curl should be fine too
-Hope the mail finds you well.
-Do extend to anyone who you think would be relevant for this conversation
-subject to approvals
-Setting this up to discuss
-which will be replicated in UAT prod subject to approvals句子成分
-subject to n            受...约束,以...为前提,须获得审批。
-Mainly we want to have clear understanding on the integration pattern
-主要希望明确集成模式
-I am not sure if I can help here【职场IM高频】我这边未必能解决该问题。
-subscription        订阅
-If issues still occur       如果仍然出现问题
-the only option is to           唯一的方案是
+
 
 retriever microservice      检索微服务
 What are the services offered in the contract
@@ -450,6 +435,18 @@ promote the integration to this environment
 Prove the connectivity and required end point call.
 
 
+In case you might not be aware Nic helps to lead and drive SAMM dashboard related work, and he has been supporting that for a long time already.
+i.e.
+implied /ɪmˈplaɪd/：adj. 隐含的
+postponed /pəʊstˈpoʊnd/：v. 推迟
+Keeping in mind, this means ready to launch."
+Offline (adv.): 线下/会外。
+separately from this invite,
+另外，除了这个会议邀请之外
+Synthetic
+docs injection
+on synthetic cases X0001 to X0010
+Aim to ensure end-to-end agent flow, including RAG injection + retravel
 
 
 

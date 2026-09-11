@@ -61,18 +61,11 @@ comment/uncomment out the piece of code     注释 v,n/取消注释/注释掉这
 (including) breaking changes      破坏性变更
 without breaking the existing feature       不破坏现有功能
 
-assign/assignment(工作 n)                 分任务,工单,工作,人
-allocate/allocation(分配)     /ˈæləkeɪt/      分资源,钱,时间
-
-in place of n         代替
-be in place         已就绪,配置到位,生效中
-get sth(remediation) in place (as requested)    落实,完成落地某事
-
 relevant/related/associated     相关的/有关联的/有关联的,相关的 adj
-accordingly/corresponding                   相应地 adv/相应的,对应的 adj
-proper/properly/appropriate                    正确地,适当地 adj/adv
+accordingly/corresponding       相应地 adv/相应的,对应的 adj
+proper/properly/appropriate     /ˈprɑːpər/      正确地,适当地 adj/adv
 
-users should exercise caution.
+users should exercise caution
 caution should be exercised when operating db   应当谨慎处理
 caution/with some caution             小心,谨慎 n/谨慎地 adv
 
@@ -440,7 +433,7 @@ it probably won't work          大概率不行
 it's probably the same/train/today(when target)       大概率相同
 high probability of a conflict          冲突的可能性很高
 
-bother      费心,使烦恼,打扰 v
+bother/don't bother (me)    /ˈbɒðə(r)/      打扰,费心,使烦恼,使担心 v/麻烦 n/别烦我
 won't bother with sth           无需处理,忽略sth
 (won't) bother doing(to do) sth     费心去做,花时间研究/懒得做,嫌麻烦不去做
 sorry to keep bothering u         很抱歉一次次打扰你
@@ -617,6 +610,10 @@ obey (the rule)/obedience to (instructions)      /əˈbeɪ/ /əˈbiːdiəns/    
 in line with (enterprise's principle)      遵照,符合/符合企业原则
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 (fully) compliant/(regulatory) compliance (violation)       合规的 adj/合规,遵守,遵从 n/监管合规/合规违规,违反合规要求
+
+will use this new API (in place of) the old one     代替
+The remediation (is in place)         已就绪,配置到位,生效中
+(We will) get sth(remediation) in place (as requested)    落实,完成落地某事
 
 
 

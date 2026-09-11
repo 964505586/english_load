@@ -92,7 +92,6 @@ programmatically                通过编程方式 adv
 miss                错过,想念 v
 standby             备用物 n
 bookmark        书签 n
-only               唯一的 adj
 queue               排队 v
 per                     每,每一,按照,根据
 reverse                     相反的 adj
@@ -250,6 +249,7 @@ correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整
 while       当..的时候,当..同时,然而,虽然..但是..
 workshop/workplace/workstation      车间,工场,作坊 n/办公室,工厂/工作站 n
 rework/work overtime/final bit of work     返工 v,n/加班/收尾工作 n
+(kindly check the status of you) subscription     订阅 n/检查你的订阅状态
 
 
 

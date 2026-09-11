@@ -331,7 +331,7 @@ let me add/park an agenda item for the call tmr         把这个议题加到明
 multiple staff's requests within a single submission        一个提交中多个人请求
 if any of ur tickets is (in either of these columns)          如果你任何一张票/在这两列中的任意一列里
 if doing sth needed(using an alternative solution needed)       如果需要替代方案
-escalate the kind of issue (only when it is urgent)    仅在紧急情况下
+escalate the kind of issue (only when urgent)    仅在紧急情况下
 Infra team (is best placed to) resolve the network issue       最适合做某事
 主句 with n doing/without doing sth     跟着,某人做某事,拆分主次/不做sth
 you'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
@@ -367,6 +367,17 @@ only exact c1/c2/c3 should pass     精确的,完全匹配的 adj/只有b1/b2/c1
 will get/have a head‑start(early advantage/good starting point)       将会占据先机,良好的起点
 I'd like to get the info ahead of time for preparation(for my advance reference)        提前做准备/供预先参考
 expose sb to sth/the mistake will expose our system to security risks       使sb直面,遭受某事/将使系统面临安全风险
+plz share sample code, or(Alternatively,) a curl would/should be fine too        或者，提供curl也可以
+regarding the API used to fetch data        关于用于获取数据的API
+Feel free to loop in anyone (who is) relevant        请把call同步给你认为相关的人员
+Setting this up to discuss sth     安排本次会议/建这个群，是为了...
+which will be replicated in prod env, (subject to) approval     受...约束,以...为前提/须经批准
+Mainly we want (to have) a clear understanding on the integration pattern       主要希望明确集成模式
+not sure if I can help here(with this)        我这边未必能提供帮助
+If issues still occur        如果仍然出现问题
+it won't take much time     不会花太多时间
+if only (u could correct ur behavior)       要是...就好了/只要你能纠正自己的行为
+it's the only way/option to ensure the safety      唯一的 adj//确保安全的唯一办法,方案
 
 
 
