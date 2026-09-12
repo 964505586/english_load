@@ -62,7 +62,6 @@ edition/version                     版本 n
 may/can
 seem/look/sounds like good/fine
 isn't it(主语是it, right?)
-see/catch u later
 by today/tomorrow/afternoon(by the end of day)               今天之内,明天下午前
 i misunderstood(i got it/u wrong)             我理解错了/我理解错你意思了
 at least/minimum/maximum/including at minimum:          至少 adv/至少包含
@@ -155,7 +154,6 @@ be due to/caused by       归因于,由...导致/由...引起
 consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
 (problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
 discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
-explore/exploration/discover             探索,研究,排查 v/n
 i (just) saw/noticed that     刚注意到
 local/native        本地的,当地的/原生的 adj/n
 (core) concept/definition/overview     (核心)概念/定义 n/概述,简述 v/n
@@ -261,6 +259,11 @@ as appropriate/when you find a moment/as(whenever) u see fit      酌情,按照�
 need/demand/requirement/require/request
 conclude (with)/(current/data discrepancy) conclusion/summary      断定，推断出,结束,敲定/以...作为结尾 v/结论 n/总结,概要 n/adj
 voice/noise/sound            人的声音(噪音)/讨厌的声音(噪音)/xxxxx
+see/catch u then/later/next time          到时候见,下次见,回头见,待会见
+explore (option)/exploration/discover       /ɪkˈsplɔːr/     探索,研究,排查 v/n/发现,找到 v/研究备选方案
+obtain/gain/get (approval)          /əbˈteɪn/       得到,获得/获取审批
+
+
 
 
 

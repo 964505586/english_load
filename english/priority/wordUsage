@@ -133,11 +133,6 @@ compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 a
 competitor/(fairly) competition     /kəmˈpetɪtə(r)/     竞争者,对手 n/竞争,(公平的)比赛 n
 compile/compare/comparison     /kəmˈpaɪl/         编译,编制 v/比较
 
-
-adapt/compatible       适应,调整 v
-compatible/compatibility/make the code compatible       兼容的 adj/兼容性 n/使代码兼容
-adjust/modify the code for(to ensure) compatibility                     调整代码做兼容/修改代码以确保兼容
-
 appear/disappear                        出现/消失 v(人,物出现)
 occur                                   发生,出现 v(事情发生,正式发生)
 happen                                  意料之外(accident)
@@ -366,11 +361,6 @@ be equivalent (to)         等价于,等同于,相当于
 match/correspond to       对应,匹配,指向
 point to/towards            指向(中性)
 
-see             结果
-watch           长时间        观看电影
-look            方向
-look at/to sth      过程,近/远
-
 mean/meant/meaning/means        意味,打算 v/意思 n
 mean doing(to sth)            意味着/故意
 meaningful/meaningless      有意义的 adj/无意义的 adj
@@ -494,11 +484,6 @@ start‑up (flow/company)      /ˈstɑːtʌp/     新成立的,刚创办的 adj/
 start out/starting      着手 v/起始的,开始的 adj
 issues occurs when starting up the backend service      启动后端服务时出现错误
 
-go/work/walk through/walkthrough            过一遍/解决/完整讲解,分步演示v/n
-walk sb through sth/Could u walk me through the catalogue     能否带我梳理一遍
-let's go through tickets first              我们先处理一下票务的事
-we've completed the work through/have gone thru all the tickets     已经完成了walkthrough
-
 clear/clean/cleanup/removal        /ˈklinˌʌp/      清除 v,n/清理,整理,梳理 n/移走,去掉 n
 move/remove/shift       挪动,更改/移除,删掉/移动,转移,偏移,延后
 
@@ -555,12 +540,6 @@ everywhere      到处 adv/每个地方 n
 plz check the part(key points) highlighted in yellow     查看标黄部分
 (marked/highlighted) part/area/section/paragraph        部分/区域,块/部分,章节,大段/那一个自然段
 
-identity/identify       身份 n/认出,识别 v
-(issue) identified      被识别的 adj/识别到的问题
-identifier     /aɪˈdentɪfaɪə(r)/       标识符 n
-identical        完全相同 adj
-identification      识别,确认 n
-
 combine/combination     结合,合并
 integrate/integration/merge     集成,合并,成为一体 v/n
 consolidate/consolidated        合并,汇总,使巩固 v/合并的,统一的 adj
@@ -600,10 +579,6 @@ storage         储存,存储空间 n
 restore/revert      恢复,还原/恢复,回复 v/把东西变回原来的状态,原样
 resume      /rɪˈzuːm/       恢复,简历 v/停下后(人)继续干
 
-consists of/the plan consists of two phases     /kənˈsɪst/     由...组成
-made up of          /meɪd ʌp əv/        由...组成
-be composed of      /kəmˈpoʊz/        由...组成
-
 act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
 (regulatory) compliance/comply with (regulation)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
 obey (the rule)/obedience to (instructions)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v,n/遵守规则/遵从指令
@@ -611,9 +586,28 @@ in line with (enterprise's principle)      遵照,符合/符合企业原则
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 (fully) compliant/(regulatory) compliance (violation)       合规的 adj/合规,遵守,遵从 n/监管合规/合规违规,违反合规要求
 
+go/work/walk through/walkthrough            过一遍/解决/完整讲解,分步演示v/n
+walk sb through sth/Could u walk me through the catalogue     能否带我梳理一遍
+let's go through tickets first              我们先处理一下票务的事
+we've completed the work through/have gone thru all the tickets     已经完成了walkthrough
+
 will use this new API (in place of) the old one     代替
 The remediation (is in place)         已就绪,配置到位,生效中
 (We will) get sth(remediation) in place (as requested)    落实,完成落地某事
+
+the plan (consists of) two phases     /kənˈsɪst/     由...组成
+The workflow (is made up of) three phases          /meɪd ʌp əv/        由...组成
+The dataset (is composed of) real contract records      /kəmˈpoʊz/        由...组成
+
+Adapt (existing code for new workflow)/compatible       适应,调整 v
+(make the code) compatible/compatibility       兼容的 adj/兼容性 n/使代码兼容
+adjust/modify the code (for/to ensure) compatibility/fit        调整代码做兼容,匹配
+
+identity/identify       身份 n/认出,识别 v
+(issue) identified/confirmed      被识别的,已确定的 adj/识别到的问题
+identifier     /aɪˈdentɪfaɪə(r)/       标识符 n
+identical        完全相同 adj
+identification      识别,确认 n
 
 
 

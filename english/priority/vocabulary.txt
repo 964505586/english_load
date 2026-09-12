@@ -49,7 +49,6 @@ datapoint           数据点 n
 re-platform         平台重构,系统迁移 n
 somewhat            稍微,有点 adv
 maintain                            保持,维持,维护 v
-clarify/clarity                         澄清,阐明,明确 v/清晰 n
 role                角色,作用,职责 n
 given n/that/time                    鉴于,考虑到.../给定的时间
 presence        出席 n
@@ -254,6 +253,9 @@ while       当..的时候,当..同时,然而,虽然..但是..
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 fright/frighted/frighting/frighten/frightened/frightening      使惊恐 v/惊骇,恐怖 n/使惊吓,使惊恐 v
 east/south/west/north       /iːst/ /saʊθ/ /west/ /nɔːrθ/        东,南,西,北
+later (stage/production access)     后续阶段/后续生产环境访问权限
+clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
+
 
 
 

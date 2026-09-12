@@ -102,7 +102,6 @@ preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
 scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 urge        /ɜːdʒ/            敦促,催促 v
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
-obtain/gain/get                  /əbˈteɪn/   得到,获得
 shown                   /ʃəʊn/
 hotkey          快捷键 n       /hɒt/
 editable            /ˈedɪtəbl/          可编辑的 adj
@@ -213,7 +212,7 @@ point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件
 manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/成功做sth/我成功解决了这个问题
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 n/v/暴露
 outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv
-assess/assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n/进化
+assess/(impact) assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n/进化/影响评估
 rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/旋转,转动 n/值班名册,轮值表
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
@@ -224,7 +223,6 @@ The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     �
 diary invites       /ˈdaɪəri/        日历会议邀请
 mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就,协调配合 v/协调,配合 v,n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
-(assess system) fitment     /ˈfɪtmənt/      适配,匹配度 n
 rationale       /ˌræʃəˈnæl/         根本原因,逻辑依据
 pharmacy        /ˈfɑːrməsi/         药店,药房
 reconvene       /ˌriːkənˈviːn/      再召集,再聚会
@@ -288,7 +286,7 @@ i've been fully swamped/occupied recently   /swɒmpt/ /ˈɒkjupaɪd/     最近�
 instant/instantly/instantiate (service instance/class object)       /ɪnsˈtænʃɪeɪt/     立刻,马上 adj/adv/实例化,例示,举例说明 v
 telemetry       /təˈlemətri/        遥测,远程采集测量数据 n
 in the near/(foreseeable) future/a brilliant ~    /fɔːrˈsiːəb(ə)l/    可预知,可预料的 adj/可预见的未来/在不久的将来/光明的未来
-is this (doable) for Nov go‑live/feasible/feasibility      /ˈduːəbl/      可实现的/可行的 adj/可行性 n
+is this (doable) for Nov go‑live/feasible/feasibility (study)      /ˈduːəbl/      可实现的/可行的 adj/可行性 n/可行性研究
 exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 cascade (down further)/extend to people     /kæˈskeɪd/      逐级下发,连续传递 v/转发扩散给其他人
 questionnaire/Survey       /ˌkwestʃəˈner/       问卷,调查表/调查,调研 n
@@ -350,6 +348,7 @@ environment visuals      /ˈvɪʒuəl/     环境架构图示(IT架构,云,DevOp
 procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
 parallelly/(in) parallel(meanwhile/simultaneously)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 realistic (question)     /ˌriːəˈlɪstɪk/         务实的，实事求是的,实际的/实际的问题
+(assess system) fit/fitment/compatibility     /ˈfɪtmənt/      适配,匹配度 n/评估系统匹配度/兼容性
 
 
 
@@ -357,20 +356,6 @@ realistic (question)     /ˌriːəˈlɪstɪk/         务实的，实事求是�
 
 
 
-
-
-test with dummy data and compile a set of realistic questions for actual contract IDs to be sent back for sample output是不是有点拗口啊？这个怎么感觉？
-assess impact and feasibility评估影响与可行性
-Identified      确定的
-Confirmed
-Assess the impact and feasibility of including
-arrange a follow‑up meeting if needed.
-later production access后续？
-at a later stage        后续阶段
-with Herbert noting that ....
-clarified           澄清
-explore options     研究可行方案
-obtain approval     获取审批
 focusing on         聚焦于
 sit in
 pending from sb         等待某人输出/处理
@@ -378,20 +363,17 @@ Siddharth explained that while currently only 4 regions and global tag contracts
 Contract Scope Expansion Discussion
 regular contracts
 dynamic nature      动态可变的特性
-though但
+though          但
 amendments          合同修订
 call‑offs       子订单、分拨订单
 committed to doing sth          承诺做某事
 promote the integration to this environment
 Prove the connectivity and required end point call.
-
-
 In case you might not be aware Nic helps to lead and drive SAMM dashboard related work, and he has been supporting that for a long time already.
-i.e.
-implied /ɪmˈplaɪd/：adj. 隐含的
-postponed /pəʊstˈpoʊnd/：v. 推迟
+implied         隐含的
+postponed       推迟
 Keeping in mind, this means ready to launch."
-Offline (adv.): 线下/会外。
+Offline         线下,会外
 separately from this invite,
 另外,除了这个会议邀请之外
 Synthetic
