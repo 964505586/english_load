@@ -82,7 +82,6 @@ data ingestion          数据接入,摄取 n
 user base           用户群
 retrospective           追溯性,回顾的 adj
 precaution             预防措施 n
-almost              几乎,差不多
 freeze/freezes/froze/frozen         卡死,冻结,无响应
 logical             合情合理的,合乎逻辑的 adj
 real-time/in real time                 实时的 adj/adv
@@ -141,7 +140,6 @@ tip     小技巧,最新提交(git专业术语: 分支末端最新提交节点)
 mini fund       小额理财基金
 (your) hours worked       你的工作时长
 functional manager          职能经理
-capture         采集,捕获,截取 v
 affected        受影响的 adj
 refactor        重构 v/n
 in correct sort order       正确的排序顺序
@@ -232,7 +230,6 @@ in turn/service a calls b, which in turn queries DB     继而,依次,轮流,相
 preload     预加载,预载 v
 chase/chased/chasing       跟进,催促 v
 The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
-newly generated artifact(reasoning summary)        工件 n/新生成的工件/生成推理摘要
 developer usage acknowledgement         承认,感谢,应答回执 n/开发者使用承诺书
 instead     相反
 pilot(proof of Concept)        试点的 adj/试点 n/概念验证
@@ -246,10 +243,17 @@ a set of column/row(column) filter        一组列/行,列筛选器
 inbox/outbox        收件箱/发件箱
 correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整改措施/正确地 adv
 (integration) pattern     模式,方式,样式 n/集成模式
-while       当..的时候,当..同时,然而,虽然..但是..
 workshop/workplace/workstation      车间,工场,作坊 n/办公室,工厂/工作站 n
 rework/work overtime/final bit of work     返工 v,n/加班/收尾工作 n
 (kindly check the status of you) subscription     订阅 n/检查你的订阅状态
+capture/captured actions        体现,采集,捕获,截取 v/记录下来的行动项
+(newly generated) artifact        工件 n/新生成的工件
+model‑generated reasoning summary       模型生成推理摘要
+go/went/gone        /went/
+while       当..的时候,当..同时,然而,虽然..但是..
+(retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
+fright/frighted/frighting/frighten/frightened/frightening      使惊恐 v/惊骇,恐怖 n/使惊吓,使惊恐 v
+east/south/west/north       /iːst/ /saʊθ/ /west/ /nɔːrθ/        东,南,西,北
 
 
 

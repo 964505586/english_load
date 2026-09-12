@@ -168,8 +168,6 @@ recall/remember/memorize (to)        记起,回想起,撤回/记得,记起/记�
 kind/type/category          种类/类型/类别 n
 align/alignment/misalignment/consistent        对齐 v/n
 detect/identify/check     探测,检测(脚本自动查)/认出,识别,定位/检查 v
-conclude/conclusion/summary                 得出结论,敲定,结束 v/结论 n/总结,概要 n/adj
-the current conclusion/data discrepancy conclusion         目前的结论,现阶段结论/数据差异结论
 rate/traffic        流量,速率,速度,比率 n/交通,流量 n
 enterprise/corporation/company/accompany       企业,事业单位 n/大企业,集团 n/公司,陪伴 n/伴随,附带 v
 it/system/program throw/threw failure error/exception       抛出错误/异常
@@ -258,8 +256,11 @@ possess/process (flow)/(asynchronous) processing/handle   拥有/处理 v/流程
 respect/A and B handle their (respective) tasks     遵循,尊敬 v/尊敬 n/分别,各自的 adj/处理各自的任务
 perspective/view/retrospective        观点,看法 n/回顾的 adj
 as appropriate/when you find a moment/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
-Where did u hear it's been confirmed/May I know where u heard it has been confirmed     你从哪里听说这事儿已经确认了
+(Where did u hear/May I know where u heard) it's been confirmed     你从哪里听说这事儿已经确认了
 (either)...or.../neither...nor.../both of them          要么...要么...(两者中的一个/两者都不)
+need/demand/requirement/require/request
+conclude (with)/(current/data discrepancy) conclusion/summary      断定，推断出,结束,敲定/以...作为结尾 v/结论 n/总结,概要 n/adj
+voice/noise/sound            人的声音(噪音)/讨厌的声音(噪音)/xxxxx
 
 
 

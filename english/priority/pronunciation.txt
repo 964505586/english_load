@@ -3,28 +3,16 @@ multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
 allocate/allocation/assign/assignment       /ˈæləkeɪt/      分资源,钱,时间(分配)/分任务,工单,工作,人(工作)
-
-
-
-erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
+W/C 11 Aug      week commencing/starting     /kəˈmensɪŋ/        8月11日(周一)开始的那一周(8.11‑17)/开始,着手 n
 periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
-execution/executive/executable        /ɪɡˈzekjətɪv/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
+execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /ˌeksɪˈkjuːtəbl/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
-(retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
-sophisticated           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
-decent      /ˈdiːsnt/      像样的 adj
 awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
-shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
-differ          /ˈdɪfər/            不同于 v
-catalyst        /ˈkætəlɪst/         优化器,催化剂
 big/large/huge/giant       /ˈdʒaɪənt/          巨大的,伟大的 adj
 compute/computation/calculate/calculation         /kəmˈpjuːt/         运算,测算 v/计算,核算 v
-truncate        /ˈtrʌŋkeɪt/        截断,截短 v
-reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
-merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
-bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnəs/      显而易见的,明显的 adj/缓慢,迟钝 n/持续数分钟卡顿
-(on-demand) burst/bursting          /bɜːst/         爆炸,猛冲,涨满,突发扩容,瞬时带宽扩容 n/按需的 adj
+merely/simply/just/exclusively/solely      /ˈmɪrli/ /ˈsəʊlli/        仅仅,只 adv/仅仅/只,仅仅,排他地,独有地 adv/单独地,仅有地,仅仅,唯独 adv
+(on-demand) burst/bursting          /bɜːst/         爆炸,猛冲,涨满,突发扩容,瞬时带宽扩容 n/按需的 adj/按需扩容
 progressive/progressively/gradually/step by step     /prəˈɡresɪv/        逐步发生的,逐步发展的 adj/逐渐地,逐步地 adv/逐步 adv
 slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,ppt/一整套
 firmware        /ˈfɜːmweə(r)/        固件,硬件 n
@@ -44,9 +32,6 @@ discard/dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,�
 stay tuned/plz bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 opt out of      /ɒpt aʊt əv/      选择退出 v
-fellow      /ˈfeləʊ/              同类的,同伴的 adj
-commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
-use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
 ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
 fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
 (unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
@@ -198,7 +183,7 @@ malformed (date)       /ˌmælˈfɔːrmd/       畸形的 adj
 idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/      闲置,空闲 adj/空闲自动扫描
 without (explanatory) comment     /ɪkˈsplænətɔːri/      解释 adj/无解释性评论
 minor/minority/major/majority     /ˈmaɪnə(r)/ /maɪˈnɔːrəti/     较小的,次要的 adj/未成年人 n/少数 n/adj/大多数
-most/almost/majority    /məˈdʒɒrəti/        很多 adj/adv/近全满 adv/必过半 adj/n
+most/almost/majority    /məˈdʒɒrəti/        很多 adj,adv/近全满(几乎,差不多) adv/必过半 adj,n
 mass/massive/at scale        /ˈmæsɪv/        大规模的/巨大的,大规模的 adj/adv
 purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
@@ -236,7 +221,6 @@ revised/rectified/modified/edited/updated/changed       /ˈedɪtɪd/       修�
 verify/verification/validate/validation     /ˈvælɪdeɪt/     验证,核实/确认,验证 v/n
 deduct/deducted     /dɪˈdʌkt/        减去,扣除 v
 The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     交付截止时间为8月5那一周
-procurement     /prəˈkjʊrmənt/      采购,购买 n
 diary invites       /ˈdaɪəri/        日历会议邀请
 mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就,协调配合 v/协调,配合 v,n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
@@ -260,7 +244,6 @@ provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提�
 on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
 (secret/dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n/密钥,依赖解析
 (contract) hierarchy/level      /ˈhaɪərɑːrki/      层级 n/合同层级
-(retriever) microservice        /ˈmaɪkrəʊsɜːvɪs/      微服务/检索微服务
 deprecated      /ˈdeprəkeɪtɪd/      已废弃的 adj
 (protect) privacy (policy/protection)/private       /ˈprɪvəsi/      隐私 n/私有的 adj/隐私政策
 alternatively(or)/alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
@@ -291,10 +274,8 @@ any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
 imagine/imaginary/imagination/image       /ɪˈmædʒɪneri/       想像,设想 v/想象的,虚构的 adj/想像力,想像/镜像 n
 (in) reality/actually (not)     /riˈæləti/      真实,现实 n/实际上,事实上/实际上不是
 represent/stand for/representative/on behalf of QA team     /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/     代表 v/n
-parallelly/(in) parallel(in the meanwhile/meantime)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 meanwhile/at the same time/simultaneously    /ˌsɪm(ə)lˈteɪniəsli/        与此同时 adv/同时/同时 adv(正式)
 (acceptance) criteria/standard       /kraɪˈtɪəriə/       标准 n/验收标准
-eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
 mitigate (the risk of service outage)/mitigation/eliminate       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险/剔除,根除 v
 convert momentum into measurable outcomes     /moʊˈmentəm/ /ˈmeʒərəbl/       势头,冲力,推力 n/可量化的 adj/将发展势能转化为可量化成果
 overlap/conflict/clash/clashes/clashed/clashing      /ˌoʊvərˈlæp/ /ˈklæʃɪŋ/       重叠 v/冲突 v/n
@@ -360,6 +341,15 @@ replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,�
 attest to (system stability)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明 v/声明,证据,证实,证明 n
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
 Data (warehouse) platform     /ˈwerhaʊs/     仓库 n/数据仓库平台
+(contract) hierarchy      /ˈhaɪərɑːrki/          合同层级结构
+citation        /saɪˈteɪʃ(ə)n/        引用,引证,引文
+i think (the line between) POC and pilot is (getting/becoming blurred)      /blɜːrd/      A与B之间的界限/变得模糊
+We plan to finish the retriever (microservice) development w/c 11 Aug     /ˈmaɪkrəʊsɜːvɪs/      微服务/计划8月11开始那周完成检索微服务开发
+environment visuals      /ˈvɪʒuəl/     环境架构图示(IT架构,云,DevOps场景)
+, with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
+procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
+parallelly/(in) parallel(meanwhile/simultaneously)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
+realistic (question)     /ˌriːəˈlɪstɪk/         务实的，实事求是的,实际的/实际的问题
 
 
 
@@ -369,57 +359,19 @@ Data (warehouse) platform     /ˈwerhaʊs/     仓库 n/数据仓库平台
 
 
 
-
-
-retriever microservice      检索微服务
-What are the services offered in the contract
-that are offered
-contract hierarchy 合同层级结构
-i.e. = that is 也就是
-Captures        体现
-citation        出处引用标注
-model‑generated reasoning summary模型生成推理摘要
-where you heard it's been confirmed
-Where did you hear that this has been confirmed
-the info I got was it will be done by end of Sep
-i think the line between poc and pilot are (getting blurred)      变得模糊
-the line between A and B  A与B之间的界限
-
-you should have a good starting point
-environment visuals     环境架构图示
-go through      讨论、过一遍、审阅
-went through
-go went gone？
-with particular emphasis on重点在于……
-with particular emphasis on testing latency
-latency     网络/接口延迟
-address limitations 探讨、处理限制问题
-noting that while
-Require
-concluded with      以……作为结论
-are in place        落实到位、审批完成
-followed by UAT environment testing
-approvals are in place.
-compile a list of整理、编制清单
-realistic questions 贴近真实业务的测试问题
 test with dummy data and compile a set of realistic questions for actual contract IDs to be sent back for sample output是不是有点拗口啊？这个怎么感觉？
-procurement team            采购团队
 assess impact and feasibility评估影响与可行性
 Identified      确定的
 Confirmed
 Assess the impact and feasibility of including
-captured actions 记录下来的行动项
 arrange a follow‑up meeting if needed.
-test latency and response times     测试延迟、响应时间
 later production access后续？
 at a later stage        后续阶段
 with Herbert noting that ....
-in parallel     并行地、同步
 clarified           澄清
 explore options     研究可行方案
 obtain approval     获取审批
 focusing on         聚焦于
-eliminating the need for        省去、无需做某事
 sit in
 pending from sb         等待某人输出/处理
 Siddharth explained that while currently only 4 regions and global tag contracts are available in their Contract Assistant system
@@ -430,7 +382,6 @@ though但
 amendments          合同修订
 call‑offs       子订单、分拨订单
 committed to doing sth          承诺做某事
-compile a list of       编制清单
 promote the integration to this environment
 Prove the connectivity and required end point call.
 
@@ -442,13 +393,28 @@ postponed /pəʊstˈpoʊnd/：v. 推迟
 Keeping in mind, this means ready to launch."
 Offline (adv.): 线下/会外。
 separately from this invite,
-另外，除了这个会议邀请之外
+另外,除了这个会议邀请之外
 Synthetic
 docs injection
 on synthetic cases X0001 to X0010
 Aim to ensure end-to-end agent flow, including RAG injection + retravel
 
 
+
+erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
+eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
+eliminating the need for        省去、无需做某事
+sophisticated/xxxx           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
+shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
+decent      /ˈdiːsnt/      像样的 adj
+differ          /ˈdɪfər/            不同于 v
+catalyst        /ˈkætəlɪst/         优化器,催化剂
+truncate        /ˈtrʌŋkeɪt/        截断,截短 v
+reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
+bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
+fellow      /ˈfeləʊ/              同类的,同伴的 adj
+commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
+use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
 
 
 
