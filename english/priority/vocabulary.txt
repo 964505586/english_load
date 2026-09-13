@@ -255,7 +255,10 @@ fright/frighted/frighting/frighten/frightened/frightening      使惊恐 v/惊�
 east/south/west/north       /iːst/ /saʊθ/ /west/ /nɔːrθ/        东,南,西,北
 later (stage/production access)     后续阶段/后续生产环境访问权限
 clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
-Contract Scope Expansion Discussion     合同范围扩展讨论
+(Let’s discuss this) offline      线下,会外 adv
+(docs/SQL/prompt) injection      注射,注入 n
+procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
+
 
 
 

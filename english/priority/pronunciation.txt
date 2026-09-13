@@ -1,5 +1,7 @@
 execute/was it executed twice     /ˈeksɪkjuːt/       执行了两次吗？
+execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /ˌeksɪˈkjuːtəbl/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
 multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
+validate/validation/verify/verification/prove     /ˈvælɪdeɪt/     确认,验证/验证,核实 v,n/证实，证明 v
 
 
 
@@ -41,7 +43,6 @@ vendor      /ˈvendə(r)/     供应商
 disciplinary (action)       /ˌdɪsəˈplɪnəri/        纪律处分
 circumstance/scenario/situation     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
 snooze      /snuːz/     小睡,打盹儿,延后提醒 v/n
-postpone/postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 rollout     /ˈrəʊlaʊt/         推广,试运行 n
 nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
 logistics       /ləˈdʒɪstɪks/       运维,后勤资源 n
@@ -130,7 +131,6 @@ readiness/ready     /ˈredinəs/     准备就绪状态 n
 dig out     /dɪɡ aʊt/         找出,挖掘出 v
 we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
-fast-track/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进
 reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
 disk space      /dɪsk/      磁盘空间
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
@@ -212,7 +212,6 @@ rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
 anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
 revised/rectified/modified/edited/updated/changed       /ˈedɪtɪd/       修订过的,编辑过的 adj
-verify/verification/validate/validation     /ˈvælɪdeɪt/     验证,核实/确认,验证 v/n
 deduct/deducted     /dɪˈdʌkt/        减去,扣除 v
 The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     交付截止时间为8月5那一周
 diary invites       /ˈdaɪəri/        日历会议邀请
@@ -289,7 +288,6 @@ neglect/overlook/ignore      /nɪˈɡlekt/      无意,疏忽/有意 v
 malicious (request)       /məˈlɪʃəs/          恶意的,恶毒的 adj/恶意请求
 embrace an agile spirit     /ɪmˈbreɪs/ /ˈædʒ(ə)l/      拥抱,欣然接受,乐意采纳 v/敏捷的,灵活的 adj/秉持敏捷理念,拥抱敏捷精神
 alone/along (with)/among(between) teams   |əˈləʊn|       独自的 adj/adv/沿着/和...一起/在...当中 prep/在各个团队之间
-facilitate (bug fixes)/push/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/加速推进 v
 experience/undergo   /ˌʌndəˈɡəʊ/     经历,经受 v/(艰难,痛苦,漫长,被动承受的事)
 presume/assume/suppose/if/assumption     /prɪˈzuːm/         推测,假设 v/假设 v
 enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
@@ -339,7 +337,6 @@ i think (the line between) POC and pilot is (getting/becoming blurred)      /bl�
 We plan to finish the retriever (microservice) development w/c 11 Aug     /ˈmaɪkrəʊsɜːvɪs/      微服务/计划8月11开始那周完成检索微服务开发
 environment visuals      /ˈvɪʒuəl/     环境架构图示(IT架构,云,DevOps场景)
 , with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
-procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
 parallelly/(in) parallel(meanwhile/simultaneously)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 realistic (question)     /ˌriːəˈlɪstɪk/         务实的,实事求是的,实际的/实际的问题
 (assess system) fit/fitment/compatibility     /ˈfɪtmənt/      适配,匹配度 n/评估系统匹配度/兼容性
@@ -353,30 +350,14 @@ adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     
 exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
 allocate/allocation/assign/assignment       /ˈæləkeɪt/      分资源,钱,时间(分配)/分任务,工单,工作,人(工作)
 W/C 11 Aug      week commencing/starting     /kəˈmensɪŋ/        8月11日(周一)开始的那一周(8.11‑17)/开始,着手 n
-execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /ˌeksɪˈkjuːtəbl/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
+(commit/committed) to doing/(make a) promise/commitment       /kəˈmɪtmənt/      承诺 v/v,n/承诺做某事/承诺,保证 n
+postpone/postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
+dummy/mock/synthetic        /sɪnˈθetɪk/     假的 adj/人造的,模拟的
 
 
 
-
-
-
-
-committed to doing sth          承诺做某事
-promote the integration to this environment
-Prove the connectivity and required end point call.
-In case you might not be aware Nic helps to lead and drive SAMM dashboard related work, and he has been supporting that for a long time already.
-implied         隐含的
-postponed       推迟
-Keeping in mind, this means ready to launch."
-Offline         线下,会外
-separately from this invite,
-另外,除了这个会议邀请之外
-Synthetic
-docs injection
-on synthetic cases X0001 to X0010
-Aim to ensure end-to-end agent flow, including RAG injection + retravel
 
 
 
@@ -390,7 +371,6 @@ truncate        /ˈtrʌŋkeɪt/        截断,截短 v
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 fellow      /ˈfeləʊ/              同类的,同伴的 adj
-commitment      /kəˈmɪtmənt/            承诺,保证,忠诚,献身, n
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
 
 

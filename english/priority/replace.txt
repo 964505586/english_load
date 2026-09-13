@@ -18,7 +18,6 @@ balance exercise            平衡考量,折中方案 n
 i will be off/away/on leave next week           下周我将请假
 proceed with(carry on) sign-off/production release            继续做,接着推进 v
 monitored/an external monitor       受监控的 adj/外接显示器 n
-commit to/promise(make a promise)      承诺 v
 please/kindly
 to be precise/more accurately/strictly speaking     准确来说/严格,严谨的说
 focus/focus on          重点 n/专注于 v
@@ -33,7 +32,6 @@ homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟,伙伴/乡亲�
 looks fine/seems all good/looks no problem
 recommended action/solution      推荐操作,方案
 present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
-dummy/mock                       假的 adj
 ideal/normal                        理想的,最佳的/正常的,标准的 adj
 at ur convenience/if u get a chance     你有空的时候
 self/internal/(my/our own) check            自测

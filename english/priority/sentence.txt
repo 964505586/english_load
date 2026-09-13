@@ -188,7 +188,6 @@ let's hang over (the work) to Jack     接下来交给杰克来讲,现在请杰�
 it's a scenario we didn't cover b4/the situation wasn't covered     这情况之前未曾涉及
 left a note/remark in my calendar             在日历里添加了备注
 guides are available here          在此处可用,可查看
-i'll meet Jack offline           线下会面
 the first three are             前三个是
 the process may take (up to) 40 days        大概需要40天/最长可达40天,耗时最多40天
 enablement & adoption sessions            赋能培训 & 落地推广会议
@@ -351,7 +350,7 @@ the column hasn't been added yet                这一列还没被加上
 using a command/get result using Postman        方式状语/使用Postman获取结果
 raised concerns about       对sth提出顾虑
 Raw data goes through (data refinery) b4 feeding into AI model       数据精炼
-proceed with (subsequent/follow-up/next) steps(actions)/we will go from there   从这里继续往下推进,继续开展后续工作
+proceed with subsequent/follow-up/next step/action/we will go from there   从这里继续往下推进,继续开展后续工作
 ur CR is almost out of time     CR快超时了
 I will (get back on the case) next week       下周会(重新处理此事)
 i think the Monday call is not needed if the agenda is just for data access     如果议程仅是讨论数据权限,那我认为周一会议没有必要开
@@ -378,14 +377,21 @@ the info I got was it would be done by end of Sep        我得到的信息是�
 will get/have a head‑start(early advantage/good starting point)       将会占据先机,良好的起点
 noting that while the POC is low effort, the pilot will require more resources      需要指出的是,虽然POC工作量不大,但试点项目会要更多资源
 need to test latency and response times (under high load/for the retriever microservice)        延迟 n/测试延迟和响应时间
-, (followed by) UAT env testing     其后紧接着；接着是/接着开展UAT测试
+, (followed by) UAT env testing     其后紧接着,接着是/接着开展UAT测试
 (compile a list of) action items from the meeting        整理,编制清单/整理会议的待办事项清单
 (assess/evaluate the impact and feasibility of including) new field        评估影响与可行性
 hope (it/this/that) helps(hope this clarifies)                 希望这有帮助/希望这能解释清楚
-, (with Jack noting/indicating that) compatibility with legacy services is critical      指出,提到/表明/提到与旧服务的兼容性至关重要
+, (with jack noting/indicating that) compatibility with legacy services is critical      指出,提到/表明/提到与旧服务的兼容性至关重要
 , (focusing on reducing) downtime       重点是(缩短停机时间)
 eliminating the need to raise data visa        省去,无需做某事
-The plan looks good, though I'm (thinking/wondering) if approval is still required      不过,可是,然而/我(在想/想知道)...
+the plan looks good, though i'm (thinking/wondering) if approval is still required      不过,可是,然而/我(在想/想知道)...
+in case you’re not aware, jack helps lead and drive work related to back-service     以防你不了解,jack牵头推进后端服务相关工作
+he has already been supporting this for a long time     他长期一直在负责这个
+(keep in mind that) synthetic docs are only used for test scenarios       请记住/仅用于测试场景
+we’ve validated endpoint connectivity. (with this in mind,) we can promote integration into uat     考虑到...
+(keeping in mind that) the system only supports global tag contracts, we need extra development for regular contracts   考虑到这一点
+the detailed agenda will be sent (separately from the invite)      独立于..之外，和..分开/详细议程将独立于本次会议邀请另行发送
+(aim to) ensure end-to-end agent flow, covering docs injection and retrieval        旨在(保障端到端agent链路，包含rag文档注入与检索环节)
 
 
 
