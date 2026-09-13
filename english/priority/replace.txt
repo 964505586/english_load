@@ -125,7 +125,6 @@ local/native
 ever/b4            强调有没有过/强调在这之前
 override/overwrite            覆盖,重写(方法)/覆盖文件,数据
 blank/empty     表面空白(纸,屏幕,脑子)/内部空无一物(杯子,房间,盒子)
-feature/function         特点,特性,功能 n/起作用,运转 v/功能 n
 record/entry/item/term/entity                 记录/条目/项/条款/实体 n
 conduct/keep monitoring closely              实施,进行 密切监控 v
 conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
@@ -238,7 +237,6 @@ always/constantly        xxx/总是,经常地,不断地
 graph/(sequence) diagram        图表,曲线图/图表,图解 n(结构,逻辑,流程)/时序图,顺序图 n
 ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 avoid/prevent/in case 句子/to avoid n       避免/阻止 v/以防...
-however/but/(therefore)/so n,句子/hence n/hence,句子     因此,所以 adv
 with/along with/alongside       /əˌlɒŋˈsaɪd/        连同,附带 prep
 published/public/publish & consume   已发布的/公众的,大众的,公共的 adj/发布消息,消费消息
 outcome/result      结果,效果/结果,后果 n
@@ -257,11 +255,13 @@ as appropriate/when you find a moment/as(whenever) u see fit      酌情,按照�
 (Where did u hear/May I know where u heard) it's been confirmed     你从哪里听说这事儿已经确认了
 (either)...or.../neither...nor.../both of them          要么...要么...(两者中的一个/两者都不)
 need/demand/requirement/require/request
-conclude (with)/(current/data discrepancy) conclusion/summary      断定，推断出,结束,敲定/以...作为结尾 v/结论 n/总结,概要 n/adj
+conclude (with)/(current/data discrepancy) conclusion/summary      断定,推断出,结束,敲定/以...作为结尾 v/结论 n/总结,概要 n/adj
 voice/noise/sound            人的声音(噪音)/讨厌的声音(噪音)/xxxxx
 see/catch u then/later/next time          到时候见,下次见,回头见,待会见
 explore (option)/exploration/discover       /ɪkˈsplɔːr/     探索,研究,排查 v/n/发现,找到 v/研究备选方案
 obtain/gain/get (approval)          /əbˈteɪn/       得到,获得/获取审批
+feature/function/(dynamic) nature/characteristic         特点,特性,功能 n/起作用,运转 v/功能 n/特点,性质,大自然 n/动态可变的特性
+(but/however,/though 放句尾)/(so/therefore,/hence 只接n)      但/所以,因此
 
 
 

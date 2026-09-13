@@ -53,8 +53,6 @@ catch/caught
 celebrate   庆祝
 central                             中央的,中心的 adj
 certificate                         证书
-character               性格 n
-characteristic                          特征,特点 n
 charge              收费,承担责任 v
 chief                               首要的,主要的 adj
 childhood                           童年 n
@@ -364,7 +362,6 @@ the other day                   几天前
 then                                那个时候 adv
 these days                              如今,现今
 think of n                    想起,思考
-thoughtful          体贴入微的,考虑周到的 adj
 thus                                            因此,这样 adv
 time                时间 u            次数 c
 trend               趋势 n

@@ -1,13 +1,9 @@
 execute/was it executed twice     /ˈeksɪkjuːt/       执行了两次吗？
 multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
-adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
-exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
-allocate/allocation/assign/assignment       /ˈæləkeɪt/      分资源,钱,时间(分配)/分任务,工单,工作,人(工作)
-W/C 11 Aug      week commencing/starting     /kəˈmensɪŋ/        8月11日(周一)开始的那一周(8.11‑17)/开始,着手 n
-periodically/regular/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,有规律地 adj/adv
-execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /ˌeksɪˈkjuːtəbl/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
-drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
-awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
+
+
+
+
 big/large/huge/giant       /ˈdʒaɪənt/          巨大的,伟大的 adj
 compute/computation/calculate/calculation         /kəmˈpjuːt/         运算,测算 v/计算,核算 v
 noticeable (slowness for a few minutes)       /ˈnəʊtɪsəb(ə)l/ /ˈsləʊnəs/      显而易见的,明显的 adj/缓慢,迟钝 n/持续数分钟卡顿
@@ -64,7 +60,6 @@ inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
 defect/deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
-spotlight/gather        /ˈspɒtlaɪt/         重点展示,聚焦,聚光照明 v
 quarter         /ˈkwɔːtə(r)/            季度
 bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
@@ -251,7 +246,6 @@ citation       /saɪˈteɪʃ(ə)n/       引文 n
 reason/reasoned/reasoning/reasonable        /ˈriːznɪŋ/       推理 v/合理的 adj
 protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,一致 n/约定好的,同意的 adj
 purchase (100 tokens)        /ˈpɜːrtʃəs/         购买,采购 v/n
-reword/revise/amend/rectify/correct error msg       /ˈrektɪfaɪ/ /ˌriːˈwɜːrd/    改写/修正,修订/修改,修订/纠正,矫正 v
 quit/quite/quiet/quietly        /kwɪt/        停止 v/很,非常 adv/安静 v/n/adj/adv
 (in the) interim/stabilisation (period)        /ˈɪntərɪm/ /ˌsteɪbələˈzeɪʃn/     过渡期,中间期 n/稳定 n/稳定期
 steady/unsteady/stable/unstable     /ˈstedi/         稳定的,平稳的,持续的 adj/adv/稳定的,牢固的 adj
@@ -347,8 +341,21 @@ environment visuals      /ˈvɪʒuəl/     环境架构图示(IT架构,云,DevOp
 , with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
 procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
 parallelly/(in) parallel(meanwhile/simultaneously)       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
-realistic (question)     /ˌriːəˈlɪstɪk/         务实的，实事求是的,实际的/实际的问题
+realistic (question)     /ˌriːəˈlɪstɪk/         务实的,实事求是的,实际的/实际的问题
 (assess system) fit/fitment/compatibility     /ˈfɪtmənt/      适配,匹配度 n/评估系统匹配度/兼容性
+will (gather) inputs and (spotlight) key blockers in meeting    /ˈspɒtlaɪt/     收集意见,重点强调关键阻塞项
+PII         Personally Identifiable Information 个人可识别信息    /aɪˌdentɪˈfaɪəb(ə)l/
+eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
+periodically/regular (contract)/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,常规的,有规律地 adj/adv/常规合同
+character/characteristic      /ˌkærəktəˈrɪstɪk/     性格/特征,特点 n
+reword/revise/amend/amendment/rectify/correct error msg     /ˌriːˈwɜːrd/ /əˈmendmənt/ /ˈrektɪfaɪ/    改写/修正,修订/修改,修订/纠正,矫正 v
+adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
+exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
+allocate/allocation/assign/assignment       /ˈæləkeɪt/      分资源,钱,时间(分配)/分任务,工单,工作,人(工作)
+W/C 11 Aug      week commencing/starting     /kəˈmensɪŋ/        8月11日(周一)开始的那一周(8.11‑17)/开始,着手 n
+execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /ˌeksɪˈkjuːtəbl/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
+drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
+awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
 
 
 
@@ -356,16 +363,6 @@ realistic (question)     /ˌriːəˈlɪstɪk/         务实的，实事求是�
 
 
 
-focusing on         聚焦于
-sit in
-pending from sb         等待某人输出/处理
-Siddharth explained that while currently only 4 regions and global tag contracts are available in their Contract Assistant system
-Contract Scope Expansion Discussion
-regular contracts
-dynamic nature      动态可变的特性
-though          但
-amendments          合同修订
-call‑offs       子订单、分拨订单
 committed to doing sth          承诺做某事
 promote the integration to this environment
 Prove the connectivity and required end point call.
@@ -384,8 +381,6 @@ Aim to ensure end-to-end agent flow, including RAG injection + retravel
 
 
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
-eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
-eliminating the need for        省去、无需做某事
 sophisticated/xxxx           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
 shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
 decent      /ˈdiːsnt/      像样的 adj
