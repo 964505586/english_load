@@ -392,6 +392,8 @@ we’ve validated endpoint connectivity. (with this in mind,) we can promote int
 (keeping in mind that) the system only supports global tag contracts, we need extra development for regular contracts   考虑到这一点
 the detailed agenda will be sent (separately from the invite)      独立于..之外，和..分开/详细议程将独立于本次会议邀请另行发送
 (aim to) ensure end-to-end agent flow, covering docs injection and retrieval        旨在(保障端到端agent链路，包含rag文档注入与检索环节)
+The error (went away/no longer occurs) after service restart        服务重启后，报错没了
+Attackers may try to bypass the access control      攻击者可能尝试绕过访问控制
 
 
 

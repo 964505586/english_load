@@ -75,78 +75,36 @@ initial/initiate/initiative     /ɪˈnɪʃieɪt/ /ɪˈnɪʃieɪtɪŋ/     最初
 appropriate/appropriately/properly/appropriateness      适当的,合适的 adj/adv/正确地,适当地/合理性,适宜性
 appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪʃn/    划拨,拨付 n/挪用,侵占/挪用客户资金
 
-whatever        无论什么
-regardless/irrespective of n/whether a or b      无论/不管 a还是b
-no matter what/who/whether ...      /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
-
-act as      充当,担任
-act/action (owner)/actor     行动 v/n/操作主体 n
-active/actively    积极的 adj/adv
+act (as)/action (owner)/actor     行动/充当,担任 v/n/操作主体 n
+active/actively/passive/passively    积极的/消极的,被动的 adj/adv
 activity/inactivity    活动/闲置,无操作 n
-passive/passively         消极的,被动的 adj
 
-be responsible to/for n                  负责n
-i'm in charge of backend                我负责n
-i take charge of backend
+be responsible to/for backend     /rɪˈspɑːnsəb(ə)l/       负责n
+i (take/am in) charge of backend        我负责n
 who is the person in charge of the project?
 
-initiator captured/the feature unaffected
 why is 主语 + 过去分词？
 why is ur approval needed
-why is the user info collected
+why is the (feature unaffected/initiator captured/user info collected)
 
-uplift (revenue/earning)      /ˈʌplɪft/ /ˈrevənuː/      提升,增加 v/n/收入,收益 n/提升收入
-rise/improve            增加,提高 vi/增加,改善 n
-raise           提起,举起 vt
+uplift (revenue/earning)      /ˈʌplɪft/ /ˈrevənuː/ /ˈɜːrnɪŋ/      提升,增加 v/n/收入,收益 n/提升收入
+rise/raise/improve        /raɪz/            增加,提高 vi/提起,举起 vt/增加,改善 n
 go up/down                  上升/下降
 increase/decrease           增长,增加/减少 v/n
 fall                                下跌,减少,降落,落下 v
-lower/reduce           降低,减少 v
-reduce/reduction                 减小,降低,做聚合,执行归约 v/减小,降低,聚合操作,归约运算 n
+lower/reduce/reduction           降低,减少/减小,降低,做聚合,执行归约 v/减小,降低,聚合操作,归约运算 n
 degrade/degrading (performance)     /dɪˈɡreɪd/      降低,侮辱,贬低 v/降低性能
 
-reinforced how we lead      /ˌriːɪnˈfɔːrs/      加强,强化 v/强化我们的管理举措
-boost/strengthen/improve/optimize(enhance)      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
-enhancement/enhance (feature)         增强 v/n
-optimization/boost/strengthen/improve/optimize (performance)       优化 v/n
-refinery/refine/refined (timeline)          细化,精修,优化 n/细化,优化,改进 v/优化后的
-
-object to sth           反对某事
-against sb for sth          反对sb做sth
-against         针对,面向,抵御,对照,对比,反对,违反 v
-compare a against b         把a与b相比
-compared with n             与...相比/过去分词做条件状语
-compare/comparison      /kəmˈpærɪs(ə)n/     比较 v/比较,对照 n
+boost/strengthen      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
+reinforce (how we lead)      /ˌriːɪnˈfɔːrs/      加强,强化 v/强化我们的管理举措
+refine/refined (timeline)/refinery          细化,优化,改进 v/优化后的/细化,精修,优化 n
 
 oops/my goodness        /ʊps/        哎哟,啊呀,糟糕/我的天
 jesus/my god/damn it       天哪/我的天/该死(脏话,熟人)
 holy shit       天哪(粗俗)
 
-complete            完成 v/完全的,彻底的 adj
-complex             复杂的 adj
-complain            抱怨,投诉 v
-complicated/complicate         复杂的 adj/使复杂化 v
-companion                       同伴,伴侣 n/陪伴 v
-collaboration/cooperation   /kəˌlæbəˈreɪʃ(ə)n/       合作,共创,协作 n(一起做)/合作,配合 n(配合你)
-complexity/complex/complicated      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩
-compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 adj
-competitor/(fairly) competition     /kəmˈpetɪtə(r)/     竞争者,对手 n/竞争,(公平的)比赛 n
-compile/compare/comparison     /kəmˈpaɪl/         编译,编制 v/比较
-
-appear/disappear                        出现/消失 v(人,物出现)
-occur                                   发生,出现 v(事情发生,正式发生)
-happen                                  意料之外(accident)
-take place                              比赛,meeting(安排好举行,意料之内)
-
-debug (the code/function/program)
-troubleshooting             故障排查 n
-
 advise/advice       通知,建议 v/n
-propose/proposal//suggest/suggestion/feedback        提议,建议 v/n/反馈意见 n
-strongly suggest                        强烈建议 v
-
-these days          最近,如今,这段日子(强调状态)
-lately/recently            最近,不久前(强调时间点/近期发生)
+propose/proposal/(strongly) suggest/suggestion/feedback        提议,建议 v/n/反馈意见 n/强烈建议
 
 primary                             首要的,主要的 adj
 basic/basically                     基本的 adj("入门,表层,非核心")/基本上,说白了 adv
@@ -611,6 +569,24 @@ imply/implied/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意�
 promote/drive/push (Contract Scope Expansion)     推进,促进 v/合同范围扩展
 fast-track (data approval)/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进/加急处理审批
 facilitate (integration work)/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/促成,为集成工作提供支持 v
+
+complete/complain/companion            完成 v/完全的,彻底的 adj/抱怨,投诉 v/同伴,伴侣 n/陪伴 v
+complexity/complex/complicated/complicate      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩/使复杂化 v
+compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 adj
+competitor/(fairly) competition     /kəmˈpetɪtə(r)/     竞争者,对手 n/竞争,(公平的)比赛 n
+compile/compare/comparison     /kəmˈpaɪl/         编译,编制 v/比较
+
+The error (appear/disappeared) after restarting the service     出现/消失 v(人,物出现)
+The outage (occurred) at midnight     发生,出现
+The accident (happened) unexpectedly        发生(意料之外)
+The meeting will (take place) tomorrow      发生，举行(比赛,meeting)
+
+object to (the approach)           反对,不认同(这个方案)
+we raised concerns (against the vendor for) poor api stability          因某事反对,追责某人/针对api不稳定问题向sb提出异议
+check all fields against the docs         对照,针对,对比,反对,违反 v/对照docs检查全部字段
+(compare API response against) the info Jack provided         把a与b相比
+(compared with) the old version, new API has lower latency      与...相比(过去分词做条件状语)
+in (comparison) with UAT, PROD has stricter access control    /kəmˈpærɪs(ə)n/ /strɪkt/      比较,对照 n
 
 
 

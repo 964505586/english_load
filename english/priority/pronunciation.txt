@@ -62,7 +62,6 @@ fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选�
 defect/deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
 quarter         /ˈkwɔːtə(r)/            季度
-bypass      /ˈbaɪpɑːs/          绕过,避开 v
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
 whole/entire            全部的,整个的 adj
 bootcamp        /ˈbuːtkæmp/         集训营 n
@@ -230,7 +229,6 @@ embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 
 b4 & after comparison     /kəmˈpærɪsn/     前后对比
 duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
 seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
-elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 Azure       /ˈæʒər/
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提供,供应 v/配置 n
 on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
@@ -355,6 +353,14 @@ awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人�
 (commit/committed) to doing/(make a) promise/commitment       /kəˈmɪtmənt/      承诺 v/v,n/承诺做某事/承诺,保证 n
 postpone/postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
 dummy/mock/synthetic        /sɪnˈθetɪk/     假的 adj/人造的,模拟的
+collaboration/cooperation   /kəˌlæbəˈreɪʃ(ə)n/       合作,共创,协作 n(一起做)/合作,配合 n(配合你)
+elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
+sophisticated (authentication mechanism)/sophistication     /səˈfɪstɪkeɪtɪd/      成熟完善的,复杂高级的 adj/复杂性,成熟度 n/完善的身份验证机制
+bypass (firewall/validation/authentication)      /ˈbaɪpɑːs/          绕过,避开 v
+
+
+
+
 
 
 
@@ -362,7 +368,6 @@ dummy/mock/synthetic        /sɪnˈθetɪk/     假的 adj/人造的,模拟的
 
 
 erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
-sophisticated/xxxx           /səˈfɪstɪkeɪtɪd/               成熟完善的,复杂高级的 adj
 shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
 decent      /ˈdiːsnt/      像样的 adj
 differ          /ˈdɪfər/            不同于 v
@@ -372,6 +377,21 @@ reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/�
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 fellow      /ˈfeləʊ/              同类的,同伴的 adj
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
+
+whatever        无论什么
+regardless/irrespective of n/whether a or b      无论/不管 a还是b
+no matter what/who/whether ...      /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
+
+ad hoc      临时的,按需的,非固定周期的
+Stage was fulfillment
+SME         Subject Matter Expert 领域专家,主题专家
+Shall we kick off first
+It didn't make a difference, same error still occurs
+Specify     指定
+per
+every
+each
+more inclined towards
 
 
 

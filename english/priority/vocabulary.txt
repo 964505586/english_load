@@ -258,6 +258,8 @@ clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
 (Let’s discuss this) offline      线下,会外 adv
 (docs/SQL/prompt) injection      注射,注入 n
 procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
+debug (the code/function/program)/troubleshoot      调试代码,函数,程序 v
+troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)/debug             故障排查 n
 
 
 
