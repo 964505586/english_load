@@ -394,6 +394,7 @@ the detailed agenda will be sent (separately from the invite)      独立于..�
 (aim to) ensure end-to-end agent flow, covering docs injection and retrieval        旨在(保障端到端agent链路，包含rag文档注入与检索环节)
 The error (went away/no longer occurs) after service restart        服务重启后，报错没了
 Attackers may try to bypass the access control      攻击者可能尝试绕过访问控制
+the system will truncate long payloads in log/truncation may happen if the value exceeds column length      截断过长的请求报文
 
 
 

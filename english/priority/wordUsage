@@ -106,29 +106,16 @@ holy shit       天哪(粗俗)
 advise/advice       通知,建议 v/n
 propose/proposal/(strongly) suggest/suggestion/feedback        提议,建议 v/n/反馈意见 n/强烈建议
 
-primary                             首要的,主要的 adj
-basic/basically                     基本的 adj("入门,表层,非核心")/基本上,说白了 adv
-essential                           基础,基本的 adj("必须,关键,缺了不行")
-
 did u do (过去时间)          你当时做了吗？
 have u done       你到现在做完了吗,强调结果
 have u ever done sth       你以前做过xxx嘛
 
-stop                停止
-abort               中断,中止(主动中止)
-cut off             切断,中断(强行切断)
-disruption          中断,扰乱 v/n(导致系统,秩序瘫痪,彻底混乱)
-interruption        打断,暂停 v/n(临时被打扰,之后可恢复)
-
-sign in/up                                 登录 v/注册
+sign in/up      登录 v/注册
 login/sign in/signing       /saɪn ɪn/ /ˈsaɪnɪŋ/       登录 v/签署,签字
 log off/out(sign out)    /lɔːɡ aʊt/ /saɪn aʊt/        登出,退出 v
 register/registration/sign up        /ˈredʒɪstə(r)/ /saɪn ʌp/      注册,登记 v/n/注册,报名 v
 
-work on     从事,致力于
-start (on sth)      着手开始做某事
-
-sth must not be used      禁止使用sth
+(Postman) must not be used      禁止使用sth
 prohibit/forbid/ban     /bæn/    禁止,阻止 v/禁止 v/(n,v)(弱中强)
 prohibited/prohibitive      /prəˈhɪbətɪv/      禁止的 adj
 enable/re‑enable/disable/display           使能够,启用,开启/重新启用/禁用,关闭,使失效/显示,展示 v
@@ -147,11 +134,11 @@ contribute (to)/contribution    捐赠,为...做贡献 v/有助于,促成,计入
 
 massive         大规模地 adv
 expand/extension        扩展,扩容磁盘,扩大规模 v/扩展 n
-scale/scalable/scalability     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n
-scaling ai responsibly/scale with stronger control      /rɪˈspɑːnsəbli/     负责任地推进ai规模化/在更强管控下实现规模化
+(at) scale/scalable/scalability     /skeɪl/ /ˈskeɪləbl/     扩容,规模化部署 v/可扩展的 adj/可扩展性,可伸缩性 n
+scaling AI responsibly/scale with stronger control      /rɪˈspɑːnsəbli/     负责任地推进ai规模化/在更强管控下实现规模化
 
 (system) entry/central front door   /ˈentri/    入口,条目,记录,进入,加入 n/核心,系统入口 n
-(first/prior) entry (prerequisite)        首条/先前条目,历史记录/准入前置条件
+(first/prior) entry (prerequisite)        进入,记录,条目/首条/先前条目,历史记录/准入前置条件
 
 declare/declared/declaration        /dɪˈkler/ /ˌdekləˈreɪʃn/        宣布,声明 v/n
 announce/announcement       宣布,公布 v/n
@@ -587,6 +574,16 @@ check all fields against the docs         对照,针对,对比,反对,违反 v/�
 (compare API response against) the info Jack provided         把a与b相比
 (compared with) the old version, new API has lower latency      与...相比(过去分词做条件状语)
 in (comparison) with UAT, PROD has stricter access control    /kəmˈpærɪs(ə)n/ /strɪkt/      比较,对照 n
+
+primary (target/objective)          首要的,主要的 adj/主要目标
+basic (validation)/basically        基本的 adj("入门,表层,非核心")/基本上,说白了 adv
+encryption is (essential) to protect user info      基础,基本的 adj("必须,关键,缺了不行")
+
+stop (sending requests)     停止
+abort (the deployment)     中断,中止(主动中止)
+the connection was (cut off) unexpectedly       切断,中断(强行切断)
+any (disruption) to API will impact downstream systems          中断,扰乱 v/n(导致系统,秩序瘫痪,彻底混乱)
+we experienced a brief (interruption) to database connection        打断,暂停 v/n(临时被打扰,之后可恢复)
 
 
 

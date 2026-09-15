@@ -177,7 +177,7 @@ idle/scheduled job will be triggered when (system is) idle      /ˈaɪd(ə)l/   
 without (explanatory) comment     /ɪkˈsplænətɔːri/      解释 adj/无解释性评论
 minor/minority/major/majority     /ˈmaɪnə(r)/ /maɪˈnɔːrəti/     较小的,次要的 adj/未成年人 n/少数 n/adj/大多数
 most/almost/majority    /məˈdʒɒrəti/        很多 adj,adv/近全满(几乎,差不多) adv/必过半 adj,n
-mass/massive/at scale        /ˈmæsɪv/        大规模的/巨大的,大规模的 adj/adv
+mass/massive/at scale        /ˈmæsɪv/        大量,许多 n/大规模的 adj/巨大的,大规模的 adv
 purge/clear (ask)       /pɜːdʒ/ /rɪˈmuːv(ə)l/           清除 v/明确的 adj/明确诉求
 fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/故障关闭(出错直接阻断业务)
 capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/精力,产能 n
@@ -357,6 +357,11 @@ collaboration/cooperation   /kəˌlæbəˈreɪʃ(ə)n/       合作,共创,协�
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 sophisticated (authentication mechanism)/sophistication     /səˈfɪstɪkeɪtɪd/      成熟完善的,复杂高级的 adj/复杂性,成熟度 n/完善的身份验证机制
 bypass (firewall/validation/authentication)      /ˈbaɪpɑːs/          绕过,避开 v
+shuffle/shuffled (the data)        /ˈʃʌf(ə)l/     洗牌,打乱 v,n/已打乱的 adj
+decent (coverage/performance)      /ˈdiːsnt/      像样的,尚好的 adj/尚可的性能
+our teams (differ) on how to handle the edge case       /ˈdɪfər/        不同于,意见有分歧 v
+the requirement acts as a (catalyst) to simplify the workflow         /ˈkætəlɪst/         优化器,催化剂 n/成为简化工作流的催化剂
+(truncate) the string to 100 characters        /ˈtrʌŋkeɪt/        截断,截短,清空 v
 
 
 
@@ -364,19 +369,15 @@ bypass (firewall/validation/authentication)      /ˈbaɪpɑːs/          绕过,
 
 
 
+tuning/fine‑tuning     调试/微调 n
+debug (the code/function/program)/troubleshoot      调试代码,函数,程序 v
 
-
-
-erase/erased/wipe out       /ɪˈreɪs/ /waɪp aʊt/          抹去,清除 v/清空,删除
-shuffle         /ˈʃʌf(ə)l/          洗牌,数据重分区 v/n
-decent      /ˈdiːsnt/      像样的 adj
-differ          /ˈdɪfər/            不同于 v
-catalyst        /ˈkætəlɪst/         优化器,催化剂
-truncate        /ˈtrʌŋkeɪt/        截断,截短 v
+throughput      /ˈθruːpʊt/      吞吐量
 reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
 bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
 fellow      /ˈfeləʊ/              同类的,同伴的 adj
 use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
+erase/erased/truncate/wipe out       /ɪˈreɪs/ /waɪp aʊt/     抹去,清除 v/清空,删除
 
 whatever        无论什么
 regardless/irrespective of n/whether a or b      无论/不管 a还是b
@@ -388,9 +389,8 @@ SME         Subject Matter Expert 领域专家,主题专家
 Shall we kick off first
 It didn't make a difference, same error still occurs
 Specify     指定
-per
-every
-each
+per                     每,每一,按照,根据
+each/every
 more inclined towards
 
 

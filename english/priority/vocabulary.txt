@@ -91,7 +91,6 @@ miss                错过,想念 v
 standby             备用物 n
 bookmark        书签 n
 queue               排队 v
-per                     每,每一,按照,根据
 reverse                     相反的 adj
 range                       处于...之间 v
 familiar            熟悉的 adj
@@ -201,7 +200,6 @@ by default          默认情况下 adv
 when prompted       当提示的时候
 vector store        向量存储
 rerank        重排序
-fine‑tuning     微调
 (request) payload         有效负载 n/请求负载,请求体
 initial evaluation      初步评估
 with immediate effect           立即生效
@@ -258,7 +256,6 @@ clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
 (Let’s discuss this) offline      线下,会外 adv
 (docs/SQL/prompt) injection      注射,注入 n
 procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
-debug (the code/function/program)/troubleshoot      调试代码,函数,程序 v
 troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)/debug             故障排查 n
 
 

@@ -135,7 +135,6 @@ same/identical      (大致无差异)/完全相同的 adj(无任何差别)
 occasionally/occasion/sometimes         偶然,偶尔 adv/场合 n/有时
 rise by/to 10%                         增长(至)10%
 underlying/potential        潜在的,可能的
-each/every
 truly/really        真正地
 quite reasonable/it make sense      相当合理,很有道理/有道理
 anyone/someone             有人
@@ -263,6 +262,7 @@ feature/function/(dynamic) nature/characteristic         特点,特性,功能 n/
 boost/strengthen/improve/optimize/enhance/reinforce/refine (performance)       优化 v/n
 (lately/recently)/these days            最近,不久前(强调时间点/近期发生)/最近,如今,这段日子(强调状态)
 funny/interesting       滑稽的，有趣的/有趣的 adj
+work/start on     从事,致力于/着手开始做某事
 
 
 
