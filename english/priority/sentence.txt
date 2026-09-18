@@ -395,6 +395,9 @@ the detailed agenda will be sent (separately from the invite)      独立于..�
 The error (went away/no longer occurs) after service restart        服务重启后，报错没了
 Attackers may try to bypass the access control      攻击者可能尝试绕过访问控制
 the system will truncate long payloads in log/truncation may happen if the value exceeds column length      截断过长的请求报文
+Could you (add some colour to) this requirement     给某事补充更多细节
+(I'd appreciate it if) u could add some colour to the requirement       如能..., 不胜感激
+I'm (referring/refer to) the error Jack raised      参考,指的是,提及,涉及 v/我指的是
 
 
 

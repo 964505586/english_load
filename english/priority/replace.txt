@@ -31,7 +31,6 @@ chase/push/urge sb to do(for sth)             催促 v
 homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟,伙伴/乡亲们 n
 looks fine/seems all good/looks no problem
 recommended action/solution      推荐操作,方案
-present/exist                     赠送 v/存在的,当前的 adj/目前,现在,礼物 n
 ideal/normal                        理想的,最佳的/正常的,标准的 adj
 at ur convenience/if u get a chance     你有空的时候
 self/internal/(my/our own) check            自测
@@ -172,7 +171,6 @@ in‑scope/out‑of‑scope       (超出)范围内/外
 perform/do/implement        xxx/执行,实现 v
 just asking/wondering       只是问问/就是想知道
 against/regarding       针对 prep
-reproduce/replicate (question)/reproduction       复现 v/n
 in the (past)/last few days//months     在过去 几天/数月
 I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
 notify/(outage) notification/notice      通报,告知 v/通知 n/断网,服务中断通知/注意,意识 v
@@ -224,8 +222,6 @@ the change involves lots of underlying/low-level/foundation code            这�
 follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
 duty/fault      责任,义务/错误,责任
 dumb me/my fault, (the wrong link I used/I overlooked sth)     都怪我,我脑子短路了,是我疏忽(自嘲)/偏严肃
-my experience(rule of thumb)/user experience        xxx/实操经验/用户体验
-reuse/recycle         再次使用,重复使用/回收利用 v/n
 lean/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 (data) foundation/foundational (code/branch)    基础的,基本的 n/adj/数据基础/底层代码/基础分支
 if(as) so/desired/necessary/needed           如果这样/需要/必要/根据需要
@@ -234,7 +230,6 @@ always/constantly        xxx/总是,经常地,不断地
 graph/(sequence) diagram        图表,曲线图/图表,图解 n(结构,逻辑,流程)/时序图,顺序图 n
 ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 avoid/prevent/in case 句子/to avoid n       避免/阻止 v/以防...
-with/along with/alongside       /əˌlɒŋˈsaɪd/        连同,附带 prep
 published/public/publish & consume   已发布的/公众的,大众的,公共的 adj/发布消息,消费消息
 outcome/result      结果,效果/结果,后果 n
 terminate/terminal (status/outcome)/final      终止 v/终端 adj/n/终态(结果)
@@ -263,6 +258,10 @@ boost/strengthen/improve/optimize/enhance/reinforce/refine (performance)       �
 (lately/recently)/these days            最近,不久前(强调时间点/近期发生)/最近,如今,这段日子(强调状态)
 funny/interesting       滑稽的，有趣的/有趣的 adj
 work/start on     从事,致力于/着手开始做某事
+recycle/reuse/reusable      回收利用/再次使用,重复使用 v,n/可重复使用的,可以再度使用的 adj
+query/question      查询,疑问,问题 n
+with/along with/alongside       /əˌlɒŋˈsaɪd/        连同,附带 prep
+present/exist       赠送,展示 v/存在的,当前的 adj/目前,现在,礼物 n/存在 v
 
 
 

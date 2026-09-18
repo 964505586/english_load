@@ -21,18 +21,12 @@ recruit         /rɪˈkruːt/      招聘,招收,招募 v
 partner     /ˈpɑːtnə(r)/        搭档 n
 throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及,到处,自始至终,贯穿整个时期 adv/prep
 thorough/overall        /ˈθɜːroʊ/       彻底的,全面的 adj
-concrete (plan)     /ˈkɒŋkriːt/     确实的,具体的,实在的,具体可落地 adj
 accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就,成绩(功能落地,开发实现) n/
 supply/supplement       /ˈsʌplɪmənt/     供应,提供 v/补充,增加,增补 v
-occur/occurrence/reoccur/recurrence     /əˈkʌrəns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n
-retriable        /rɪˈtraɪəbl/           可重试的 adj
 discard/dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
 stay tuned/plz bear with us      /tjuːnd/        试目以待,请耐心等候后续通知/请耐心等待,请多包涵
-fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 opt out of      /ɒpt aʊt əv/      选择退出 v
 ethical         /ˈeθɪk(ə)l/         道德的,伦理的,合乎道德的 adj
-fair/unfair     /feə(r)/              公平的,合理的,公正的 adj/adv
-(unfair) bias        /ˈbaɪəs/        偏见,成见,偏好,天赋 n
 emerging/newly        /ɪˈmɜːdʒɪŋ/         新兴的,发展初期的 adj
 destructive     /dɪˈstrʌktɪv/     破坏性的,毁灭性的 adj
 interact/interacting     /ˌɪntərˈæktɪŋ/      相互交流,互动,相互影响 v
@@ -183,7 +177,6 @@ fails-open/fail‑closed      故障开放(出错直接放行,继续跑业务)/�
 capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/     能力,才能/功能路线图/能力/精力,产能 n
 tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
 toggle/on-off switch        /ˈtɑːɡl/      开关 n
-present     /ˈpreznt/ /prɪˈzent/ 名词前重,动词后重
 (if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
 originate (from)/original/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创/起源 n
@@ -362,6 +355,9 @@ decent (coverage/performance)      /ˈdiːsnt/      像样的,尚好的 adj/尚�
 our teams (differ) on how to handle the edge case       /ˈdɪfər/        不同于,意见有分歧 v
 the requirement acts as a (catalyst) to simplify the workflow         /ˈkætəlɪst/         优化器,催化剂 n/成为简化工作流的催化剂
 (truncate) the string to 100 characters        /ˈtrʌŋkeɪt/        截断,截短,清空 v
+my (experience/rule of thumb)/user experience    /θʌm/        xxx/实操经验/用户体验
+fellow (colleagues/team members)      /ˈfeləʊ/     同类的,同伴的 adj
+use/the (usage) of this function        /ˈjuːsɪdʒ/       使用,用途/使用,用途,使用量,用法 n/函数的用法
 
 
 
@@ -369,30 +365,94 @@ the requirement acts as a (catalyst) to simplify the workflow         /ˈkætəl
 
 
 
-tuning/fine‑tuning     调试/微调 n
-debug (the code/function/program)/troubleshoot      调试代码,函数,程序 v
 
-throughput      /ˈθruːpʊt/      吞吐量
-reuse/reusable        /riːˈjuːzəb(ə)l/       再次使用,重复使用 v/可重复使用的,可以再度使用的 adj
-bandwidth       /ˈbændwɪdθ/         带宽,吞吐能力 n
-fellow      /ˈfeləʊ/              同类的,同伴的 adj
-use/usage       /ˈjuːsɪdʒ/          使用,用途 n/使用,用途,使用量,用法 n
-erase/erased/truncate/wipe out       /ɪˈreɪs/ /waɪp aʊt/     抹去,清除 v/清空,删除
 
-whatever        无论什么
-regardless/irrespective of n/whether a or b      无论/不管 a还是b
-no matter what/who/whether ...      /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
+
+
+
+
+
+
+
+
+
+
+
+gather
+Collect
+bring together      汇总,整合,汇集
+
+In general          总的来说，一般而言
+as a whole          总体上,总的来说,整体来看 adv
+
+pertaining to       与...相关
+handshake session       对接会,简短的初次沟通会
+Let me know if the time slot doesn't fit you
+we are targeting to finish within Nov end for our POC
+trigger timing      触发时机
+what’s the expected behavior — fail the step or proceed to the next step
+finalize the design         敲定方案
+insight     见解,分析意见
+will you be able to provide insight here for the unhappy path scenario?
+happy/unhappy path scenario           异常路径场景,失败场景
+enable          使...可用,支持
+approach        处理,评估,研究
+would you also reply to Michael about the question
+decommission            停用,下线,退役
+使用贵方Refinery        数据
+from examining various data points 通过核查多个数据点
+engagement      项目
+functionality           功能
+examine         核查,分析
+add some more colour        补充更多细节,进一步说明
+sorry for the confusion on sra
+the proposed functionality
+i'll try my best to answer
+progress        推进,进展（这里作动词）
+progressing     推进
+jumping in here
+again to set context
+any support appreciated to approve access asap
+恳请尽快批准访问权限，非常感谢支持！
+any support would be appreciated to approve access asap
+
+
+
+
+
+
+
 
 ad hoc      临时的,按需的,非固定周期的
 Stage was fulfillment
-SME         Subject Matter Expert 领域专家,主题专家
+fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
 Shall we kick off first
 It didn't make a difference, same error still occurs
 Specify     指定
 per                     每,每一,按照,根据
 each/every
 more inclined towards
+conversion
+convention
+concrete (plan)     /?k??kri?t/     确实的,具体的,实在的,具体可落地 adj
+practical
 
+bandwidth/xxxx       /ˈbændwɪdθ/         带宽,吞吐能力 n
+throughput/xxxx      /ˈθruːpʊt/      吞吐量
+erase/erased/truncate/wipe out       /ɪˈreɪs/ /waɪp aʊt/     抹去,清除 v/清空,删除
+
+whatever/xxxx        无论什么
+regardless/irrespective of n/whether a or b      无论/不管 a还是b
+no matter what/who/whether ...      /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
+
+reproduce/replicate (question)/reproduction       复现 v/n
+occur/occurrence/reoccur/recurrence     /??k?r?ns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n
+
+fair/unfair     /fe?(r)/              公平的,合理的,公正的 adj/adv
+(unfair) bias        /?ba??s/        偏见,成见,偏好,天赋 n
+
+retriable/xxxx        /rɪˈtraɪəbl/           可重试的 adj
+attempt/try (to)         结果/过程/尽力
 
 
 

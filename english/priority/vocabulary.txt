@@ -5,7 +5,6 @@ shutdown        关机 n
 extensively         大量地,频繁地 adv
 desktop         桌面 n
 modern/modernization              现代的 adj/n
-as a whole          总体上,总的来说,整体来看 adv
 common used         常用
 portal          门户 n
 third-party     第三方
@@ -195,7 +194,6 @@ retire      退休,下线,停用 v
 map/maps/mapped/mapping         地图,映射,分布图 n/映射 v
 control         控制 v/管控 n
 P0          最高优先级故障,任务(P0 > P1 > P2 > P3)
-refer/referring to sth/reference       参考,查阅 v/参考,引用 n/v
 by default          默认情况下 adv
 when prompted       当提示的时候
 vector store        向量存储
@@ -257,6 +255,9 @@ clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
 (docs/SQL/prompt) injection      注射,注入 n
 procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
 troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)/debug             故障排查 n
+(database/performance) tuning/fine‑tuning     调优/微调 n
+debug (the code/function/program)/troubleshoot      调试代码,函数,程序 v
+refer(referring) to sth/reference       参考,指的是,提及,涉及 v/参考,引用,提及 n,v
 
 
 

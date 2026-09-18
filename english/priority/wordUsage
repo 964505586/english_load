@@ -157,12 +157,6 @@ build                   物理建筑的建造
 establish               正式场合,强调权威性的确立
 set up/config           搭建,安装(组织,机构或系统的建立)/配置,设置
 
-in order for sb/sth     为了
-in order to v           为了
-in order that 句子        为了
-order/sequence      顺序,命令,排列,订购,订单 v,n/顺序,次序 n
-in (good) order/out of order        有序地,整齐地 adj/不按顺序的
-
 after a time/while/period of time      一段时间后
 in a short/long time/period      在一段短/长时间内
 
@@ -369,13 +363,6 @@ take a risk         承担风险
 no risks found      未发现风险
 the risk of human error             人为失误
 pose a minor risk to sth    /pəʊz/      造成,引起 v
-
-policy‑restricted       受策略限制
-bounded/unbounded (retries)       /baʊnd/       有界限的,受限制的/有限,无限次数重试
-(combined) cap      /kæp/      上限,限额 n/共同的,合并的,共享的 adj
-(exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
-(capacity) constrain/constraint      /kənˈstreɪn/       限制,约束 v/n/能力约束,资源瓶颈
-limit/limitation/restrict/restriction       限制,限定 v/限度,限制 n/限制,控制 v/n/上限,限额 n
 
 preserve/preserving      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
 retain/retention (rule)                  保留 v/保持,保留,保存 n/保留规则
@@ -585,6 +572,19 @@ the connection was (cut off) unexpectedly       切断,中断(强行切断)
 any (disruption) to API will impact downstream systems          中断,扰乱 v/n(导致系统,秩序瘫痪,彻底混乱)
 we experienced a brief (interruption) to database connection        打断,暂停 v/n(临时被打扰,之后可恢复)
 
+I would (be grateful) if ...      委婉请求,假想/感激的 adj
+I will ... if ...       真实条件,承诺
+
+in order (to v/for n/that 句子)           为了
+order/sequence      顺序,命令,排列,订购,订单 v,n/顺序,次序 n
+in (good) order/out of order        有序地,整齐地 adj/不按顺序的
+
+bounded/unbounded (retries)       /baʊnd/       有界限的,受限制的/有限,无限次数重试
+(combined) cap (the number of attempts)      /kæp/      上限,限额 n/设置上限,限定最大值 v/共同的,合并的,共享的 adj/限制尝试次数
+(exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
+(capacity) constrain/constraint      /kənˈstreɪn/       限制,约束 v/n/能力约束,资源瓶颈
+limit/limitation/restrict/restriction       限制,限定 v/限度,限制 n/限制,控制 v/n/上限,限额 n
+policy‑restricted/enforced       受策略限制/按策略强制执行的
 
 
 
