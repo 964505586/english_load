@@ -1,17 +1,14 @@
 连读
-tell him            /ˈteləm/
-let him             /ˈletəm/
-get to
-lot of   lotta
-out of   outta
+let/tell him        /ˈletəm/ /ˈteləm/
+get/out/lot of   outta lotta
 going to    gonna
 supposed to    supposta
 can/when i
 but/what i
-what a          /wɒtə/
+what a      /wɒtə/
 not at all         /nɑːd æd ɔːl/  别客气,一点也不,一点也没有,回答感谢/道歉
-wait a minute/second/moment             /weɪ də ˈmoʊmənt/
-the rest of tickets                 /ðə ˈrest əv/
+wait a minute/second/moment     /weɪ də ˈmoʊmənt/
+the rest of tickets         /ðə ˈrest əv/
 this is             /ðɪ‿sɪz/
 this is a offset             |ðɪ sɪ zə|
 let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
@@ -20,41 +17,35 @@ i'll let u know
 for a moment
 let's move on           /lets muːvɒn/          让我们继续前进
 i'll pick it up         /aɪl pɪk ɪt ʌp/
-for all of us               /fɔː(r) ɔːl əv əs/
+for all of us       /fɔː(r) ɔːl əv əs/
 plz reach out to me              /pliːz riːtʃ aʊt tu miː/
 gotcha      got you
 
 
 
 
-
-
-
-
-as long as(once) we click here       连词,只要...
-(it's) no wonder why/that                难怪
-are u online/there               你在吗
+didn't/doesn't make any difference             没作用
+of course, maybe things will change later              也许以后情况会变
+no problem at all       完全没问题
 (it's) a piece of cake              小case
-we'll do everything we can  我 将/已经 竭尽全力
-we'll find a way to 我会想办法...(语气坚定,靠谱)
+we'll do everything we can(my best)      我将竭尽全力
+let's pause(hold on) here. for the introduction & process i mentioned previously. any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
+will it work？       它会起作用吗
+in that case, i think everything will be fine/all right     既然如此,我觉得一切都会顺利的
+
+
+
+
+are u online/there               你在吗
 it's just so so                一般般,马马虎虎
 what a coincidence             真巧
 what a great/fantastic idea          多棒的主意啊
-didn't/doesn't make any difference             没作用
-maybe things will change later              也许以后情况会变
-no problem at all                           完全没问题
-let's pause(hold on) here. for the introduction & process i mentioned previously. any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
-why/how did u navigate to(land on) that page?         您是如何访问(到达)那个页面的？
-data(email) attached for ur reference                 附上邮件供您参考
-how/why/what is it?              怎么样/为什么/这是什么
-this is just/simply my personal perspective            这仅仅是我个人的看法
-will it work？
-in that case, i think everything will be fine/all right     既然如此,我觉得一切都会顺利的
+(why/how) did u (navigate to/land on) that page?         您是如何访问(到达)那个页面的？
+this is (just/simply) my personal (perspective/view/retrospective)            观点,看法 n/回顾的 adj/这仅仅是我个人的看法
 u need to update the uk schema to align(be consistent) with hk            您需要更新uk schema以使其与hk保持一致
-look/sounds like ur situation is different(not same) from mine                看起来/听起来您的情况与我的情况不同
+look/sounds like ur situation is (different/not same) from mine                看起来/听起来您的情况与我的情况不同
 no further error so far                     到目前为止没有再出现错误
 have no particular idea at the moment           目前还没有特别的想法
-implement pagination functionality              实现分页功能
 of course, it wasn't me who caused it               当然,造成这一情况的并非是我
 let jenkins rest for a while                        让jenkins休息一会
 we usually/normally do it this way, unless someone challenges it            我们一般都这么做

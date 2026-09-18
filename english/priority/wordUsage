@@ -423,7 +423,7 @@ plaintext (password)/unhashed/hardcode      /pleɪnˈtekst/      明文 n/未做
 redact/(data) redaction/mask/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
 mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
 
-u will (no longer) get            不再 abv
+u will (never/no longer) get            不再 abv
 the legacy API (is no longer supported)      旧版API不再提供支持
 It (is no longer merely) a technical issue      不再仅仅只是一个性能问题
 
@@ -540,10 +540,6 @@ explicitly (prohibited)/clearly/definitely      /ɪkˈsplɪsɪtli/      清楚�
 explicit/implicit       明示的,明确的/隐式的,含蓄的 adj
 imply/implied/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示,提示 v,n/隐式的,含蓄的 adj
 
-promote/drive/push (Contract Scope Expansion)     推进,促进 v/合同范围扩展
-fast-track (data approval)/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进/加急处理审批
-facilitate (integration work)/fast-track      /fəˈsɪlɪteɪt/       促进,推动,使更容易/促成,为集成工作提供支持 v
-
 complete/complain/companion            完成 v/完全的,彻底的 adj/抱怨,投诉 v/同伴,伴侣 n/陪伴 v
 complexity/complex/complicated/complicate      /kəmˈpleksəti/          复杂性 n/中性/略带负面色彩/使复杂化 v
 compete/competed/competing/contend      /kəmˈpiːt/       竞争 v/竞争的 adj
@@ -585,6 +581,15 @@ bounded/unbounded (retries)       /baʊnd/       有界限的,受限制的/有�
 (capacity) constrain/constraint      /kənˈstreɪn/       限制,约束 v/n/能力约束,资源瓶颈
 limit/limitation/restrict/restriction       限制,限定 v/限度,限制 n/限制,控制 v/n/上限,限额 n
 policy‑restricted/enforced       受策略限制/按策略强制执行的
+
+collect logs     收集,采集 v/采集日志
+gather (feedback/the team)      收集,召集,汇集 v/收集反馈/召集团队
+(bring stakeholders together) to discuss the error         召集,汇集,整合 v/召集相关方开会
+
+The migration is (progressing/progress) as expected        推进,进展 v/迁移按预期推进
+promote/drive/push (system expansion)     推进,促进 v/系统扩容
+fast-track (data approval)/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进/加急处理审批
+facilitate (integration work)      /fəˈsɪlɪteɪt/       促进,推动,使更容易/促成,为集成工作提供支持 v
 
 
 

@@ -136,7 +136,6 @@ renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度�
 tip     小技巧,最新提交(git专业术语: 分支末端最新提交节点)
 mini fund       小额理财基金
 (your) hours worked       你的工作时长
-functional manager          职能经理
 affected        受影响的 adj
 refactor        重构 v/n
 in correct sort order       正确的排序顺序
@@ -258,6 +257,7 @@ troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)
 (database/performance) tuning/fine‑tuning     调优/微调 n
 debug (the code/function/program)/troubleshoot      调试代码,函数,程序 v
 refer(referring) to sth/reference       参考,指的是,提及,涉及 v/参考,引用,提及 n,v
+functionality/functional manager          功能 n/职能经理
 
 
 
