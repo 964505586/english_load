@@ -151,7 +151,6 @@ the email serves as a reminder/sth serves as ...   /sɜːrv/   本邮件特此�
 guard/guardrail/guiderail       /ˈɡɑːdreɪl/       防护 n/管控规则,约束条款,护栏,栏杆 n
 misleading/misunderstood      /ˌmɪsˈliːdɪŋ/        误导性的/被误解的 adj
 virus/viruses/vulnerability       /ˈvaɪrəs/       病毒 n/漏洞
-(hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/(分配的)工作时长
 exceeds ur (contractual) hours       /kənˈtræktʃuəl/     合同规定的 adj/合同工时
 (audit) trail/email chain/thread      /θred/      链路/审计追踪,审计日志/线程,邮件往来记录,邮件链 n
 consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
@@ -346,7 +345,6 @@ drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
 (commit/committed) to doing/(make a) promise/commitment       /kəˈmɪtmənt/      承诺 v/v,n/承诺做某事/承诺,保证 n
 postpone/postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
-dummy/mock/synthetic        /sɪnˈθetɪk/     假的 adj/人造的,模拟的
 collaboration/cooperation   /kəˌlæbəˈreɪʃ(ə)n/       合作,共创,协作 n(一起做)/合作,配合 n(配合你)
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 sophisticated (authentication mechanism)/sophistication     /səˈfɪstɪkeɪtɪd/      成熟完善的,复杂高级的 adj/复杂性,成熟度 n/完善的身份验证机制
@@ -359,6 +357,9 @@ the requirement acts as a (catalyst) to simplify the workflow         /ˈkætəl
 my (experience/rule of thumb)/user experience    /θʌm/        xxx/实操经验/用户体验
 fellow (colleagues/team members)      /ˈfeləʊ/     同类的,同伴的 adj
 use/the (usage) of this function        /ˈjuːsɪdʒ/       使用,用途/使用,用途,使用量,用法 n/函数的用法
+(hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/(分配的)工作时长
+Jack, (come) to the (rescue)!      /ˈreskjuː/     营救,援救,救场 v/救援,解围 n/快来救场
+dummy/mock/synthetic/fake       /sɪnˈθetɪk/     假的/人造的,模拟的 adj/伪造的,虚假的 adj/假货,贋品 n/伪造,冒充,假装 v
 
 
 
@@ -409,6 +410,12 @@ attempt/try (to)         结果/过程/尽力
 (it's) no wonder why/that xxxxxxxxxxxx                难怪
 we'll find a way to         我会想办法...(语气坚定,靠谱)
 
+postpone
+hold on/off     稍等，等一下,保持/暂缓,推迟 v
+wait/waiting
+pending with sb         等待某人输出/处理
+n is pending(waiting for/on) feedback/review/approval/deployment    待定
+underway/in progress/ongoing/pending/TBD         进行中的/持续存在的,仍在进行的/待定的,待处理的 adj
 
 
 

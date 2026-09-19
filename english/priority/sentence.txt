@@ -44,10 +44,8 @@ what time do u start work in the morning          你早上几点开始工作
 this problem was caused while developing backend feature (this happen bcos ...)          这个问题是在开发此功能的过程中产生的
 plz help check the email draft, i'm preparing to send to kevin for clarification          帮忙检查一下这份邮件草稿,我准备发给kevin以获取进一步的说明
 everyone is complaining that jenkins is unstable         大家都抱怨jenkins不稳定
-sth be pending feedback/review/approval/deployment(sb/sth be waiting for/on feedback)              待定
 not yet                     还没有
 nothing(no need) for now                     暂时没有/暂时不需要
-let's work out the (detailed) timeline               制定出时间计划,敲定时间线
 just add a space anywhere (u like)                    随便添加个空格
 i have 2 tickets (which are) assigned to me/there are 2 tickets assigned to me      有两张票分给我了
 feel free to join the call or skip as u prefer                自由选择加入或者跳过,随您喜好
@@ -369,7 +367,15 @@ would u also reply to Jack' question        能否也回复Jack提出的问题
 What's the expected behavior: fail the step or proceed to the next step        预期行为是什么: 步骤失败,还是继续下一步
 (It's) better to save the link as a bookmark, as u'll use it frequently from now on     最好保存书签,以后你会经常用
 The config (enables the flow to) proceed after retries    使...能够做某事/这配置让流程重试后可以继续运行
-
+just a quick question:      想问下,有个小问题想请教
+As it's in an unconfirmed state, let's use this to push back    该事项处于待确认,可以以此为由进行延后,驳回
+this will be more from IT side and code/api level       这将更多来自IT方面以及代码,接口层面
+The (local DB/2 datasets) is out of sync with production        本地数据库和生产环境不同步
+(That's the question that Jack and I discussed) the other day       前些天,前几天
+(Let’s review it) some other day        改天(再评审)
+(Let’s hold off on the migration and do it) some other day    改天/先暂缓这次迁移，改天再实施
+Just (sync up) on(with sb) the status of the migration       同步/只是同步一下状态
+there may be a misalignment/inconsistent in the config      不一致 n/可能存在不一致
 
 
 

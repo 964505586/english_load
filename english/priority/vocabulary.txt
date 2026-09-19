@@ -220,7 +220,6 @@ understanding       善解人意 n
 in turn/service a calls b, which in turn queries DB     继而,依次,轮流,相继地 adv/服务a调b,b继而去查询db
 preload     预加载,预载 v
 chase/chased/chasing       跟进,催促 v
-The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
 developer usage acknowledgement         承认,感谢,应答回执 n/开发者使用承诺书
 instead     相反
 pilot(proof of Concept)        试点的 adj/试点 n/概念验证
@@ -257,10 +256,11 @@ refer(referring) to sth/reference       参考,指的是,提及,涉及 v/参考,
 functionality/functional manager          功能 n/职能经理
 trigger (timing)      触发(器) v,n/触发时机
 I'll schedule a (handshake session) with the backend team        对接会,初次沟通会,初步对齐会
-finalize/finalized (the design)      最终确定,敲定,完成 v/敲定方案
 How do we (approach) the retriable error        处理,评估 v/该如何处理这错误
 decommission/decommissioned/commission (the old microservice)      /ˌdiːkəˈmɪʃn/     停用,下线,退役/启用,投产,上线系统 v
 examine/examining the root cause        核查,分析 v
+partition/partial/partially     分区 n/部分的 adj
+It seems u're (out of sync) with the latest update       不同步,不一致,错位 adj/你这边不同步,信息不一致
 
 
 

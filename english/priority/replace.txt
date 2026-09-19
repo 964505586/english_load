@@ -32,7 +32,6 @@ relatively/correspondingly (complex)        相当地,相对地(复杂) adv
 near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
 architect/architecture/framework   架构师/架构/框架
 given this/in the case(way)/so that
-up-to-date/latest           新式的,与时俱进的/最新的
 internal/external           内部的/外部的 adj
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的,可落地的 adj
 spark/java/python-based     基于spark
@@ -185,7 +184,6 @@ at the earliest/asap     最早/尽快
 direct/directly/indirect/indirectly/direction         指引,调度,指挥 v/直接的/间接的 adj/adv/方向,方位,指导 n
 recall/remember/memorize (to)        记起,回想起,撤回/记得,记起/记住 用心 v
 kind/type/category          种类/类型/类别 n
-align/alignment/misalignment/consistent        对齐 v/n
 detect/identify/check     探测,检测(脚本自动查)/认出,识别,定位/检查 v
 rate/traffic        流量,速率,速度,比率 n/交通,流量 n
 enterprise/corporation/company/accompany       企业,事业单位 n/大企业,集团 n/公司,陪伴 n/伴随,附带 v
@@ -240,7 +238,6 @@ indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/�
 Day Zero/One/Two        上线首日/上线后第1天/稳态运行阶段
 what do u want to do (on earth)       你想干嘛/你到底想要什么
 backup/back-up/replica/alternative/workaround      备份 n/adj/副本 n/可替代的,备选的 adj/临时变通方案,权宜之计
-underway/in progress/ongoing/pending/TBD         进行中的/持续存在的,仍在进行的/待定的,待处理的 adj
 the change involves lots of underlying/low-level/foundation code            这改动涉及大量 底层代码
 follow (up)/following (day)     跟随,遵循,听懂,跟上/跟进,继续追踪/以下的 adj/第二天,翌日 n
 duty/fault      责任,义务/错误,责任
@@ -275,7 +272,7 @@ see/catch u then/later/next time          到时候见,下次见,回头见,待�
 explore (option)/exploration/discover       /ɪkˈsplɔːr/     探索,研究,排查 v/n/发现,找到 v/研究备选方案
 obtain/gain/get (approval)          /əbˈteɪn/       得到,获得/获取审批
 feature/function/(dynamic) nature/characteristic         特点,特性,功能 n/起作用,运转 v/功能 n/特点,性质,大自然 n/动态可变的特性
-(but/however,/though 放句尾)/(so/therefore,/hence 只接n)      但/所以,因此
+(but/however,/though 放句尾)/(so/therefore,/hence 只接n)/(as/since/because)      但/所以,因此
 boost/strengthen/improve/optimize/enhance/reinforce/refine (performance)       优化 v/n
 (lately/recently)/these days            最近,不久前(强调时间点/近期发生)/最近,如今,这段日子(强调状态)
 funny/interesting       滑稽的,有趣的/有趣的 adj
@@ -288,6 +285,9 @@ engage/(continued) engagement/working       对接,参与,投入,使用 v/参与
 query/queries/question      查询,疑问,问题 n
 way/method/approach/approaching     方式/方法 n/方式,靠近,接近,处理,评估 v
 Jumping in again to set context: (the service requires sth)/by the way     在这里插一句,补充一下,顺带说下
+portion/part/section/paragraph      部分/段(文章) n/分段(文章) v
+it's (update to date/latest) for API docs     最新的 adj
+align/alignment/misalignment/consistent        对齐 v/n
 
 
 

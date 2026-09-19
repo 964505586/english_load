@@ -36,7 +36,6 @@ nested                 嵌套的
 observation                         观察 n
 one-off                  一次性的
 ordinary                普通的,平常的 adj
-partial                 部分的 adj
 permanently                 永久地/adv
 prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
@@ -56,7 +55,7 @@ trainee                                     实习生 n
 transparent                 透明的 adj
 unzip                 解压 v
 willing                 愿意的,乐意的 adj
-particular/particularly                        特别的,特定的 adj/细节,详情 n/非常,尤其 adv
+particular/particularly     特别的,特定的 adj/细节,详情 n/非常,尤其 adv
 revisit             再访 v/n
 segmentation fault         段错误
 facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情
