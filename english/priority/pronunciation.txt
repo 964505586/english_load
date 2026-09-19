@@ -120,7 +120,7 @@ layout      /ˈleɪaʊt/          布局,排版 n
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
 preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
 middleware      /ˈmɪdlweə(r)/       中间件 n
-legacy (code/data/system)       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
+legacy (code/data/system)/old       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 dig out     /dɪɡ aʊt/         找出,挖掘出 v
 we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
@@ -363,28 +363,10 @@ use/the (usage) of this function        /ˈjuːsɪdʒ/       使用,用途/使�
 
 
 
-handshake session       对接会,简短的初次沟通会
 
 
-going forward
-better to save the link as a bookmark, u'll use it often              最好保存书签,你会经常用的
 
 
-what's the expected behavior — fail the step or proceed to the next step
-finalize the design         敲定方案
-enable          使...可用,支持
-approach        处理,评估,研究
-decommission            停用,下线,退役
-使用贵方Refinery        数据
-from examining various data points 通过核查多个数据点
-examine         核查,分析
-add some more colour        补充更多细节,进一步说明
-sorry for the confusion on sra
-jumping in here
-again to set context
-any support appreciated to approve access asap
-恳请尽快批准访问权限,非常感谢支持！
-any support would be appreciated to approve access asap
 
 
 

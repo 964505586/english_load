@@ -153,7 +153,6 @@ record/entry/item/term/entity                 记录/条目/项/条款/实体 n
 conduct/keep monitoring closely              实施,进行 密切监控 v
 conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
 area/district       通用/城市行政分区,政府管辖
-method/approach/approaching/way     方法 n/方式,靠近,接近 v/方式
 maybe/perhaps           随意,直白/委婉,礼貌 偏正式
 technical/technology/technique                 技术的,专业的 adj/科技,技术/技巧,手法 n
 luck/lucky/fortunate/fortunately        n/adj/adv
@@ -287,6 +286,8 @@ present/exist       赠送,展示 v/存在的,当前的 adj/目前,现在,礼物
 as long as(once) we click here       连词,只要...
 engage/(continued) engagement/working       对接,参与,投入,使用 v/参与度,项目 n/持续参与,使用,投入
 query/queries/question      查询,疑问,问题 n
+way/method/approach/approaching     方式/方法 n/方式,靠近,接近,处理,评估 v
+Jumping in again to set context: (the service requires sth)/by the way     在这里插一句,补充一下,顺带说下
 
 
 

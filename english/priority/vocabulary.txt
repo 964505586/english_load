@@ -165,7 +165,6 @@ fluctuation             波动 n
 abnormal                反常的 adj
 precondition            前置条件,前提状态 n
 transform               使转化 v
-finalize/finalized      最终确定,敲定,完成 v
 regression              回归,后退,倒退 n
 feel free to v                请随意,尽管
 seek                    寻找 v
@@ -256,6 +255,12 @@ troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)
 debug (the code/function/program)/troubleshoot      调试代码,函数,程序 v
 refer(referring) to sth/reference       参考,指的是,提及,涉及 v/参考,引用,提及 n,v
 functionality/functional manager          功能 n/职能经理
+trigger (timing)      触发(器) v,n/触发时机
+I'll schedule a (handshake session) with the backend team        对接会,初次沟通会,初步对齐会
+finalize/finalized (the design)      最终确定,敲定,完成 v/敲定方案
+How do we (approach) the retriable error        处理,评估 v/该如何处理这错误
+decommission/decommissioned/commission (the old microservice)      /ˌdiːkəˈmɪʃn/     停用,下线,退役/启用,投产,上线系统 v
+examine/examining the root cause        核查,分析 v
 
 
 

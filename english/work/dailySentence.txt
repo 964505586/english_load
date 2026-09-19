@@ -4,7 +4,6 @@ provided/providing/supposing that        conj 假如,倘若
 to my surprise/relief                           让我 惊讶/欣慰(松了一口气) 的是
 nothing for myself
 it should be able to be completed by EOD        这项工作应该能在今天结束前完成
-by the way                                  顺便说一下
 bella is right              贝拉是对的
 be the same as/with                                      和sth 一样/也一样
 i've been told that             不少人这么说
@@ -80,7 +79,6 @@ this api supports bulk requests                 这api支持批量请求
 at least not tonight                至少不是今晚
 what a pleasant surprise                    真是个惊喜(意外之喜)
 that would be great if ...
-from now/2026/(next week) onwards           从...以后
 we are not the owner of the priority channel; let me check if this can be added to the priority channel for the 16:00 batch
 the normal channel often has long wait times,since we don't own the priority channel, i'll confirm whether it can be added to the priority channel for the 16:00 batch
 have to wait for their feedback

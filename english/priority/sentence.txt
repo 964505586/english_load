@@ -61,7 +61,7 @@ would like to clarify sth/make a clarification on sth           想澄清下sth
 would like to clarify some points/details about backend with you
 i'd like to tell u something      我想告诉你一些事情
 i hardly ever use the method(command line) to operate git          我几乎不用sth
-then talk to Jack once we finalize the solution(the specific solution is confirmed)             等确定好具体方案,再跟Jack说
+then talk to Jack once (we finalize) the specific solution (is confirmed)       等确定好具体方案,再跟Jack说
 still have one more day             还有一天呢
 plz verify if the issue also occurs in uat(also check the uat env for the issue)        看下uat env有没有这个问题
 after talking with john             经过和john交谈
@@ -367,6 +367,8 @@ add logs where (it's) appropriate       在合适的场景,情形下, 添加log
 We are targeting completion of the work by end of Nov       目标在11月底完成
 would u also reply to Jack' question        能否也回复Jack提出的问题
 What's the expected behavior: fail the step or proceed to the next step        预期行为是什么: 步骤失败,还是继续下一步
+(It's) better to save the link as a bookmark, as u'll use it frequently from now on     最好保存书签,以后你会经常用
+The config (enables the flow to) proceed after retries    使...能够做某事/这配置让流程重试后可以继续运行
 
 
 
