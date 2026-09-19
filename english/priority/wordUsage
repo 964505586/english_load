@@ -61,10 +61,6 @@ comment/uncomment out the piece of code     注释 v,n/取消注释/注释掉这
 (including) breaking changes      破坏性变更
 without breaking the existing feature       不破坏现有功能
 
-relevant/related/associated     相关的/有关联的/有关联的,相关的 adj
-accordingly/corresponding       相应地 adv/相应的,对应的 adj
-proper/properly/appropriate     /ˈprɑːpər/      正确地,适当地 adj/adv
-
 users should exercise caution
 caution should be exercised when operating db   应当谨慎处理
 caution/with some caution             小心,谨慎 n/谨慎地 adv
@@ -253,8 +249,8 @@ have u done ur best today                         你今天尽力了吗
 as best as i can/could                          尽我所能 adv
 
 that better/(in order) to better do sth   更好地/为了更好的...
-had better/you'd better (see)    最好 adv/你最好看看
-you'd better do sth/(it's) better to do     最好/更好做sth
+had better/u'd better (see)    最好 adv/你最好看看
+u'd better do sth/(it's) better to do     最好/更好做sth
 i feel much better today.   我今天感觉好多了
 things are much better now   现在情况好多了
 let's get better together                           让我们一起变得更优秀
@@ -549,7 +545,7 @@ compile/compare/comparison     /kəmˈpaɪl/         编译,编制 v/比较
 The error (appear/disappeared) after restarting the service     出现/消失 v(人,物出现)
 The outage (occurred) at midnight     发生,出现
 The accident (happened) unexpectedly        发生(意料之外)
-The meeting will (take place) tomorrow      发生，举行(比赛,meeting)
+The meeting will (take place) tomorrow      发生,举行(比赛,meeting)
 
 object to (the approach)           反对,不认同(这个方案)
 we raised concerns (against the vendor for) poor api stability          因某事反对,追责某人/针对api不稳定问题向sb提出异议
@@ -591,6 +587,14 @@ promote/drive/push (system expansion)     推进,促进 v/系统扩容
 fast-track (data approval)/fast track/move at pace (with timeline)     /muːv ət peɪs/  加速推进,快速通道v/n/稳步推进,按节奏推进/加急处理审批
 facilitate (integration work)      /fəˈsɪlɪteɪt/       促进,推动,使更容易/促成,为集成工作提供支持 v
 
+(overall/In general), the retriable error will not block the flow       总的来说,一般而言/这错误不会阻断流程
+The system (as a whole) meets the requirement     总体上,整体来看,总的来说 adv/系统满足要求
+
+queries (pertaining/pertain to) migration       /pɜːˈteɪnɪŋ/ /pərˈteɪn/       与...相关
+associate/associated (with)/relevant/related     联系 v/相关的,关联的,配套的 adj/与...关联/相关的/有关联的
+accordingly/corresponding       相应地 adv/相应的,对应的 adj
+proper/properly/appropriate     /ˈprɑːpər/      正确地,适当地 adj/adv
+(action required from) stakeholders/related parties     相关方,利益相关者/需要stakeholder采取的行动
 
 
 

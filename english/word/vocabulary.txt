@@ -409,7 +409,7 @@ if so/not/possible/necessary        如果这样,不是,可能,必要
 false_positive/negative      误报/漏报
 treasure        珍爱,珍藏 v/珠宝,财富 n
 starve      /stɑːrv/        (使)挨饿,饿死 v
-
+trigger (timing)      触发(器) v,n/触发时机
 
 
 

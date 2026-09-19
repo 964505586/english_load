@@ -33,7 +33,6 @@ shortly                             不久,很快 adv
 comment     评估 v
 as of 2026/6/12     截至指定日期
 fine-tune           精细调优 n/精细地,细微的 adj/调校,调整,调节 v
-where (it's) appropriate       在合适的场景/情形下
 development         制定,完善,构建 n
 progressive rollout         逐步部署,分阶段上线部署
 weekly          每周,每星期 adv
@@ -70,7 +69,6 @@ review              查阅 v
 during the maintenance window           维护窗口期间
 powered by          由...开发/运营/提供技术支持/提供动力/驱动
 flood       泛滥 n
-trigger     触发(器) v/n
 natural person              自然人 n
 distribute/distribution/distributed locks          分发,分配 v/n    分布式锁 n
 terms of reference      职权范围 n
@@ -250,7 +248,7 @@ fright/frighted/frighting/frighten/frightened/frightening      使惊恐 v/惊�
 east/south/west/north       /iːst/ /saʊθ/ /west/ /nɔːrθ/        东,南,西,北
 later (stage/production access)     后续阶段/后续生产环境访问权限
 clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
-(Let’s discuss this) offline      线下,会外 adv
+(Let's discuss this) offline      线下,会外 adv
 (docs/SQL/prompt) injection      注射,注入 n
 procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
 troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)/debug             故障排查 n

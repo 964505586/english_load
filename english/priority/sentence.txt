@@ -1,29 +1,3 @@
-连读
-let/tell him        /ˈletəm/ /ˈteləm/
-get/out/lot of   outta lotta
-going to    gonna
-supposed to    supposta
-can/when i
-but/what i
-what a      /wɒtə/
-not at all         /nɑːd æd ɔːl/  别客气,一点也不,一点也没有,回答感谢/道歉
-wait a minute/second/moment     /weɪ də ˈmoʊmənt/
-the rest of tickets         /ðə ˈrest əv/
-this is             /ðɪ‿sɪz/
-this is a offset             |ðɪ sɪ zə|
-let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
-let's keep it as is             /lets kiːp ɪt əz ɪz/
-i'll let u know
-for a moment
-let's move on           /lets muːvɒn/          让我们继续前进
-i'll pick it up         /aɪl pɪk ɪt ʌp/
-for all of us       /fɔː(r) ɔːl əv əs/
-plz reach out to me              /pliːz riːtʃ aʊt tu miː/
-gotcha      got you
-
-
-
-
 didn't/doesn't make any difference             没作用
 of course, maybe things will change later              也许以后情况会变
 no problem at all       完全没问题
@@ -133,7 +107,6 @@ Jack is staring at sb/sth                       Jack正盯着它看
 troubleshooting (is) ongoing. no ETA yet(no ETA for resolution has been confirmed at this time)     问题正在排查中,目前暂未确认解决时间
 it will be a time-consuming effort for all of us            对我们所有人,都是一项耗时的工作
 further updates will be shared as progress is made          有进展后会同步更多更新
-better to save the link as a bookmark—you'll use it often              最好保存书签,你会经常用的
 do i need to refresh the page                   需要刷新页面吗？
 they're not doing their jobs                他们没在干活,没履行职责
 plz release after 16:00 cutoff batch         请在16:00后进行release
@@ -151,7 +124,7 @@ as far as i know(can see)           据我所 知/见
 if the issue can't be resolved promptly/quickly, i'll raise a related ticket later          如果这问题不能迅速解决,我将会提交一个相关的工单
 (u just) follow suit with sth                    效仿sth(依葫芦画瓢)
 it can make tracking much easier(it can be easier for the progress tracking)             这能让追踪工作简单很多
-you're gonna say something else?                    你要说点别的?
+u're gonna say something else?                    你要说点别的?
 it will be considered (as) a failure                它会被视为失败
 for ur convenience, answers to frequently asked questions can be found here           为方便您查阅,常见问题解答可在此查看
 especially where the following columns are marked as failed         尤其是以下列被标记为失败的记录
@@ -193,7 +166,7 @@ the change is now taking effect. plz follow the new process going forward       
 the change has been in effect since last friday         这change自上周五就已经生效了
 don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
 plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
-you'll leave(walk away) with sth       你会带着
+u'll leave(walk away) with sth       你会带着
 we likely need to           我们可能需要
 can u reproduce the issue/can the issue be reproduced       你能复现这个问题吗?
 (it's) nothing, i barely helped at all/didn't help much anyway      几乎没帮上忙,并未提供多少帮助
@@ -257,7 +230,7 @@ will be directed to new version         将被导向至新版本
 doing A involves B (adding data to DB involves 2 stages)        添加数据库到db涉及两个阶段
 (all services) are up & running       系统正常运行,服务就绪
 plz include me in the call       把某人加入会议/请把我加入
-is there anyone else (whom) you'd like (to have) on next Wednesday's sessions   你想增加其他人员参下周的会议嘛
+is there anyone else (whom) u'd like (to have) on next Wednesday's sessions   你想增加其他人员参下周的会议嘛
 i'll ask for the call to be moved forward to better suit ur timezone     将会议往前调整,以便更好适配你们的时区
 the call to be moved forward in order to help with the timezone differences     缓解时区差异问题
 therefore what we do need to build (for the phase)      因此,我们需要做什么
@@ -320,13 +293,12 @@ if doing sth needed(using an alternative solution needed)       如果需要替�
 escalate the kind of issue (only when urgent)    仅在紧急情况下
 Infra team (is best placed to) resolve the network issue       最适合做某事
 主句 with n doing/without doing sth     跟着,某人做某事,拆分主次/不做sth
-you'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
+u'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
 we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
 I'm not (entirely) sure that(about sb/sth)        不完全确定/我不确定~
 list/enumerate all the data we required     列出所需的所有数据
 not yet, still loading/it's coming (Can u see my screen)
 Jack has spent weeks making the document       花了好几周时间来做这份文档
-2xx acknowledgement is the happy path       返回2xx响应确认代表正常流程
 a timeout or non‑2xx response is the unhappy path & (triggers bounded retries) with the same id     触发重试
 introduces a streamlined (interface)/UI      接口,界面 n/引入更简洁,流线型的界面
 i might be (just) over-worried/overthinking     过度担忧的/想太多,多虑 adj/可能是我想多了,或许是我多虑了
@@ -376,38 +348,25 @@ hope (it/this/that) helps(hope this clarifies)                 希望这有帮�
 , (focusing on reducing) downtime       重点是(缩短停机时间)
 eliminating the need to raise data visa        省去,无需做某事
 the plan looks good, though i'm (thinking/wondering) if approval is still required      不过,可是,然而/我(在想/想知道)...
-in case you’re not aware, jack helps lead and drive work related to back-service     以防你不了解,jack牵头推进后端服务相关工作
+in case you're not aware, jack helps lead and drive work related to back-service     以防你不了解,jack牵头推进后端服务相关工作
 he has already been supporting this for a long time     他长期一直在负责这个
 (keep in mind that) synthetic docs are only used for test scenarios       请记住/仅用于测试场景
-we’ve validated endpoint connectivity. (with this in mind,) we can promote integration into uat     考虑到...
+we've validated endpoint connectivity. (with this in mind,) we can promote integration into uat     考虑到...
 (keeping in mind that) the system only supports global tag contracts, we need extra development for regular contracts   考虑到这一点
-the detailed agenda will be sent (separately from the invite)      独立于..之外，和..分开/详细议程将独立于本次会议邀请另行发送
-(aim to) ensure end-to-end agent flow, covering docs injection and retrieval        旨在(保障端到端agent链路，包含rag文档注入与检索环节)
-The error (went away/no longer occurs) after service restart        服务重启后，报错没了
-Attackers may try to bypass the access control      攻击者可能尝试绕过访问控制
+the detailed agenda will be sent (separately from the invite)      独立于..之外,和..分开/详细议程将独立于本次会议邀请另行发送
+(aim to) ensure end-to-end agent flow, covering docs injection and retrieval        旨在(保障端到端agent链路,包含rag文档注入与检索环节)
+the error (went away/no longer occurs) after service restart        服务重启后,报错没了
+attackers may try to bypass the access control      攻击者可能尝试绕过访问控制
 the system will truncate long payloads in log/truncation may happen if the value exceeds column length      截断过长的请求报文
-Could you (add some colour to) this requirement     给某事补充更多细节
-(I'd appreciate it if) u could add some colour to the requirement       如能..., 不胜感激
-I'm (referring/refer to) the error Jack raised      参考,指的是,提及,涉及 v/我指的是
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+could u (add some colour to) this requirement     给某事补充更多细节
+(i'd appreciate it if) u could add some colour to the requirement       如能..., 不胜感激
+i'm (referring/refer to) the error Jack raised      参考,指的是,提及,涉及 v/我指的是
+the migration as a whole is progressing well       迁移工作整体进展顺利
+add logs where (it's) appropriate       在合适的场景,情形下, 添加log
+2xx acknowledgement is the happy/unhappy path (scenario)       返回2xx响应确认代表正常流程
+We are targeting completion of the work by end of Nov       目标在11月底完成
+would u also reply to Jack' question        能否也回复Jack提出的问题
+What's the expected behavior: fail the step or proceed to the next step        预期行为是什么: 步骤失败,还是继续下一步
 
 
 

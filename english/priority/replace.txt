@@ -1,3 +1,30 @@
+连读
+let/tell him        /ˈletəm/ /ˈteləm/
+get/out/lot of   outta lotta
+going to    gonna
+supposed to    supposta
+can/when i
+but/what i
+what a      /wɒtə/
+not at all         /nɑːd æd ɔːl/  别客气,一点也不,一点也没有,回答感谢/道歉
+wait a minute/second/moment     /weɪ də ˈmoʊmənt/
+the rest of tickets         /ðə ˈrest əv/
+this is             /ðɪ‿sɪz/
+this is a offset             |ðɪ sɪ zə|
+let's leave it as it is         /lets liːv ɪt əz ɪd ɪz/
+let's keep it as is             /lets kiːp ɪt əz ɪz/
+i'll let u know
+for a moment
+let's move on           /lets muːvɒn/          让我们继续前进
+i'll pick it up         /aɪl pɪk ɪt ʌp/
+for all of us       /fɔː(r) ɔːl əv əs/
+plz reach out to me              /pliːz riːtʃ aʊt tu miː/
+gotcha      got you
+
+
+
+
+
 
 uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未被选中的,未勾选的 v
 introduce risk/cause incidents(failures)        引进,引入 v
@@ -180,7 +207,6 @@ give u an overview of sth/briefly introduce sth/elaborate     概述,简述/详�
 utilize/leverage/utilise(英式)     利用,使用 v
 host/hosting/hosted at/deploy             举行,部署,托管,做东 v/主人,主持人 n/托管于
 suggest we (play around with) Jack's proposal/try with sth       试一试Jack的提议
-associate/associated (with)     联系 v/相关的,关联的,配套的 adj/与...关联
 (the best) slot/period        时间段,时段/一段时间,时期 n/最佳时间段
 plan/intend/would like to           打算,想要/计划 v
 self-service/introduction/check link or tools       自助服务/自我介绍/自查链接,工具
@@ -192,7 +218,6 @@ what's it/this (ticket) for/what's purpose for the ticket        这是干嘛的
 modify/update/change/edit           修改/更新/改变/编辑 v
 sustain/support     维持,支撑/支持 v
 could u plz acknowledge/confirm/acknowledged        确认,认可,感谢 v/请确认(已收到/知晓/知悉)
-stakeholder/related parties                  相关方,利益相关者/相关方
 fetch/extract/read             获取,拉取 v/提取,抽取 v
 how to (architect/design) the agent     设计 v
 looks to me/in my view(opinion/perspective)     在我看来
@@ -241,7 +266,7 @@ due (date/soon)/(client) deadline/overdue   到期的/到期日期/即将到期/
 inherit/expand/it could potentially be (extended)       继承/扩展/扩展,继承 v/有扩展的潜力
 possess/process (flow)/(asynchronous) processing/handle   拥有/处理 v/流程,处理,程序,进程/流 n/处理流程/异步处理
 respect/A and B handle their (respective) tasks     遵循,尊敬 v/尊敬 n/分别,各自的 adj/处理各自的任务
-as appropriate/when you find a moment/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
+as appropriate/when u find a moment/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
 (Where did u hear/May I know where u heard) it's been confirmed     你从哪里听说这事儿已经确认了
 (either)...or.../neither...nor.../both of them          要么...要么...(两者中的一个/两者都不)
 need/demand/requirement/require/request
@@ -254,40 +279,14 @@ feature/function/(dynamic) nature/characteristic         特点,特性,功能 n/
 (but/however,/though 放句尾)/(so/therefore,/hence 只接n)      但/所以,因此
 boost/strengthen/improve/optimize/enhance/reinforce/refine (performance)       优化 v/n
 (lately/recently)/these days            最近,不久前(强调时间点/近期发生)/最近,如今,这段日子(强调状态)
-funny/interesting       滑稽的，有趣的/有趣的 adj
+funny/interesting       滑稽的,有趣的/有趣的 adj
 work/start on     从事,致力于/着手开始做某事
 recycle/reuse/reusable      回收利用/再次使用,重复使用 v,n/可重复使用的,可以再度使用的 adj
-query/question      查询,疑问,问题 n
 with/along with/alongside       /əˌlɒŋˈsaɪd/        连同,附带 prep
 present/exist       赠送,展示 v/存在的,当前的 adj/目前,现在,礼物 n/存在 v
 as long as(once) we click here       连词,只要...
 engage/(continued) engagement/working       对接,参与,投入,使用 v/参与度,项目 n/持续参与,使用,投入
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+query/queries/question      查询,疑问,问题 n
 
 
 

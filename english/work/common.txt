@@ -1,24 +1,17 @@
 
 email
-best/kind regards                   最诚挚的问候
-yours sincerely                                          你的真诚,谨启(用于英文信件署名前)
+best/kind regards/yours sincerely       /sɪnˈsɪrli/         最诚挚的问候/你的真诚,谨启(英文信件署名前)
 (hope you)have a good/nice/great day/time/night (then)          玩得开心
 if anything needs correcting or adding      任何需要修正或补充的地方
 data attached for ur reference                 附上邮件供您参考
-hope this mail finds u well               祝你一切顺利
-hope you're doing well                     祝你一切顺利
+hope the mail finds u well/hope u're doing well               祝你一切顺利
+if the time slot doesn't fit u        如果这个时段不方便
 i am writing to             我写信是为了
 feel free to propose new slot in case of conflicts      如有冲突,欢迎提出新的时间
-action required from stakeholders           需要stakeholder采取的行动
 if further clarification or a call is needed
 apologies for the late reply
 plz correct me if i'm wrong/correct it if it contains any issue
 apologize for any inconvenience this may have caused & appreciate ur understanding & patience (support)      由此给您带来的不便,深表歉意.感谢您的理解与耐心
-
-
-end a call
-in the case, maybe we can end the call
-if no other questions, i think probably we can end the call
 
 请知悉
 cc/FYI/for awareness           供您参考,供您知悉/周知事项,仅供知悉
@@ -36,10 +29,10 @@ if I can help proceed with the above items         如果我们能够协助推�
 你的想法
 what do u think (of/about the design)                 你觉得怎么样
 what's ur idea/thoughts on this (matter)
-see if that makes sense
-have u any idea or is it reasonable
+see if (have u) any idea or is it reasonable/that makes sense
 looking for any possible improvement
-there is easier way to achieve the same effect
+if there is easier way to achieve the same effect
+would u be able to provide insight here for the unhappy path scenario    见解,洞悉 n/能否提供一些见解
 
 及时通知你
 i'll keep u posted/updated with any news/changes

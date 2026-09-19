@@ -1,7 +1,7 @@
 execute/was it executed twice     /ˈeksɪkjuːt/       执行了两次吗？
 execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /ˌeksɪˈkjuːtəbl/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
 multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
-validate/validation/verify/verification/prove     /ˈvælɪdeɪt/     确认,验证/验证,核实 v,n/证实，证明 v
+validate/validation/verify/verification/prove     /ˈvælɪdeɪt/     确认,验证/验证,核实 v,n/证实,证明 v
 implement pagination functionality      /ˌpædʒɪˈneɪʃ(ə)n/       页码,分页 n/实现分页功能
 
 
@@ -138,7 +138,7 @@ receive/receipt/recipient   /rɪˈsiːt/       获得,得到,收到 v/接收 n/�
 navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导航交互
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
 very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
-comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj/adv/概述 n
+comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj,adv/概述 n
 notification noise      /nɔɪz/      通知干扰,冗余通知
 quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
 vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
@@ -363,32 +363,17 @@ use/the (usage) of this function        /ˈjuːsɪdʒ/       使用,用途/使�
 
 
 
-
-
-
-
-
-
-
-
-
-
-In general          总的来说，一般而言
-as a whole          总体上,总的来说,整体来看 adv
-
-pertaining to       与...相关
 handshake session       对接会,简短的初次沟通会
-Let me know if the time slot doesn't fit you
-we are targeting to finish within Nov end for our POC
-trigger timing      触发时机
-what’s the expected behavior — fail the step or proceed to the next step
+
+
+going forward
+better to save the link as a bookmark, u'll use it often              最好保存书签,你会经常用的
+
+
+what's the expected behavior — fail the step or proceed to the next step
 finalize the design         敲定方案
-insight     见解,分析意见
-will you be able to provide insight here for the unhappy path scenario?
-happy/unhappy path scenario           异常路径场景,失败场景
 enable          使...可用,支持
 approach        处理,评估,研究
-would you also reply to Michael about the question
 decommission            停用,下线,退役
 使用贵方Refinery        数据
 from examining various data points 通过核查多个数据点
@@ -398,7 +383,7 @@ sorry for the confusion on sra
 jumping in here
 again to set context
 any support appreciated to approve access asap
-恳请尽快批准访问权限，非常感谢支持！
+恳请尽快批准访问权限,非常感谢支持！
 any support would be appreciated to approve access asap
 
 
@@ -448,7 +433,7 @@ we'll find a way to         我会想办法...(语气坚定,靠谱)
 
 
 
-if you've helped me with a task then plz assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
+if u've helped me with a task then plz assume i've said ‘thank you!' – i won't be sending emails with just this in to reduce my email footprint.
 
 其实现在的话还算好,就怕以后会有更多的数据更新场景操作。用英语怎么说？
 
