@@ -269,7 +269,6 @@ need/demand/requirement/require/request
 conclude (with)/(current/data discrepancy) conclusion/summary      断定,推断出,结束,敲定/以...作为结尾 v/结论 n/总结,概要 n/adj
 voice/noise/sound            人的声音(噪音)/讨厌的声音(噪音)/xxxxx
 see/catch u then/later/next time          到时候见,下次见,回头见,待会见
-explore (option)/exploration/discover       /ɪkˈsplɔːr/     探索,研究,排查 v/n/发现,找到 v/研究备选方案
 obtain/gain/get (approval)          /əbˈteɪn/       得到,获得/获取审批
 feature/function/(dynamic) nature/characteristic         特点,特性,功能 n/起作用,运转 v/功能 n/特点,性质,大自然 n/动态可变的特性
 (but/however,/though 放句尾)/(so/therefore,/hence 只接n)/(as/since/because)      但/所以,因此
@@ -288,6 +287,7 @@ Jumping in again to set context: (the service requires sth)/by the way     在�
 portion/part/section/paragraph      部分/段(文章) n/分段(文章) v
 it's (update to date/latest) for API docs     最新的 adj
 align/alignment/misalignment/consistent        对齐 v/n
+explore (option/possibility)/exploration/discover       /ɪkˈsplɔːr/     探索,研究,排查 v/n/发现,找到 v/研究可行性,备选方案
 
 
 

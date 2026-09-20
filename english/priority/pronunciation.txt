@@ -227,12 +227,12 @@ provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提�
 on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
 (secret/dependency) resolution/analytics    /ˌrezəˈluːʃ(ə)n/   解析,决议,解决 n/密钥,依赖解析
 (contract) hierarchy/level      /ˈhaɪərɑːrki/      层级 n/合同层级
-deprecated      /ˈdeprəkeɪtɪd/      已废弃的 adj
 (protect) privacy (policy/protection)/private       /ˈprɪvəsi/      隐私 n/私有的 adj/隐私政策
 alternatively(or)/alternative(alternate) solution      /ˈɔːltəneɪt/     或者,要不 adv/可替代的,备选的 adj/替代物 n(替代方案)
 flexible        /ˈfleksəb(ə)l/        灵活的 adj
+citation        /saɪˈteɪʃ(ə)n/        引用,引证,引文 n
+deprecated      /ˈdeprəkeɪtɪd/      已废弃的 adj
 similarity (search)/similar/familiar       /ˌsɪməˈlærəti/       相似度 n/相似度搜索/相似的,类似的/熟悉的 adj
-citation       /saɪˈteɪʃ(ə)n/       引文 n
 reason/reasoned/reasoning/reasonable        /ˈriːznɪŋ/       推理 v/合理的 adj
 protocol/term/agreement/agreed      /ˈproʊtəkɑːl/       协议,规范/条款/协议,一致 n/约定好的,同意的 adj
 purchase (100 tokens)        /ˈpɜːrtʃəs/         购买,采购 v/n
@@ -321,8 +321,6 @@ replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,�
 attest to (system stability)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明 v/声明,证据,证实,证明 n
 (data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
 Data (warehouse) platform     /ˈwerhaʊs/     仓库 n/数据仓库平台
-(contract) hierarchy      /ˈhaɪərɑːrki/          合同层级结构
-citation        /saɪˈteɪʃ(ə)n/        引用,引证,引文
 i think (the line between) POC and pilot is (getting/becoming blurred)      /blɜːrd/      A与B之间的界限/变得模糊
 We plan to finish the retriever (microservice) development w/c 11 Aug     /ˈmaɪkrəʊsɜːvɪs/      微服务/计划8月11开始那周完成检索微服务开发
 environment visuals      /ˈvɪʒuəl/     环境架构图示(IT架构,云,DevOps场景)
