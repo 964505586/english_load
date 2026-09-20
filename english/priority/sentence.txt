@@ -1,4 +1,5 @@
-didn't/doesn't make any difference             没作用
+
+It didn't/doesn't make a difference, same error still occurs    没作用
 of course, maybe things will change later              也许以后情况会变
 no problem at all       完全没问题
 (it's) a piece of cake              小case

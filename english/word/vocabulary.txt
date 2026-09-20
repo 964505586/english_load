@@ -19,7 +19,6 @@ aspect                              方面 n
 asset                           资产 n
 atmosphere                              气氛,情调,感染力,大气层
 attack                                  攻击 v
-audience                                观众,听众 n
 automatic/automatically             自动的 adj/adv
 backward/backwards                      向后的 adj/adv
 bad luck                                        厄运
@@ -52,7 +51,6 @@ catch/caught
 celebrate   庆祝
 central                             中央的,中心的 adj
 certificate                         证书
-charge              收费,承担责任 v
 chief                               首要的,主要的 adj
 childhood                           童年 n
 climate                             氛围,气候
@@ -308,7 +306,6 @@ relationship        关系 n
 relative                                亲戚 n/相对的,相比较而言的 adj
 relax    v 放松
 release/unlock             释放 v/n
-repeat/repeated/repeatedly                     重复 v/重复地 adj/adv
 research                    研究 n/v
 reset                           调整,重新设置 v/n
 reward/rewarding                      奖励 n/v 值得的,有意义的 adj

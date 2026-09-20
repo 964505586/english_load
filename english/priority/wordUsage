@@ -315,12 +315,6 @@ in the end          到头来,最终结果/结论
 especially 句子/(for) n       尤其,特别,专门 adv
 special/specially       特殊的,特别的,专门的,特意地 adj/adv
 
-hardly/barely/almost/nearly/(more or less)     /ˈberli/    几乎不/几乎 adv
-likely/probably/most likely/unlikely        /ʌnˈlaɪkli/     65/75/85%概率/大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
-it probably won't work          大概率不行
-it's probably the same/train/today(when target)       大概率相同
-high probability of a conflict          冲突的可能性很高
-
 apologize/apologise(英式)     道歉 v
 sorry for chasing hard
 sorry to (hijack) the call        劫持,篡改,盗用 v
@@ -379,20 +373,6 @@ roughly/circa/around/about  /ˈrʌfli/ /ˈsɜːrkə/    粗略地,大约 adv/大
 u will (never/no longer) get            不再 abv
 the legacy API (is no longer supported)      旧版API不再提供支持
 It (is no longer merely) a technical issue      不再仅仅只是一个性能问题
-
-govern/governed/governing/(access) governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统治,支配,控制 v/adj/治理/权限治理
-read-only access/Short‑lived access token            只读权限 n/短期访问令牌
-access application process/user access review      权限申请流程/用户访问权限审核
-approving (authority)/access/permission/privilege     /əˈθɔːrəti/         权限,权力 n/访问 v/审批权限
-accessible/inaccessible      /əkˈsesəb(ə)l/      可到达的,平易近人的 adj/不可及的 adj
-grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
-yesterday i basically finished the access request           昨天我基本上完成了权限请求
-some access/permissions may/usually take some time to activate/propagate(go live)   一些权限通常需要一段时间方可生效
-authenticate/authentication(auth)         认证 v/n
-authorize(authorise)/authorization       授权,批准 v/n
-licensed/authorised/authorized token(result reference)         得到许可的/已授权的 adj/已授权令牌,结果引用
-permit/permitted to         批准,许可 v/n/被允许,有权限
-(express) license          执照,许可证 n/许可,特许 v/正式书面授权
 
 treat       /triːt/     对待,治疗 v
 the error shouldn't be treated as a critical risk

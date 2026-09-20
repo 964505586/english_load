@@ -168,7 +168,6 @@ transform               使转化 v
 regression              回归,后退,倒退 n
 feel free to v                请随意,尽管
 seek                    寻找 v
-timezone differences        时区差异
 low level design        底层设计
 phase           阶段 n
 who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个？

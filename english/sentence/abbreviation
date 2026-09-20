@@ -65,5 +65,7 @@ SME         Subject Matter Expert 领域专家,主题专家
 TPSA/TPRM        Third-Party (Security Assessments/Risk Management) 第三方安全评估,风险管理
 DSS       Data Security Statement 数据审批表单
 DSP     Digital security platform       数字安全平台
+LLD/HLD     low/High level design
+SDD         Software Design Document 软件设计文档
 
 

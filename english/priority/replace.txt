@@ -80,7 +80,6 @@ make a code change(change code)                  做一次代码修改(正式)
 remediate/investigate/fix              补救,修复 v
 occur/appear/happen
 as usual/planned/expected                       像往常一样/按计划/按预期
-discrepancy/difference                 差异 n
 edition/version                     版本 n
 may/can
 seem/look/sounds like good/fine
@@ -94,7 +93,6 @@ let's say for/such as/for example       举例来说/多个例子/举例1–2个
 at times/sometimes        偶尔,时不时,有时 adv
 aside from/except/other than      除...以外 +-/-/-
 (app) lossless compression/compress        无损的 adj/压缩 v/n/无损压缩应用
-typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
 save/saved amount          节省 v/挽回的 adj/挽回金额
 sb suffer (from)/sth be subject to n        遭受,受苦(长期)/将会遭受,受制于,服从,有可能被
 (financial crime) concern/concerning        顾虑,担心,忧虑 n/财务犯罪顾虑/关于,涉及 v/prep
@@ -176,7 +174,6 @@ consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
 discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 i (just) saw/noticed that     刚注意到
 local/native        本地的,当地的/原生的 adj/n
-(core) concept/definition/overview     (核心)概念/定义 n/概述,简述 v/n
 expect/look forward to n        期待 v
 update/(make great) progress      进展,(进度) n/取得进步
 launch/release new feature/version         启动,打开,发起,推出,执行 v
@@ -288,6 +285,7 @@ portion/part/section/paragraph      部分/段(文章) n/分段(文章) v
 it's (update to date/latest) for API docs     最新的 adj
 align/alignment/misalignment/consistent        对齐 v/n
 explore (option/possibility)/exploration/discover       /ɪkˈsplɔːr/     探索,研究,排查 v/n/发现,找到 v/研究可行性,备选方案
+discrepancy/(timezone) difference       差异 n/时区差异
 
 
 

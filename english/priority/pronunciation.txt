@@ -198,7 +198,6 @@ layer       /ˈleɪər/       层,等级 n
 point/dot/period/spot      /dɒt/ /ˈpɪriəd/       小数/网址,邮箱,文件名,ip/英文句末句号/点,斑点,地点 n
 manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到,管理 v/成功做sth/我成功解决了这个问题
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 n/v/暴露
-outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv
 assess/(impact) assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n/进化/影响评估
 rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/旋转,转动 n/值班名册,轮值表
 prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
@@ -319,7 +318,6 @@ persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,�
 cater to (requirement)/meet/met/fit       /ˈkeɪtər/     迎合,满足/满足 v/适合,合身,匹配 n
 replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,复制 v/复制/因子,系数,要素,份数/副本 n
 attest to (system stability)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明 v/声明,证据,证实,证明 n
-(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
 Data (warehouse) platform     /ˈwerhaʊs/     仓库 n/数据仓库平台
 i think (the line between) POC and pilot is (getting/becoming blurred)      /blɜːrd/      A与B之间的界限/变得模糊
 We plan to finish the retriever (microservice) development w/c 11 Aug     /ˈmaɪkrəʊsɜːvɪs/      微服务/计划8月11开始那周完成检索微服务开发
@@ -374,16 +372,21 @@ dummy/mock/synthetic/fake       /sɪnˈθetɪk/     假的/人造的,模拟的 a
 
 
 ad hoc      临时的,按需的,非固定周期的
+Shall we kick off first
+Specify     指定
+more inclined towards
+I.e., xxxxx            that is (to say) 也就是,即
+
+
 Stage was fulfillment
 fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
-Shall we kick off first
-It didn't make a difference, same error still occurs
-Specify     指定
+
 per                     每,每一,按照,根据
 each/every
-more inclined towards
+
 conversion
 convention
+
 concrete (plan)     /?k??kri?t/     确实的,具体的,实在的,具体可落地 adj
 practical
 
