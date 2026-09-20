@@ -6,6 +6,8 @@ we'll do everything we can(my best)      我将竭尽全力
 let's pause(hold on) here. for the introduction & process i mentioned previously. any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
 will it work？       它会起作用吗
 in that case, i think everything will be fine/all right     既然如此,我觉得一切都会顺利的
+about when?                大概什么时候
+this has never been done b4        以前从没人干过
 
 
 
@@ -21,23 +23,21 @@ look/sounds like ur situation is (different/not same) from mine                �
 no further error so far                     到目前为止没有再出现错误
 have no particular idea at the moment           目前还没有特别的想法
 of course, it wasn't me who caused it               当然,造成这一情况的并非是我
-let jenkins rest for a while                        让jenkins休息一会
+let jenkins rest for a while        让jenkins休息一会
 we usually/normally do it this way, unless someone challenges it            我们一般都这么做
-if we use the pattern, others may misunderstand it as cust id instead of auto-increment id          如果我们使用这pattern,其他人可能会将其误解为客户编号,而非自增编号
+if we use the pattern, others may misunderstand it as cust id instead of auto-increment id      如果我们使用这pattern,其他人可能会将其误解为客户编号,而非自增编号
 no need to start the run from the beginning         不需要从头开始run
-about when?                大概什么时候
 this one blocked us for a couple days               这个卡了我们好几天
 this has been happening a lot recently. it didn't happen b4             这种情况最近频繁发生.以前从未出现过这种情况.
-the problem occurs when writing data to hdfs, & then the exception is thrown
+the problem occurs when writing data to DB & then the exception is thrown
 plz press ctrl & c on ur keyboard      /kənˈtroʊl/    请在键盘上按下"ctrl"和"c"键
-logs are only kept for one or two days              日志只保存一天或两天
+logs are only kept for 1 or 2 days              日志只保存一天或两天
 is/isn't this what we expected?             这难道不是我们所期望的吗？
 wait a minute. let me quickly check the dictionary to see how to say it     我查下字段
 could u tell me who i should contact?         你可以告诉我应该联系谁吗？
-this has never been done b4        以前从没人干过
-develop a script to identify data discrepancies in specific indices. if discrepancies are found, save the conclusion             编写一个脚本来识别特定索引中的数据差异如果发现差异,保存结论
-this is an automatically generated notification from confluence             这是confluence自动生成的通知
-i'm preparing to create a sample. once completion, i'll work out the detailed timeline         我正在准备为 spark 项目创建一个示例完成后,我会制定详细的时间表
+develop a script to identify data discrepancies in specific indices. if discrepancies are found, save the conclusion        编写个脚本识别索引的数据差异,如发现差异,保存结论
+this is an auto-generated notification from confluence             这是confluence自动生成的通知
+i'm preparing to create a sample. once completion, i'll work out the detailed timeline         我正在准备为spark项目创建一个示例完成后,我会制定详细的时间表
 whose responsibility is it？                 这是谁的责任？
 actually, it's afternoon in china               实际上,中国现在是下午
 what time do u start work in the morning          你早上几点开始工作
@@ -165,7 +165,6 @@ the change has been in effect since last friday         这change自上周五就
 don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
 plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
 u'll leave(walk away) with sth       你会带着
-we likely need to           我们可能需要
 can u reproduce the issue/can the issue be reproduced       你能复现这个问题吗?
 (it's) nothing, i barely helped at all/didn't help much anyway      几乎没帮上忙,并未提供多少帮助
 end up as sth           最终变成,最终格式为
@@ -292,7 +291,6 @@ escalate the kind of issue (only when urgent)    仅在紧急情况下
 Infra team (is best placed to) resolve the network issue       最适合做某事
 主句 with n doing/without doing sth     跟着,某人做某事,拆分主次/不做sth
 u'll leave knowing when KGs/ontologies are the right tool     你离开时会清楚,会掌握判断java和用python的正确时机
-we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
 I'm not (entirely) sure that(about sb/sth)        不完全确定/我不确定~
 list/enumerate all the data we required     列出所需的所有数据
 not yet, still loading/it's coming (Can u see my screen)
@@ -368,14 +366,23 @@ What's the expected behavior: fail the step or proceed to the next step        �
 (It's) better to save the link as a bookmark, as u'll use it frequently from now on     最好保存书签,以后你会经常用
 The config (enables the flow to) proceed after retries    使...能够做某事/这配置让流程重试后可以继续运行
 just a quick question:      想问下,有个小问题想请教
-As it's in an unconfirmed state, let's use this to push back    该事项处于待确认,可以以此为由进行延后,驳回
+as it's in an unconfirmed state, let's use this to push back    该事项处于待确认,可以以此为由进行延后,驳回
 this will be more from IT side and code/api level       这将更多来自IT方面以及代码,接口层面
-The (local DB/2 datasets) is out of sync with production        本地数据库和生产环境不同步
-(That's the question that Jack and I discussed) the other day       前些天,前几天
-(Let’s review it) some other day        改天(再评审)
-(Let’s hold off on the migration and do it) some other day    改天/先暂缓这次迁移，改天再实施
-Just (sync up) on(with sb) the status of the migration       同步/只是同步一下状态
+the (local DB/2 datasets) is out of sync with production        本地数据库和生产环境不同步
+(that's the question that Jack and I discussed) the other day       前些天,前几天
+(let's review it) some other day        改天(再评审)
+(let's hold off on the migration and do it) some other day    改天/先暂缓这次迁移，改天再实施
+just (sync up) on(with sb) the status of the migration       同步/只是同步一下状态
 there may be a misalignment/inconsistent in the config      不一致 n/可能存在不一致
+how are we thinking about (the anonymisation step/getting data)        我们打算怎么考虑匿名化,获取数据
+we (might as well use this dataset as) use the old one        与其做B，倒不如做A
+we (might as well) anonymize the data now       不妨，倒不如，干脆做某事/不妨现在就匿名化数据
+is my understanding correct that we need to anonymize all records       我的理解是否正确
+(That's why I'm saying) we likely need to request credentials first   这就是我这么说的原因,所以我才这么讲
+That's what I'm saying      这正是我想说的,我就是这个意思
+we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
+we'll (find out) after the call     查明,弄清楚,确认 v/会后确认
+(rather than) use elasticsearch, (i would) propose pgsql     与其做A，我宁愿,会做B
 
 
 

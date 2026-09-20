@@ -193,7 +193,6 @@ P0          最高优先级故障,任务(P0 > P1 > P2 > P3)
 by default          默认情况下 adv
 when prompted       当提示的时候
 vector store        向量存储
-rerank        重排序
 (request) payload         有效负载 n/请求负载,请求体
 initial evaluation      初步评估
 with immediate effect           立即生效

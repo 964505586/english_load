@@ -316,7 +316,6 @@ fill in/populate/enter/pre‑population   /fɪl ɪn/ /ˈentər/   填写/填充/
 be (conscious) it's nearly by EOD for u/realize       /ˈkɑːnʃəs/      意识到的 adj/意识到你们那边差不多快下班了
 stick to the original plan/persist      /stɪk/      坚持 v
 persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,持续,坚持 v/持久化的,执着的,持续的 adj/物化,落地生成/坚持 v
-syntax/semantic error       /ˈsɪntæks/ /sɪˈmæntɪk/      语法 n/语义的 adj
 cater to (requirement)/meet/met/fit       /ˈkeɪtər/     迎合,满足/满足 v/适合,合身,匹配 n
 replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,复制 v/复制/因子,系数,要素,份数/副本 n
 attest to (system stability)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明 v/声明,证据,证实,证明 n
@@ -393,10 +392,6 @@ practical
 bandwidth/xxxx       /ˈbændwɪdθ/         带宽,吞吐能力 n
 throughput/xxxx      /ˈθruːpʊt/      吞吐量
 erase/erased/truncate/wipe out       /ɪˈreɪs/ /waɪp aʊt/     抹去,清除 v/清空,删除
-
-whatever/xxxx        无论什么
-regardless/irrespective of n/whether a or b      无论/不管 a还是b
-no matter what/who/whether ...      /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
 
 reproduce/replicate (question)/reproduction       复现 v/n
 occur/occurrence/reoccur/recurrence     /??k?r?ns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n

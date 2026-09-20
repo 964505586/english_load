@@ -270,11 +270,6 @@ mean/meant/meaning/means        意味,打算 v/意思 n
 mean doing(to sth)            意味着/故意
 meaningful/meaningless      有意义的 adj/无意义的 adj
 
-nice tip/good takeaway
-good learning experience
-learned a useful trick
-that's useful, learned something new
-
 at late(the end of) Sep & early(the start of) Oct
 early June(next/this week)       在 月初/月末
 
@@ -308,10 +303,8 @@ call‑off    子订单,分合同
 parent‑child agreement      父子块一致性
 a call‑off mapped to its parent agreement       一个调用映射到其父级协议
 
-mask (out)        打码,掩饰,伪装,掩码,口罩,面具/屏蔽 v
-mark                标记,做记号 v
-remark/note/comment              谈论 v/言论,评语,备注 n
-remarkable          引人注目的 adj
+mark/mask (out)        标记,做记号/屏蔽 v/打码,掩饰,伪装,掩码,口罩,面具
+remark/note/comment/remarkable     谈论 v/言论,评语,备注 n/引人注目的 adj
 
 lastly              最后 adv
 eventually          终于,等了很久,几经波折后
@@ -383,11 +376,6 @@ move/remove/shift       挪动,更改/移除,删掉/移动,转移,偏移,延后
 approximate/approximately (10 minutes)       类似,接近 v/大概的,近似的 adj/adv
 roughly/circa/around/about  /ˈrʌfli/ /ˈsɜːrkə/    粗略地,大约 adv/大约 prep/adv
 
-scrambled (data)      /ˈskræmbld/      被打乱,搅乱的
-plaintext (password)/unhashed/hardcode      /pleɪnˈtekst/      明文 n/未做哈希处理 adj/硬编码 v
-redact/(data) redaction/mask/masking      /rɪˈdækʃn/      编辑,校订 n/数据脱敏
-mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
-
 u will (never/no longer) get            不再 abv
 the legacy API (is no longer supported)      旧版API不再提供支持
 It (is no longer merely) a technical issue      不再仅仅只是一个性能问题
@@ -411,13 +399,6 @@ the error shouldn't be treated as a critical risk
 treat A as B(a joke)        把A视作B/把sth当作笑话
 treat sb like sb/sth        把sb当作sb/sth对待
 treat sb to sth             用sth款待某人
-
-whoever/whomever         无论谁,不管是谁 anyone who/whom
-whatever        无论什么,不管什么
-whichever       无论哪一个
-wherever        无论哪里,不管在哪
-whenever        每当,无论什么时候
-everywhere      到处 adv/每个地方 n
 
 (feature) highlight/highlighted       突出,强调 v/功能亮点
 plz check the part(key points) highlighted in yellow     查看标黄部分
@@ -590,6 +571,43 @@ We haven't thought that far ahead yet       还没考虑到那么长远
 Do we need to (think that far ahead) nowadays     现阶段我们有必要考虑那么久远的事吗
 We can't (plan/think that far ahead) since there is insufficient info for now    没法考虑得那么长远
 
+(database) cleanup     清理,整理,梳理 n
+Given the misalignment on requirements, let's (regroup) to sync up     重新梳理,复盘 v
+(let u guys) work it out      制定,梳理,敲定 v/你们自行协商处理
+digest/digesting the catalogue      /daɪˈdʒest/      梳理,研读,消化理解
+i'm slowly combing through my notes     /ˈkoʊmɪŋ/       我正在慢慢梳理我的笔记
+tidy (up)       /ˈtaɪdi/        整洁的 adj/整理 v
+(prepare/put together) documentation     整理文档
+sort (it out)/organize      排序,分类/整理,解决 v/整理,组织,安排
+come up with (a solution)        整理得出,输出 v
+
+finalize/finalized (the design)      最终确定,敲定,完成 v/敲定方案
+let's work out the (detailed) timeline      制定出时间计划,敲定时间线
+(We can hold off the migration or proceed — it's) your call         由你来决定,听你的
+The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
+
+no matter (what/who/whether) the test passes, we need to log it
+whatever (the outcome is/n), we need to document it/take whatever data you need        无论什么/取你要的任何数据
+the rule applies (regardless/irrespective of) user role     /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
+we need to test it (regardless/irrespective of whether) the ticket is approved
+
+nice tip/good (point/takeaway)      说得好，有道理/有价值的收获
+good learning experience
+learned a useful trick
+that's useful, learned something new
+
+scrambled (data)      /ˈskræmbld/      被打乱,搅乱的
+plaintext (password)/unhashed/hardcode      /pleɪnˈtekst/      明文 n/未做哈希处理 adj/硬编码 v
+redact/(data) redaction/mask/masking      /rɪˈdækʃn/      脱敏 v/编辑,校订 n/数据脱敏
+mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
+need to (anonymise/anonymize/anonymous) the record, just as we will ~ other data    /əˈnɑːnɪmaɪz/     使匿名 v/匿名的 adj/就像我们处理其他
+
+whoever/whomever(anyone who/whom)         无论谁,不管是谁
+whatever        无论什么,不管什么
+whichever       无论哪一个
+wherever        无论哪里,不管在哪
+whenever        每当,无论什么时候
+everywhere      到处 adv/每个地方 n
 
 
 
