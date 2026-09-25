@@ -16,6 +16,7 @@ sorry for being late            对不起,我迟到了
 let's wait & see/let's wait a few more minutes      静观其变,看看情况再说/再多等一会儿
 let's wait for others to join (the call)            让我们等待其他人加call
 let's start(kick off) first & see if they join later (on)      我们先开始,看他们稍后会不会加入
+Shall we kick off first, and we can catch the others up later       要不我们先开始，后续再同步给没来的同事
 sorry. i'm so late. sorry about that        抱歉,我来晚了
 not sure if john will join the call            不确定托尼是否会参加这次通话
 (okay, no more delay) let's jump right in                     (好了,不再耽搁了)咱们直接开始吧
@@ -30,10 +31,10 @@ i'll (continue following it up today/stay current with the ticket and update you
 i'll continue working/focusing on this today        今天我将继续做,专注于这件事
 haven't got time to pick it up yet/didn't have time to handle this          还没时间去处理这件事
 i'll try to get it done by today/i'm trying to get this resolved today  将争取/正努力 今天把这事解决掉
-i spent all my time finishing the ticket yesterday              昨天我把所有时间都花在完成这张票上
+i spent all my time finishing the ticket ytd              昨天我把所有时间都花在完成这张票上
 will check later. have no idea how big it(this ticket) is (how many story point do u need)    我不知道这ticket多大(你要多少effort)
 if everything goes well         如果一切顺利
-yesterday i answered(helped check) some issue Jack encountered & the issues Lion faced       昨天我帮助检查了Jack遇到的问题和john面临的问题
+ytd i answered(helped check) some issue Jack encountered & the issues Lion faced       昨天我帮助检查了Jack遇到的问题和john面临的问题
 let's go/come back to the track(Jira Board)         我们回到n吧
 thx for joining              感谢您的参与
 any items u want to raise/talk/discuss here or we can end/close the call     您这里还有想要 提出/讨论/交流 的 内容/事项吗？或者我们可以结束这次通话

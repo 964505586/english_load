@@ -19,7 +19,7 @@ TBC                 To be confirmed(更偏 "确认一下就好")
 SLA                 Service level agreement
 ASAP                as soon as possible         尽可能快 adv
 WIP                 Work in progress
-YTD                 yesterday
+YTD                 ytd
 LTS version         Long term support
 DQ issue            Data quality issue
 DOB                 Date of Birth
@@ -60,12 +60,14 @@ WLB         Work‑Life Balance
 pubsub      publish‑subscribe 发布订阅
 vs      /ˈvɜːsəs/      versus/compare 与...相比
 SPN         Service Principal Name 服务主体账号
-E.g.,            for example 举出例子
 SME         Subject Matter Expert 领域专家,主题专家
 TPSA/TPRM        Third-Party (Security Assessments/Risk Management) 第三方安全评估,风险管理
 DSS       Data Security Statement 数据审批表单
 DSP     Digital security platform       数字安全平台
 LLD/HLD     low/High level design
 SDD         Software Design Document 软件设计文档
-
+STS endpoint        Security Token Service 安全令牌服务端点
+DL          distribution list 邮件分发组
+SSO         Single Sign-On 单点登录
+fProxy/rProxy           forward/reverse proxy 正向,反向代理
 

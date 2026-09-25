@@ -6,7 +6,6 @@ algorithm                       算法 n
 alias                           别名 n
 decision/decide             决定 n/v
 such                这种
-proxy                 代理
 ingest                 摄取 v
 fraud                 欺诈 n
 insert          插入 v
@@ -19,7 +18,6 @@ domain                 领域 n
 doubt                  疑问,疑惑 n
 exchange                 交换 v/n
 fail/failed/failure                             失败 v/n
-fetch               获取,拉取 v
 u (flatter) me                 奉承,吹捧 v
 generic             通用的 adj
 get rid of n                         摆脱sth
@@ -40,7 +38,6 @@ permanently                 永久地/adv
 prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
 promotion                 晋升 n
-recommend/recommendation                   建议,劝告,推荐 v/n
 remediate/remediation                   补救,修复 v/补救,纠正 n
 rest                            余下的 n
 rich            丰富的 adj
@@ -59,7 +56,6 @@ particular/particularly     特别的,特定的 adj/细节,详情 n/非常,尤�
 revisit             再访 v/n
 segmentation fault         段错误
 facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情
-detailedly(in detail)            详细地 adv
 up      向上
 investigate/investigation       调查,调研 n
 

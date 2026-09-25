@@ -99,7 +99,7 @@ oops/my goodness        /ʊps/        哎哟,啊呀,糟糕/我的天
 jesus/my god/damn it       天哪/我的天/该死(脏话,熟人)
 holy shit       天哪(粗俗)
 
-advise/advice       通知,建议 v/n
+advise/advice/recommend/recommendation       通知,建议 v/n
 propose/proposal/(strongly) suggest/suggestion/feedback        提议,建议 v/n/反馈意见 n/强烈建议
 
 did u do (过去时间)          你当时做了吗？
@@ -130,10 +130,6 @@ scaling AI responsibly/scale with stronger control      /rɪˈspɑːnsəbli/    
 
 (system) entry/central front door   /ˈentri/    入口,条目,记录,进入,加入 n/核心,系统入口 n
 (first/prior) entry (prerequisite)        进入,记录,条目/首条/先前条目,历史记录/准入前置条件
-
-declare/declared/declaration        /dɪˈkler/ /ˌdekləˈreɪʃn/        宣布,声明 v/n
-announce/announcement       宣布,公布 v/n
-post/posted/send/sent     发布,邮寄/发送 v/已提交的 adj
 
 guide/(hands-on) guidance      指南 n/指导,引导 v/指导,指引 n/实操指导
 pocket(my role reference) guide     口袋指南/岗位职责指引,参考手册
@@ -191,12 +187,6 @@ i know about this           我知道这件事
 i'm(we are) aware of this           我 已知晓/了解这件事
 i wasn't aware of this
 
-find        查收,发觉 v
-find out more (about)       了解更多
-plz find the email chain below       请查收下方邮件往来
-for ur convenience, plz find FAQS here     为方便您使用,常见问题请在此查阅
-plz find the (attached) recap(meeting minutes) from our meeting ytd        查收我们昨天会议的纪要
-
 obstacle/friction(block v/n)                障碍,阻碍,困难/阻碍,摩擦阻力,繁琐卡点 n
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
 (building) block/blocker         阻碍 v/n/基础模块,核心组件,积木块 n
@@ -225,13 +215,6 @@ advance/advanced             使前进 v/前进 n/先进的,高级的,进阶的,
 beforehand/(2 months) in advance   /bɪˈfɔːrhænd/   事先,提前 adj,adv/提前地 adv/提前2个月
 provide advance notice/give u a heads-up     提前下发通知,预先告知/提前告知,预先提醒
 
-best
-i'll do/try my best to                                我会尽力去做sth
-i've done(will do) everything in my power to              我 已经/将会 尽我一切所能去...
-u didn't do ur best                                 你没有尽力
-have u done ur best today                         你今天尽力了吗
-as best as i can/could                          尽我所能 adv
-
 that better/(in order) to better do sth   更好地/为了更好的...
 had better/u'd better (see)    最好 adv/你最好看看
 u'd better do sth/(it's) better to do     最好/更好做sth
@@ -259,12 +242,6 @@ accurate/precise/inaccurate/accuracy     /ˈækjərət/ /prɪˈsaɪs/     准确
 select bar/box      选择栏/选择框
 dropdown (list)                 下拉(列表) n
 radio/checkbox (button)/input box       单选/复选框/输入框 n
-
-map             映射 v
-reflect (the correct ownership)         反映,体现,显示 v
-be equivalent (to)         等价于,等同于,相当于
-match/correspond to       对应,匹配,指向
-point to/towards            指向(中性)
 
 mean/meant/meaning/means        意味,打算 v/意思 n
 mean doing(to sth)            意味着/故意
@@ -424,7 +401,7 @@ restore/revert      恢复,还原/恢复,回复 v/把东西变回原来的状态
 resume      /rɪˈzuːm/       恢复,简历 v/停下后(人)继续干
 
 act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
-(regulatory) compliance/comply with (regulation)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v
+(regulatory) compliance/comply with (regulation)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v/遵守法规
 obey (the rule)/obedience to (instructions)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v,n/遵守规则/遵从指令
 in line with (enterprise's principle)      遵照,符合/符合企业原则
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
@@ -588,6 +565,14 @@ whichever       无论哪一个
 wherever        无论哪里,不管在哪
 whenever        每当,无论什么时候
 everywhere      到处 adv/每个地方 n
+
+The field is optional, (i.e.,) you can leave it blank       that is (to say) 也就是,即/该字段为选填，即你可以留空
+We support multiple regions, (e.g.,) Singapore, Japan     for example 举例/支持多个区域，例如新加坡,日本等等
+The dashboard shows metrics: latency, TPS, error rate, etc.         展示指标：延迟,TPS,错误率等
+
+at (exactly) that moment, (the API started throwing timeout errors)         (恰恰)就在那一刻/API开始抛超时错误
+meanwhile/at the same time/simultaneously        与此同时 adv/同时/同时 adv(正式)
+parallelly/(in) parallel       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 
 
 
