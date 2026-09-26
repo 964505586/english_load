@@ -118,7 +118,7 @@ watched/automatic watching      关注的 adj/自动关注
 staging/Pre-Prod env        预发布环境
 pin up/pinned (to version xxx)/fixed      /ˈpɪn ʌp/     置顶,挂图 v/已置顶的 adj/固定版本,锁定版本/固定的 adj
 1h/2h/h2 2026/achievements/half year 2     (2026)下半年/上半年成绩
-estimated (duration)/judge      估计的,判断,评价 v/(预估的)持续时间 n
+estimated (duration)/judge      估计的,判断,评价 v/(预估的)持续时间 n/判断
 (human/professional) judgement/judge/estimate      判断,意见,判断力 n/判断,评判,评价 v/人工,专业判断
 stress/stressful/emphasize        强调,着重,使受压力 v/压力 n/紧张的,压力大的 adj
 formal/official/informal/former        正式的,规范的,合法的/非正式的/正式的,官方的/以前的 adj
@@ -189,7 +189,6 @@ I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
 notify/(outage) notification/notice      通报,告知 v/通知 n/断网,服务中断通知/注意,意识 v
 the day/week after/b4 ytd/tomorrow/next week      前天/后天/下下周
 queue times are usually long in normal channel/long queue times are common      排队时间长是常见
-give u an overview of sth/briefly introduce sth/elaborate     概述,简述/详细说明
 host/hosting/hosted at/deploy             举行,部署,托管,做东 v/主人,主持人 n/托管于
 suggest we (play around with) Jack's proposal/try with sth       试一试Jack的提议
 (the best) slot/period        时间段,时段/一段时间,时期 n/最佳时间段
@@ -208,7 +207,6 @@ how to (architect/design) the agent     设计 v
 looks to me/in my view(opinion/perspective)     在我看来
 guide sb on/through sth     指导某人/带sb一步步走完
 be good to do sth(at sth)      适宜,乐意做/擅长做sth
-concise/briefly     简洁的 adj/简短的,简要的 adv
 just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
 I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
 release gates/gating process        发布门禁/门禁流程
@@ -258,7 +256,6 @@ voice/noise/sound            人的声音(噪音)/讨厌的声音(噪音)/xxxxx
 see/catch u then/later/next time          到时候见,下次见,回头见,待会见
 obtain/gain/get (approval)          /əbˈteɪn/       得到,获得/获取审批
 feature/function/(dynamic) nature/characteristic         特点,特性,功能 n/起作用,运转 v/功能 n/特点,性质,大自然 n/动态可变的特性
-(but/however,/though 放句尾)/(so/therefore,/hence 只接n)/(as/since/because)/(or/alternatively)      但/所以,因此
 boost/strengthen/improve/optimize/enhance/reinforce/refine (performance)       优化 v/n
 (lately/recently)/these days            最近,不久前(强调时间点/近期发生)/最近,如今,这段日子(强调状态)
 funny/interesting       滑稽的,有趣的/有趣的 adj
@@ -266,7 +263,6 @@ work/start on     从事,致力于/着手开始做某事
 recycle/reuse/reusable      回收利用/再次使用,重复使用 v,n/可重复使用的,可以再度使用的 adj
 with/along with/alongside       /əˌlɒŋˈsaɪd/        连同,附带 prep
 present/exist       赠送,展示 v/存在的,当前的 adj/目前,现在,礼物 n/存在 v
-as long as(once) we click here       连词,只要...
 engage/(continued) engagement/working       对接,参与,投入,使用 v/参与度,项目 n/持续参与,使用,投入
 query/queries/question      查询,疑问,问题 n
 way/method/approach/approaching     方式/方法 n/方式,靠近,接近,处理,评估 v

@@ -225,7 +225,6 @@ loudly(in a loud voice)                             大声地 adv
 lovely                        可爱的
 madness                         疯狂,愚蠢的行为 n
 manual/manually                                 手动地 adj/adv
-match/mismatch                       匹配 v/比赛 n
 matter n 问题,事情 v 重要
 medical                     医疗的 adj
 meet by chance              偶遇,邂逅 vi
@@ -380,7 +379,6 @@ wealth                      财富 n
 wedding                             婚礼 n
 which one                       哪一个
 wholehearted/wholeheartedly     全心全意地 adj/adv
-within 1 hour                   1小时内
 worry-free                      无忧无虑的 adj
 worth                           值得的 adj/价值 n
 worthy                          值得尊敬的 adj

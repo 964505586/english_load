@@ -48,9 +48,6 @@ in case (the prod issue recurs)/to avoid n           以防...
 in the/that case of n               在...情况下
 in a case like this                 像这样的情况
 
-timely/in a timely manner       及时的 adj/及时地,按时 adv
-in(on) time/promptly/quickly        及时/按时/迅速地,立即 adv
-
 (apply for/get) a waiver      /ˈweɪvər/       豁免,放弃 n/申请豁免/拿到豁免
 exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
 
@@ -181,11 +178,6 @@ enforce/enforcing           强制执行,强制生效 v
 mandatory               强制的 adj(法律,公司政策,行业标准要求)
 compulsory/compulsively     /kəmˈpʌlsəri/       强制性的 adj/adv(内部规则,规章制度要求)
 force (upon)/forcible/forcibly      暴力 n/强行,强迫,强制地 v/adj/adv/强加 v(物理力量,暴力手段)
-
-(did) u know(are u aware of) that       你知道这件事吗？
-i know about this           我知道这件事
-i'm(we are) aware of this           我 已知晓/了解这件事
-i wasn't aware of this
 
 obstacle/friction(block v/n)                障碍,阻碍,困难/阻碍,摩擦阻力,繁琐卡点 n
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
@@ -438,8 +430,7 @@ even/despite n/even if 句子      即使,就算
 
 define/definition        定义 v/n
 definitive/definite/definitely      /dɪˈfɪnətɪv/ /ˈdefɪnət/      确定的,最终的 adj/清晰的,肯定地,明确地 adj/adv
-clearly/explicitly (prohibited)         清楚地/明确地,明示的 adv/明确禁止
-explicitly (prohibited)/clearly/definitely      /ɪkˈsplɪsɪtli/      清楚明确地,明示的 adv/清楚地,清晰地 adv/明确禁止
+clearly/explicitly (prohibited)     /ɪkˈsplɪsɪtli/         清楚地/明确地,明示的 adv/明确禁止
 explicit/implicit       明示的,明确的/隐式的,含蓄的 adj
 imply/implied/hint (that)/implicit       /ɪmˈplaɪ/ /hɪnt/       暗示,意味着 v/暗示,提示 v,n/隐式的,含蓄的 adj
 
@@ -548,16 +539,10 @@ whatever (the outcome is/n), we need to document it/take whatever data you need 
 the rule applies (regardless/irrespective of) user role     /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
 we need to test it (regardless/irrespective of whether) the ticket is approved
 
-nice tip/good (point/takeaway)      说得好，有道理/有价值的收获
+nice tip/good (point/takeaway)      说得好,有道理/有价值的收获
 good learning experience
 learned a useful trick
 that's useful, learned something new
-
-scrambled (data)      /ˈskræmbld/      被打乱,搅乱的
-plaintext (password)/unhashed/hardcode      /pleɪnˈtekst/      明文 n/未做哈希处理 adj/硬编码 v
-redact/(data) redaction/mask/masking      /rɪˈdækʃn/      脱敏 v/编辑,校订 n/数据脱敏
-mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
-need to (anonymise/anonymize/anonymous) the record, just as we will ~ other data    /əˈnɑːnɪmaɪz/     使匿名 v/匿名的 adj/就像我们处理其他
 
 whoever/whomever(anyone who/whom)         无论谁,不管是谁
 whatever        无论什么,不管什么
@@ -566,8 +551,8 @@ wherever        无论哪里,不管在哪
 whenever        每当,无论什么时候
 everywhere      到处 adv/每个地方 n
 
-The field is optional, (i.e.,) you can leave it blank       that is (to say) 也就是,即/该字段为选填，即你可以留空
-We support multiple regions, (e.g.,) Singapore, Japan     for example 举例/支持多个区域，例如新加坡,日本等等
+The field is optional, (i.e.,) you can leave it blank       that is (to say) 也就是,即/该字段为选填,即你可以留空
+We support multiple regions, (e.g.,) Singapore, Japan     for example 举例/支持多个区域,例如新加坡,日本等等
 The dashboard shows metrics: latency, TPS, error rate, etc.         展示指标：延迟,TPS,错误率等
 
 at (exactly) that moment, (the API started throwing timeout errors)         (恰恰)就在那一刻/API开始抛超时错误

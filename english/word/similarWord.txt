@@ -69,8 +69,7 @@ knock down              撞倒,拆除(建筑物),压低(价格)
 knock off               下班,收工(非正式),停止做某事,快速完成,偷走(非正式)
 knock out               击倒(拳击等运动中),使昏迷,淘汰(比赛中),使筋疲力尽(非正式)
 
-cut down            减少,削减
-cut down on
+cut down (on)            减少,削减/xxxx
 cut off             切断,中断
 cut across          横穿,穿过
 
@@ -89,9 +88,7 @@ look for                寻找
 look after              照顾
 look around             环顾四周,打量
 look into               调查,研究,朝...里面看
-look like               看起来像
 look about              环顾四周
-look out                当心,注意
 watch out               当心,小心
 
 ask                    问
@@ -175,11 +172,6 @@ at half cost/price                      半价
 at heart                                在内心,本质上
 at midnight                             在午夜,即晚上12点
 at the first sight                      第一眼
-
-without warning                             毫无预兆地 adv
-Without a doubt                             毫无疑问
-without any reasons                         无缘无故地
-without hesitation                          毫不犹豫
 
 few/fewer/fewest            cn 很少,几乎没有/更少/最少
 little/less/least           un 很少,几乎没有/更少/最少

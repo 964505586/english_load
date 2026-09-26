@@ -42,7 +42,6 @@ TBH                 honest 说实话
 reps            representatives 代表,对接人
 PFA             plz find attached 请查阅附件
 BP              business process 业务流程
-PIC             Person In Charge 负责人
 MoM             Minutes of Meeting 会议纪要
 UAT             User Acceptance Testing 用户验收测试
 cmd         command 命令
@@ -51,7 +50,7 @@ LLM         Large Language Model 大语言模型
 MRM         Model Risk Management (metrics) 模型风险管理(指标)
 BAU         Business‑As‑Usual 日常业务,常规工作,常态化业务
 CICD        Continuous Integration Continuous Delivery
-RAG         retrieval augmented generation 检索增强生成
+RAG         Retrieval-Augmented Generation 检索增强生成
 AC          Acceptance Criteria 验收条件
 FQDN        fully qualified domain name 域名
 SMT         Senior Management Team 高层管理团队

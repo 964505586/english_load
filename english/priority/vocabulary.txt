@@ -35,10 +35,8 @@ development         制定,完善,构建 n
 progressive rollout         逐步部署,分阶段上线部署
 weekly          每周,每星期 adv
 driven by n     被n驱动,主导,制约
-revoke/revocation                 撤销 v/取消,撤回 n
 value                           价值,价值观 n
 close down           收尾,完成 v
-codebase            代码库 n
 snippet         小片,片断	 n
 datapoint           数据点 n
 re-platform         平台重构,系统迁移 n
@@ -179,7 +177,6 @@ maker‑checker mechanism     编制复核机制
 map/maps/mapped/mapping         地图,映射,分布图 n/映射 v
 control         控制 v/管控 n
 P0          最高优先级故障,任务(P0 > P1 > P2 > P3)
-by default          默认情况下 adv
 when prompted       当提示的时候
 vector store        向量存储
 (request) payload         有效负载 n/请求负载,请求体
@@ -191,7 +188,6 @@ average running time        平均运行时长,执行时间
 mobile/on‑net verification        手机号核验/手机号在网状态核验
 team capability extension       团队能力扩展
 discount/discounting     打折,减价,折扣 v/n
-champion        项目负责人,冠军 n
 inspire/inspired/inspiration/expire        激励,鼓舞 v/受启发的,鼓舞的,能力卓越的 adj/灵感,启发 n/到期,失效 v
 gold/golden practice     金 n/金色的 adj/宝贵经验,干货方法
 in terms of (capabilities)        就...而言,在...方面/在能力层面
@@ -209,7 +205,6 @@ preload     预加载,预载 v
 chase/chased/chasing       跟进,催促 v
 developer usage acknowledgement         承认,感谢,应答回执 n/开发者使用承诺书
 instead     相反
-pilot(proof of Concept)        试点的 adj/试点 n/概念验证
 callback (url/endpoint)        回调 n/回调地址
 outsourcing determination       外包,外购 n/外包判定
 ready-to-use (utilities)      随时可用的 adj/开箱即用工具,立即可用工具集
@@ -234,7 +229,6 @@ east/south/west/north       /iːst/ /saʊθ/ /west/ /nɔːrθ/        东,南,�
 later (stage/production access)     后续阶段/后续生产环境访问权限
 clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
 (Let's discuss this) offline      线下,会外 adv
-(docs/SQL/prompt) injection      注射,注入 n
 procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
 troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)/debug             故障排查 n
 (database/performance) tuning/fine‑tuning     调优/微调 n

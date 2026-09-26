@@ -32,7 +32,6 @@ lower(upper) case/capital                    小/大 写字母/资本,资金,大
 medium                 中等的 adj
 nested                 嵌套的
 observation                         观察 n
-one-off                  一次性的
 ordinary                普通的,平常的 adj
 permanently                 永久地/adv
 prefix/suffix                           前/后 缀 n
