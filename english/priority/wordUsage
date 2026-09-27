@@ -48,9 +48,6 @@ in case (the prod issue recurs)/to avoid n           以防...
 in the/that case of n               在...情况下
 in a case like this                 像这样的情况
 
-(apply for/get) a waiver      /ˈweɪvər/       豁免,放弃 n/申请豁免/拿到豁免
-exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
-
 (class/method/custom) annotation          注释,注解 n
 add comments to the code            代码加注释
 comment/uncomment out the piece of code     注释 v,n/取消注释/注释掉这段代码
@@ -412,10 +409,6 @@ the plan (consists of) two phases     /kənˈsɪst/     由...组成
 The workflow (is made up of) three phases          /meɪd ʌp əv/        由...组成
 The dataset (is composed of) real contract records      /kəmˈpoʊz/        由...组成
 
-Adapt (existing code for new workflow)/compatible       适应,调整 v
-(make the code) compatible/compatibility       兼容的 adj/兼容性 n/使代码兼容
-adjust/modify the code (for/to ensure) compatibility/fit        调整代码做兼容,匹配
-
 identity/identify       身份 n/认出,识别 v
 (issue) identified/confirmed      被识别的,已确定的 adj/识别到的问题
 identifier     /aɪˈdentɪfaɪə(r)/       标识符 n
@@ -531,8 +524,7 @@ come up with (a solution)        整理得出,输出 v
 
 finalize/finalized (the design)      最终确定,敲定,完成 v/敲定方案
 let's work out the (detailed) timeline      制定出时间计划,敲定时间线
-(We can hold off the migration or proceed — it's) your call         由你来决定,听你的
-The timeline is (more or less) set        差不多 adv/确定的,敲定的,既定的 adj/大致已定,基本确定
+(The timeline is more or less) set        确定的,敲定的,既定的 adj/大致已定,基本确定
 
 no matter (what/who/whether) the test passes, we need to log it
 whatever (the outcome is/n), we need to document it/take whatever data you need        无论什么/取你要的任何数据
@@ -559,6 +551,17 @@ at (exactly) that moment, (the API started throwing timeout errors)         (恰
 meanwhile/at the same time/simultaneously        与此同时 adv/同时/同时 adv(正式)
 parallelly/(in) parallel       /ɪn ˈpærəlel/     平行的,并行的,与此同时 adj/adv
 
+
+(make the code) compatible/compatibility       兼容的 adj/兼容性 n/使代码兼容
+adjust/modify the code (for/to ensure) compatibility/fit        调整代码做兼容,匹配
+adopt/enablement & (adoption) sessions       采用,采纳 v/采用,接受 n/赋能培训 & 落地推广会议
+adapt (existing code for new workflow)/compatible       适应,调整 v
+the app needs to adapt to pre‑prod environment         应用需要适配预发环境
+we need to adapt the entitlement model to our service       我们需要改造适配这套权限模型，用于我们的服务
+we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
+we adopted a new (entitlement model) for new sys     权限模型/我们为新系统采用了一套新的权限授权模型
+no solution was adopted in today’s call            本次会议没有敲定任何方案
+solution 1 was adopted following/after the call         方案1在本次会议后被采纳
 
 
 

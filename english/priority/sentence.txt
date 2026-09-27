@@ -132,7 +132,7 @@ the boss is keeping a close eye on this             老板很关注这件事
 if the error persists/the same error still (occurs)/error hasn't been resolved       如果错误依旧存在
 what id did u use             你用的是什么id
 rescheduling the slot to accommodate UK team, as the current slot overlaps/conflicts with their lunch hour      重新安排去容纳UK团队,当前时间与他们的午餐有冲突
-there will be downtime around 1 to 2 hours required to complete the patching activity from pre-check & post-check         完成此次补丁安装工作(从预检查到后检查)大约需要 1 到 2 个小时的停机时间
+Around 1–2 hours of downtime will be required to complete the patching, covering/including pre-check and post-check     此次补丁安装(预检查到后检查)大约要1~2个钟的停机
 so that u can (better) understand the project (more)          以至于你能更好地理解这个项目
 somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
 to ensure its continued stability & performance       为确保其持续的稳定性和性能
@@ -140,26 +140,19 @@ plz address it at the earliest to avoid further escalation       请尽快处理
 make ur work easier, faster & more effective        让您的工作变得更轻松,更快捷,更高效
 plz supplement any missing items       请补充遗漏内容
 let's hang over (the work) to Jack     接下来交给杰克来讲,现在请杰克发言/把工作交接给杰克
-it's a scenario we didn't cover b4/the situation wasn't covered     这情况之前未曾涉及
-left a note/remark in my calendar             在日历里添加了备注
+(it's a scenario we didn't cover/the situation wasn't covered) b4     这情况之前未曾涉及
 guides are available here          在此处可用,可查看
 the first three are             前三个是
 the process may take (up to) 40 days        大概需要40天/最长可达40天,耗时最多40天
-enablement & adoption sessions            赋能培训 & 落地推广会议
-from concepts to implementation         从概念到落地实施
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 as much as i would like to go, i have insufficient capacity     虽然我很想去,但我实在分身乏术
 feel free to try the script for works above         欢迎尝试这个脚本用于上述工作
 the change will only take effect after the end date                 end_date后才生效
 the change is now taking effect. plz follow the new process going forward           变更已即刻生效,后续请按新流程执行
-the change has been in effect since last friday         这change自上周五就已经生效了
-don't hardcode plaintext passwords in source files          禁止在源码文件硬编码明文密码
-plaintext storage of passwords in code is prohibited/forbid/ban        严禁在代码中明文存储密码
-u'll leave(walk away) with sth       你会带着
+the change has been in effect since last Friday         这change自上周五就已经生效了
+don't hardcode plaintext passwords in codebase          禁止在源码文件硬编码明文密码
+plaintext storage of passwords in code is explicitly (prohibited/forbid/ban)        严禁在代码中明文存储密码
 can u reproduce the issue/can the issue be reproduced       你能复现这个问题吗?
-(it's) nothing, i barely helped at all/didn't help much anyway      几乎没帮上忙,并未提供多少帮助
-end up as sth           最终变成,最终格式为
-not a fan of sth            不推荐,不认可,不喜欢sth
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
 action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
 may i know why      请问为什么
@@ -372,8 +365,22 @@ Could u specify/elaborate (more)       能否(再) 明确说明,指定/详细说
 This is only for ad hoc use, not part of standard workflow       这个仅用于临时场景,不属于标准流程
 Let's arrange an (ad hoc) sync to discuss the prod incident     临时的,按需的,非固定周期的 adj/安排一场临时同步会讨论后端风险
 u must (await/wait for) confirmation before proceeding to Step3        等待确认后,才能进入第3步
-cover the full process from access request submission through review, approval, provisioning and access validation      涵盖从A开始,直至B、C、D、E的全流程
-
+cover the full process from access request submission through review, approval, provisioning and access validation      涵盖从A开始,直至B,C,D,E的全流程
+(we can hold off the migration or proceed — it's) your call         由你来决定,听你的
+ignore this，just (showing off) my newly‑learned words & sentence patterns       显摆,炫耀(中性) v/就是显摆下我新学的单词/句型
+u'll (leave/walk away) with a finalized plan after sync     最终得到，收获 v/同步会后，你们将拿到一份定稿方案
+he may (end up as) the owner of the account        最终变成,最终格式为 v/到头来可能由他来担任这账号的负责人
+(we should consider security) from concepts to implementation     从概念到落地实施/我们应从构思到落地的全过程都考虑安全问题
+(security checks must run) from design through to production      从设计到生产上线/安全校验必须贯穿从设计到线上生产的全流程
+plan (for) prod release at least two weeks in advance     提前规划/至少提前两周规划xxx
+We need to plan (for) resource allocation in advance        我们需要提前规划资源分配
+we need to (finish all approvals/identify risks) well in advance (of implementation)        大幅提前,尽早/我们需要在落地实施之前尽早识别风险
+(it's) no wonder (that) the pipeline keeps failing      难怪(流水线一直失败)
+we’ll find a way to (reduce the latency/get the approval)       我们会想办法(降低延迟)
+this service account (serves as) the identity for backend jobs        服务 v,n/充当,作为 v/该服务账号充当后端任务的身份标识
+(these security rules apply to all) staff‑facing applications     面向员工的应用/这些安全规则适用于所有面向员工的应用系统
+federated/federation identity (serves as a unified authentication mechanism across multiple sys)    联邦式的,联合的 n,adj/联合身份/联合身份充当跨多套系统的统一鉴权机制
+I (am not a fan of) the solution     不喜欢,不看好sth
 
 
 

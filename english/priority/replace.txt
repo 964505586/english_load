@@ -112,7 +112,6 @@ respond/response                 响应 v/n
 shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造服务
 involve/include/contain/cover/covering      涉及/包含/覆盖 v
 post-upgrade/after upgrade          版本升级后
-minimum reliable path/solution       最简可靠方案
 confuse/confused/confusing/confusion    使困惑,使迷惑 v/困惑的,糊涂的 adj/困惑,混乱 n
 watched/automatic watching      关注的 adj/自动关注
 staging/Pre-Prod env        预发布环境
@@ -277,7 +276,7 @@ at least/most/best/worst                至少/至多/顶多/最坏
 as a short/long-term solution               作为短期/长期方案
 as per/according to/based on/as for (me)        按照/根据/基于n/至于/对我来说
 in (particular/detail)/detailedly/specifically       具体来说/详细地 adv
-elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
+vendor/supplier (risk assessment/performance management)        /səˈplaɪər/     供应商/风险评估,绩效管理
 
 
 

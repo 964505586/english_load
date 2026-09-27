@@ -48,7 +48,6 @@ expedite/accelerate/speed up        /spiːd ʌp/        加快
 seek/sought/seeking     /sɔːt/ /si:kɪŋ/      寻找,寻求 v
 arise/arose     /əˈraɪz/ /əˈrəʊz/        产生,出现 v
 note/noted/noting/notes     /ˈnəʊtɪŋ/   注意 v
-aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
 inquire     /ɪnˈkwaɪə(r)/       询问 v
 fallback/contingency (measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划 n/应急措施,可能发生的事 n
 defect/deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,缺陷 n
@@ -63,7 +62,6 @@ blueprint       /ˈbluːprɪnt/        方案,蓝图 n
 preferably      /ˈprefrəbli/                  最好是 adv
 billing         /ˈbɪlɪŋ/     计费,账单 n
 starting/effective 1 june 2026          自6月1日起
-figure/figure out       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白 v
 closure     /ˈkləʊʒə(r)/        关闭 n
 2026    two thousand twenty-six/twenty twenty-six
 (partition) pruning/prune       /ˈpruːnɪŋ/      分区裁剪,修剪 n/v
@@ -117,9 +115,7 @@ middleware      /ˈmɪdlweə(r)/       中间件 n
 legacy (code/data/system)/old       /ˈleɡəsi/       老旧的,遗留的 adj/遗留系统,旧资产 n/遗留的代码/数据/系统
 readiness/ready     /ˈredinəs/     准备就绪状态 n
 dig out     /dɪɡ aʊt/         找出,挖掘出 v
-we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 (employment) landscape      /ˈlændskeɪp/        格局,全景 n/就业格局
-reliable/trusty     /rɪˈlaɪəb(ə)l/ /ˈtrʌsti/     可靠的,可信赖的 adj
 disk space      /dɪsk/      磁盘空间
 equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等于 v/平等 n/仅支持等值匹配的 adj
 cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
@@ -277,7 +273,6 @@ AI‑augmented/argument/argue/quarrel        /ɔːɡˈment/       增大,增加,
 contend/contention/compete      /kənˈtend/      争抢,看法,观点,争论,竞争 n
 (3-stages/phase) evolution/evolve (over time)/evaluation    /ˌevəˈluːʃ(ə)n/     进化,演进 n,v/三阶段迭代发展/随时间演变/评估
 materiality (assessment)/importance      /məˌtɪriˈæləti/      重要性(审计,风控,合规)/重要性评估
-supplier (performance management)/vendor     /səˈplaɪər/        供应商/供应商绩效管理
 not a (exhaustive) list/exhausted     /ɪɡˈzɔːstɪv/       详尽无遗的 adj/使精疲力尽,耗尽 v/adj
 idempotency (key)/idempotence     /ˌaɪdəmˈpəʊtənsi/       幂等性(重复请求不会产生重复效果)/幂等键
 workflow (orchestration) simplifies complex multi‑step tasks        /ˌɔːrkɪˈstreɪʃn/        流程编排,调度
@@ -317,7 +312,6 @@ periodically/regular (contract)/regularly        /ˌpɪriˈɑːdɪkli/         �
 character/characteristic      /ˌkærəktəˈrɪstɪk/     性格/特征,特点 n
 reword/revise/amend/amendment/rectify/correct error msg     /ˌriːˈwɜːrd/ /əˈmendmənt/ /ˈrektɪfaɪ/    改写/修正,修订/修改,修订/纠正,矫正 v
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
-exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
 allocate/allocation/assign/assignment       /ˈæləkeɪt/      分资源,钱,时间(分配)/分任务,工单,工作,人(工作)
 W/C 11 Aug      week commencing/starting     /kəˈmensɪŋ/        8月11日(周一)开始的那一周(8.11‑17)/开始,着手 n
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
@@ -344,6 +338,9 @@ I'm more inclined (towards/to pick) Option B        /ɪnˈklaɪn/      倾向于
 any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
 please follow/complete these steps (sequentially/in order)       /sɪˈkwenʃəli/       按顺序地,依次地 adv/按顺序执行以下步骤
 slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,ppt/一整套
+unlike the old endpoint, this new API serves as a unified gateway       /ˈjuːnɪfaɪd/       统一的,整合的 adj/和旧接口不一样，这新API充当统一网关
+trusty/minimum reliable (path/solution)     /ˈtrʌsti/ /rɪˈlaɪəb(ə)l/        可靠的,可信赖的 adj/最简可靠方案
+elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 
 
 
@@ -356,15 +353,8 @@ slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,ppt/一整套
 
 
 
-plan ... in advance           提前规划
-(it's) no wonder why/that xxxxxxxxxxxx      难怪
-we'll find a way to         我会想办法...
-serve (as)       服务 v/n/充当,作为
-staff-facing applications       面向员工的应用
-federation/federated identity           联合身份
-entitlement model           权限模型
-Present to
-give the go-ahead           批准,放行
+
+Present to give the go-ahead           批准,放行
 explicitly state it is      明确说明
 Plan production integration at least 2 weeks in advance
 Being on the DL ensures your team receives important communications
@@ -372,23 +362,22 @@ when we might be able to get it approved
 consolidating all steps, group details, security policies and support contacts in one place
 a pair of service accounts
 plan ur release dates accordingly     请据此规划版本上线日期
-I (am not a fan of sth)     不喜欢,不看好某事sth
 sit with that page      放在该页面,归属该页面
-alignment very smooth
-no wait
-codebase            代码库 n
+alignment very smooth no wait codebase            代码库 n
 pre-populated       预填充的
-is intended to      旨在,用于
 can't fully understand you
 I am assuming
 not my date to give
-please provide the estimate time when that SDD can be approved.
+please provide the estimate time when that SDD can be approved
 get ready with all approvals        筹备全套审批材料
 is Cyber able to share experience, are they experiencing same issue
 let's approach it this way
 The 2 instance is on same network
 
-Seems we don't have a choice, do we        看起来我们没得选了,是吧？
+
+
+
+Seems we don't have a choice, do we        看起来我们没得选了,是吧
 go thru this process right after pilot launch to prepare        走完（流程）
 centrally manage            集中管理
 somewhere
@@ -414,7 +403,6 @@ to the side         放到侧边
 free up         释放,腾出
 
 Coming leaves
-Supplier risk assessment
 Jack will be the engineer supporting integration piece
 piece           模块
 pinged you          发给你,通知你
@@ -442,11 +430,20 @@ hopefully very soon
 did i hear it wrong     我是不是听错了
 the total estimated cost is about $28, with embedding cost being effectively negligible
 but he said they haven't figured out from the users part, how and where they will be uploading in the journey为啥是将来进行时？？
+figure/work (out)       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白/解决，制定 v
 
 
 
 
 
+
+
+is intended to      旨在,用于
+aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
+
+left a note/remark in my (calendar)       /ˈkælɪndər/     在日历里添加了备注
+on ur calendar            你的日程
+calendar            日历
 
 we might be able to
 Is expected to
@@ -628,7 +625,7 @@ we'll (find out) after the call     查明,弄清楚,确认 v/会后确认
 find        查收,发觉 v
 find out more (about)       了解更多
 find            找到
-find out        查明、弄清
+find out        查明,弄清
 plz find the email chain below       请查收下方邮件往来
 for ur convenience, plz find FAQS here     为方便您使用,常见问题请在此查阅
 plz find the (attached) recap(meeting minutes) from our meeting ytd        查收我们昨天会议的纪要
@@ -713,6 +710,9 @@ extensively         大量地,频繁地 adv
 at the bottom
 Scroll to the bottom of the page        滚动到页面底部
 
+
+(apply for/get) a waiver      /ˈweɪvər/       豁免,放弃 n/申请豁免/拿到豁免
+exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
 rate limiting
 rate-limiting solution
 Rate limiting has been added to the code, but this will also lead to slower execution
@@ -784,9 +784,8 @@ can u say it again?                                       你能再说一遍吗�
 could u repeat that, please?                 你能重复一下问题吗?
 repeat/repeated/repeatedly      重复 v/重复地 adj/adv
 
-Most probably
-hardly/barely/almost/nearly/(more or less)     /ˈberli/    几乎不/几乎 adv
-likely/probably/most likely/unlikely        /ʌnˈlaɪkli/     65/75/85%概率/大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
+hardly/barely/almost/nearly/(more or less)     /ˈberli/    几乎不/几乎/差不多 adv
+likely/(most) probably/most likely/unlikely        /ʌnˈlaɪkli/     65/75/85%概率/大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
 it probably won't work          大概率不行
 it's probably the same/train/today(when target)       大概率相同
 high probability of a conflict          冲突的可能性很高
