@@ -67,7 +67,6 @@ condition        条件
 confidence/confident           自信 n/adj
 congratulate/congratulation            祝贺 v/n
 conscience                              良心 n
-consequently                因此,结果 adv
 considerate         体贴的,考虑周到的 adj
 content         满足,满意,内容 n     满足的,满意的 adj         使满意,使满足 v
 core                            核心 n
@@ -140,7 +139,6 @@ fluent                      流利的,熟练的 adj
 fond        adj 喜爱的
 for free                免费
 for the first/second time               第一次
-forever                     永远 adv
 forgive                             原谅 v
 form v 形成 n 形式,表单
 former                      以前的,旧时的
@@ -154,7 +152,6 @@ genetically                     基因地,遗传地 adv
 get-together                聚会 n
 glad                                高兴的 adj
 glass 玻璃杯,眼镜
-go on forever                       永远继续下去
 go on with                      继续
 go/went away                走了,走开,离开
 grace/graceful/gracefully                   优美,优雅 n/adj/adv
@@ -277,7 +274,6 @@ politely                        有礼貌地 adv
 pollute/pollution                 污染 v/n
 popularity 人气
 positive                乐观的,积极的 adj
-possess                                         拥有,持有 v
 praise                  赞美,表扬 v/n
 prescription                处方 n
 prescriptive                    规定的,指定的 adj
@@ -351,9 +347,7 @@ that if                                 如果
 the main thing/reason               主要的事情
 the other day                   几天前
 then                                那个时候 adv
-these days                              如今,现今
 think of n                    想起,思考
-thus                                            因此,这样 adv
 time                时间 u            次数 c
 trend               趋势 n
 trouble maker       麻烦制造者

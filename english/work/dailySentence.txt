@@ -16,9 +16,7 @@ strong justification                  强有力的理由
 
 
 the change took effect last friday              这change上周五开始生效
-the change has taken effect since last friday           这change上周五起已开始生效
 what are u doing                                  你在干什么
-what can i do for(to help) u                               我能帮你做什么?
 ask for 2 days leave                                请2天假
 it's nothing more than a small problem/misunderstanding          这仅仅是一个 小问题/误会
 carry on, don't worry about me                  你继续忙,别担心我
@@ -27,7 +25,7 @@ did u get a chance to v
 double click the shift key on ur keyboard     双击你键盘上的shift键
 failed once         失败了一次
 has/have nothing to do with             与...无关
-how are u doing today/recently                          你 今天/最近 过得怎么样？
+how are u doing today/recently          你 今天/最近 过得怎么样？
 hurry up                        快点
 i remember that someone asked me to change the return format last time      我记得上次有人让我改返回的格式
 if there is a capacity, u can start           如果有条件的话,你可以开始

@@ -83,11 +83,11 @@ call by    顺便拜访
 call back    回电话
 call for    要求,需要
 
+look                            神情 n
 look up                 查找,尊敬,拜访
 look for                寻找
 look after              照顾
 look around             环顾四周,打量
-look into               调查,研究,朝...里面看
 look about              环顾四周
 watch out               当心,小心
 

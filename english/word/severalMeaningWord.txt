@@ -13,7 +13,6 @@ hear                            听说 v
 issue                           颁布,分发,分配 v
 know                            认识,懂
 little                          少
-look                            神情 n
 on                              开着的 adj
 out                             外面
 please                          取悦,使开心/满意 v

@@ -86,7 +86,6 @@ has something to do with                                与...有关
 have a difficult time                                   经历困难时期
 have a safe trip (to sp)                                一路平安
 have a word with sb                                 与某人交谈
-have an effect/influence on sb/sth                  对...有影响
 have difficulty in/doing                                  在 某方面/做某事 有困难
 have fun doing sth                                  乐于做sth
 have sth in common with sb                          与某人有共同之处
@@ -110,7 +109,7 @@ i guarantee i'll never do such things                 我保证我永远不会�
 i have to do well                                       我必须做好
 i was late for work this morning                        我今天早上上班迟到了
 I'll go there on time                                 我会准时去的
-i wish that he could come tomorrow                      要是他明天能来就好了
+i wish that he could come tmr                      要是他明天能来就好了
 if i were in ur shoes                                 如果我是你的话
 if time permits                                         如果时间允许
 i'm tired of such kind of life                          我厌倦了这样的生活

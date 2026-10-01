@@ -1,5 +1,12 @@
 
-
+no wait/Hold on/(wait a minute/second/moment)     (不对)等下,先等一下/稍等/等一下
+(that's) (good) enough   足够的 adj/adv/够了/这已经足够好了
+what does "vip" stand for/it stands for sth         vip代表什么?/它代表sth
+it just occurred to me (that)/just noticed(realized) the guide is two pages long, not just one     突然想到/突然意识到,才注意到
+(u are super) efficient/inefficient        高效的/低效的 adj/你效率超高
+it wasn't an issue previously/the issue had always existed. However, it wasn't discovered b4      一直都存在,之前没被发现
+if i recall correctly/or i remember it wrong       如果我没记错的话/或我记错了
+I’ll be right back/Excuse me, I need to step out (briefly/for a moment)          我马上回来/不好意思，我需要暂时离开一下
 or what would be the next step/seeking the next step           接下来该怎么做呢/等待下一步指示
 we're on it            我们正在处理
 how did u do it/that?             你怎么做到的
@@ -149,46 +156,27 @@ as much as i would like to go, i have insufficient capacity     虽然我很想�
 feel free to try the script for works above         欢迎尝试这个脚本用于上述工作
 the change will only take effect after the end date                 end_date后才生效
 the change is now taking effect. plz follow the new process going forward           变更已即刻生效,后续请按新流程执行
-the change has been in effect since last Friday         这change自上周五就已经生效了
-don't hardcode plaintext passwords in codebase          禁止在源码文件硬编码明文密码
+the change has (been in effect/taken effect) since last Friday         这change自上周五就已经生效了
+don't hardcode plaintext passwords in codebase          代码库 n/禁止在源码文件硬编码明文密码
 plaintext storage of passwords in code is explicitly (prohibited/forbid/ban)        严禁在代码中明文存储密码
 can u reproduce the issue/can the issue be reproduced       你能复现这个问题吗?
 will bring this up during our standup & hopefully we can find a solution  会在每日站会上提出这个问题,争取能找到解决办法
-action/measure (the % of sth)        行动,行为 n/衡量,统计 v/统计,措施,办法 n/衡量sth的占比
-may i know why      请问为什么
-could u plz help push/accommodate the matter        帮忙推动这事
-take care of/that (yourself)    处理,接手,照顾 v
-prevent sth from doing sth			防止sth产生不良影响
 which helps prevent excessive traffic from degrading overall system performance & user experience     有助于防止过度流量影响整体系统性能和用户体验
 spawn automated test-cases in batches       批量生成自动化测试用例
 some subsequent issues may be identified going forward, which i'm just worried about    后续可能会出一些问题,我担忧
-any ideas on the capability to retrieve both teacher & student data in a single run?  有没有方案可以单次运行同时获取
+any ideas on the capability to retrieve both teacher & student data in a single run     有没有方案可以单次运行同时获取
 the most appropriate model for ur task    最适合您任务的模型
-help users more efficiently do sth      帮助sb高效地完成某事
 i haven't been getting any pop-up notifications lately      最近我一直没收到任何弹窗提醒
 the pop-up alerts haven't been showing up for me recently       最近我的弹窗提醒一直不显示
-is wired to         被配置为,被设置为
-(whether) A references B directly       A是否直接引用B
-the change is specific to sth      本次变更针对sth
+the change is specific to new requirement      本次变更针对sth
 to help u try them out        方便您上手试用,供您实操体验
-separate assignment communication       单独下发的分配通知,专项告知邮件
-customer-led value      以客户为中心的价值
 including common how-to topics      包含常见操作指南
-be carried out      被执行,实施
-if i recall correctly/or i remember it wrong       如果我没记错的话/或我记错了
 sth is in use       正在使用中
 ai-generated content might be inaccurate or misleading      ai生成的可能存在不准确或误导性
 i was updating Jack on the info         刚刚正在做的动作/刚才正在向杰克更新这些信息
-it wasn't an issue previously/the issue had always existed. However, it wasn't discovered b4      一直都存在,之前没被发现
-u are one of the approvers        你是审批人之一
-(u are super) efficient/inefficient        高效的/低效的 adj/你效率超高
-it just occurred to me (that)     突然想到
-just noticed/realized the guide is two pages long, not just one    突然意识到/才注意到这guide有两页,而不是一页
-what does "vip" stand for/it stands for sth         vip代表什么?/它代表sth
+u are one of the approves        你是审批人之一
 there's nothing i can do (if nexus issue)        我无能为力
 another question I have        我们还有另一个问题
-(that's) (good) enough   足够的 adj/adv/够了/这已经足够好了
-plz document the intent/purpose    请记录下 意图/目的
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
 silently (returns)      默默地,静静地 adv/静默返回(无报错)
 tentatively planned for July 8th    暂定计划
@@ -300,7 +288,6 @@ I'd like to get the info ahead of time for preparation(for my advance reference)
 expose sb to sth/the mistake will expose our system to security risks       使sb直面,遭受某事/将使系统面临安全风险
 plz share sample code, or(Alternatively,) a curl would/should be fine too        或者,提供curl也可以
 regarding the API used to fetch data        关于用于获取数据的API
-Feel free to loop in anyone (who is) relevant        请把call同步给你认为相关的人员
 Setting this up to discuss sth     安排本次会议/建这个群,是为了...
 which will be replicated in prod env, (subject to) approval     受...约束,以...为前提/须经批准
 Mainly we want (to have) a clear understanding on the integration pattern       主要希望明确集成模式
@@ -360,15 +347,14 @@ we need to (stay current with) the evolution of AI tools      持续跟进更新
 Select xxx from the drop-down list      在下拉列表中选择xxx
 the change might be problematic (code)      有问题的 adj/有问题的代码/这个改动可能有问题
 there is a potential problem at backend       后端存在一个潜在问题
-Please (specify) the impacted fields      明确指定,说明某事 v/受影响的字段
-Could u specify/elaborate (more)       能否(再) 明确说明,指定/详细说明
-This is only for ad hoc use, not part of standard workflow       这个仅用于临时场景,不属于标准流程
-Let's arrange an (ad hoc) sync to discuss the prod incident     临时的,按需的,非固定周期的 adj/安排一场临时同步会讨论后端风险
+please (specify) the impacted fields      明确指定,说明某事 v/受影响的字段
+this is only for ad hoc use, not part of standard workflow       这个仅用于临时场景,不属于标准流程
+let's arrange an (ad hoc) sync to discuss the prod incident     临时的,按需的,非固定周期的 adj/安排一场临时同步会讨论后端风险
 u must (await/wait for) confirmation before proceeding to Step3        等待确认后,才能进入第3步
 cover the full process from access request submission through review, approval, provisioning and access validation      涵盖从A开始,直至B,C,D,E的全流程
 (we can hold off the migration or proceed — it's) your call         由你来决定,听你的
-ignore this，just (showing off) my newly‑learned words & sentence patterns       显摆,炫耀(中性) v/就是显摆下我新学的单词/句型
-u'll (leave/walk away) with a finalized plan after sync     最终得到，收获 v/同步会后，你们将拿到一份定稿方案
+ignore this,just (showing off) my newly‑learned words & sentence patterns       显摆,炫耀(中性) v/就是显摆下我新学的单词/句型
+u'll (leave/walk away) with a finalized plan after sync     最终得到,收获 v/同步会后,你们将拿到一份定稿方案
 he may (end up as) the owner of the account        最终变成,最终格式为 v/到头来可能由他来担任这账号的负责人
 (we should consider security) from concepts to implementation     从概念到落地实施/我们应从构思到落地的全过程都考虑安全问题
 (security checks must run) from design through to production      从设计到生产上线/安全校验必须贯穿从设计到线上生产的全流程
@@ -381,6 +367,28 @@ this service account (serves as) the identity for backend jobs        服务 v,n
 (these security rules apply to all) staff‑facing applications     面向员工的应用/这些安全规则适用于所有面向员工的应用系统
 federated/federation identity (serves as a unified authentication mechanism across multiple sys)    联邦式的,联合的 n,adj/联合身份/联合身份充当跨多套系统的统一鉴权机制
 I (am not a fan of) the solution     不喜欢,不看好sth
+Please share us with the ("RITM"-prefixed) ServiceNow request number prefixed with "RITM" to apply for DB permissions       请提供用于申请DB权限以RITM为前缀的工单编号
+FQDNs provided are secret and should not be published or shared outside your project team       提供的FQDN属于机密信息,不得对外发布,也不可分享给项目组以外人员
+Bdp keys are mapped to every questions      BDP键映射到每一个问题
+check the time elapsed (during patching) for the API call/2 hours elapsed before the job finished      /ɪˈlæps/      已流逝的 adj/查看这次接口调用的耗时
+(Let me/I'll) record/document this point/plz document the intent/purpose        请记录下这点，设计意图，目的
+It's your call whether we adopt Plan A or B. From the IT side, both are fine       由你决定选方案A还是B由你决定.IT侧两者均可
+can't start release until getting the sign-off/go-ahead     拿到许可才能开始release
+The docs should (explicitly state) the risk impact        明确说明/文档应该明确说明风险影响
+need to plan prd release (at least 2 weeks in advance) for BA review        至少提前2周规划release
+Please plan/schedule ur release dates accordingly once the requirement confirmed    请据此规划版本上线日期
+need to reserve/allocate (2 hours/a maintenance window) for prod release     预留,保留,预定 v/需要为生产集成预留一个维护窗口
+This addition (will be logged for audit/requires governance approval)       增加,添加 n/这新增需要治理团队审批/本次新增会记入审计日志
+Please raise a request for DL addition using your team DL (not individual accounts)       请使用团队DL发起DL新增申请(不要使用个人账号)
+(being on the DL) ensures you get all updates       在该通讯组内可以确保你收到所有通知
+when (might we be able) to get it approved/when can we get it approved        有望,或许能够/我们大概什么时候能拿到审批
+consolidating user info and security policies in one place    把用户信息和安全策略汇总到一处
+would like to request weekend OT to resolve an urgent production issue      申请OT
+a pair of service accounts needed for the integration      需要2个服务账户
+(what page should this part/section sit on/with)/where should this content live      这部分内容应该放在哪个页面
+integration progress is (very smooth/progressing smoothly)      顺利的,光滑的，平坦的 adj/进展非常顺利
+the system will (pre-populate) these fields automatically     预填充 v/系统会自动预填充这些字段
+I am assuming/supposing the change will not impact the prod env        我猜想,我假定本次变更不会影响生产环境
 
 
 

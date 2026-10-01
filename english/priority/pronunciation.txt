@@ -149,7 +149,6 @@ bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
 simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
-excessive (api traffic)     /ɪkˈsesɪv/     过度的,过多的 adj/过量api流量
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
 compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协,折中 v/危及安全
 abnormal/anomalous/anomaly/anomalies    /əˈnɒmələs/  异常的,反常的 adj/异常,反常 n
@@ -279,7 +278,7 @@ workflow (orchestration) simplifies complex multi‑step tasks        /ˌɔːrk�
 illustrate/state/states/statement/status     /ˈsteɪtəs/ /ˈɪləstreɪt/       说明,阐明 v/陈述,说明 v,n/状态 n
 asynchronous/asynchronize/sync(synchronize)/synchronous     /eɪˈsɪŋkrənəs/   异步的 adj/n/同步 v/n/adj
 lineage         /ˈlɪniɪdʒ/      (数据)血缘,依赖链 n
-excessive/excessively       /ɪkˈsesɪv/       过度的,过多的 adj/过分地 adv
+excessive (api traffic)/excessively     /ɪkˈsesɪv/     过度的,过多的 adj/过分地 adv/过量api流量
 set out our primary/(strategic) focus     /strəˈtiːdʒɪk/       战略(性)的 adj/阐明,明确我们首要工作重心
 cantonese       /ˌkæntəˈniːz/       广州人,广东人,粤语 n/广州的,广东的 adj
 intent/purpose/destination/target/goal/intend      /ɪnˈtent/     意图,目的 n/有意,打算 v/.../打算,想要 v
@@ -338,9 +337,10 @@ I'm more inclined (towards/to pick) Option B        /ɪnˈklaɪn/      倾向于
 any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
 please follow/complete these steps (sequentially/in order)       /sɪˈkwenʃəli/       按顺序地,依次地 adv/按顺序执行以下步骤
 slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,ppt/一整套
-unlike the old endpoint, this new API serves as a unified gateway       /ˈjuːnɪfaɪd/       统一的,整合的 adj/和旧接口不一样，这新API充当统一网关
+unlike the old endpoint, this new API serves as a unified gateway       /ˈjuːnɪfaɪd/       统一的,整合的 adj/和旧接口不一样,这新API充当统一网关
 trusty/minimum reliable (path/solution)     /ˈtrʌsti/ /rɪˈlaɪəb(ə)l/        可靠的,可信赖的 adj/最简可靠方案
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
+I’m going to the toilet/restroom        /ˈtɔɪlət/        我去趟洗手间
 
 
 
@@ -354,39 +354,49 @@ elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说
 
 
 
-Present to give the go-ahead           批准,放行
-explicitly state it is      明确说明
-Plan production integration at least 2 weeks in advance
-Being on the DL ensures your team receives important communications
-when we might be able to get it approved
-consolidating all steps, group details, security policies and support contacts in one place
-a pair of service accounts
-plan ur release dates accordingly     请据此规划版本上线日期
-sit with that page      放在该页面,归属该页面
-alignment very smooth no wait codebase            代码库 n
-pre-populated       预填充的
-can't fully understand you
-I am assuming
+
 not my date to give
 please provide the estimate time when that SDD can be approved
 get ready with all approvals        筹备全套审批材料
-is Cyber able to share experience, are they experiencing same issue
+is Jack able to share experience, are they experiencing same issue
 let's approach it this way
-The 2 instance is on same network
+the 2 instance is on same network
+action/measure (the % of sth)        行动,行为/统计,措施,办法 n/衡量,统计 v/衡量sth的占比
+may i know why      请问为什么
+prevent sth from doing sth			防止sth产生不良影响
+help users more efficiently do sth      帮助sb高效地完成某事
 
-
-
+look into               调查,研究,朝...里面看
+coming back to DIOS from AI做定语？
+We'll be needing/expecting      将来进行时,委婉表达“我们将会需要
+run off     依靠…运行,基于…运行
+hit the endpoint        调用接口
+crucial
+with these findings as reference
+go through      逐条逐项
+go over     快速过一遍,梳理讨论
+consensus on        就…达成共识
+greatly appreciated
+Is there somewhere
+grab        获取
+repetition
+why can't we
+streamlined
+are we saying xxxx
+he is querying about
+Planned dsp maintenance may affect access to ai platform in HK
+joint debugging     联调,联合调试
 
 Seems we don't have a choice, do we        看起来我们没得选了,是吧
-go thru this process right after pilot launch to prepare        走完（流程）
+go thru this process right after pilot launch to prepare        走完(流程)
 centrally manage            集中管理
 somewhere
 ve discussed this earlier, right? What's the issue now?
 have you got your request approved
 get sth onboarded       完成某物接入
 ~80 questions               ~大概的意思？？
-we will send it out tomorrow
-conditional approval            有条件审批（先放行,后续补齐材料）
+we will send it out tmr
+conditional approval            有条件审批(先放行,后续补齐材料)
 plz estimate the completion timeline
 ai-generated
 below Data listed
@@ -430,424 +440,17 @@ hopefully very soon
 did i hear it wrong     我是不是听错了
 the total estimated cost is about $28, with embedding cost being effectively negligible
 but he said they haven't figured out from the users part, how and where they will be uploading in the journey为啥是将来进行时？？
-figure/work (out)       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白/解决，制定 v
+figure/work (out)       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白/解决,制定 v
 
+be carried out      被执行,实施
+separate assignment communication       单独下发的分配通知,专项告知邮件
+customer-led value      以客户为中心的价值
+(whether) A references B directly       A是否直接引用B
+is wired to         被配置为,被设置为
 
 
 
 
-
-
-is intended to      旨在,用于
-aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
-
-left a note/remark in my (calendar)       /ˈkælɪndər/     在日历里添加了备注
-on ur calendar            你的日程
-calendar            日历
-
-we might be able to
-Is expected to
-remediation is ongoing & (is) expected to take approximately 1-3 hours          修复在进行中,预计约1-3个钟
-how long do u expect it to take to fix        预计修复需要多久能完成
-doing sth is expected to take a similar amount of time      预计花费相似的时长
-
-(did) u know(are u aware of) that       你知道这件事吗？
-i know about this           我知道这件事
-i'm(we are) aware of this           我 已知晓/了解这件事
-i wasn't aware of this
-please be aware of sth
-
-main focus          主要工作重心      常用？
-main focus will be SRA First followed by TPRA
-, (followed by) UAT env testing     其后紧接着,接着是/接着开展UAT测试
-followed by         其次,紧随其后
-
-given
-as
-(but/however,/though 放句尾)/(so/therefore,/hence 只接n)/(as/since/because)/(or/alternatively)      但/所以,因此
-
-I'm experiencing.
-I encountered
-
-concurrent          并发的
-throttling          限流,节流
-a throttling to queue llm request @ 4 concurrent max
-
-we are requesting gemini-3.5 as well as existing gpt5.1     翻译？
-as well as      以及,同时
-
-triple confirm          再三确认,复核三次
-double confirm
-although I would like to triple confirm gemini 3.5 matches our needs
-
-match
-meet
-match/mismatch                       匹配 v/比赛 n
-
-without warning                             毫无预兆地 adv
-Without a doubt                             毫无疑问
-without any reasons                         无缘无故地
-without hesitation                          毫不犹豫
-within 1 hour                   1小时内
-without knowing
-
-wanna/want to
-just wanna make sure 句子
-I want to make sure we are on the same page first       首先我希望确保我们双方达成共识
-
-as long as doesn't affect sth           只要不影响sth
-as long as(once) we click here       连词,只要...
-
-my zoom is stuck/i just froze/u're frozen        zoom卡住了/我刚刚卡住了/你卡住了
-my network seemed unstable/u just broke up a little bit     网络似乎不太稳定/刚才你的声音卡顿,断了一小段
-i froze/lagged for a second/moment      我卡,延迟了一 秒钟/会儿
-my connection unstable i didn't catch that part
-
-we (might as well use this dataset as) use the old one        与其做B,倒不如做A
-we (might as well) anonymize the data now       不妨,倒不如,干脆做某事/不妨现在就匿名化数据
-may as well do sth          不妨,干脆
-otherwise may as well use Jev
-
-effectively negligible                几乎可忽略的
-effectively         实际上,几乎
-negligible          微不足道的,可以忽略不计
-
-enhancement just needed
-just Enhancement needed
-
-just ensure
-just ensure these guys are following IT controls
-
-capture         记录,录入
-capture     记录,涵盖,
-note        记录
-
-speedy          迅速的
-timely/in a timely manner       及时的 adj/及时地,按时 adv
-in(on) time/promptly/quickly        及时/按时/迅速地,立即 adv
-
-look out for it     留意,查收
-look out                当心,注意
-
-circumstance/scenario/situation/scenario/case     /ˈsɜːkəmstəns/          条件,情况/场景/情况  n
-
-regain access           恢复访问权限
-revoke/revocation                 撤销 v/取消,撤回 n
-
-accountable risk owner      责任风险负责人
-own/(responsible) owner         负责
-own the project
-champion        项目负责人,冠军 n
-PIC             Person In Charge 负责人
-
-outlined above          上文所述的
-at a glance     一眼看去,概览,简要一览
-outline/overview new requirement (brief/briefly)     /ˈaʊtlaɪn/      概述,简述 v/简短的,简要的 adv
-(core) concept/definition/overview     (核心)概念/定义 n/概述,简述 v/n
-give u an overview of sth/briefly introduce sth/elaborate     概述,简述/详细说明
-a brief explanation of how you use GitHub Copilot
-concise/briefly     简洁的 adj/简短的,简要的 adv
-
-buffer              余量,缓冲预留量
-margin          余量,预留浮动空间
-
-pilot launch            试点上线,小范围投产
-pilot(proof of Concept)        试点的 adj/试点 n/概念验证
-
-moderation          内容审核
-moderate (to heavy rain)/medium      /ˈmɒdərət/      中等的,普通的 adj/中等的,中间的 adj
-
-scrambled (data)      /ˈskræmbld/      被打乱,搅乱的
-plaintext (password)/unhashed/hardcode      /pleɪnˈtekst/      明文 n/未做哈希处理 adj/硬编码 v
-redact/(data) redaction/mask/masking      /rɪˈdækʃn/      脱敏 v/编辑,校订 n/数据脱敏
-mask sensitive data to avoid user info leakage/exposure       打码数据,防止用户信息泄露/暴露
-need to (anonymise/anonymize/anonymous) the record, just as we will ~ other data    /əˈnɑːnɪmaɪz/     使匿名 v/匿名的 adj/就像我们处理其他
-anonymized data     匿名化数据
-
-RAG injection           RAG注入
-(docs/SQL/prompt) injection      注射,注入 n
-
-it's very profound
-这一点理解起来很深奥 / 这个思路很有深度
-profound adj            深刻的,深奥的
-
-Thank u for clarifying that
-In other words, could you clarify how
-
-short-lived         短有效期的,短暂的
-tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/暂时地,临时地 adj/adv
-
-agree on        协商
-it's agreed in a email
-It's agreed that
-As it's been agreed by Jack       强调这件事已经被同意了
-
-amend members
-Please amend directly;
-
-Licenses are subject to revocation in case of prolonged inactivity
-subject to          受制于,以...为前提
-(the timeline is) subject to change       后续可能调整,仅供参考
-
-breakdown           拆解,分项明细
-cost breakdown          成本分项
-token usage breakdown token     用量分项拆解
-
-rework          返工,重复工作
-avoid rework
-
-vertical space          垂直空间
-horizontal to vertical logic    /ˌhɒrɪˈzɒnt(ə)l/ /ˈvɜːtɪk(ə)l/
-
-nomination      /ˌnɒmɪˈneɪʃn/           推荐,任命,提名 n
-re-nomination           重新提名
-
-Attestation         确认,签署证明,声明确认
-re-attest       重新确认,重新签署声明
-attest to (system stability)/attestation      /əˈtest/ /ˌæteˈsteɪʃən/      证明,表明 v/声明,证据,证实,证明 n
-
-regroup
-group           归集 v
-
-I was just kidding
-are u kidding?                                        你在开玩笑吗
-
-Governance
-govern/governed/governing/(access) governance    /ˈɡʌvərn/ /ˈɡʌvənɪŋ/     统治,支配,控制 v/adj/治理/权限治理
-
-pre-flight checks       上线前预检,起飞前检查
-prior notice        预先通知
-
-Can't we find out what's going on
-Can we find out what's going on
-they are finding out        他们正在排查问题
-we'll (find out) after the call     查明,弄清楚,确认 v/会后确认
-find        查收,发觉 v
-find out more (about)       了解更多
-find            找到
-find out        查明,弄清
-plz find the email chain below       请查收下方邮件往来
-for ur convenience, plz find FAQS here     为方便您使用,常见问题请在此查阅
-plz find the (attached) recap(meeting minutes) from our meeting ytd        查收我们昨天会议的纪要
-find fault with sb                                  找碴sb
-look for        过程,动作
-discover        未为人知,早就存在
-
-being demised           即将停用,下线淘汰
-discontinued        停止使用,下线,停用
-retire      退休,下线,停用 v
-decommission/decommissioned/commission (the old microservice)      /ˌdiːkəˈmɪʃn/     停用,下线,退役/启用,投产,上线系统 v
-be closing down/sth will be gone    逐步下线,陆续停用,即将关停/即将下线,移除,不复存在
-is about to be demised：即将下线淘汰
-
-load testing        负载,压力测试
-conduct integration/regression(performance & stress) testing         进行 集成/回归/性能及压力 测试
-
-declare         申报,声明
-declare/declared/declaration        /dɪˈkler/ /ˌdekləˈreɪʃn/        宣布,声明 v/n
-announce/announcement       宣布,公布 v/n
-post/posted/send/sent     发布,邮寄/发送 v/已提交的 adj
-
-mapped to
-map             映射 v
-reflect (the correct ownership)         反映,体现,显示 v
-be equivalent (to)         等价于,等同于,相当于
-match/correspond to       对应,匹配,指向
-point to/towards            指向(中性)
-
-validates JWT signature and expiry
-given 2.5 is expiring in Oct
-given 2.5 will expire in Oct
-expire/expired/expiration/inspire       到期,失效 v/过期的 adj/到期,有效期 n/激励,鼓舞 v
-they are expiring 27 April
-为什么不用将来时？
-
-do not apply in your case           不适用于你的情况
-apply straight away     直接落地,立刻投入使用 v
-apply (for)/application         应用 vt/申请 vi/n
-apply/request
-Does it apply that scenario
-apply to            适用于
-apply       应用
-apply for
-(if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
-
-citation
-reference           引用,附上 v
-terms of reference      职权范围 n
-that is referenced      被引用的,文中提及的
-refer(referring) to sth/reference       参考,指的是,提及,涉及 v/参考,引用,提及 n,v
-
-Stage was fulfillment
-fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,感到满足的 adj
-
-conversion
-convention
-
-concrete (plan)     /?k??kri?t/     确实的,具体的,实在的,具体可落地 adj
-practical
-
-reproduce/replicate (question)/reproduction       复现 v/n
-occur/occurrence/reoccur/recurrence     /??k?r?ns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n
-
-fair/unfair     /fe?(r)/              公平的,合理的,公正的 adj/adv
-(unfair) bias        /?ba??s/        偏见,成见,偏好,天赋 n
-
-retriable/xxxx        /rɪˈtraɪəbl/           可重试的 adj
-attempt/try (to)         结果/过程/尽力
-
-postpone
-hold on/off     稍等,等一下,保持/暂缓,推迟 v
-wait/waiting
-pending with sb         等待某人输出/处理
-n is pending(waiting for/on) feedback/review/approval/deployment    待定
-underway/in progress/ongoing/pending/TBD         进行中的/持续存在的,仍在进行的/待定的,待处理的 adj
-
-ll update u with a more extensive one next Monday
-extensive       /ɪkˈstensɪv/        范围广的,内容详尽的 adj
-extensively         大量地,频繁地 adv
-
-at the bottom
-Scroll to the bottom of the page        滚动到页面底部
-
-
-(apply for/get) a waiver      /ˈweɪvər/       豁免,放弃 n/申请豁免/拿到豁免
-exempt from (rate limiting)       /ɪɡˈzempt/       免除,豁免 v/被免除的 adj/豁免流量限制
-rate limiting
-rate-limiting solution
-Rate limiting has been added to the code, but this will also lead to slower execution
-
-Good to have
-Better to have
-
-Higher concurrency
-(Max/query) concurrency/frequency       /kənˈkɜːrənsi/        并发,并发性 n/查询并发数/出现次数,频繁,频率
-
-diy
-Customize
-custom
-
-utility
-utilize/leverage/utilise(英式)     利用,使用 v
-
-From time to time           偶尔
-once in a while         偶尔
-occasionally/occasion/sometimes         偶然,偶尔 adv/场合 n/有时
-at times/sometimes        偶尔,时不时,有时 adv
-
-bandwidth/xxxx       /ˈbændwɪdθ/         带宽,吞吐能力 n
-throughput/xxxx      /ˈθruːpʊt/      吞吐量
-erase/erased/truncate/wipe out       /ɪˈreɪs/ /waɪp aʊt/     抹去,清除 v/清空,删除
-
-best
-i'll do/try my best to                                我会尽力去做sth
-will make every effort to           竭尽全力做
-we'll do everything we can(my best)      我将竭尽全力
-i've done(will do) everything in my power to              我 已经/将会 尽我一切所能去...
-u didn't do ur best                                 你没有尽力
-have u done ur best today                         你今天尽力了吗
-as best as i can/could                          尽我所能 adv
-
-per
-every
-per                     每,每一,按照,根据
-each/every
-
-previous
-earlier adj
-prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/上一个的 adj/时间,空间层面
-b4/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
-
-track           统计,追踪,记录
-statistical data/analysis (summary/conclusion)      /stəˈtɪstɪk(ə)l/     统计的 adj/统计数据
-
-Support (contact)
-Contract        联系/合同
-the contact person from SAS team                sas团队的联系人
-
-Onboarding typically takes 3–4 weeks
-typical/typically/classical           典型的,常规的 adv/经典的,传统的 adj
-typically       通常
-Usually
-
-exposed API     对外暴露的API,开放API
-(data) exposure/expose/exposed/exposing/leak/explore     /ɪkˈspəʊʒə(r)/ /ɪkˈspəʊzɪŋ/    暴露 n/v/泄露/探索 v
-
-Audience        目标读者,适用人群
-audience                                观众,听众 n
-
-Excuse me, u're talking too fast
-sorry, what did u say?                                    你说什么
-sorry, could u plz speak more slowly/loudly            请你说慢一点好吗
-would u plz repeat that?                               您能再说一遍吗？
-can u say it again?                                       你能再说一遍吗？
-could u repeat that, please?                 你能重复一下问题吗?
-repeat/repeated/repeatedly      重复 v/重复地 adj/adv
-
-hardly/barely/almost/nearly/(more or less)     /ˈberli/    几乎不/几乎/差不多 adv
-likely/(most) probably/most likely/unlikely        /ʌnˈlaɪkli/     65/75/85%概率/大概率/可能的,很可能(稍弱)/不太可能的,不大可能 adj/adv
-it probably won't work          大概率不行
-it's probably the same/train/today(when target)       大概率相同
-high probability of a conflict          冲突的可能性很高
-
-do they even have an API ?      他们到底有没有API？
-even        加强语气,“究竟,到底”
-
-charge              收费,承担责任 v
-chargeable service          收费服务
-is charged from
-is charged of
-
-approximately
-about
-around
-
-blurry
-unclear        模糊,不清楚
-it's so blurry to me
-
-require
-ask
-groups required         所需的
-
-mean
-meant
-
-data bit
-data part       数据部分
-
-Be effectively sth in this setup
-be Equivalent to
-
-identifiable可识别性
-readability可读性
-
-rank
-rerank        重排序
-
-chunking        /ˈtʃʌŋkɪŋ/
-Semantic tracking
-syntax/semantic error       /ˈsɪntæks/ /sɪˈmæntɪk/      语法 n/语义的 adj
-
-issue           颁发,发放
-issuance        发放,签发
-authorization       鉴权
-read-only access/Short‑lived access token            只读权限 n/短期访问令牌
-access application process/user access review      权限申请流程/用户访问权限审核
-approving (authority)/access/permission/privilege     /əˈθɔːrəti/         权限,权力 n/访问 v/审批权限
-accessible/inaccessible      /əkˈsesəb(ə)l/      可到达的,平易近人的 adj/不可及的 adj
-grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
-ytd i basically finished the access request           昨天我基本上完成了权限请求
-some access/permissions may/usually take some time to (activate/propagate/go live)   一些权限通常需要一段时间方可生效
-authenticate/authentication(auth)         认证 v/n
-authorize(authorise)/authorization       授权,批准 v/n
-licensed/authorised/authorized token(result reference)         得到许可的/已授权的 adj/已授权令牌,结果引用
-permit/permitted to         批准,许可 v/n/被允许,有权限
-(express) license          执照,许可证 n/许可,特许 v/正式书面授权
-
-On the basis of     基于……
-based on
-On the basis of our meeting ytd
 
 
 

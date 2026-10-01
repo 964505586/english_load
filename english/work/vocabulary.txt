@@ -33,7 +33,6 @@ medium                 中等的 adj
 nested                 嵌套的
 observation                         观察 n
 ordinary                普通的,平常的 adj
-permanently                 永久地/adv
 prefix/suffix                           前/后 缀 n
 program                         程序,节目 n
 promotion                 晋升 n

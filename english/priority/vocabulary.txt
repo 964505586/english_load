@@ -122,7 +122,6 @@ renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度�
 tip     小技巧,最新提交(git专业术语: 分支末端最新提交节点)
 mini fund       小额理财基金
 (your) hours worked       你的工作时长
-affected        受影响的 adj
 refactor        重构 v/n
 in correct sort order       正确的排序顺序
 junk            抛弃,丢掉 v/垃圾 n
@@ -239,7 +238,7 @@ examine/examining the root cause        核查,分析 v
 partition/partial/partially     分区 n/部分的 adj
 It seems u're (out of sync) with the latest update       不同步,不一致,错位 adj/你这边不同步,信息不一致
 search keyword          检索关键词
-The (each) addition of this service account to the group requires approval     增加,添加 n/将该服务账号添加至用户组需要审批
+take care of/that (yourself)    处理,接手,照顾 v
 
 
 
