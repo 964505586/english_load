@@ -56,6 +56,7 @@ segmentation fault         段错误
 facial (expression)       /ˈfeɪʃ(ə)l/     面部的 adj/面部表情
 up      向上
 investigate/investigation       调查,调研 n
+strong justification        强有力的理由
 
 
 

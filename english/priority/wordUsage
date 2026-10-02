@@ -388,11 +388,6 @@ in line with (enterprise's principle)      遵照,符合/符合企业原则
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 (fully) compliant/(regulatory) compliance (violation)       合规的 adj/合规,遵守,遵从 n/监管合规/合规违规,违反合规要求
 
-go/work/walk through/walkthrough            过一遍/解决/完整讲解,分步演示v/n
-walk sb through sth/Could u walk me through the catalogue     能否带我梳理一遍
-let's go through tickets first              我们先处理一下票务的事
-we've completed the work through/have gone thru all the tickets     已经完成了walkthrough
-
 will use this new API (in place of) the old one     代替
 The remediation (is in place)         已就绪,配置到位,生效中
 (We will) get sth(remediation) in place (as requested)    落实,完成落地某事
@@ -516,7 +511,7 @@ let's work out the (detailed) timeline      制定出时间计划,敲定时间�
 no matter (what/who/whether) the test passes, we need to log it
 whatever (the outcome is/n), we need to document it/take whatever data you need        无论什么/取你要的任何数据
 the rule applies (regardless/irrespective of) user role     /ˌɪrɪˈspektɪv/      不考虑,不顾 adj
-we need to test it (regardless/irrespective of whether) the ticket is approved
+need to test it (regardless/irrespective of whether) the ticket is approved
 
 nice tip/good (point/takeaway)      说得好,有道理/有价值的收获
 good learning experience
@@ -544,7 +539,7 @@ adjust/modify the code (for/to ensure) compatibility/fit        调整代码做�
 adopt/enablement & (adoption) sessions       采用,采纳 v/采用,接受 n/赋能培训 & 落地推广会议
 adapt (existing code for new workflow)/compatible       适应,调整 v
 the app needs to adapt to pre‑prod environment         应用需要适配预发环境
-we need to adapt the entitlement model to our service       我们需要改造适配这套权限模型,用于我们的服务
+need to adapt the entitlement model to our service       我们需要改造适配这套权限模型,用于我们的服务
 we all have to adopt it     /əˈdɑːp tɪt/        所有人都必须接受它
 we adopted a new (entitlement model) for new sys     权限模型/我们为新系统采用了一套新的权限授权模型
 no solution was adopted in today’s call            本次会议没有敲定任何方案
@@ -675,10 +670,6 @@ just Enhancement needed
 
 just ensure
 just ensure these guys are following IT controls
-
-capture         记录,录入
-capture     记录,涵盖,
-note        记录
 
 speedy          迅速的
 timely/in a timely manner       及时的 adj/及时地,按时 adv
@@ -989,11 +980,39 @@ authorize(authorise)/authorization       授权,批准 v/n
 licensed/authorised/authorized token(result reference)         得到许可的/已授权的 adj/已授权令牌,结果引用
 permit/permitted to         批准,许可 v/n/被允许,有权限
 (express) license          执照,许可证 n/许可,特许 v/正式书面授权
+unauthorized resources      未授权资源
 
 On the basis of     基于……
 based on
 based on that       改
 On the basis of our meeting ytd
 as per/according to/based on/as for (me)        按照/根据/基于n/至于/对我来说
+
+(avoid) repetition/repeat   重复,反复
+duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
+
+help with       帮助改善,缓解
+ease
+
+capture         记录,录入,涵盖
+note        记录
+capture/catch
+capture/captured actions        体现,采集,捕获,截取 v/记录下来的行动项
+
+crucial/Critical/Significant/Important
+critical      严重的,关键的 adj
+significant/significantly       显著地,大幅度地,重要地 adj/adv
+
+shift       调整,更改 v
+ask (for)
+look into               调查,研究,朝...里面看
+
+go over     快速过一遍,梳理讨论
+go/work/walk through/walkthrough            过一遍/解决/完整讲解,分步演示v/n
+walk sb through sth/Could u walk me through the catalogue     能否带我梳理一遍
+let's go through tickets first              我们先处理一下票务的事
+we've completed the work through/have gone thru all the tickets     已经完成了walkthrough
+
+
 
 

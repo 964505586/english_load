@@ -121,7 +121,6 @@ equal/equality/equality-only    /iˈkwɑːləti/    相等的,相同的 adj/等�
 cumulative bug fix/accumulated log/accumulate   /ˈkjuːmjəleɪtɪv/  积累的,渐增的,累积的 adj/累积的 adj/积累,积攒 v
 normality/abnormality/abnormalities     /nɔːˈmæləti/     常态/异常,畸形,变态 n
 (improved security) posture/attitude    /ˈpɑːstʃər/  态势,态度,立场,姿势/增强的安全态势/态度 n
-critical        /ˈkrɪtɪkl/      严重的,关键的 adj
 data integrity in transition/transmission   /ɪnˈteɡrəti/    完整性 n/切换过渡阶段/传输
 dedicated/proprietary   /ˈdedɪkeɪtɪd/ /prəˈpraɪət(ə)ri/     专用的,专属的 adj/专有的,所有的,私有的,闭源的 adj
 receive/receipt/recipient   /rɪˈsiːt/       获得,得到,收到 v/接收 n/接收者 n
@@ -147,7 +146,6 @@ laptop/notebook/headphone(microphone)       /ˈmaɪkrəfoʊn/       笔记本电
 (cash) deposit      /dɪˈpɑːzɪt/     存款,押金,订金 v/n/现金存款/兑现 v/现金 n
 bump/upgrade/downgrade (sth to)   /bʌmp/     升级/降级 v/将sth版本提升至
 transitive (copy/dependencies)     /ˈtrænzətɪv/     传递的 adj/传递副本,依赖(maven)
-simplify/streamline (workflow)/streamlined     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的 adj
 necessity/necessary/prerequisite       /nəˈsesəti/       必要性/必要,必需的 adj/先决条件,必备条件 n/adj
 conduct/proceed with/perform/performance     /kənˈdʌkt/      实施,进行 v/继续,行进 v/开展,执行,表演,演出 v/性能,表演,表现 n
 compromise/compromising the security        /ˈkɑːmprəmaɪz/       危及,损害,妥协,折中 v/危及安全
@@ -204,7 +202,6 @@ eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
 b4 & after comparison     /kəmˈpærɪsn/     前后对比
-duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
 seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
 Azure       /ˈæʒər/
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提供,供应 v/配置 n
@@ -341,6 +338,9 @@ unlike the old endpoint, this new API serves as a unified gateway       /ˈjuːn
 trusty/minimum reliable (path/solution)     /ˈtrʌsti/ /rɪˈlaɪəb(ə)l/        可靠的,可信赖的 adj/最简可靠方案
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 I’m going to the toilet/restroom        /ˈtɔɪlət/        我去趟洗手间
+(reach/have) (consensus/alignment) on       /kənˈsensəs/        就某事达成共识
+simplify/streamline/streamlined (workflow)     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的，简化的 adj
+grab the opportunity        /ɡræb/      获取,拿到 v/抓住机会
 
 
 
@@ -352,41 +352,8 @@ I’m going to the toilet/restroom        /ˈtɔɪlət/        我去趟洗手�
 
 
 
-
-
-
-not my date to give
-please provide the estimate time when that SDD can be approved
-get ready with all approvals        筹备全套审批材料
-is Jack able to share experience, are they experiencing same issue
-let's approach it this way
-the 2 instance is on same network
-action/measure (the % of sth)        行动,行为/统计,措施,办法 n/衡量,统计 v/衡量sth的占比
-may i know why      请问为什么
-prevent sth from doing sth			防止sth产生不良影响
-help users more efficiently do sth      帮助sb高效地完成某事
-
-look into               调查,研究,朝...里面看
-coming back to DIOS from AI做定语？
-We'll be needing/expecting      将来进行时,委婉表达“我们将会需要
-run off     依靠…运行,基于…运行
-hit the endpoint        调用接口
-crucial
-with these findings as reference
-go through      逐条逐项
-go over     快速过一遍,梳理讨论
-consensus on        就…达成共识
-greatly appreciated
-Is there somewhere
-grab        获取
-repetition
-why can't we
-streamlined
-are we saying xxxx
-he is querying about
-Planned dsp maintenance may affect access to ai platform in HK
-joint debugging     联调,联合调试
-
+(with/using/based on) these findings for reference      仅供参考???
+provided/providing/supposing that        conj 假如,倘若
 Seems we don't have a choice, do we        看起来我们没得选了,是吧
 go thru this process right after pilot launch to prepare        走完(流程)
 centrally manage            集中管理
@@ -433,7 +400,6 @@ by default,             默认情况下, adv
 they are still in design stage
 do you want me to review or something else      你需要我做评审还是别的操作
 is it good enough for that EIM
-it should be fine I believe
 it should exist already seems
 with            而
 hopefully very soon

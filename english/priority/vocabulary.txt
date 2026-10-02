@@ -93,7 +93,6 @@ collect     收集 v
 frequent/frequently(often)          经常地,频繁地 adj/adv
 anyway          总之,反正
 multimodal model     多模态(模型)
-significant/significantly       显著地,大幅度地,重要地 adj/adv
 mix (a with b)             混合 v/n/把a和b混合
 by cob today        close of business   今日下班前
 regroup     复盘碰头,重新组合 v
@@ -215,7 +214,6 @@ correct/corrective (action)/correctly       纠错 v/纠正的,矫正的 adj/整
 workshop/workplace/workstation      车间,工场,作坊 n/办公室,工厂/工作站 n
 rework/work overtime/final bit of work     返工 v,n/加班/收尾工作 n
 (kindly check the status of you) subscription     订阅 n/检查你的订阅状态
-capture/captured actions        体现,采集,捕获,截取 v/记录下来的行动项
 (newly generated) artifact        工件 n/新生成的工件
 model‑generated reasoning summary       模型生成推理摘要
 go/went/gone        /went/

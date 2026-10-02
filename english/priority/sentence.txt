@@ -1,5 +1,9 @@
 
-no wait/Hold on/(wait a minute/second/moment)     (不对)等下,先等一下/稍等/等一下
+(so can i interpret/understand that) it's basically just a database     我能理解/解读为...？
+would like to seek guidance from ur side on below issues     希望向贵方寻求指导
+i don't really (have an update)       暂时没有新进展,更新/有最新进展,有新消息可以同步
+just waiting for the issue to be fixed      等待问题修复完成
+no wait/hold on/(wait a minute/second/moment)     (不对)等下,先等一下/稍等/等一下
 (that's) (good) enough   足够的 adj/adv/够了/这已经足够好了
 what does "vip" stand for/it stands for sth         vip代表什么?/它代表sth
 it just occurred to me (that)/just noticed(realized) the guide is two pages long, not just one     突然想到/突然意识到,才注意到
@@ -26,8 +30,8 @@ of course, maybe things will change later              也许以后情况会变
 no problem at all       完全没问题
 (it's) a piece of cake              小case
 let's pause(hold on) here. for the introduction & process i mentioned previously. any question? alright, let's move on          让我们在此暂停一下(稍等)对于我之前提到的介绍和流程部分有什么问题吗？
-will it work/is everything ok       它会起作用吗/一切都好吗
-in that case, i think everything will be fine/all right     既然如此,我觉得一切都会顺利的
+will it work/is everything ok/(it's) all right now       它会起作用吗/一切都好吗/现在一切都好了
+it should be fine, I think(believe)/in that case, i think everything will be fine/all right     我觉得一切都会顺利的
 about when?                大概什么时候
 this has never been done b4        以前从没人干过
 
@@ -121,7 +125,7 @@ there was some misunderstanding for sth             有点误会
 i can't really pronounce those names            我实在无法正确地读出那些名字
 i ran the relevant scheduled job & obtained the latest batch of data this morning           我今早跑了相关的job,获取到最新的数据
 just an example, no offense     /əˈfens/        就举个例子,无意冒犯
-we need to find a long-term solution                我们需要找一个长期的解决方案
+need to find a long-term solution                我们需要找一个长期的解决方案
 recommended(recommend/recommendation) that ...      建议,劝告,推荐 v/n/推荐...
 as far as i know(can see)           据我所 知/见
 if the issue can't be resolved promptly/quickly, i'll raise a related ticket later          如果这问题不能迅速解决,我将会提交一个相关的工单
@@ -180,26 +184,18 @@ another question I have        我们还有另一个问题
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
 silently (returns)      默默地,静静地 adv/静默返回(无报错)
 tentatively planned for July 8th    暂定计划
-could u take about 5 minutes to       能花大约5分钟
+could u take about 5 minutes to review the PR       能花大约5分钟
 i think Jack is the right person to answer that     杰克是回答这个问题最合适的人
-just waiting for the issue to be fixed      等待问题修复完成
-i don't really (have an update)       暂时没有新进展,更新/有最新进展,有新消息可以同步
 Jack play tricks/is playing tricks here       耍手段,玩文字游戏
-we are aligned/in agreement/on the same page        达成一致,想法同步,说到一块儿去
 feel free to reach out to either Jack/me/Lily       欢迎随时联系Jack,我或Lily
-we don't expect any impact to existing pipelines    预计不会对现有流水线造成影响
+we don't expect any impact to existing features    预计不会对现有功能造成影响
 the result was beyond(out of) my expectations       出乎我的意料
-would like to seek guidance from ur side on below issues     希望向贵方寻求指导
 will be directed to new version         将被导向至新版本
-doing A involves B (adding data to DB involves 2 stages)        添加数据库到db涉及两个阶段
+adding data to DB involves 2 stages/doing A involves B        添加数据库到db涉及两个阶段
 (all services) are up & running       系统正常运行,服务就绪
-plz include me in the call       把某人加入会议/请把我加入
 is there anyone else (whom) u'd like (to have) on next Wednesday's sessions   你想增加其他人员参下周的会议嘛
-i'll ask for the call to be moved forward to better suit ur timezone     将会议往前调整,以便更好适配你们的时区
-the call to be moved forward in order to help with the timezone differences     缓解时区差异问题
 therefore what we do need to build (for the phase)      因此,我们需要做什么
 the best slot i could pick based on availability & time zones     基于各方的时间与时区,选出的最佳会议时间段
-without it being a cast of thousands(involving too many stakeholders)       不必牵扯一大堆人(相关方)
 i believe it's worth a go       我认为这值得一试
 the API rate limit has been exceeded        API请求速率限制已超出
 Postman has been disabled within the corporation      银行已禁用postman
@@ -246,7 +242,6 @@ hi there                       嗨,你好
 specifics to be detailed        细节待补充
 iterate through the list & collect their name              遍历列表并收集name
 there's no best/perfect approach/solution, only the most suitable/appropriate one       没有完美的解决方案,只有最适合的解决方案
-(so can i interpret/understand that) it's basically just a database           那么我能理解这基本上就是一个数据库嘛？
 too ... to/Jack has been too busy to send any emails        太什么...以至于不能
 is currently occupied/busy doing/not too busy today        目前正忙/忙于做sth/今天不太忙
 let me add/park an agenda item for the call tmr         把这个议题加到明天会议的议程里
@@ -269,7 +264,7 @@ this is to notify/illustrate that ...            特此通知 .../本文旨在�
 try to address all possible issues (that don't require attention)      解决,处理 v/尽可能修复全部漏洞/需要/无需 重点关注
 just as(like) we thought     正如我们所想的
 don't be sad        别难过,不要伤心
-We need to (buy time for) the migration/the workaround can buy us some time      争取,拖延时间/临时方案可以给我们争取一些时间
+need to (buy time for) the migration/the workaround can buy us some time      争取,拖延时间/临时方案可以给我们争取一些时间
 these two fields are reversed                这两个字段的值颠倒了
 the column hasn't been added yet                这一列还没被加上
 using a command/get result using Postman        方式状语/使用Postman获取结果
@@ -342,7 +337,7 @@ how are we thinking about (the anonymisation step/getting data)        我们打
 is my understanding correct that we need to anonymize all records       我的理解是否正确
 (That's why I'm saying) we likely need to request credentials first   这就是我这么说的原因,所以我才这么讲
 That's what I'm saying      这正是我想说的,我就是这个意思
-we need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
+need to (stay current with) the evolution of AI tools      持续跟进更新n/需要紧跟AI工具的发展演变
 (rather than) use elasticsearch, (i would) propose pgsql     与其做A,我宁愿,会做B
 Select xxx from the drop-down list      在下拉列表中选择xxx
 the change might be problematic (code)      有问题的 adj/有问题的代码/这个改动可能有问题
@@ -359,8 +354,8 @@ he may (end up as) the owner of the account        最终变成,最终格式为 
 (we should consider security) from concepts to implementation     从概念到落地实施/我们应从构思到落地的全过程都考虑安全问题
 (security checks must run) from design through to production      从设计到生产上线/安全校验必须贯穿从设计到线上生产的全流程
 plan (for) prod release at least two weeks in advance     提前规划/至少提前两周规划xxx
-We need to plan (for) resource allocation in advance        我们需要提前规划资源分配
-we need to (finish all approvals/identify risks) well in advance (of implementation)        大幅提前,尽早/我们需要在落地实施之前尽早识别风险
+need to plan (for) resource allocation in advance        我们需要提前规划资源分配
+need to (finish all approvals/identify risks) well in advance (of implementation)        大幅提前,尽早/我们需要在落地实施之前尽早识别风险
 (it's) no wonder (that) the pipeline keeps failing      难怪(流水线一直失败)
 we’ll find a way to (reduce the latency/get the approval)       我们会想办法(降低延迟)
 this service account (serves as) the identity for backend jobs        服务 v,n/充当,作为 v/该服务账号充当后端任务的身份标识
@@ -389,7 +384,29 @@ a pair of service accounts needed for the integration      需要2个服务账�
 integration progress is (very smooth/progressing smoothly)      顺利的,光滑的，平坦的 adj/进展非常顺利
 the system will (pre-populate) these fields automatically     预填充 v/系统会自动预填充这些字段
 I am assuming/supposing the change will not impact the prod env        我猜想,我假定本次变更不会影响生产环境
-
+(what’s the ETA/Could I get the ETA) for SDD approval       SDD审批预计什么时候能完成
+can Jack share his experience? are they facing/experiencing the same issue (with API call)      Jack能否分享下经验，是否遇到同样的问题
+let's approach/handle it this way (for/that/:)      处理,着手解决 v/我们可以这样处理
+both servers/instances (share/are on) the same network      两个实例共用同一网络
+may I know why the (instance failed to start/request got rejected)      请问 实例启动失败/请求被驳回 的原因
+need to (prevent the change from impacting) production     防止sth产生不良影响/要防止本次变更影响生产环境
+the guide (helps users raise) DB requests (more efficiently/with higher efficiency)       帮助用户更高效地do sth
+, without (it being a cast of thousands/looping in too many stakeholders)     不必牵扯一大堆人(相关方)
+i'll (move the call forward) to better accommodate (your timezone/timezone differences)       提前,提早 v/时差,时区差异
+we'll be needing/expecting your approval (by the upcoming call)       将来进行时,我们将会需要...
+he (is querying/asking about) the parameter format      提出疑问，正在询问,打听
+the maintenance window may affect (access to the AI platform/our ability to maintain BAU)       可能会影响我们维持日常业务运行的能力
+we will do (joint debugging) with front-end team       共同的,联合的 adj/调试,排查故障 n/联调,联合调试/我们将和DSP团队一起联合排障
+welcome back (after a long break)                   欢迎长假后回来
+plz make sure u've updated relevant ticket statuses b4 the call     请在call前确保已更新相关工单状态
+can't argue with that       这话没法反驳
+it should be able to be completed by EOD        这项工作应该能在今天结束前完成
+i'm just saying             我只是说说而已
+why can't we (grab the sample params first)/why not try with the dev env        我们为什么不能(先拿到样例参数)
+we are looking for a streamlined way to get approvals       我们正在寻找一套更精简的审批方式
+is there anywhere (that stores the old config)    有没有任何地方(存放旧配置)
+we (hit/call/invoke) the endpoint to fetch/retrieve data      调用接口(拉取数据)
+are we saying (we can skip the pre-check)       那意思是(可以跳过预检查)
 
 
 
