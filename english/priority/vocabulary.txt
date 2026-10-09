@@ -114,7 +114,6 @@ ruleset        规则集 n
 administrator       管理人 n
 key area for changes        变更核心范围
 secure-by-design    安全设计优先的 adj
-fingers crossed     但愿一切顺利,祝好运
 platform improvement    平台优化
 step-by-step guide     分步指南
 renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度重视,重新强调
@@ -237,6 +236,7 @@ partition/partial/partially     分区 n/部分的 adj
 It seems u're (out of sync) with the latest update       不同步,不一致,错位 adj/你这边不同步,信息不一致
 search keyword          检索关键词
 take care of/that (yourself)    处理,接手,照顾 v
+associated guidance/the comment associated with the Agent       相关指引,配套说明
 
 
 

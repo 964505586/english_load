@@ -288,7 +288,7 @@ loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb
 certain/certainly/certainty/uncertainty     /ˈsɜːrt(ə)nti/      必然的,确定的 adj/adv/确定性 n/不确定性
 any concern based on ur expertise/expert      /ˌekspɜːˈtiːz/         专业知识,专家的意见/专家 n
 we could (narrow down) & digest the catalogue       /ˈnæroʊ/       缩小范围
-fill in/populate/enter/pre‑population   /fɪl ɪn/ /ˈentər/   填写/填充/进入,输入 v/回车键/预填充 n
+fill in(out)/populate/enter/pre‑population   /fɪl ɪn/ /ˈentər/   填写/填充/进入,输入 v/回车键/预填充 n
 be (conscious) it's nearly by EOD for u/realize       /ˈkɑːnʃəs/      意识到的 adj/意识到你们那边差不多快下班了
 stick to the original plan/persist      /stɪk/      坚持 v
 persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,持续,坚持 v/持久化的,执着的,持续的 adj/物化,落地生成/坚持 v
@@ -346,21 +346,21 @@ grab the opportunity        /ɡræb/      获取,拿到 v/抓住机会
 
 
 
+work is (mainly on the checking of) true value of those metrics     主要集中在
+that's one moving piece     这只是其中一项变动因素
+in one's free/spare time        在某人的空闲时间
+sell ideas to sb        向某人推销,推广方案
+specifics to be detailed        细节待补充
 
 
 
 
 
 
-(with/using/based on) these findings for reference      仅供参考???
-provided/providing/supposing that        conj 假如,倘若
-Seems we don't have a choice, do we        看起来我们没得选了,是吧
-go thru this process right after pilot launch to prepare        走完(流程)
-centrally manage            集中管理
+
+
+
 somewhere
-ve discussed this earlier, right? What's the issue now?
-have you got your request approved
-get sth onboarded       完成某物接入
 ~80 questions               ~大概的意思？？
 we will send it out tmr
 conditional approval            有条件审批(先放行,后续补齐材料)
@@ -413,13 +413,85 @@ separate assignment communication       单独下发的分配通知,专项告知
 customer-led value      以客户为中心的价值
 (whether) A references B directly       A是否直接引用B
 is wired to         被配置为,被设置为
+re‑engage the team      重新对接团队
 
+they must have done this before
+use case specific       按用例定制的,场景专属
+Do we need to raise any relevant request, 还是说用代码实现它就可以了？
+No matches found        未找到匹配结果
+remove the ending space         删掉末尾空格
+data movement       数据迁移，流转
+i chased
+not getting anything yet
+could you help to do a gap analysis and see if it covers everything we need     /əˈnæləsɪs/
+don't we already have data that we need     我们不是已经拿到所需的数据了吗
+confusion as to     对于……存在疑问/不清楚
+close this off      了结,收尾,闭环这件事
+essentially     本质上，简言之
+it came faster than ever
+coordinate      协调
+i've been asked to
+reiterate       重申，再次说明
+in terms of         在……方面,关于
+live/Available          上线,可用 adj
 
+we are simply getting all approvals ready
+followed your approval        在您审批之后
+additional
+entirety
+outstanding        未完成的,待处理的
+in one go        一次性
+flexible working    弹性办公
+decentrally manage/distributed management         分布式管理
+finding
 
+obviously       显然
+in the end
+like what
+back in biz         恢复办公、复工
+proactively
+jack' absence
+this is the one you are mentioning
+line break
+preserve
+try it out
+代表
+delegate
+make discussion more productive and fruitful
+simulate
+分片      chunking
+向量化
+检索      retrieve
+regular Chunking 普通分片
+semantic chunking           语义分片
+looks good to me
 
+Preliminary
+I Have replied jack' email earlier之前已经做了sth
 
-
-
+TPSA：Third-Party Security Assessment，第三方安全评估
+DSS= Data Sanitisation Service
+Vincent's point was that高频职场句式：Vincent的观点/意思是
+wrap up【高频职场短语】：收尾、结束
+bundle【IT高频动词】：封装、打包
+the whole run
+full
+blob of text【IT高频】一大块文本、长文本块
+Sometimes it will be nearly 15 mins; mostly it takes 10 mins
+I think as data volume grows, the runtime may become longer.
+as data volume grows（随着数据量增长
+Then check once every minute, with a maximum of 30 checks, totalling 40 minutes
+load capacity           负载能力
+stepped retry     阶梯，阶段式重试
+proper response
+timing      时机
+intermittent call       /ˌɪntərˈmɪtənt/       间歇的，断断续续的 adj/间歇调用
+a while ago     前不久
+！！！！！！！！！
+b that was all
+make better sense       更为合理、更有意义
+Surely it makes more sense to use a flatter interval
+ping the API
 
 
 

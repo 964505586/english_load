@@ -60,8 +60,7 @@ pubsub      publish‑subscribe 发布订阅
 vs      /ˈvɜːsəs/      versus/compare 与...相比
 SPN         Service Principal Name 服务主体账号
 SME         Subject Matter Expert 领域专家,主题专家
-TPSA/TPRM        Third-Party (Security Assessments/Risk Management) 第三方安全评估,风险管理
-DSS       Data Security Statement 数据审批表单
+DSS       Data Security Statement 数据审批声明
 DSP     Digital security platform       数字安全平台
 LLD/HLD     low/High level design
 SDD         Software Design Document 软件设计文档
@@ -69,4 +68,8 @@ STS endpoint        Security Token Service 安全令牌服务端点
 DL          distribution list 邮件分发组
 SSO         Single Sign-On 单点登录
 fProxy/rProxy           forward/reverse proxy 正向,反向代理
-
+PCA         Procurement Contract Assistant 采购合同助理
+EIM     Enterprise Information Management 企业信息管理
+TPRM        Third party risk management     第三方风险管理
+SRA         Supplier Risk Assessment 供应商风险评估
+TPRA        Third Party Risk Assessment 第三方风险评估

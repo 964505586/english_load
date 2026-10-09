@@ -89,10 +89,6 @@ boost/strengthen      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
 reinforce (how we lead)      /ˌriːɪnˈfɔːrs/      加强,强化 v/强化我们的管理举措
 refine/refined (timeline)/refinery          细化,优化,改进 v/优化后的/细化,精修,优化 n
 
-oops/my goodness        /ʊps/        哎哟,啊呀,糟糕/我的天
-jesus/my god/damn it       天哪/我的天/该死(脏话,熟人)
-holy shit       天哪(粗俗)
-
 advise/advice/recommend/recommendation       通知,建议 v/n
 propose/proposal/(strongly) suggest/suggestion/feedback        提议,建议 v/n/反馈意见 n/强烈建议
 
@@ -193,10 +189,12 @@ remind sb of sth/doing          提醒某人sth
 remind sb to do sth             提醒sb做sth
 remember/don't forget/kind(gentle/a warm) reminder to      记得做sth
 i can't remember very well either           我也记不太清楚了
-(kind) remember/reminder to add the piece of code in the end        温馨提示: 记得在最后添加这段代码
+remember doing/to do            记得 已经做过sth/要做sth
 plz be reminded that     特此提醒...
-don't remind me             不要提了
 remember to wear more clothes, don't catch a cold       记得多穿点衣服,别感冒了
+(kind) remember/reminder to add the piece of code in the end        温馨提示: 记得在最后添加这段代码
+i remember that someone asked me to change the return format last time      我记得上次有人让我改返回的格式
+don't remind me             不要提了
 
 prematurely     /ˌpriːməˈtʃʊrli/        过早地 adv
 ahead (of time/schedule)       在前面的,提前的 adj/adv
@@ -503,6 +501,7 @@ tidy (up)       /ˈtaɪdi/        整洁的 adj/整理 v
 (prepare/put together) documentation     整理文档
 sort (it out)/organize      排序,分类/整理,解决 v/整理,组织,安排
 come up with (a solution)        整理得出,输出 v
+(compile a list of) action items from the meeting        整理,编制清单/整理会议的待办事项清单
 
 finalize/finalized (the design)      最终确定,敲定,完成 v/敲定方案
 let's work out the (detailed) timeline      制定出时间计划,敲定时间线
@@ -609,9 +608,8 @@ i wasn't aware of this
 please be aware of sth
 
 main focus          主要工作重心      常用？
-main focus will be SRA First followed by TPRA
-, (followed by) UAT env testing     其后紧接着,接着是/接着开展UAT测试
-followed by         其次,紧随其后
+main focus will be sth1 First followed by sth2
+, (followed by) UAT env testing     其次,紧随其后/接着开展UAT测试
 
 given
 as
@@ -729,7 +727,7 @@ tentative (plan)/temporary/temporarily       /ˈtentətɪv/       暂定的 adj/
 agree on        协商
 it's agreed in a email
 It's agreed that
-As it's been agreed by Jack       强调这件事已经被同意了
+it's been agreed by Jack       强调这件事已经被同意了
 
 amend members
 Please amend directly;
@@ -906,7 +904,7 @@ prior/previous/in the front of n       /ˈpraɪər/       先前的,事先的/�
 b4/earlier/previously/early/earlier/earliest       口语/中性/正式/早的/更早的/最早的 adj/adv
 
 track           统计,追踪,记录
-statistical data/analysis (summary/conclusion)      /stəˈtɪstɪk(ə)l/     统计的 adj/统计数据
+statistical data/analysis (summary/conclusion)      /stəˈtɪstɪk(ə)l/ /əˈnæləsɪs/     统计的 adj/统计数据
 
 Support (contact)
 Contract        联系/合同
@@ -1012,6 +1010,27 @@ go/work/walk through/walkthrough            过一遍/解决/完整讲解,分步
 walk sb through sth/Could u walk me through the catalogue     能否带我梳理一遍
 let's go through tickets first              我们先处理一下票务的事
 we've completed the work through/have gone thru all the tickets     已经完成了walkthrough
+
+oops/my goodness        /ʊps/        哎哟,啊呀,糟糕/我的天
+jesus/my god/damn it       天哪/我的天/该死(脏话,熟人)
+holy shit       天哪(粗俗)
+Geez        感叹词，口语，表达惊讶
+
+with reference to… 参考,关联
+与xxx关联
+
+Eventually
+Finally
+
+i.e.,       也就是,即
+as in       也就是、指的是
+that's to say           那就是说
+are we saying (we can skip the pre-check)       那意思是(可以跳过预检查)
+
+post this       在此之后
+right after     紧随...之后,立刻,马上
+afterward/afterwards        过后,后来 adv
+
 
 
 

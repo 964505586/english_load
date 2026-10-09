@@ -6,7 +6,6 @@ supposed to    supposta
 can/when i
 but/what i
 what a      /wɒtə/
-not at all         /nɑːd æd ɔːl/  别客气,一点也不,一点也没有,回答感谢/道歉
 the rest of tickets         /ðə ˈrest əv/
 this is             /ðɪ‿sɪz/
 this is a offset             |ðɪ sɪ zə|
@@ -273,9 +272,11 @@ as a short/long-term solution               作为短期/长期方案
 in (particular/detail)/detailedly/specifically       具体来说/详细地 adv
 vendor/supplier (risk assessment/performance management)        /səˈplaɪər/     供应商/风险评估,绩效管理
 process (flow)/(asynchronous) processing/handle/possess   处理 v/流程,处理,程序,进程/流 n/处理流程/异步处理/拥有,持有
-This is the reference/sample of BDP schema      这是BDP数据模型的样例
+this is the reference/sample of BDP schema      这是BDP数据模型的样例
 action/measure (the %percentage of failed API calls from xxx)        行动,行为/统计,措施,办法 n/衡量,统计 v/衡量sth的占比
 we are aligned/in agreement/on the same page        达成一致,想法同步,说到一块儿去
+for reference only/this is for informational purposes only          (此内容)仅供参考
+(no/eliminating the) need to raise data visa        省去,无需做某事
 
 
 
