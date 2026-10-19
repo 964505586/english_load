@@ -3,6 +3,9 @@ execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /
 multiple    /ˈmʌltɪp(ə)l/       多个的,多种的 adj
 validate/validation/verify/verification/prove     /ˈvælɪdeɪt/     确认,验证/验证,核实 v,n/证实,证明 v
 implement pagination functionality      /ˌpædʒɪˈneɪʃ(ə)n/       页码,分页 n/实现分页功能
+it/Onboarding typically takes 1–3 business days     /ˈtɪpɪkli/      通常需要1至3个工作日
+allocate/allocation/assign/assignment       /ˈæləkeɪt/      分资源,钱,时间(分配)/分任务,工单,工作,人(工作)
+FQDN        fully qualified domain name     /neɪm/      域名
 
 
 
@@ -20,7 +23,6 @@ transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/
 recruit         /rɪˈkruːt/      招聘,招收,招募 v
 partner     /ˈpɑːtnə(r)/        搭档 n
 throughout (the entire software development lifecycle)      /θruːˈaʊt/      遍及,到处,自始至终,贯穿整个时期 adv/prep
-thorough/overall        /ˈθɜːroʊ/       彻底的,全面的 adj
 accomplish/accomplishment/achieve/achievement/implement     /əˈkʌmplɪʃmənt/     实现,成就,成绩(功能落地,开发实现) n/
 supply/supplement       /ˈsʌplɪmənt/     供应,提供 v/补充,增加,增补 v
 discard/dismiss     /dɪˈskɑːd/ /dɪsˈmɪs/        扔掉,弃置 v/摒弃,开除,解雇,不考虑,不理会 v
@@ -54,7 +56,6 @@ defect/deficiency       /dɪˈfɪʃ(ə)nsi/      缺点,缺陷 n/缺乏,不足,�
 extreme/edge case/scenario      /edʒ/         极端的,极度的/极端,边界场景
 quarter         /ˈkwɔːtə(r)/            季度
 traceability        /ˌtreɪsəˈbɪləti/        可追溯性 n
-whole/entire            全部的,整个的 adj
 bootcamp        /ˈbuːtkæmp/         集训营 n
 ontology        /ɒnˈtɒlədʒi/        本体(论)
 retrieve/retrieval/search/query/retrievable     /rɪˈtriːvl/         检索 v/n/可检索的 adj
@@ -127,7 +128,6 @@ receive/receipt/recipient   /rɪˈsiːt/       获得,得到,收到 v/接收 n/�
 navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导航交互
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
 very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
-comprehensive/overall/overview      /ˌkɒmprɪˈhensɪv/    综合性的,全面的 adj/总的,全面的 adj,adv/概述 n
 notification noise      /nɔɪz/      通知干扰,冗余通知
 quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
 vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
@@ -184,7 +184,6 @@ manage (to)/i managed to solve the problem      /ˈmænɪdʒ/       设法做到
 sensitive data leakage/leak/leaked/leaking(expose)     /ˈliːkɪdʒ/      泄露 n/v/暴露
 assess/(impact) assessment/evaluate/evaluation/evolution   /əˈses/     评价,评估(偏判断情况/偏系统分析) v/n/进化/影响评估
 rotate/rotation/rota     /ˈroʊteɪt/ /rəʊˈteɪt/      (使)旋转,转动 v/旋转,转动 n/值班名册,轮值表
-anticipate 30 minutes of downtime      /ænˈtɪsɪpeɪt/   预期,预料 v/预计约...停机时间
 revised/rectified/modified/edited/updated/changed       /ˈedɪtɪd/       修订过的,编辑过的 adj
 deduct/deducted     /dɪˈdʌkt/        减去,扣除 v
 The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     交付截止时间为8月5那一周
@@ -221,7 +220,6 @@ quit/quite/quiet/quietly        /kwɪt/        停止 v/很,非常 adv/安静 v/
 (in the) interim/stabilisation (period)        /ˈɪntərɪm/ /ˌsteɪbələˈzeɪʃn/     过渡期,中间期 n/稳定 n/稳定期
 steady/unsteady/stable/unstable     /ˈstedi/         稳定的,平稳的,持续的 adj/adv/稳定的,牢固的 adj
 attendee/(related) parties/participant  /əˌtenˈdiː/  出席者,在场者/当事方,参与方,聚会,派对(相关方) n
-ahead of/prior to/b4 (deployment)       /ˈpraɪər/       在deployment之前
 extract/extracted/extraction/extra    /ˈekstrækt; ɪkˈstrækt/      提取,抽取 v/选段,引文 n/提取后的 adj/提取,抽取 n/额外的 adj
 (His effort is) admirable/praiseworthy        /ˈpreɪzwɜːrði/      值得称赞的 adj
 immutable       /ɪˈmjuːtəbl/      不可修改,不可变更 adj
@@ -281,7 +279,6 @@ cantonese       /ˌkæntəˈniːz/       广州人,广东人,粤语 n/广州的,
 intent/purpose/destination/target/goal/intend      /ɪnˈtent/     意图,目的 n/有意,打算 v/.../打算,想要 v
 intend/(if) intended/intentionally/plan/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的 adj/adv/如果是有意,故意/意图,目的 n
 It (polls for) job completion status/(stop) polling     /poʊl/       轮询/停止轮询
-the issue is there's an offset on browser/browse     /braʊz/ /ˈbraʊzə(r)/        浏览 v/n
 (newly added/created) field/attribute/column/row/raw (data)   /rɔː/      纵列/行/原始的 adj/原始数据/新增的列
 loop sb in/looping Jack in for visibility/awareness     /luːp/     引入/把sb拉进圈子,让Jack参与进来
 (live) demo/demonstrate/demonstrating   /ˈdemənstreɪt/  证明,示范,演示 n/v/现场演示
@@ -292,7 +289,6 @@ fill in(out)/populate/enter/pre‑population   /fɪl ɪn/ /ˈentər/   填写/�
 be (conscious) it's nearly by EOD for u/realize       /ˈkɑːnʃəs/      意识到的 adj/意识到你们那边差不多快下班了
 stick to the original plan/persist      /stɪk/      坚持 v
 persist/persistent/materialize/insist      /pəˈsɪst/        持久化存储,持续,坚持 v/持久化的,执着的,持续的 adj/物化,落地生成/坚持 v
-cater to (requirement)/meet/met/fit       /ˈkeɪtər/     迎合,满足/满足 v/适合,合身,匹配 n
 replicate/replication (factor)/replica/copy      /ˈreplɪkeɪt/        重复,复制 v/复制/因子,系数,要素,份数/副本 n
 Data (warehouse) platform     /ˈwerhaʊs/     仓库 n/数据仓库平台
 i think (the line between) POC and pilot is (getting/becoming blurred)      /blɜːrd/      A与B之间的界限/变得模糊
@@ -308,13 +304,11 @@ periodically/regular (contract)/regularly        /ˌpɪriˈɑːdɪkli/         �
 character/characteristic      /ˌkærəktəˈrɪstɪk/     性格/特征,特点 n
 reword/revise/amend/amendment/rectify/correct error msg     /ˌriːˈwɜːrd/ /əˈmendmənt/ /ˈrektɪfaɪ/    改写/修正,修订/修改,修订/纠正,矫正 v
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
-allocate/allocation/assign/assignment       /ˈæləkeɪt/      分资源,钱,时间(分配)/分任务,工单,工作,人(工作)
 W/C 11 Aug      week commencing/starting     /kəˈmensɪŋ/        8月11日(周一)开始的那一周(8.11‑17)/开始,着手 n
 drastically         /ˈdræstɪkli/        猛烈地,激烈地,大幅度地 adv
 awkward/embarrass/embarrassing     /ˈɔːkwərd/       令人尴尬的,使人难堪的 adj/使尴尬,使难堪 v/使人尴尬的 adj
 (commit/committed) to doing/(make a) promise/commitment       /kəˈmɪtmənt/      承诺 v/v,n/承诺做某事/承诺,保证 n
 postpone/postponing/defer   /pəˈspəʊn/ /dɪˈfɜː(r)/      推迟,延缓 v/n(延期,推迟 v)
-collaboration/cooperation   /kəˌlæbəˈreɪʃ(ə)n/       合作,共创,协作 n(一起做)/合作,配合 n(配合你)
 sophisticated (authentication mechanism)/sophistication     /səˈfɪstɪkeɪtɪd/      成熟完善的,复杂高级的 adj/复杂性,成熟度 n/完善的身份验证机制
 bypass (firewall/validation/authentication)      /ˈbaɪpɑːs/          绕过,避开 v
 shuffle/shuffled (the data)        /ˈʃʌf(ə)l/     洗牌,打乱 v,n/已打乱的 adj
@@ -332,33 +326,182 @@ manifest/list        /ˈmænɪfest/     清单
 signature       /ˈsɪɡnətʃər/       签名
 I'm more inclined (towards/to pick) Option B        /ɪnˈklaɪn/      倾向于,有...意向 adj/更偏向(选择)方案B
 any (preference) where to deploy      /ˈprefrəns/      偏好,倾向性 n
-please follow/complete these steps (sequentially/in order)       /sɪˈkwenʃəli/       按顺序地,依次地 adv/按顺序执行以下步骤
+plz follow/complete these steps (sequentially/in order)       /sɪˈkwenʃəli/       按顺序地,依次地 adv/按顺序执行以下步骤
 slide/deck      /slaɪd/ /dek/           单张,单页幻灯片,ppt/一整套
 unlike the old endpoint, this new API serves as a unified gateway       /ˈjuːnɪfaɪd/       统一的,整合的 adj/和旧接口不一样,这新API充当统一网关
 trusty/minimum reliable (path/solution)     /ˈtrʌsti/ /rɪˈlaɪəb(ə)l/        可靠的,可信赖的 adj/最简可靠方案
 elaborate/explain/explanation/explanatory       /ɪˈlæbərət/       详细说明/解释(的) v/n/adj
 I’m going to the toilet/restroom        /ˈtɔɪlət/        我去趟洗手间
 (reach/have) (consensus/alignment) on       /kənˈsensəs/        就某事达成共识
-simplify/streamline/streamlined (workflow)     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的，简化的 adj
+simplify/streamline/streamlined (workflow)     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的,简化的 adj
 grab the opportunity        /ɡræb/      获取,拿到 v/抓住机会
+integration (progress) is (very smooth/progressing smoothly)      /smuːð/      顺利的,光滑的,平坦的 adj/进展非常顺利
 
 
 
 
+
+
+
+
+batch request endpoint
+resources are very tight【外企职场高频】资源紧张
+critical project 重点/关键项目
+key
+i was told/informed
+3.in the event of【正式文档】一旦、当发生…
+we attempt the call up to four times
+3.performance constraint 性能瓶颈
+When you referred to the weekly batch job, on which weekday and at what time does it execute?
+concurrent requests 并发请求
+average volume【IT报表缩写】平均流量、平均数量
+how many received the valid FC case ID and how many end up 
+regardless of whether they succeeded,
+is designed as
+be meant to do/be表达设计初衷/本来用途
+本意是、旨在、设计用来
+ended up + doing【高频短语】最终（变成…，结果却是
+hit performance constraints【IT地道短语】遭遇性能瓶颈
+cater to：侧重迎合需求（用户、业务需求）
+cater for：侧重适配、容纳、处理（数据/请求/流量）
+brought down【固定短语】降低、减少
+significantly adv. 显著地
+2.within a loop【IT】在循环中
+file v.提交
+1.port over【IT短语】迁移、转发、传递数据
+1.refer to【职场高频】指的是
+Mean
+Jack was working on that
+Jack之前在处理这块。
+inside
+in
+something like this
+大致像这样
+catch up on that【高频职场短语】跟进、处理（这件事）
+7.toggle features【IT高频】功能开关（feature toggle
+take a closer look【高频短语】仔细查看、深入研究
+Double confirm
+1.run through【职场高频】梳理、过一遍
+embeddings向量
+10.reliability n.可靠性
+heavy lifting【职场高频】繁重的核心工作、费力的任务
+self-contained adj.独立自包含的（代码/方案）
+disregard v.忽略、不予采纳
+yield v.产出、返回
+return
+Original
+raw
+Structure
+framework
+架构师
+Architect
+spot issues：发现问题（职场地道表达，优于单纯see）
+2.from my point of view【职场短语】在我看来
+win收益？？
+sth outlined in point 4来自第1点所述
+所述的
+prioritise A over B【高频技术短语】优先A，重于B
+prioritise动词？？
+try out【高频短语】试验、尝试
+Attempt
+Play around with something
+supposed adj.拟议的、所谓的
 
 work is (mainly on the checking of) true value of those metrics     主要集中在
 that's one moving piece     这只是其中一项变动因素
 in one's free/spare time        在某人的空闲时间
 sell ideas to sb        向某人推销,推广方案
 specifics to be detailed        细节待补充
+browse/xxxxxxxxxxx
+the issue is there's an offset on browser/browse     /braʊz/ /ˈbraʊzə(r)/        浏览 n/v
 
+benchmark
+standard
+let me dig it out
+either
+offensive       /əˈfensɪv/      无礼的，冒犯的 adj
+Model Garden        模型广场/模型集市
+Playground      模型调试沙盒、试验台
+Ideation Environment        创意试验环境
+oversee         监管、管理
+engage with         参与、对接
+User Instructions           用户指引
+Explore & Experiment        探索与实验
+Visitor Mode            访客模式
+then you will enter Visitor Mode
+register for        注册
+get access to       获得访问权限
+collaborate on projects         项目协作
+engage with tasks           参与任务
+oversee members         管理成员
+utilize resources effectively       高效利用资源
+Lightweight     轻量级
+business days           工作日
+subscribe models            订阅模型
+Remind your manager to approve for quicker processing
+remind sb to do sth         提醒某人做某事
+quicker processing      更快处理
+How do I decide which instance to use
+Do I need to set things up again if I move to another
+set things up 进行配置；move to another instance 切换至另一个
+Assign and oversee members      分配并管理成员
+simply follow the steps         只需按照步骤操作
+extra
+Additional
+You're all set          准备好了，一切就绪
+a tricky problem
+we'll crack it          我们会攻克,搞定这个问题
+extra 40 minutes increase
+extra 40 minutes increased
+time tracking code          耗时追踪代码，用来统计各环节执行耗时
+profile           性能剖析、采集性能指标
+API Specification API       规范文档
+drop-in sessions            随到随听分享会,线上开放答疑会
+Usage and Performance           使用量与性能监控面板
+interactive chat            交互式对话
+studio          工作台
+extract/classify/analyze            提取、分类、分析
+unified framework           统一框架
+Enjoy your experience with sth
+Should you have any questions or suggestions, plz feel free to
+transfer to sb 转让给某人
+The Project cannot be transferred to another person
+immediate access            即时访问
+Creation Lead Time          开通所需时长
+lead time 前置周期/等待周期
+staff-triggered tasks           用户人工触发任务
+manual refresh          手动刷新
+prototyping         原型开发、原型验证
+exploration & experimentation           探索、试验
+step by step           逐步、分步推进
+document parsers            文档解析器，用来读取、解析各类文档
+Great for exploration, experimentation, and prototyping         非常适合探索验证、试验和原型开发
+lead time           前置周期、等待耗时
+Since this code performs a deletion followed by a save operation, if the deletion succeeds but the save fails, the current transaction must be rolled back to maintain transactional consistency
+I might have missed that        这点我之前忽略了
+per call
+occurrence      发生，出现 n
 
+if/in case of
+you don't have to do that now
+all right, let's look at this one
+plz keep handy
 
-
-
-
-
-
+I think you might be right.
+as long as
+grounding citation data         溯源引用数据
+verbatim            一字不差、原文原样
+we can not guarantee that
+This makes me uncertain now
+citation
+can't help doing sth        忍不住、不禁做某事
+way too many            实在太多
+might do need 口语加强语气：确实可能需要
+in theory           理论上来说
+minimum changes     最小变更
+lift and shift          搬迁迁移
+can i take a look
+my turn to go to another meeting
 
 somewhere
 ~80 questions               ~大概的意思？？
@@ -420,25 +563,25 @@ use case specific       按用例定制的,场景专属
 Do we need to raise any relevant request, 还是说用代码实现它就可以了？
 No matches found        未找到匹配结果
 remove the ending space         删掉末尾空格
-data movement       数据迁移，流转
+data movement       数据迁移,流转
 i chased
 not getting anything yet
 could you help to do a gap analysis and see if it covers everything we need     /əˈnæləsɪs/
 don't we already have data that we need     我们不是已经拿到所需的数据了吗
 confusion as to     对于……存在疑问/不清楚
 close this off      了结,收尾,闭环这件事
-essentially     本质上，简言之
+essentially     本质上,简言之
 it came faster than ever
 coordinate      协调
 i've been asked to
-reiterate       重申，再次说明
+reiterate       重申,再次说明
 in terms of         在……方面,关于
 live/Available          上线,可用 adj
 
 we are simply getting all approvals ready
 followed your approval        在您审批之后
 additional
-entirety
+extra
 outstanding        未完成的,待处理的
 in one go        一次性
 flexible working    弹性办公
@@ -469,29 +612,28 @@ looks good to me
 Preliminary
 I Have replied jack' email earlier之前已经做了sth
 
-TPSA：Third-Party Security Assessment，第三方安全评估
+TPSA：Third-Party Security Assessment,第三方安全评估
 DSS= Data Sanitisation Service
 Vincent's point was that高频职场句式：Vincent的观点/意思是
 wrap up【高频职场短语】：收尾、结束
 bundle【IT高频动词】：封装、打包
-the whole run
-full
 blob of text【IT高频】一大块文本、长文本块
 Sometimes it will be nearly 15 mins; mostly it takes 10 mins
 I think as data volume grows, the runtime may become longer.
 as data volume grows（随着数据量增长
 Then check once every minute, with a maximum of 30 checks, totalling 40 minutes
 load capacity           负载能力
-stepped retry     阶梯，阶段式重试
+stepped retry     阶梯,阶段式重试
 proper response
 timing      时机
-intermittent call       /ˌɪntərˈmɪtənt/       间歇的，断断续续的 adj/间歇调用
+intermittent call       /ˌɪntərˈmɪtənt/       间歇的,断断续续的 adj/间歇调用
 a while ago     前不久
 ！！！！！！！！！
 b that was all
 make better sense       更为合理、更有意义
 Surely it makes more sense to use a flatter interval
 ping the API
+(keeping in mind that)          考虑到这一点
 
 
 

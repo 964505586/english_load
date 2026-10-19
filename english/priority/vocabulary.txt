@@ -64,7 +64,6 @@ powered by          由...开发/运营/提供技术支持/提供动力/驱动
 flood       泛滥 n
 natural person              自然人 n
 distribute/distribution/distributed locks          分发,分配 v/n    分布式锁 n
-federated       联邦的 adj
 data ingestion          数据接入,摄取 n
 (work) handover item/content/object            工作交接/交接项,内容,对象 n
 user base           用户群
@@ -237,6 +236,8 @@ It seems u're (out of sync) with the latest update       不同步,不一致,错
 search keyword          检索关键词
 take care of/that (yourself)    处理,接手,照顾 v
 associated guidance/the comment associated with the Agent       相关指引,配套说明
+(these security rules apply to all) staff‑facing applications     面向员工的应用/这些安全规则适用于所有面向员工的应用系统
+federated/federation identity (serves as a unified authentication mechanism across multiple sys)    联邦式的,联合的 n,adj/联合身份/联合身份充当跨多套系统的统一鉴权机制
 
 
 

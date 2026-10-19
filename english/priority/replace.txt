@@ -72,7 +72,7 @@ formula(algorithm)                     公式 n
 as for n(regarding)  至于n/as for that point u mentioned previously     至于你之前提到的这一点
 procedure/step               做事的具体步骤 (process: 整件事的过程)
 deal with(handle)
-via/by/through
+via/by/through (SNOW/the link below)        通过下方链接
 make a code change(change code)                  做一次代码修改(正式)
 remediate/investigate/fix              补救,修复 v
 occur/appear/happen
@@ -277,6 +277,7 @@ action/measure (the %percentage of failed API calls from xxx)        行动,行�
 we are aligned/in agreement/on the same page        达成一致,想法同步,说到一块儿去
 for reference only/this is for informational purposes only          (此内容)仅供参考
 (no/eliminating the) need to raise data visa        省去,无需做某事
+details/(i'd appreciate it if) u could (add some colour to) the requirement       如能..., 不胜感激/给某事补充更多细节
 
 
 

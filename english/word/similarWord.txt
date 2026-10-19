@@ -118,13 +118,12 @@ abundant/abundantly                            丰富的,大量地 adj/adv
 abandon/abandoned/abandonment                   抛弃,遗弃 v
 
 satisfy                         使满意,使满足 v
-satisfying                      令人满意的 adj
-satisfactory                    令人满意的,合适的 adj
+satisfying/satisfactory                      令人满意的,合适的 adj
 satisfaction                    满意,满足,满意度 n
 
 involve                 涉及 v
 innovation                 创新 n
-invocation                 调用 n
+invocation          调用 n
 invoke                  行使,实施 v
 
 village                         村

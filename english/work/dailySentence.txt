@@ -20,7 +20,7 @@ i'm fortunate to work with u              很幸运能与您共事
 looking forward to meeting u at one of our meeting soon & working with u      期待很快能在我们的某次会议上与您相见,并与您共事
 i'm thinking about it                我正在考虑这件事
 in some aspects                                     在某些方面
-in the next two days                            在未来的两天
+in the next 2 days                            在未来的两天
 is this behavior forbidden?             这种行为是被禁止的吗？
 is this what u want?                  这是你想要的吗？
 it depends          看情况
@@ -64,7 +64,7 @@ that would be great if ...
 we are not the owner of the priority channel; let me check if this can be added to the priority channel for the 16:00 batch
 the normal channel often has long wait times,since we don't own the priority channel, i'll confirm whether it can be added to the priority channel for the 16:00 batch
 have to wait for their feedback
-i've come up with two potential solutions for the issue         我想出了两个可能的解决方案
+i've come up with 2 potential solutions for the issue         我想出了两个可能的解决方案
 the frontline is complaining(shouting 大喊大叫) every day
 make good/full use of                               充分利用
 just get familiar with the main process first. for the specific details, ask Jack, me or other team members when u start working on it    先了解主流程,至于细节,等你开始做了,在找人问
