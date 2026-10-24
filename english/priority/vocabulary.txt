@@ -220,7 +220,6 @@ while       当..的时候,当..同时,然而,虽然..但是..
 fright/frighted/frighting/frighten/frightened/frightening      使惊恐 v/惊骇,恐怖 n/使惊吓,使惊恐 v
 east/south/west/north       /iːst/ /saʊθ/ /west/ /nɔːrθ/        东,南,西,北
 later (stage/production access)     后续阶段/后续生产环境访问权限
-clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
 (Let's discuss this) offline      线下,会外 adv
 procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
 troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)/debug             故障排查 n
@@ -238,6 +237,8 @@ take care of/that (yourself)    处理,接手,照顾 v
 associated guidance/the comment associated with the Agent       相关指引,配套说明
 (these security rules apply to all) staff‑facing applications     面向员工的应用/这些安全规则适用于所有面向员工的应用系统
 federated/federation identity (serves as a unified authentication mechanism across multiple sys)    联邦式的,联合的 n,adj/联合身份/联合身份充当跨多套系统的统一鉴权机制
+admin assessor access       评估员，评审员
+Ideally/In an ideal scenario        理想情况下
 
 
 

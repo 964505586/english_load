@@ -108,7 +108,6 @@ case sensitivity/sensitive/insensitive    /ˌsensəˈtɪvəti/     大小写敏�
 counter (banking terminal)     /ˈkaʊntər/      柜台 n/人工业务柜台,银行柜员终端 n
 counterpart     /ˈkaʊntərpɑːrt/     对应物 n
 trade/trading (of wood)   /ˈtreɪdɪŋ/        交易 v/贸易 n
-(data) volume/size     /ˈvɑːljəm/     数据量/音量 n
 layout      /ˈleɪaʊt/          布局,排版 n
 target/targeting/objective (customer)      /ˈtɑːɡɪtɪŋ/     目的,目标 n/目标的,客观的 adj
 preserve (data)/preserving/retain/remain/save      /prɪˈzɜːrv/ /prɪˈzɜːrv/     保留,维持 v/保留,保存 n
@@ -232,7 +231,6 @@ delegate        /ˈdelɪɡət/        代理人,代表 n/授权 v
 (storage/processing) venue/place/location/position      /ˈvenjuː/      存储,处理场地/地点,场所 n/放置 v/地点,位置 n(物理地点/职位,岗位)
 imagine/imaginary/imagination/image       /ɪˈmædʒɪneri/       想像,设想 v/想象的,虚构的 adj/想像力,想像/镜像 n
 (in) reality/actually (not)     /riˈæləti/      真实,现实 n/实际上,事实上/实际上不是
-represent/stand for/representative/on behalf of QA team     /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/     代表 v/n
 (acceptance) criteria/standard       /kraɪˈtɪəriə/       标准 n/验收标准
 mitigate (the risk of service outage)/mitigation/eliminate       /ˈmɪtɪɡeɪt/       减轻,缓和 v/缓解风险/剔除,根除 v
 convert momentum into measurable outcomes     /moʊˈmentəm/ /ˈmeʒərəbl/       势头,冲力,推力 n/可量化的 adj/将发展势能转化为可量化成果
@@ -275,7 +273,7 @@ asynchronous/asynchronize/sync(synchronize)/synchronous     /eɪˈsɪŋkrənəs/
 lineage         /ˈlɪniɪdʒ/      (数据)血缘,依赖链 n
 excessive (api traffic)/excessively     /ɪkˈsesɪv/     过度的,过多的 adj/过分地 adv/过量api流量
 set out our primary/(strategic) focus     /strəˈtiːdʒɪk/       战略(性)的 adj/阐明,明确我们首要工作重心
-cantonese       /ˌkæntəˈniːz/       广州人,广东人,粤语 n/广州的,广东的 adj
+cantonese/mandarin       /ˌkæntəˈniːz/ /ˈmændərɪn/       广州人,广东人,粤语 n/广州的,广东的 adj/普通话
 intent/purpose/destination/target/goal/intend      /ɪnˈtent/     意图,目的 n/有意,打算 v/.../打算,想要 v
 intend/(if) intended/intentionally/plan/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的 adj/adv/如果是有意,故意/意图,目的 n
 It (polls for) job completion status/(stop) polling     /poʊl/       轮询/停止轮询
@@ -336,6 +334,9 @@ I’m going to the toilet/restroom        /ˈtɔɪlət/        我去趟洗手�
 simplify/streamline/streamlined (workflow)     /ˈstriːmlaɪn/      使简易,简化/精简,优化 v/流线型的,精简的,简化的 adj
 grab the opportunity        /ɡræb/      获取,拿到 v/抓住机会
 integration (progress) is (very smooth/progressing smoothly)      /smuːð/      顺利的,光滑的,平坦的 adj/进展非常顺利
+Witness (milestone moments together)      /ˈwɪtnəs/       目击,见证 v/里程碑/一同见证里程碑时刻
+revision number         /rɪˈvɪʒ(ə)n/        修改，修订 n/版本号,修订号
+represent/stand for/representative/(request) on behalf of QA team     /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/     代表 v/n
 
 
 
@@ -343,33 +344,64 @@ integration (progress) is (very smooth/progressing smoothly)      /smuːð/     
 
 
 
+
+
+
+
+Is it acceptable            这可以接受吗
+What's the formal process to apply for DB permission       正式的，规范的 adj/申请xxx许可的正式流程是什么
+weird, I'm getting the identical error as last time. it was previously resolved by adding a header param and an associated code change on your side. if I recall correctly
+just wondering whether that code change was reverted, causing the error to reoccur      那次代码改动是不是被回滚了，导致报错再次出现
+Do we have any show and tell coming up          近期有技术分享会吗
+It seems Jack is on leave. Do you know when he’ll be back       他什么时候回来上班
+
+
+
+incredible          /ɪnˈkredəb(ə)l/     极好的、惊艳的
+yield/return        /jiːld/     产生、返回 v
+document validity checks        /vəˈlɪdəti/         有效，合法 n/文档有效性校验
+(data/average) volume/size     /ˈvɑːljəm/     数据量/平均数量/音量 n
+(resources are very) tight        /taɪt/      牢固的,紧身的 adj/资源紧张
+omit the duplicated columns     /əˈmɪt/         省去，遗漏 v
+
+
+
+
+
+
+I think as data volume grows, the runtime may become longer.
+as data volume grows        随着数据量增长
+
+AI responses are not coming LLM_ERROR from AI side.
+keep failed
+whether it will be provided elsewhere
+is it possible to have anonymized data copy to the data DEV environment 句子成分
+is it possible to
+if doing
+we are exploring the possibility of having
+For the 4x Tables that we’ve been looking at        针对我们一直在跟进的4张表
 
 batch request endpoint
-resources are very tight【外企职场高频】资源紧张
-critical project 重点/关键项目
-key
+key/critical project            重点,关键项目
 i was told/informed
-3.in the event of【正式文档】一旦、当发生…
+in the event of【正式文档】一旦、当发生…
 we attempt the call up to four times
-3.performance constraint 性能瓶颈
+performance constraint 性能瓶颈
 When you referred to the weekly batch job, on which weekday and at what time does it execute?
 concurrent requests 并发请求
-average volume【IT报表缩写】平均流量、平均数量
 how many received the valid FC case ID and how many end up 
 regardless of whether they succeeded,
 is designed as
-be meant to do/be表达设计初衷/本来用途
+be meant to do/be       表达设计初衷,本来用途
 本意是、旨在、设计用来
 ended up + doing【高频短语】最终（变成…，结果却是
 hit performance constraints【IT地道短语】遭遇性能瓶颈
-cater to：侧重迎合需求（用户、业务需求）
-cater for：侧重适配、容纳、处理（数据/请求/流量）
-brought down【固定短语】降低、减少
+cater to/for    迎合需求（用户、业务需求）/适配、容纳、处理（数据/请求/流量）      
 significantly adv. 显著地
-2.within a loop【IT】在循环中
+within a loop【IT】在循环中
 file v.提交
-1.port over【IT短语】迁移、转发、传递数据
-1.refer to【职场高频】指的是
+port over【IT短语】迁移、转发、传递数据
+refer to【职场高频】指的是
 Mean
 Jack was working on that
 Jack之前在处理这块。
@@ -392,11 +424,10 @@ return
 Original
 raw
 Structure
-framework
-架构师
+framework       架构师
 Architect
 spot issues：发现问题（职场地道表达，优于单纯see）
-2.from my point of view【职场短语】在我看来
+from my point of view【职场短语】在我看来
 win收益？？
 sth outlined in point 4来自第1点所述
 所述的
@@ -618,9 +649,7 @@ Vincent's point was that高频职场句式：Vincent的观点/意思是
 wrap up【高频职场短语】：收尾、结束
 bundle【IT高频动词】：封装、打包
 blob of text【IT高频】一大块文本、长文本块
-Sometimes it will be nearly 15 mins; mostly it takes 10 mins
-I think as data volume grows, the runtime may become longer.
-as data volume grows（随着数据量增长
+Sometimes it will be nearly 15 minutes; mostly it takes 10 minutes
 Then check once every minute, with a maximum of 30 checks, totalling 40 minutes
 load capacity           负载能力
 stepped retry     阶梯,阶段式重试
@@ -635,7 +664,49 @@ Surely it makes more sense to use a flatter interval
 ping the API
 (keeping in mind that)          考虑到这一点
 
-
+percentage complete status 完成百分比、进度完成率（项目报表高频）
+what is the percentage completion status for
+How many percentage completion status for
+refinements n.优化、微调
+rendering them on the UI
+some refinements are still required on our side
+on hold【外企项目高频】暂停、搁置
+Integration testing is on hold
+please add if i missed something
+there will be new question or changes coming soon as per Jack
+again and again 反复、一次次
+cause a lot of rework
+possibly more for TPRA
+duration：执行耗时
+as much as u could IM简写 = as much as you can 尽可能
+visualization n.可视化
+random随机的
+EOW
+end of week【职场简写】本周末
+in terms of【职场高频】就…方面、关于
+Regarding
+aid v.辅助、配合
+so we can adjust the output accordingly to aid
+ideation sandbox【专有名词】创意沙箱环境
+trial period 试用期
+starting from
+I am responsible for ensuring
+commence with sth【职场正式】启动、开始做某事
+You had me worried for a moment刚才吓我一跳
+I can see…【外企IM口语】我预估、我判断、看样子
+crashed adj. 崩溃
+intermittent adj.【高频运维词汇】间歇性的，断断续续的
+token consumption token消耗量
+Relatively
+hit【职场动词】遇到、碰到（问题/瓶颈），hit an issue
+Experience
+far below 远低于
+separate from 独立于…之外、和…相区分
+activated adj.【资源运维】已激活、已生效
+hidden limits 隐性限制、隐藏配额限制
+intermittent instability 间歇性不稳定
+a default of sth
+Active生效的、在用的、激活的
 
 
 

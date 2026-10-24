@@ -74,3 +74,5 @@ SRA         Supplier Risk Assessment 供应商风险评估
 TPRA        Third Party Risk Assessment 第三方风险评估
 TPM         tokens per minute
 BDP         Business Data pattern 业务数据模式
+TPM/RPM         Tokens/Requests Per Minute 每分钟Token数/每分钟请求数
+atm         at the moment

@@ -179,7 +179,7 @@ the field isn't editable/set the field to uneditable       此字段不可编辑
 in‑scope/out‑of‑scope       (超出)范围内/外
 perform/do/implement        xxx/执行,实现 v
 just asking/wondering       只是问问/就是想知道
-against/regarding       针对 prep
+against/regarding/about/(as) for       针对 prep/至于
 in the (past)/last few days//months     在过去 几天/数月
 I can't tell (yet)      无法下定论/尚且还不能(到目前为止)
 notify/(outage) notification/notice      通报,告知 v/通知 n/断网,服务中断通知/注意,意识 v
