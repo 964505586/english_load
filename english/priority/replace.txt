@@ -28,7 +28,6 @@ uncheck/deselect/unselected         取消勾选,去掉勾选/取消勾选/未�
 introduce risk/cause incidents(failures)        引进,引入 v
 relatively/correspondingly (complex)        相当地,相对地(复杂) adv
 near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
-architect/architecture/framework   架构师/架构/框架
 given this/in the case(way)/so that
 internal/external           内部的/外部的 adj
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的,可落地的 adj
@@ -60,11 +59,11 @@ at ur convenience/if u get a chance     你有空的时候
 self/internal/(my/our own) check            自测
 with n/there is ...
 alright(all right)
-i'll reboot/restart it. it's freezing badly(super laggy /ˈlæɡi/)        重新启动 v/n(我要重启下,卡的不行了)
-mention/say            提到,谈到 v
+i'll reboot/restart it. it's (freezing badly/super laggy)    /ˈlæɡi/        重新启动 v/n(我要重启下,卡的不行了)
+mention(say) ... in your ticket      提到,谈到 v
 lead/led to n(cause)                           导致
 perhaps/maybe
-mistake/incorrect(wrong)        错误的 adj/adv
+mistake/incorrect/wrong/by mistake        错误的 adj/adv
 on/when/while/during            同时,然而,当...时候
 really/pretty/quite/super   (very/so)
 faced/reported/raised/encountered
@@ -188,7 +187,7 @@ queue times are usually long in normal channel/long queue times are common      
 host/hosting/hosted at/deploy             举行,部署,托管,做东 v/主人,主持人 n/托管于
 suggest we (play around with) Jack's proposal/try with sth       试一试Jack的提议
 (the best) slot/period        时间段,时段/一段时间,时期 n/最佳时间段
-plan/intend/would like to           打算,想要/计划 v
+plan/intend/would like to           计划/打算,想要 v
 self-service/introduction/check link or tools       自助服务/自我介绍/自查链接,工具
 Our effort (flows away)/effort will go to waste       流走,白白流失,付诸东流 v/投入付诸东流
 supply/offer/provide        供应,提供 v/供应 n
@@ -215,7 +214,7 @@ i'm looking into this right now/currently handling this     我现在正在处�
 let me see/have a look          让我看看
 dynamic/dynamically/static                 动力,活力 n/充满活力的,动态的 adj/adv/静态的,静止的 adj
 solve/(partially) resolved/address/get sorted            解决/已决议的 adj/部分解决
-indicate/indicator/mean/represent/stand for sth     表明,指出 v/指标 v,n/代表sth
+indicate/indicator/mean/represent/stand for/refer to sth     表明,指出 v/指标 v,n/代表sth
 Day Zero/One/Two        上线首日/上线后第1天/稳态运行阶段
 what do u want to do (on earth)       你想干嘛/你到底想要什么
 backup/back-up/replica/(as an) alternative/workaround       /ˈreplɪkə/      备份 n/adj/副本 n/可替代的,备选的 adj/作为替代方案/备用方案
@@ -236,10 +235,9 @@ outcome/result      结果,效果/结果,后果 n
 terminate/terminal (status/outcome)/final      终止 v/终端 adj/n/终态(结果)
 ever since/since then      自从,从那时起一直到现在/从那以后
 as/since/bcos/since 句子/bcos of/due to n
-in the first/second iteration(for loop)         循环/在第一次循环中
 automate (devops process)        使自动化 v
 merge/combine/integrate/consolidate     合并/集成 v
-due (date/soon)/(client) deadline/overdue   到期的/到期日期/即将到期/截止日期/客户端截止时间/逾期的 adj
+due (date/soon)/(client) deadline (missed)/overdue   到期的/到期日期/即将到期/截止日期/客户端截止时间/错过截止日期/逾期的 adj
 inherit/expand/it could potentially be (extended)       继承/扩展/扩展,继承 v/有扩展的潜力
 respect/A and B handle their (respective) tasks     遵循,尊敬 v/尊敬 n/分别,各自的 adj/处理各自的任务
 as appropriate/when u find a moment/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
@@ -278,7 +276,12 @@ we are aligned/in agreement/on the same page        达成一致,想法同步,�
 for reference only/this is for informational purposes only          (此内容)仅供参考
 (no/eliminating the) need to raise data visa        省去,无需做某事
 details/(i'd appreciate it if) u could (add some colour to) the requirement       如能..., 不胜感激/给某事补充更多细节
-
+architect/architecture/framework/structure   架构师/架构/框架/结构
+take a closer look/Double confirm       仔细查看、深入研究
+disregard/ignore           忽略、不予采纳 v
+if/in case of
+We can’t guarantee/promise that         无法保证
+phase/stage           阶段 n
 
 
 

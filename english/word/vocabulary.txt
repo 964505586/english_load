@@ -192,7 +192,6 @@ injury                          伤 n
 inquire                                 调查,询问,打听 v
 insist on                           坚持 v
 insurance                   保险 n
-intend                      打算 v
 interest        利息,兴趣 n         使感兴趣 v
 interview                           面试 v/n
 introvert               内向的 |vɜːt|
@@ -303,7 +302,6 @@ reward/rewarding                      奖励 n/v 值得的,有意义的 adj
 rival       对手 n        竞争的 adj
 role-play               角色扮演
 roommate                                室友 n
-rudely/rudeness    无礼的 adj/无礼 n
 run free/after                解脱/追赶
 same as                             等同于
 screen                      屏蔽 v        屏幕 n
@@ -321,11 +319,9 @@ some        单 某个    复 一些
 someday             有一天,有朝一日
 spare                                           备用的,空闲的 adj
 specialize in                       专攻
-standard                        标准
 stay up/focused/overnight                             熬夜/保持专注/过夜 v
 striking            惊人的,异常的 adj
 strength                        力量,优点 n
-structure                       结构 n
 success/succeed/successful/successfully              n/v/adj/adv
 suddenly                            突然的
 sugar-free                          无糖的

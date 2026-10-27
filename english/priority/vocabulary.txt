@@ -67,7 +67,6 @@ distribute/distribution/distributed locks          分发,分配 v/n    分布�
 data ingestion          数据接入,摄取 n
 (work) handover item/content/object            工作交接/交接项,内容,对象 n
 user base           用户群
-retrospective           追溯性,回顾的 adj
 precaution             预防措施 n
 freeze/freezes/froze/frozen         卡死,冻结,无响应
 logical             合情合理的,合乎逻辑的 adj
@@ -115,7 +114,6 @@ key area for changes        变更核心范围
 secure-by-design    安全设计优先的 adj
 platform improvement    平台优化
 step-by-step guide     分步指南
-renewed (emphasis on sth)         续存,重新开始,中止后继续 v/再度重视,重新强调
 tip     小技巧,最新提交(git专业术语: 分支末端最新提交节点)
 mini fund       小额理财基金
 (your) hours worked       你的工作时长
@@ -143,7 +141,6 @@ challenge                       质问,质疑,挑战 v/n
 intelligent/actionable (intelligence) platform     聪明的,智能的 adj/智力,智能 n/可落地智能平台
 analyze/analytics                       分析 v/n
 exit properly       正常退出,正确关闭
-absent                      缺勤的,缺席的 adj
 (harsh) complaint/complaints n          (激烈)抱怨
 fluctuation             波动 n
 abnormal                反常的 adj
@@ -153,7 +150,6 @@ regression              回归,后退,倒退 n
 feel free to v                请随意,尽管
 seek                    寻找 v
 low level design        底层设计
-phase           阶段 n
 who can (help with) this?       处理,缓解,解决 v/谁能帮忙处理这个？
 pick (up)         挑选/接手,获取,恢复,继续 v
 self‑owned workable (backend)       自研,自有的 adj/可运行的 adj
@@ -213,7 +209,7 @@ workshop/workplace/workstation      车间,工场,作坊 n/办公室,工厂/工�
 rework/work overtime/final bit of work     返工 v,n/加班/收尾工作 n
 (kindly check the status of you) subscription     订阅 n/检查你的订阅状态
 (newly generated) artifact        工件 n/新生成的工件
-model‑generated reasoning summary       模型生成推理摘要
+AI/model‑generated reasoning summary       模型生成推理摘要
 go/went/gone        /went/
 while       当..的时候,当..同时,然而,虽然..但是..
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
@@ -239,7 +235,9 @@ associated guidance/the comment associated with the Agent       相关指引,配
 federated/federation identity (serves as a unified authentication mechanism across multiple sys)    联邦式的,联合的 n,adj/联合身份/联合身份充当跨多套系统的统一鉴权机制
 admin assessor access       评估员，评审员
 Ideally/In an ideal scenario        理想情况下
-
+playground/model garden        模型调试沙盒、试验台/模型广场,模型集市
+current transaction/transactional consistency       当前事务/事务一致性
+conditional approval            有条件审批(先放行,后续补齐材料)
 
 
 
