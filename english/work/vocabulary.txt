@@ -22,7 +22,6 @@ u (flatter) me                 奉承,吹捧 v
 generic             通用的 adj
 get rid of n                         摆脱sth
 gone                            消失
-hit                 匹配项 n
 incorporate                 合并 v
 inventory                   详细目录 n
 land            登陆 v

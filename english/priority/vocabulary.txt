@@ -221,7 +221,7 @@ procurement team     /prəˈkjʊrmənt/      采购,购买 n/采购团队
 troubleshoot (the connectivity issue)/(perform) troubleshooting (is in progress)/debug             故障排查 n
 (database/performance) tuning/fine‑tuning     调优/微调 n
 debug (the code/function/program)/troubleshoot      调试代码,函数,程序 v
-functionality/functional manager          功能 n/职能经理
+functionality/functional manager          功能,特性 n/职能经理
 trigger (timing)      触发(器) v,n/触发时机
 I'll schedule a (handshake session) with the backend team        对接会,初次沟通会,初步对齐会
 How do we (approach) the retriable error        处理,评估 v/该如何处理这错误
@@ -233,11 +233,13 @@ take care of/that (yourself)    处理,接手,照顾 v
 associated guidance/the comment associated with the Agent       相关指引,配套说明
 (these security rules apply to all) staff‑facing applications     面向员工的应用/这些安全规则适用于所有面向员工的应用系统
 federated/federation identity (serves as a unified authentication mechanism across multiple sys)    联邦式的,联合的 n,adj/联合身份/联合身份充当跨多套系统的统一鉴权机制
-admin assessor access       评估员，评审员
+admin assessor access       评估员,评审员
 Ideally/In an ideal scenario        理想情况下
-playground/model garden        模型调试沙盒、试验台/模型广场,模型集市
+playground/model garden        模型调试沙盒,试验台/模型广场,模型集市
 current transaction/transactional consistency       当前事务/事务一致性
 conditional approval            有条件审批(先放行,后续补齐材料)
+the wrapper code (standardizes requests to the LLM)      封装代码,包装层代码(统一对大模型的请求格式)
+(What's) further destination      更远地目标
 
 
 

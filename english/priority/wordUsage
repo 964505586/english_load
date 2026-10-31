@@ -84,7 +84,7 @@ increase/decrease           增长,增加/减少 v/n
 fall                                下跌,减少,降落,落下 v
 lower/reduce/reduction           降低,减少/减小,降低,做聚合,执行归约 v/减小,降低,聚合操作,归约运算 n
 degrade/degrading (performance)     /dɪˈɡreɪd/      降低,侮辱,贬低 v/降低性能
-brought down        降低、减少
+brought down        降低,减少
 
 boost/strengthen      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
 reinforce (how we lead)      /ˌriːɪnˈfɔːrs/      加强,强化 v/强化我们的管理举措
@@ -177,7 +177,7 @@ force (upon)/forcible/forcibly      暴力 n/强行,强迫,强制地 v/adj/adv/�
 obstacle/friction(block v/n)                障碍,阻碍,困难/阻碍,摩擦阻力,繁琐卡点 n
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
 (building) block/blocker         阻碍 v/n/基础模块,核心组件,积木块 n
-hindrance/hinderance        /ˈhɪndrəns/     阻碍，妨碍 n
+hindrance/hinderance        /ˈhɪndrəns/     阻碍,妨碍 n
 
 what's more, ...     而且,此外
 moreover/in addition/btw/besides/furthermore            另外,此外 adv
@@ -214,8 +214,9 @@ let's get better together                           让我们一起变得更优�
 we can do better                        我们可以做得更好
 
 data (integrity) in transition/transmission   /ɪnˈteɡrəti/    完整性 n/切换过渡阶段/传输
-retrospective/traceability        /ˌtreɪsəˈbɪləti/        追溯性,回顾的 adj/可追溯性 n
+traceability/retrospective        /ˌtreɪsəˈbɪləti/            可追溯性 n/追溯性,回顾的 adj
 reliability     /rɪˌlaɪəˈbɪləti/         可靠性 n
+flexibility         灵活性
 importance      重要性
 correctness     正确性
 readability     可读性 n
@@ -303,7 +304,7 @@ remain/remaining/testing remains/keep        仍然是,保持,剩余,留下 v/�
 the other features remains unchanged/unaffected     保持不变
 Keep failing
 remain
-remaining adj 剩余的、待解决的
+remaining adj 剩余的,待解决的
 
 business (continuity) plans       /ˌkɑːntɪˈnuːəti/       连续性,连贯性 n/业务连续性计划
 continued/continually        持续的,频繁的 adv/连续不断地,不间断的 adv
@@ -392,13 +393,13 @@ resume      /rɪˈzuːm/       恢复,简历 v/停下后(人)继续干
 act (consistently with enterprise's values)     /ækt/     行动,恪守,行事遵从,表演,演出 v/秉持企业价值观行事
 (regulatory) compliance/comply with (regulation)      /kəmˈplaɪ/        合规,遵从 n/遵从,服从 v/遵守法规
 obey (the rule)/obedience to (instructions)      /əˈbeɪ/ /əˈbiːdiəns/        遵守,服从 v,n/遵守规则/遵从指令
-in line with (enterprise's principle)      遵照,符合/符合企业原则
+in line with (enterprise's principle)      遵照,符合,与...一致/符合企业原则
 adhere/adhering to (security guardrails)  /ədˈhɪə(r)/ /ədˈhɪərɪŋ/     遵守,遵循,黏附,附着 v/附着,粘附性的 adj
 (fully) compliant/(regulatory) compliance (violation)       合规的 adj/合规,遵守,遵从 n/监管合规/合规违规,违反合规要求
 
 will use this new API (in place of) the old one     代替
 The remediation (is in place)         已就绪,配置到位,生效中
-(We will) get sth(remediation) in place (as requested)    落实,完成落地某事
+(will) get sth(remediation) in place (as requested)    落实,完成落地某事
 
 the plan (consists of) 2 phases     /kənˈsɪst/     由...组成
 The workflow (is made up of) 3 phases          /meɪd ʌp əv/        由...组成
@@ -414,7 +415,7 @@ identification      识别,确认 n
 though/although 句子      /ðəʊ/      尽管,虽然
 despite the fact that 句子        尽管,虽然
 in spite of (n/the fact that 句子)    尽管,虽然
-even/despite n/even if 句子      即使,就算
+even/despite (multiple reminders)/even if 句子      即使,就算/虽经多次提醒,尽管已经再三提醒
 
 define/definition        定义 v/n
 definitive/definite/definitely      /dɪˈfɪnətɪv/ /ˈdefɪnət/      确定的,最终的 adj/清晰的,肯定地,明确地 adj/adv
@@ -460,7 +461,7 @@ in (good) order/out of order        有序地,整齐地 adj/不按顺序的
 bounded/unbounded (retries)       /baʊnd/       有界限的,受限制的/有限,无限次数重试
 (combined) cap (the number of attempts)      /kæp/      上限,限额 n/设置上限,限定最大值 v/共同的,合并的,共享的 adj/限制尝试次数
 (exceed daily cash deposit) threshold       /ˈθreʃhoʊld/        阈值,上限 n/超过每日现金存款阈值
-(capacity) constrain/constraint      /kənˈstreɪn/       限制,约束 v/n/能力约束,资源瓶颈
+constrain/(capacity) constraint      /kənˈstreɪn/       限制,约束 v/n/能力约束,资源瓶颈
 limit/limitation/restrict/restriction       限制,限定 v/限度,限制 n/限制,控制 v/n/上限,限额 n
 policy‑restricted/enforced       受策略限制/按策略强制执行的
 
@@ -485,7 +486,7 @@ from now (on)/(going/moving) forward/in the future/(2026/next week) onwards    �
 2,现在,目前,如今
 (for) now/nowadays/presently/currently
 3,到目前为止
-so far/up to now/until now
+so far/up to now/until now/As of today, (the feature isn't ready)       截至今日,该功能还未就绪
 4,立刻,马上
 instantly/immediately/at once/right now(away)/straight away       /streɪt əˈweɪ/
 
@@ -514,7 +515,7 @@ sort (it out)/organize      排序,分类/整理,解决 v/整理,组织,安排
 come up with (a solution)        整理得出,输出 v
 (compile a list of) action items from the meeting        整理,编制清单/整理会议的待办事项清单
 
-commit on sth       敲定、承诺确认某事
+commit on sth       敲定,承诺确认某事
 finalize/finalized (the design)      最终确定,敲定,完成 v/敲定方案
 let's work out the (detailed) timeline      制定出时间计划,敲定时间线
 (The timeline is more or less) set        确定的,敲定的,既定的 adj/大致已定,基本确定
@@ -605,7 +606,7 @@ the other day                   几天前
 
 is intended to      旨在,用于
 aim/aimed to(at doing)      /eɪm/       旨在,瞄准 v/目标 n
-be meant to do/be       表达设计初衷,本来用途/本意是、旨在、设计用来
+be meant to do/be       表达设计初衷,本来用途/本意是,旨在,设计用来
 
 left a note/remark in my (calendar)       /ˈkælɪndər/     在日历里添加了备注
 on ur calendar            你的日程
@@ -638,7 +639,7 @@ I'm experiencing
 I encountered       遭遇,偶遇,邂逅 n/v
 face
 
-concurrent          并发的
+concurrent requests         并发的/并发请求
 throttling          限流,节流
 a throttling to queue llm request @ 4 concurrent max
 
@@ -741,7 +742,7 @@ it's very profound
 这一点理解起来很深奥 / 这个思路很有深度
 profound adj            深刻的,深奥的
 
-Clarify     澄清、厘清
+Clarify     澄清,厘清
 clarify/clarified/clarity         澄清,阐明,明确 v/清晰 n
 Thank u for clarifying that
 In other words, could you clarify how
@@ -811,6 +812,7 @@ be closing down/sth will be gone    逐步下线,陆续停用,即将关停/即�
 is about to be demised：即将下线淘汰
 
 load testing        负载,压力测试
+penetration test        /ˌpenəˈtreɪʃ(ə)n/         渗透测试
 conduct integration/regression(performance & stress/load) testing         进行 集成/回归/性能及压力 测试
 
 declare         申报,声明
@@ -865,7 +867,7 @@ fair/unfair     /fe?(r)/              公平的,合理的,公正的 adj/adv
 
 retriable/xxxx        /rɪˈtraɪəbl/           可重试的 adj
 attempt/try (to)         结果/过程/尽力
-try out试验、尝试
+try out     试验,尝试
 
 
 hold on/off     稍等,等一下,保持/暂缓,推迟 v
@@ -935,7 +937,7 @@ Support (contact)
 Contract        联系/合同
 the contact person from SAS team                sas团队的联系人
 
-typical/typically/classical           典型的,常规的,一般，通常 adv/经典的,传统的 adj
+typical/typically/classical           典型的,常规的,一般,通常 adv/经典的,传统的 adj
 Usually
 Generally/usual/usually/unusual/unusually     通常,普遍地/通常,经常地/不同寻常的 adj/adv
 
@@ -1023,6 +1025,7 @@ ask (for)
 look into               调查,研究,朝...里面看
 
 go over     快速过一遍,梳理讨论
+run through             梳理,过一遍
 go/work/walk through/walkthrough            过一遍/解决/完整讲解,分步演示v/n
 walk sb through sth/Could u walk me through the catalogue     能否带我梳理一遍
 let's go through tickets first              我们先处理一下票务的事
@@ -1059,9 +1062,9 @@ with sb ？？
 collaborate on projects         项目协作
 
 (so can i interpret/understand that) it's basically just a database     我能理解/解读为...？
-Is it fair to say (that)...【外企会议/IM高频句式】是否可以理解为…；这么说是否妥当
+Is it fair to say (that)...【外企会议/IM高频句式】是否可以理解为…,这么说是否妥当
 i.e.,       也就是,即
-as in       也就是、指的是
+as in       也就是,指的是
 that's to say           那就是说
 are we saying (we can skip the pre-check)       那意思是(可以跳过预检查)
 
@@ -1069,7 +1072,7 @@ in the first/second iteration(for loop)         循环/在第一次循环中
 within a loop       在循环中
 
 i'll (focus/follow up) on this today         今天我会关注(跟进)这件事
-catch up on that        跟进、处理
+catch up on that        跟进,处理
 
 every
 per (call)             每,每一,按照,根据
@@ -1085,5 +1088,34 @@ Semantic tracking
 syntax/semantic error       /ˈsɪntæks/ /sɪˈmæntɪk/      语法 n/语义的 adj
 rank/rerank     重排序
 
+omit unnecessary columns/ignore     /əˈmɪt/         省去,遗漏 v
+neglect/overlook/ignore      /nɪˈɡlekt/      无意,疏忽/有意 v
+disregard/ignore           忽略,不予采纳 v
+
+stop-gap            临时过渡方案,权宜之计
+need to find a long-term solution                我们需要找一个长期的解决方案
+as a short/long-term solution               作为短期/长期方案
+in the long run/term                                    从长远来看
+
+multiply/divide the value by 10. 把这个值乘以10
+add a to b/subtract b from a          a加b/a减去b
+
+uniform         统一,一致 adj
+in line with        符合,与…保持一致
+consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
+
+keep failed
+hit (performance constraints)     遭遇(性能瓶颈)
+hit                 匹配项 n
+hit (an issue/error)     碰到,遇到报错
+Experience
+
+as a hands-on task to ramp up on our project
+ramp up 是外企/技术团队高频词：上手,熟悉项目,进入状态
+hands-on task           实操任务,练手任务
+
+to get more familiar with our project用来熟悉我们项目。
+to better v
+to get more adj
 
 

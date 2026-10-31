@@ -31,7 +31,6 @@ near(short)-term/recent      近期的,短期的 adj/最近的,最新的 adj
 given this/in the case(way)/so that
 internal/external           内部的/外部的 adj
 actionable ideas/practical next steps/concrete plan        可行动的 adj/可行的,可落地的 adj
-spark/java/python-based     基于spark
 kick-off/start          正式启动,开工/加速,立刻启动 v/n
 as shown/stated/mentioned below/above          如下所示/如前所述/前文讲到
 change/changeable                          变化,变更 n/多变的 adj
@@ -52,7 +51,6 @@ impact/an impact on sb/sth                 影响 v/对sth的影响 n
 just(totally) normal/standard practice/quite common       正常操作
 chase/push/urge sb to do(for sth)             催促 v
 homie/buddy/folks/everyone/team       老乡,同伙/老兄,兄弟,伙伴/乡亲们 n
-looks fine/seems all good/looks no problem
 recommended (action/solution/learning path)      推荐操作,方案,学习路线
 ideal/normal                        理想的,最佳的/正常的,标准的 adj
 at ur convenience/if u get a chance     你有空的时候
@@ -68,7 +66,6 @@ on/when/while/during            同时,然而,当...时候
 really/pretty/quite/super   (very/so)
 faced/reported/raised/encountered
 formula(algorithm)                     公式 n
-as for n(regarding)  至于n/as for that point u mentioned previously     至于你之前提到的这一点
 procedure/step               做事的具体步骤 (process: 整件事的过程)
 deal with(handle)
 via/by/through (SNOW/the link below)        通过下方链接
@@ -107,7 +104,6 @@ time-saving/consuming       省时的/耗时的 adj
 respond/response                 响应 v/n
 shape (services)/shaping           塑造,打造 v/形状,外形 n/打造,塑造服务
 involve/include/contain/cover/covering      涉及/包含/覆盖 v
-post-upgrade/after upgrade          版本升级后
 confuse/confused/confusing/confusion    使困惑,使迷惑 v/困惑的,糊涂的 adj/困惑,混乱 n
 watched/automatic watching      关注的 adj/自动关注
 staging/Pre-Prod env        预发布环境
@@ -156,7 +152,6 @@ top/(bottom) left/right corner        左上角,右下角/底部(的) adj/n
 outside/outsides (the firewall)         在外面 adv/外边的 adj/外部,外表 n/防火墙外
 cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
 be due to/caused by       归因于,由...导致/由...引起
-consistency/consistent/consistently/aligned     一致性 n/一致的 adj/adv
 (problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
 discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 i (just) saw/noticed that     刚注意到
@@ -241,7 +236,7 @@ due (date/soon)/(client) deadline (missed)/overdue   到期的/到期日期/即�
 inherit/expand/it could potentially be (extended)       继承/扩展/扩展,继承 v/有扩展的潜力
 respect/A and B handle their (respective) tasks     遵循,尊敬 v/尊敬 n/分别,各自的 adj/处理各自的任务
 as appropriate/when u find a moment/as(whenever) u see fit      酌情,按照你认为合适的情况,方式
-(Where did u hear/May I know where u heard) it's been confirmed     你从哪里听说这事儿已经确认了
+(Where did u hear/May I know where u heard) it's been confirmed/finalized     你从哪里听说这事儿已经确认了
 (either)...or.../neither...nor.../both of them          要么...要么...(两者中的一个/两者都不)
 need/demand/requirement/require/request
 conclude (with)/(current/data discrepancy) conclusion/summary      断定,推断出,结束,敲定/以...作为结尾 v/结论 n/总结,概要 n/adj
@@ -266,7 +261,6 @@ explore (option/possibility)/exploration/discover       /ɪkˈsplɔːr/     探�
 discrepancy/(timezone) difference       差异 n/时区差异
 at any time/moment(feel free to)        随时
 at least/most/best/worst                至少/至多/顶多/最坏
-as a short/long-term solution               作为短期/长期方案
 in (particular/detail)/detailedly/specifically       具体来说/详细地 adv
 vendor/supplier (risk assessment/performance management)        /səˈplaɪər/     供应商/风险评估,绩效管理
 process (flow)/(asynchronous) processing/handle/possess   处理 v/流程,处理,程序,进程/流 n/处理流程/异步处理/拥有,持有
@@ -277,11 +271,17 @@ for reference only/this is for informational purposes only          (此内容)�
 (no/eliminating the) need to raise data visa        省去,无需做某事
 details/(i'd appreciate it if) u could (add some colour to) the requirement       如能..., 不胜感激/给某事补充更多细节
 architect/architecture/framework/structure   架构师/架构/框架/结构
-take a closer look/Double confirm       仔细查看、深入研究
-disregard/ignore           忽略、不予采纳 v
+take a closer look/Double confirm       仔细查看,深入研究
 if/in case of
 We can’t guarantee/promise that         无法保证
 phase/stage           阶段 n
+for your reference/FYI          供你参考
+I've used it before/I have experience with this/I’m familiar with it         我 之前用过/有经验/熟悉这个
+redo/rework         /ˌriːˈduː/          重做,重新开展
+quote/Reference           引用,填上
+speak/connect/discuss/spoke with sb about sth 和某人对接,沟通某事
+so as to v/In order to/for          以便,为了,用来
+as for (that point u mentioned previously)/regarding/about/for     至于(你之前提到的这一点)
 
 
 

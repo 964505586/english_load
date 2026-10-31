@@ -1,5 +1,7 @@
 
-jack' absence/absent           /ˈæbsəns/       缺勤、休假 n/缺勤的,缺席的 adj
+could you assist with this while (Jack is absent/during Jack' absence)      /ˈæbsəns/       缺勤,休假 n/缺勤的,缺席的 adj
+(to be safe/just in case), (we'll/please) double-check the anonymization result        以防万一,(稳妥起见,为保险起见)
+(need to optimise the pipeline), with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
 ideation (sandbox/environment)        /ˌaɪdiˈeɪʃn/ /ˈsændbɑːks/        创意沙箱/创意试验环境
 execute/was it executed twice     /ˈeksɪkjuːt/       执行了两次吗？
 execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /ˌeksɪˈkjuːtəbl/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
@@ -131,7 +133,6 @@ navigate/(enhanced) navigation      /ˈnævɪɡeɪt/ 导航 v/n/优化后的导�
 (be) mindful/careful      /ˈmaɪndfl/          留心,注意,审慎 adj
 very/quite/extremely/incredibly     /ɪnˈkredəbli/     相当/极度,非常 adv
 notification noise      /nɔɪz/      通知干扰,冗余通知
-quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   指标 n
 vulnerable (code)/vulnerability     /ˈvʌlnərəb(ə)l/ /ˌvʌlnərəˈbɪləti/     存在漏洞的,易受攻击的 adj/漏洞 n
 participate/participating/participant/participation     /pɑːˈtɪsɪpeɪt/       参加,参与 v/参加者,参与者 n/参与
 the work on his plate/hands     /pleɪt/      手头的工作
@@ -203,7 +204,6 @@ eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
 embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
 b4 & after comparison     /kəmˈpærɪsn/     前后对比
-seamless (deployment)     /ˈsiːmləs/      无缝的,无感知的 adj/无感知部署
 Azure       /ˈæʒər/
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提供,供应 v/配置 n
 on‑prem(premises)       /ˈpremɪsɪz/     本地部署,私有化部署
@@ -250,13 +250,11 @@ exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/
 cascade (down further)/extend to people     /kæˈskeɪd/      逐级下发,连续传递 v/转发扩散给其他人
 questionnaire/Survey       /ˌkwestʃəˈner/       问卷,调查表/调查,调研 n
 as per (naming convention) of current UI    /neɪm/ /kənˈvenʃ(ə)n/   命名/惯例,规范 n/命名规范
-neglect/overlook/ignore      /nɪˈɡlekt/      无意,疏忽/有意 v
 malicious (request)       /məˈlɪʃəs/          恶意的,恶毒的 adj/恶意请求
 embrace an agile spirit     /ɪmˈbreɪs/ /ˈædʒ(ə)l/      拥抱,欣然接受,乐意采纳 v/敏捷的,灵活的 adj/秉持敏捷理念,拥抱敏捷精神
 alone/along (with)/among(between) teams   |əˈləʊn|       独自的 adj/adv/沿着/和...一起/在...当中 prep/在各个团队之间
 experience/undergo   /ˌʌndəˈɡəʊ/     经历,经受 v/(艰难,痛苦,漫长,被动承受的事)
 presume/assume/suppose/if/assumption     /prɪˈzuːm/         推测,假设 v/假设 v
-enumerate/enumeration/list       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列/清单 n
 (start free) trial        /ˈtraɪəl/     试用 n/开始免费试用
 dumb/elementary/stupid (question)       /dʌm/       小白,低级问题(自嘲)/中性/愚蠢的(贬义)/笨的,傻的 adj/傻瓜,笨蛋 n
 wrap text/text‑wrapping     /ræp/       自动换行,文本换行
@@ -275,7 +273,7 @@ lineage         /ˈlɪniɪdʒ/      (数据)血缘,依赖链 n
 excessive (api traffic)/excessively     /ɪkˈsesɪv/     过度的,过多的 adj/过分地 adv/过量api流量
 set out our primary/(strategic) focus     /strəˈtiːdʒɪk/       战略(性)的 adj/阐明,明确我们首要工作重心
 cantonese/mandarin       /ˌkæntəˈniːz/ /ˈmændərɪn/       广州人,广东人,粤语 n/广州的,广东的 adj/普通话
-intent/purpose/destination/target/goal/intend      /ɪnˈtent/     意图,目的 n/有意,打算 v/.../打算,想要 v
+intent/purpose/destination/target/goal/aim/intend      /ɪnˈtent/     意图,目的 n/有意,打算 v/.../打算,想要 v
 intend/(if) intended/intentionally/plan/intent    /ɪnˈtendɪd/     打算,想要 v/故意的,有意的 adj/adv/如果是有意,故意/意图,目的 n
 It (polls for) job completion status/(stop) polling     /poʊl/       轮询/停止轮询
 (newly added/created) field/attribute/column/row/raw (data)   /rɔː/      纵列/行/原始的 adj/原始数据/新增的列
@@ -293,7 +291,7 @@ Data (warehouse) platform     /ˈwerhaʊs/     仓库 n/数据仓库平台
 i think (the line between) POC and pilot is (getting/becoming blurred)      /blɜːrd/      A与B之间的界限/变得模糊
 We plan to finish the retriever (microservice) development w/c 11 Aug     /ˈmaɪkrəʊsɜːvɪs/      微服务/计划8月11开始那周完成检索微服务开发
 environment visuals      /ˈvɪʒuəl/     环境架构图示(IT架构,云,DevOps场景)
-realistic (question)     /ˌriːəˈlɪstɪk/         务实的,实事求是的,实际的/实际的问题
+realistic/actual (question)     /ˌriːəˈlɪstɪk/         务实的,实事求是的,实际的/实际的问题
 (assess system) fit/fitment/compatibility     /ˈfɪtmənt/      适配,匹配度 n/评估系统匹配度/兼容性
 will (gather) inputs and (spotlight) key blockers in meeting    /ˈspɒtlaɪt/     收集意见,重点强调关键阻塞项
 PII         Personally Identifiable Information 个人可识别信息    /aɪˌdentɪˈfaɪəb(ə)l/
@@ -334,27 +332,35 @@ simplify/streamline/streamlined (workflow)     /ˈstriːmlaɪn/      使简易,�
 grab the opportunity        /ɡræb/      获取,拿到 v/抓住机会
 integration (progress) is (very smooth/progressing smoothly)      /smuːð/      顺利的,光滑的,平坦的 adj/进展非常顺利
 Witness (milestone moments together)      /ˈwɪtnəs/       目击,见证 v/里程碑/一同见证里程碑时刻
-revision number         /rɪˈvɪʒ(ə)n/        修改，修订 n/版本号,修订号
+revision number         /rɪˈvɪʒ(ə)n/        修改,修订 n/版本号,修订号
 represent/stand for/representative/(request) on behalf of QA team     /ˌreprɪˈzent/ /ˌreprɪˈzentətɪv/     代表 v/n
-incredible          /ɪnˈkredəb(ə)l/     极好的、惊艳的
-yield/return        /jiːld/     产生、返回 v
-document (validity) checks        /vəˈlɪdəti/         有效，合法 n/文档有效性校验
+incredible          /ɪnˈkredəb(ə)l/     极好的,惊艳的
+yield/return        /jiːld/     产生,返回 v
+document (validity) checks        /vəˈlɪdəti/         有效,合法 n/文档有效性校验
 (data/average) volume/size     /ˈvɑːljəm/     数据量/平均数量/音量 n
 (resources are very) tight        /taɪt/      牢固的,紧身的 adj/资源紧张
-omit unnecessary columns/eliminate     /əˈmɪt/         省去，遗漏 v
 (acceptance) criteria/standard/benchmark       /ˈbentʃmɑːrk/       标准/验收标准/基准,基准
-intermittent (call/instability)     /ˌɪntərˈmɪtənt/        间歇性的，断断续续的 adj/间歇调用/间歇性不稳定
-offensive/rudely/rudeness       /əˈfensɪv/      无礼的，冒犯的 adj/无礼的 adj/无礼 n
+intermittent (call/instability)     /ˌɪntərˈmɪtənt/        间歇性的,断断续续的 adj/间歇调用/间歇性不稳定
+offensive/rudely/rudeness       /əˈfensɪv/      无礼的,冒犯的 adj/无礼的 adj/无礼 n
 lightweight     /ˈlaɪtweɪt/     轻量的 adj/轻量级 n
-grounding (citation data)     /ˈɡraʊndɪŋ/ /saɪˈteɪʃ(ə)n/        基础，基础训练/引用,引证,引文/溯源引用数据
-renew/renewed (emphasis on sth)/renewal     /rɪˈnuːəl/         续存,重新开始,中止后继续 v/再度重视,重新强调sth/续期,恢复，重新开始 n
-(we need to optimise the pipeline), with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
-disruptive      /dɪsˈrʌptɪv/      引起混乱的，破坏的 adj
+grounding (citation data)     /ˈɡraʊndɪŋ/ /saɪˈteɪʃ(ə)n/        基础,基础训练/引用,引证,引文/溯源引用数据
+(renew/renewed emphasis on) sth/renewal     /rɪˈnuːəl/         续存,重新开始,中止后继续 v/再度重视,重新强调sth/续期,恢复,重新开始 n
+disruptive/disruption      /dɪsˈrʌptɪv/      引起混乱的,破坏的 adj/扰乱,中断 n
 git hooks       /hʊk/       Git钩子
-standardising/standardizing     /ˈstændərdaɪzɪŋ/        使符合标准，使标准化 v
+standardize/standardising/standardizing     /ˈstændərdaɪzɪŋ/        使符合标准,使标准化 v
 prototype/prototyping       /ˈproʊtətaɪp/         (制作)原型 v,n/原型开发
 exploration & experimentation       /ɪkˌsperɪmenˈteɪʃn/           探索,研究/实验,尝试
-verbatim        /vɜːrˈbeɪtɪm/            一字不差地，逐字地 adj/adv
+verbatim        /vɜːrˈbeɪtɪm/            一字不差地,逐字地 adj/adv
+(this sql script), plz keep (handy/it readily available)        /ˈhændi/           这条SQL脚本,请留存备用
+enumerate/enumeration/data listed below       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列 n/数据如下
+readily/easily      /ˈredɪli/          容易地,即刻地 adv
+(performance) quota/metrics/indicator   /ˈkwəʊtə/ /ˈmetrɪks/   (性能)指标 n
+(let LLM) do the heavy lifting      /ˈlɪftɪŋ/      (承担)繁重的核心工作,费力的任务
+I’ll type up the meeting minutes        /taɪp ʌp/            录入,整理成文/整理会议纪要
+Let me type up a clear wrapper code specification   /ˌspesɪfɪˈkeɪʃn/       规范,规格,说明文档,技术需求书/整理一份清晰的封装代码规范文档
+need to loop in the (Cyber Consultancy) team for this       /kənˈsʌltənsi/      安全咨询团队/需要拉上网络安全咨询团队评估这个
+do you know who from Cyber we can (consult/reach out) to for guidance on this       /kənˈsʌlt/      可以Cyber team的谁帮忙
+need to wrap up (outstanding items/the task this week)      /ræp ʌp/       收尾,闭环/剩余事项闭环,本周把这任务收尾
 
 
 
@@ -364,77 +370,82 @@ verbatim        /vɜːrˈbeɪtɪm/            一字不差地，逐字地 adj/ad
 
 
 
-
-
-
-
-
-connect/discuss with sb     和某人对接沟通
-
-as per today's date：按当前现状、在今天这个时间点
-type up 录入、整理成文
-nodejs based：基于Node.js开发
-I've used before我之前用过
-A looks the same as B：A和B效果/功能差不多
-should be pretty seamless to setup
-regex = regular expression 正则表达式
-structure：格式、结构
-enforce v. 强制执行、强制落实
-lint：代码静态检查，检查代码规范、语法隐患
-stop-gap【⭐重点】临时过渡方案、权宜之计
-uniform adj. 统一、一致
-in line with【固定短语】符合、与…保持一致
-Happy to help setup/implement if you think it'd be useful如果你们觉得这个方案有用，我可以协助搭建并落地实施。
-Happy to do sth     乐意做某事
-code linting        代码静态检查
+One for each part
+i.e/that mean
+do sth like before
+if old secret is being used anytime什么时态
+works perfectly     完全正常的
+We use business_source to distinguish the returned AI result marked as "TPRA" from the human-validated result for cyber domain issues marked as "TPSR-HUB". 成分
+downloaded copy     下载好的副本
+official name
+take + 时长 + to run 运行耗时
+get it down to 降到
+on hold暂停,搁置
+Integration testing is on hold
+probably due to
+early next week
+it's the only (way/option) to ensure the safety      唯一的 adj//确保安全的唯一办法,方案
+sole solution 唯一方案
+abstract            抽象,封装
+let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
+response speed 响应速度
+Unless I missed it如果我没有漏看的话
+worth checking 值得核查
+I /guess/assume/presume/suppose
+when can we use that/When do you want to
+even now但即便现在
+did mention确实提到了
+post/after the conversation
+post-upgrade/after upgrade          版本升级后
+roll our own            自研,自己搭建
+without needing/no need
+at this point           目前,现阶段
+be part of the solution         作为解决方案的一部分
+ticket needs to be raised
+Need to do something
+code linting/lint        代码静态检查/代码静态检查,检查代码规范,语法隐患
 The aim is for them to be more helpful in standardising than a hindrance
 there's less need to
 have trouble doing sth      做某事遇到困难
-Who should I raise xxxx questions to
-I think as data volume grows, the runtime may become longer.
-as data volume grows        随着数据量增长
-AI responses are not coming LLM_ERROR from AI side.
-keep failed
+AI responses are not coming LLM_ERROR from AI side
 whether it will be provided elsewhere
-is it possible to have anonymized data copy to the data DEV environment 句子成分
-is it possible to
 if doing
+
+
+
+
+
 we are exploring the possibility of having
 For the 4x Tables that we’ve been looking at        针对我们一直在跟进的4张表
 batch request endpoint
 key/critical project            重点,关键项目
 i was told/informed
-in the event of         一旦、当发生…
-we attempt the call up to four times
-performance constraint 性能瓶颈
+in the event of         一旦,当发生…
+we attempt the call up to 4 times
 When you referred to the weekly batch job, on which weekday and at what time does it execute?
-concurrent requests 并发请求
 how many received the valid FC case ID and how many end up 
 regardless of whether they succeeded,
 is designed as
-ended up + doing【高频短语】最终（变成…，结果却是
-hit performance constraints【IT地道短语】遭遇性能瓶颈
-cater to/for    迎合需求（用户、业务需求）/适配、容纳、处理（数据/请求/流量）      
+ended up + doing【高频短语】最终（变成…,结果却是
+cater to/for    迎合需求（用户,业务需求）/适配,容纳,处理（数据/请求/流量）
 significantly adv. 显著地
 file            提交
-port over           迁移、转发、传递数据
-Jack was working on that
-Jack之前在处理这块。
-inside
-in
+port over           迁移,转发,传递数据
+Jack was working on that            Jack之前在处理这块
+inside/in
 something like this     这样的事情
-run through             梳理、过一遍
-heavy lifting       /ˈlɪftɪŋ/       繁重的核心工作、费力的任务
-self-contained adj.独立自包含的（代码/方案）
-spot issues：发现问题（职场地道表达，优于单纯see）
+self-contained      独立自包含的（代码/方案）
+spot issues     发现问题
+identify
 from my point of view【职场短语】在我看来
 win收益？？
 sth outlined in point 4来自第1点所述
 所述的
-prioritise A over B【高频技术短语】优先A，重于B
+prioritise A over B【高频技术短语】优先A,重于B
 prioritise动词？？
-supposed adj.拟议的、所谓的
+supposed adj.拟议的,所谓的
 raw/origin
+Going forward           后续,接下来
 
 work is (mainly on the checking of) true value of those metrics     主要集中在
 that's one moving piece     这只是其中一项变动因素
@@ -445,8 +456,8 @@ specifics to be detailed        细节待补充
 
 subscribe models            订阅模型
 either
-oversee         监管、管理
-engage with         参与、对接
+oversee         监管,管理
+engage with         参与,对接
 user instructions           用户指引
 explore & Experiment        探索与实验
 then you will enter Visitor Mode
@@ -460,7 +471,7 @@ remind sb to do sth         提醒某人做某事
 quicker processing      更快处理
 How do I decide which instance to use
 Do I need to set things up again if I move to another
-set things up 进行配置；move to another instance 切换至另一个
+set things up 进行配置,move to another instance 切换至另一个
 Assign and oversee members      分配并管理成员
 simply follow the steps         只需按照步骤操作
 extra
@@ -468,14 +479,14 @@ Additional
 
 a tricky problem
 extra 40 minutes increase/increased
-time tracking code          耗时追踪代码，用来统计各环节执行耗时
-profile           性能剖析、采集性能指标
+time tracking code          耗时追踪代码,用来统计各环节执行耗时
+profile           性能剖析,采集性能指标
 api specification API       规范文档
 drop-in sessions            随到随听分享会,线上开放答疑会
 usage and performance           使用量与性能监控面板
 interactive chat            交互式对话
 studio          工作台
-extract/classify/analyze            提取、分类、分析
+extract/classify/analyze            提取,分类,分析
 unified framework           统一框架
 enjoy your experience with sth
 should you have any questions or suggestions, plz feel free to
@@ -484,26 +495,14 @@ the project cannot be transferred to another person
 immediate access            即时访问
 staff-triggered tasks           用户人工触发任务
 manual refresh          手动刷新
-document parsers            文档解析器，用来读取、解析各类文档
-lead time           前置周期、等待耗时
+document parsers            文档解析器,用来读取,解析各类文档
+lead time           前置周期,等待耗时
 creation lead time          开通所需时长
-inspect v. 查看、核查、检查
+inspect v. 查看,核查,检查
 
 
 
 
-might do need       确实可能需要
-plz keep handy
-What happens next
-despite multiple reminders
-we will send it out tmr
-plz estimate the completion timeline
-are we okay with sth            我们是否认可/接受某物
-multiply by         乘以/除以
-looks good to me
-below Data listed
-to be safe          为稳妥起见,留安全余量
-How were you generating responses here
 
 
 
@@ -588,7 +587,7 @@ finding
 obviously       显然
 in the end
 like what
-back in biz         恢复办公、复工
+back in biz         恢复办公,复工
 proactively
 this is the one you are mentioning
 line break
@@ -603,12 +602,11 @@ simulate
 Preliminary
 I Have replied jack' email earlier      之前已经做了sth
 
-TPSA：Third-Party Security Assessment,第三方安全评估
-DSS= Data Sanitisation Service
+
 Vincent's point was that高频职场句式：Vincent的观点/意思是
-wrap up【高频职场短语】：收尾、结束
-bundle【IT高频动词】：封装、打包
-blob of text【IT高频】一大块文本、长文本块
+wrap up【高频职场短语】：收尾,结束
+bundle【IT高频动词】：封装,打包
+blob of text【IT高频】一大块文本,长文本块
 Sometimes it will be nearly 15 minutes; mostly it takes 10 minutes
 Then check once every minute, with a maximum of 30 checks, totalling 40 minutes
 load capacity           负载能力
@@ -618,22 +616,20 @@ timing      时机
 a while ago     前不久
 ！！！！！！！！！
 b that was all
-make better sense       更为合理、更有意义
+make better sense       更为合理,更有意义
 Surely it makes more sense to use a flatter interval
 ping the API
 (keeping in mind that)          考虑到这一点
 
-percentage complete status 完成百分比、进度完成率（项目报表高频）
+percentage complete status 完成百分比,进度完成率（项目报表高频）
 what is the percentage completion status for
 How many percentage completion status for
-refinements n.优化、微调
+refinements n.优化,微调
 rendering them on the UI
 some refinements are still required on our side
-on hold【外企项目高频】暂停、搁置
-Integration testing is on hold
 please add if i missed something
 there will be new question or changes coming soon as per Jack
-again and again 反复、一次次
+again and again 反复,一次次
 cause a lot of rework
 possibly more for TPRA
 duration：执行耗时
@@ -642,27 +638,25 @@ visualization n.可视化
 random随机的
 EOW
 end of week【职场简写】本周末
-in terms of【职场高频】就…方面、关于
+in terms of【职场高频】就…方面,关于
 Regarding
-aid v.辅助、配合
+aid v.辅助,配合
 so we can adjust the output accordingly to aid
 trial period 试用期
 starting from
 I am responsible for ensuring
-commence with sth【职场正式】启动、开始做某事
+commence with sth【职场正式】启动,开始做某事
 You had me worried for a moment刚才吓我一跳
-I can see…【外企IM口语】我预估、我判断、看样子
+I can see…【外企IM口语】我预估,我判断,看样子
 crashed adj. 崩溃
 token consumption token消耗量
 Relatively
-hit【职场动词】遇到、碰到（问题/瓶颈），hit an issue
-Experience
 far below 远低于
-separate from 独立于…之外、和…相区分
-activated adj.【资源运维】已激活、已生效
-hidden limits 隐性限制、隐藏配额限制
+separate from 独立于…之外,和…相区分
+activated adj.【资源运维】已激活,已生效
+hidden limits 隐性限制,隐藏配额限制
 a default of sth
-Active生效的、在用的、激活的
+Active生效的,在用的,激活的
 
 
 
