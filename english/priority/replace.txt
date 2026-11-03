@@ -200,7 +200,6 @@ be good to do sth(at sth)      适宜,乐意做/擅长做sth
 just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
 I'd expect/like John to be involved in the call    希望John可以参加这call/我期望,按我的设想(暗含"本该做到")/我想要
 release gates/gating process        发布门禁/门禁流程
-alias name/(individual) other name/individual platform    别名/别名,曾用名 n/个人的,各个的,分别的 adj/各个平台
 lower‑level/lower down (detail)      更低层级的,细化的 adj/往下面,往下 adv/底层细节
 package/packaging (manager tool)            打包 v/包管理工具
 customize/customized/custom/accustom     自定义 v/定制的,自定义的 adj/习俗 n/使习惯于,使适应于 v
@@ -282,7 +281,10 @@ quote/Reference           引用,填上
 speak/connect/discuss/spoke with sb about sth 和某人对接,沟通某事
 so as to v/In order to/for          以便,为了,用来
 as for (that point u mentioned previously)/regarding/about/for     至于(你之前提到的这一点)
-
+alias name/(individual) other name/a.k.a.(also known as)/i.e.    别名/别名,曾用名 n/又称为
+i guess/suppose/think/assume/presume        猜/认为/假设/推断
+(after the/post-) upgrade/conversation          版本升级后
+主句 without needing to/(there is) no need to             不需要
 
 
 

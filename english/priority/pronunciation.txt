@@ -361,6 +361,32 @@ Let me type up a clear wrapper code specification   /ˌspesɪfɪˈkeɪʃn/      
 need to loop in the (Cyber Consultancy) team for this       /kənˈsʌltənsi/      安全咨询团队/需要拉上网络安全咨询团队评估这个
 do you know who from Cyber we can (consult/reach out) to for guidance on this       /kənˈsʌlt/      可以Cyber team的谁帮忙
 need to wrap up (outstanding items/the task this week)      /ræp ʌp/       收尾,闭环/剩余事项闭环,本周把这任务收尾
+use 'type' to (separate/distinguish) AI results (tagged/as) 1 from human-generated results tagged 2     /tæɡ/       使用type区分A和B
+If the link fails to download, I can send over the downloaded copy      /send ˈəʊvə(r)/      如果链接下载失败，我可以直接发下载好的文件给你
+it's the (sole/only) (way/option) to ensure the safety     /soʊl/      唯一的 adj//确保安全的唯一办法,方案
+we don’t want to roll our own       /roʊl/          自研,自己搭建/不想自己造轮子
+(code) linting/lint     /lɪnt/       做代码静态检查、校验代码规范 v
+
+
+
+
+
+
+
+
+unless I missed it, (there is no such config in the doc)            除非我记错了，文档里没有这个配置
+the (discrepancy/timeout issue is) worth checking (further)         值得核查/超时问题值得进一步检查
+when can we use that/when do you want to        什么时候可以用/你打算什么时候
+even now/then/so, (the query still takes over 1 hour to run)          即便现在/在那个时候/如此，(这条查询运行仍然要超过1小时)
+he (did mention) the constraint last week            确实提到过这个限制条件
+[at this (point/stage)], we haven’t observed the discrepancy      目前,现阶段,(还没有观测到该差异)
+(sth) be part of the solution           (sth)是解决方案的一部分
+(need to raise) a ticket (needs to be raised) for this change early next week       需要提工单/在下周初提交这项变更的工单
+the aim is for them to be [more (adj/helpful) in standardising than] a hindrance        更多是,而非/更多是助力，而非阻碍
+there’s (less/no) need to raise tickets for minor changes       不太需要,没必要过多做/不需要/小幅变更无需提工单
+do you [(have/no) trouble (in) reproducing] the bug            做某事(遇到困难/毫无难度)/复现这个bug是否有困难
+ai-responses (are not coming). LLM_ERROR from the AI side         ai没有返回响应
+(whether it will be used) elsewhere           别处，别的地方/是否会在其他地方使用
 
 
 
@@ -370,52 +396,10 @@ need to wrap up (outstanding items/the task this week)      /ræp ʌp/       收
 
 
 
-One for each part
-i.e/that mean
-do sth like before
-if old secret is being used anytime什么时态
-works perfectly     完全正常的
-We use business_source to distinguish the returned AI result marked as "TPRA" from the human-validated result for cyber domain issues marked as "TPSR-HUB". 成分
-downloaded copy     下载好的副本
-official name
-take + 时长 + to run 运行耗时
-get it down to 降到
-on hold暂停,搁置
-Integration testing is on hold
-probably due to
-early next week
-it's the only (way/option) to ensure the safety      唯一的 adj//确保安全的唯一办法,方案
-sole solution 唯一方案
-abstract            抽象,封装
-let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
-response speed 响应速度
-Unless I missed it如果我没有漏看的话
-worth checking 值得核查
-I /guess/assume/presume/suppose
-when can we use that/When do you want to
-even now但即便现在
-did mention确实提到了
-post/after the conversation
-post-upgrade/after upgrade          版本升级后
-roll our own            自研,自己搭建
-without needing/no need
-at this point           目前,现阶段
-be part of the solution         作为解决方案的一部分
-ticket needs to be raised
-Need to do something
-code linting/lint        代码静态检查/代码静态检查,检查代码规范,语法隐患
-The aim is for them to be more helpful in standardising than a hindrance
-there's less need to
-have trouble doing sth      做某事遇到困难
-AI responses are not coming LLM_ERROR from AI side
-whether it will be provided elsewhere
-if doing
 
 
-
-
-
-we are exploring the possibility of having
+individual (platform)       个人的,各个的,分别的 adj/各个平台
+we are exploring the possibility/feasibility of having
 For the 4x Tables that we’ve been looking at        针对我们一直在跟进的4张表
 batch request endpoint
 key/critical project            重点,关键项目
@@ -423,10 +407,9 @@ i was told/informed
 in the event of         一旦,当发生…
 we attempt the call up to 4 times
 When you referred to the weekly batch job, on which weekday and at what time does it execute?
-how many received the valid FC case ID and how many end up 
-regardless of whether they succeeded,
+how many received the valid FC case ID and how many end up
 is designed as
-ended up + doing【高频短语】最终（变成…,结果却是
+ended up + doing        最终（变成…,结果却是
 cater to/for    迎合需求（用户,业务需求）/适配,容纳,处理（数据/请求/流量）
 significantly adv. 显著地
 file            提交

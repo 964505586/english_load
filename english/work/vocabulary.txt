@@ -3,7 +3,6 @@ adjust/adjustment               调整 v/n
 chance                          机会 n
 command                         命令 n
 algorithm                       算法 n
-alias                           别名 n
 decision/decide             决定 n/v
 such                这种
 ingest                 摄取 v

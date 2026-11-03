@@ -422,6 +422,18 @@ I’ve been with the company for nearly 4 years, and on this project for almost 
 need to (secure the data against loss)            需要保护数据,防止数据丢失
 There is some rework required       有部分内容需要返工
 Please quote the original ticket number         请引用原始工单号
+If the old secret is being used right now           现在进行被动/如果秘钥现在正在被使用
+It works perfectly as expected          运行完美、一切正常、效果非常好
+Please use the (official name) in the ticket        工单里面请使用官方正式名称
+It [takes (around) 2 hours to run] the query       运行大约耗时2小时
+We create one for (per/each) data source            为每一个数据源单独创建一个
+We use separate indexes, (i.e./that mean) one index for each data source        使用独立的索引(即，每个数据源一个索引)
+(will) do it as before      像之前一样做某事，照旧操作
+Let’s [get (it/the runtime) down to (under)] 1 hour      把运行时长降到1小时(以内)
+The pipeline change is on hold          (这变更目前)搁置,暂停
+The longer runtime is (probably due to) the large data volume         大概率是由于、可能因为/运行时间变长，大概率是因为数据量大
+let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
+The API (response speed) becomes slow under high load         响应速度/高负载下API响应速度变慢
 
 
 

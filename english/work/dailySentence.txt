@@ -54,7 +54,7 @@ so that team members can better help u                团队成员能更好地�
 i've been getting/constantly interrupted by other matters recently
 nothing (particularly) important                      没什么特别重要的事
 if they were removed due to the status              如果它们是因状态而被移除
-do u know how to get the actual sql that was executed in es for this piece of java code?
+how to get the actual sql that was executed in es for this piece of java code?
 why does this happen?                 为什么会出现这个问题？
 we read data in batches                         我们分批读取数据
 this api supports bulk requests                 这api支持批量请求
