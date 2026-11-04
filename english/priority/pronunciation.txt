@@ -1,4 +1,6 @@
 
+(it's) a piece of cake/no trouble (in) doing        小case/毫无难度
+he (did/indeed) mention the constraint last week            确实提到(过这个限制条件)
 could you assist with this while (Jack is absent/during Jack' absence)      /ˈæbsəns/       缺勤,休假 n/缺勤的,缺席的 adj
 (to be safe/just in case), (we'll/please) double-check the anonymization result        以防万一,(稳妥起见,为保险起见)
 (need to optimise the pipeline), with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
@@ -374,19 +376,6 @@ we don’t want to roll our own       /roʊl/          自研,自己搭建/不�
 
 
 
-unless I missed it, (there is no such config in the doc)            除非我记错了，文档里没有这个配置
-the (discrepancy/timeout issue is) worth checking (further)         值得核查/超时问题值得进一步检查
-when can we use that/when do you want to        什么时候可以用/你打算什么时候
-even now/then/so, (the query still takes over 1 hour to run)          即便现在/在那个时候/如此，(这条查询运行仍然要超过1小时)
-he (did mention) the constraint last week            确实提到过这个限制条件
-[at this (point/stage)], we haven’t observed the discrepancy      目前,现阶段,(还没有观测到该差异)
-(sth) be part of the solution           (sth)是解决方案的一部分
-(need to raise) a ticket (needs to be raised) for this change early next week       需要提工单/在下周初提交这项变更的工单
-the aim is for them to be [more (adj/helpful) in standardising than] a hindrance        更多是,而非/更多是助力，而非阻碍
-there’s (less/no) need to raise tickets for minor changes       不太需要,没必要过多做/不需要/小幅变更无需提工单
-do you [(have/no) trouble (in) reproducing] the bug            做某事(遇到困难/毫无难度)/复现这个bug是否有困难
-ai-responses (are not coming). LLM_ERROR from the AI side         ai没有返回响应
-(whether it will be used) elsewhere           别处，别的地方/是否会在其他地方使用
 
 
 
@@ -394,7 +383,7 @@ ai-responses (are not coming). LLM_ERROR from the AI side         ai没有返回
 
 
 
-
+add a character anywhere
 
 
 
@@ -436,6 +425,102 @@ in one's free/spare time        在某人的空闲时间
 sell ideas to sb        向某人推销,推广方案
 specifics to be detailed        细节待补充
 
+
+optimal 形容词，最优的
+not ideal
+Oversight：名词，监督、监管
+If you've helped me with a task then please assume I've said 'Thank you!' – I won't be sending emails with just this in to reduce my email footprint将来进行时？？
+assume：动词，假定、视作
+email footprint：职场短语，邮件体量/邮件足迹；reduce footprint：减少（信息/资源）体量
+RBAC：专有名词 Role-Based Access Control，基于角色的访问控制（权限模型）
+be fine with this：职场短语，对此无异议、同意这件事
+targeting November 14th
+Or at least you can do sth
+Hope this makes sense. 我说明白了吗/你能理解我的意思。
+Or at least you can share with us the API contract for your APIs so that we can at least mock your API response and do the mapping/transformation needed from our side rather than waiting for Dev/UAT env to be ready想表达这个意思，嗯，你觉得应该怎么写比较好？
+As confirmed earlier, sth is expected to be ready by 14 November, and there is (no change to this plan)常用么
+如之前确认/计划无变动
+outcomes成果、结论
+Based on the outcomes of the walkthrough
+Please refer to the attached email for further details
+更多详情，请参考附件邮件
+The API contract walkthrough has already been completed
+SoR
+Statement of Requirement 需求说明书
+We will check and see if there are any questions
+check and see：职场高频短语，核查确认
+appendix /əˈpendɪks/ n. 附录
+The illustration below outlines
+Periodically
+Regularly
+chunk n.【RAG⭐】文本块、分片
+it does no harm to do sth做某事并无坏处
+
+be yet to do
+streamline/streamlining
+Efficiency效率 n
+we propose streamlining the DSS process to improve efficiency and reduce workload
+separate单独的
+sub/child/Master tickets：子,主工单
+ in place/ready
+testing cycle 测试周期
+throughout the testing cycle
+Consolidate汇总
+consolidated adj. 合并(后)的、汇总的
+up to date/latest 最新、有效
+coordinate with sb 和某人协同对接
+coordinate sth with sb？
+sth that are no longer required不再需要的sth
+Remaining剩余的？？
+Discovery Questionnaire调研问卷
+Data masking/sanitization
+logging and monitoring 日志与监控
+attestation /ˌæteˈsteɪʃn/ n. 证明、确认
+transfer传输
+identify contacts 确认对接人   常用么
+jump on a call 开线上短会、拨入会议
+get this actioned 推动落地、处理闭环
+a variety of = various 各种各样的
+get this sorted 搞定这件事、把问题解决
+rather than handling it via individual tickets而不是走工单逐条处理？？
+as guide 按指引
+closure document 结案文档
+renewal ticket 续期工单
+on your behalf 代表你们、代你们办理
+be valid for one year有效期为一年
+2.valid for one year 有效期一年
+originally provided 最初提交的
+prompt responses 及时回复、快速响应
+Many thanks to everyone for your great support and prompt responses非常感谢各位大力支持与及时反馈
+proactively /prəʊˈæktɪvli/ adv. 主动地；drive sth forward 推进某事
+proactively driving this forward积极推动这件事落地
+thank you for your coordination to keeping everything on track感谢您协调各方，保障项目稳步推进
+prefer to arrange优先安排
+testing profile 测试资料/测试配置信息
+profile资料？？？
+Incremental去做
+Readable format
+
+Provenance来源
+source
+Readability？？？
+Semantic similarity score
+Let's briefly look at this
+Let's briefly go through this
+highlight /ˈhaɪlaɪt/ 【高频v.】着重强调、突出Emphasize
+severity /sɪˈverəti/ 【n.】严重性
+Importance
+by/via/using
+reputational impact 【固定短语】声誉影响
+central password management 【安全短语】统一密码管理
+central
+is widely used in
+You know what I mean
+something are not as good as your thought
+How can i do that?
+Repeat/Replicate/Duplicate？？？？
+Semantic similarity retrieval
+cosine similarity 余弦相似度
 
 subscribe models            订阅模型
 either

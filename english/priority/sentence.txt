@@ -47,7 +47,7 @@ I’ll be right back/Excuse me, I need to step out (briefly/for a moment)       
 or what would be the next step/seeking the next step           接下来该怎么做呢/等待下一步指示
 we're on it            我们正在处理
 how (do/did) u do it?             你怎么做到的
-(it's) (not so fast/a bit urgent/a piece of cake)             别太快,别急,没那么容易/有点急/小case
+(it's) (not so fast/a bit urgent)             别太快,别急,没那么容易/有点急
 are u wearing (headphone)/do u have headphones on?      你戴着耳机吗/你戴耳机了吗？
 u‘re gonna say something else?                    你要说点别的?
 better to keep it aligned/consistent                最好保持一致
@@ -407,7 +407,6 @@ Infra team (is best placed to) resolve the network issue       最适合做某�
 Since this code performs a deletion followed by a save operation, if the deletion succeeds but the save fails, the current transaction must be rolled back to maintain transactional consistency
 You're all set          准备好了,一切就绪
 I (can’t help thinking) about that concurrency issue    忍不住,不禁做某事/忍不住一直在想那个并发问题
-we (may indeed need) to copy anonymized data to dev     确实可能需要(把脱敏数据复制到)
 will send it out tmr         我们明天会发出去
 could you provide an estimated completion timeline      可否提供预估完成时间
 This is a Spark/Java/Python/Node.js-based service           一项基于Node.js开发的服务
@@ -434,6 +433,19 @@ The pipeline change is on hold          (这变更目前)搁置,暂停
 The longer runtime is (probably due to) the large data volume         大概率是由于、可能因为/运行时间变长，大概率是因为数据量大
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
 The API (response speed) becomes slow under high load         响应速度/高负载下API响应速度变慢
+unless I missed it, (there is no such config in the doc)            除非我错过了，文档里没有这个配置
+the (discrepancy/timeout issue is) worth checking (further)         值得(进一步)核查/超时问题值得进一步检查
+when can we use that/when do you want to        什么时候可以用/你打算什么时候
+even now/then/so, (the query still takes over 1 hour to run)          即便 (现在/在那个时候/如此)，(这条查询运行仍然要超过1小时)
+we (may indeed need) to copy anonymized data to dev     确实可能需要(把脱敏数据复制到)
+[at the (point/stage)], we haven’t observed the discrepancy      目前,现阶段,(还没有观测到该差异)
+(sth) be part of the solution           (sth)是解决方案的一部分
+(need to raise) a ticket (needs to be raised) for the change early next week       需要提工单/在下周初提交这项变更的工单
+the aim is for them to be [more (adj/helpful) in standardising than] a hindrance        更多是,而非/更多是助力，而非阻碍
+there’s (less/no) need to raise tickets for minor changes       不太需要,没必要过多做/不需要/小幅变更无需提工单
+do you [(have/no) trouble (in) reproducing] the bug            做某事(遇到困难/毫无难度)/复现这个bug是否有困难
+ai-responses (are not coming). LLM_ERROR from the AI side         ai没有返回响应
+(whether it will be used) elsewhere           别处，别的地方/是否会在其他地方使用
 
 
 
