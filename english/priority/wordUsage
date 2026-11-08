@@ -43,7 +43,7 @@ safe/safety     安全的 adj/安全 n
 secure/security     |sɪˈkjʊərəti|       安全的 adj/安全 n
 secret              |ˈsiːkrət|      秘密 adj/n
 
-in case(the event) of (service outage)          万一n,在n情况下/万一服务中断
+in (case/the event) of (service outage)          万一n,在n情况下/万一服务中断
 in case (the prod issue recurs)/to avoid n           以防...
 in the/that case of n               在...情况下
 in a case like this                 像这样的情况
@@ -68,10 +68,6 @@ appropriation/mis-appropriation (of customer funds)    /ˌmɪsəˌproʊpriˈeɪ�
 act (as)/action (owner)/actor     行动/充当,担任 v/n/操作主体 n
 active/actively/passive/passively    积极的/消极的,被动的 adj/adv
 activity/inactivity    活动/闲置,无操作 n
-
-be responsible to/for backend     /rɪˈspɑːnsəb(ə)l/       负责n
-i (take/am in) charge of backend        我负责n
-who is the person in charge of the project?
 
 why is 主语 + 过去分词？
 why is ur approval needed
@@ -143,7 +139,7 @@ forward             转发,转交,发送 v/向前,今后,往后 adv/向前的,�
 move forward     往前调,提前 v
 forward (on)/pass on to       转发出去/转交,传递 v
 
-prompts     大模型提示词
+prompt (quality)     大模型提示词/提示词质量
 dialog/pop-up/prompt            大型完整配置弹窗/所有弹窗的通用统称/简短确认弹窗 n
 dialog/pop up/pop-up/prompt         对话框/弹窗,弹出式的 v,adj,n/弹窗,提示(框) v/n
 pop/popped up a prompt to remind user               弹出一个提示框以提醒用户
@@ -225,7 +221,6 @@ connectivity        连通性,连接性 n
 visible/visibility      可见的 adj/可见性,能见度 n
 including/inclusiveness     包含 prep/包容,包容性 n
 integrity/completeness      /ɪnˈteɡrəti/        完整性
-available/availability/unavailable      /əˈveɪləb(ə)l/       可用的 adj/可用性 n
 probability/possibility     /ˌprɒbəˈbɪləti/ /ˌpɒsəˈbɪləti/         可能性,概率/可能性 n
 sufficient/insufficient(enough)/sufficiency     足够的,充足的 adj/不足的,不够的 adj/充分性,充足性 n
 responsibility/responsible (owners)/responsiveness      责任 n/负责的 adj/负责人/响应能力,响应性 n
@@ -271,7 +266,7 @@ it will delay our delivery if we can't resolve this today             如果我�
 this may cause a slight delay in our delivery. but we are working on a solution     这可能导致我们交付稍有延迟.不过我们正在寻找办法
 
 call‑off    子订单,分合同
-(parent/child) chunk       文本块,切片 n/父块,子块
+(parent/child) chunk       文本块、分片 n/父块,子块
 parent‑child agreement      父子块一致性
 a call‑off mapped to its parent agreement       一个调用映射到其父级协议
 
@@ -309,11 +304,6 @@ remaining adj 剩余的,待解决的
 business (continuity) plans       /ˌkɑːntɪˈnuːəti/       连续性,连贯性 n/业务连续性计划
 continued/continually        持续的,频繁的 adv/连续不断地,不间断的 adv
 continuous/continuously/consecutive/in a row    /kənˈsekjətɪv/  持续的,连续不断的,不间断的 adj/连续不断地 adv
-
-u can start on this first & work on that one afterwards      先做这一项,之后再做那项
-u may prioritize other ticket for now/may work on other tickets first         可以优先做其他ticket
-which one should i prioritize & work on first?        我应该先做哪一个
-which one has the highest priority      哪一项优先级最高
 
 keep (on)/remain (hidden)     一直,老是,保持/热衷于 v/保持隐藏
 keep doing sth/getting the error       一直持续做某事(老是)/老是碰到这个报错
@@ -639,6 +629,9 @@ thus                                            因此,这样 adv
 I'm experiencing
 I encountered       遭遇,偶遇,邂逅 n/v
 face
+hit
+meet
+run into issues 遇到问题
 
 concurrent requests         并发的/并发请求
 throttling          限流,节流
@@ -651,10 +644,10 @@ triple confirm          再三确认,复核三次
 double confirm
 although I would like to triple confirm gemini 3.5 matches our needs
 
-meet
 match/mismatch                       匹配 v/比赛 n
-accommodate
-cater to (requirement)/meet/met/fit       /ˈkeɪtər/     迎合,满足/满足 v/适合,合身,匹配 n
+accommodate         迁就,协调配合 v
+cater to/for (requirement)      /ˈkeɪtər/       迎合,满足(美,英式)
+meet/met/fit        满足 v/适合,合身,匹配 n
 suitable                            合适的 adj
 suits your requirements     满足你的需求
 the one that best suits your requirements
@@ -704,12 +697,6 @@ circumstance/scenario/situation/scenario/case     /ˈsɜːkəmstəns/          �
 
 regain access           恢复访问权限
 revoke/revocation                 撤销 v/取消,撤回 n
-
-accountable risk owner      责任风险负责人
-own/(responsible) owner         负责
-own the project
-champion        项目负责人,冠军 n
-PIC             Person In Charge 负责人
 
 outlined above          上文所述的
 at a glance     一眼看去,概览,简要一览
@@ -961,6 +948,15 @@ charge              收费,承担责任 v
 chargeable service          收费服务
 is charged from
 is charged of
+accountable risk owner      责任风险负责人
+own/(responsible) owner         负责
+own the project
+champion        项目负责人,冠军 n
+PIC             Person In Charge 负责人
+be responsible to/for backend     /rɪˈspɑːnsəb(ə)l/       负责n
+i (take/am in) charge of backend        我负责n
+who is the person in charge of the project?
+go‑to person这块的主要对接人、找他就对的负责人
 
 approximately
 about
@@ -1016,10 +1012,6 @@ capture         记录,录入,涵盖
 note        记录
 capture/catch
 capture/captured actions        体现,采集,捕获,截取 v/记录下来的行动项
-
-crucial/Critical/Significant/Important
-critical      严重的,关键的 adj
-significant/significantly       显著地,大幅度地,重要地 adj/adv
 
 shift       调整,更改 v
 ask (for)
@@ -1079,7 +1071,7 @@ every
 per (call)             每,每一,按照,根据
 each
 
-分片      chunking
+文本块、分片      chunking
 向量化
 检索      retrieve
 regular Chunking 普通分片
@@ -1119,4 +1111,9 @@ to get more familiar with our project用来熟悉我们项目。
 to better v
 to get more adj
 
+pros & cons       /prəʊz/ /kɒnz/      优点/缺点/利弊
+merits & demerits     /ˈmerɪts/       优劣
 
+key/crucial/critical/significant/important      /ˈkruːʃ(ə)l/
+key/critical (Project)           关键的,主要的/至关重要的；危急的,关键性(语气比 key 重很多)
+significant/significantly       显著地,大幅度地,重要地 adj/adv

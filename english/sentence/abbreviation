@@ -77,3 +77,5 @@ TPM         tokens per minute
 BDP         Business Data pattern 业务数据模式
 TPM/RPM         Tokens/Requests Per Minute 每分钟Token数/每分钟请求数
 atm         at the moment
+SoR         Statement of Requirement 需求说明书
+rbac        Role-Based Access Control 基于角色的访问控制(权限模型)

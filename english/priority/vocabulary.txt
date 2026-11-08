@@ -240,6 +240,7 @@ current transaction/transactional consistency       当前事务/事务一致性
 conditional approval            有条件审批(先放行,后续补齐材料)
 the wrapper code (standardizes requests to the LLM)      封装代码,包装层代码(统一对大模型的请求格式)
 (What's) further destination      更远地目标
+supposed/proposed       拟定的 adj
 
 
 

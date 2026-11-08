@@ -1,4 +1,8 @@
 
+u can start on this first & work on that one afterwards      先做这一项,之后再做那项
+u may prioritize other ticket for now/may work on other tickets first         可以优先做其他ticket
+which one should i prioritize & work on first/which one has the highest priority        应该先做哪一个/哪个优先级最高
+we should (prioritise bug fixes over) new features      优先考虑a,而非B/应该优先修复bug,而不是做新功能
 happy to help (set up/implement if you think it'd be useful)       乐意做某事/如果您觉得有用,我乐意协助搭建或者落地
 (will keep you posted here) as we go       随着推进,过程中,(在此处持续同步消息)
 are we okay with sth            我们是否认可,接受某物
@@ -25,7 +29,6 @@ we'll be needing/expecting your approval (by the upcoming call)       将来进�
 (it's) no wonder (that) the pipeline keeps failing      难怪(流水线一直失败)
 hi jack, (how’ve you been/how are you doing lately)? [(have u) been/(are u) keeping] busy?       最近过得怎么样
 that's it/all       就这样
-hope (it helps/this clarifies)                 希望这有帮助/希望这能解释清楚
 the info I got was it would be done by end of Sep        我得到的信息是：
 if only (the deployment could finish today)       要是...就好了/要是部署今天能完成就好了
 not sure if I can help (here/with this)        我这边未必能提供帮助
@@ -155,7 +158,6 @@ i can't really pronounce those names            我实在无法正确地读出�
 i ran the relevant scheduled job & obtained the latest batch of data this morning           我今早跑了相关的job,获取到最新的数据
 just an example, no offense     /əˈfens/        就举个例子,无意冒犯
 recommended(recommend/recommendation) that ...      建议,劝告,推荐 v/n/推荐...
-as far as i know(can see)           据我所 知/见
 (u just) follow suit with sth                    效仿sth(依葫芦画瓢)
 it can make tracking much easier(it can be easier for the progress tracking)             这能让追踪工作简单很多
 it will be considered (as) a failure                它会被视为失败
@@ -171,7 +173,6 @@ what id did u use             你用的是什么id
 rescheduling the slot to accommodate UK team, as the current slot overlaps/conflicts with their lunch hour      重新安排去容纳UK团队,当前时间与他们的午餐有冲突
 Around 1–2 hours of downtime will be required to complete the patching, covering/including pre-check and post-check     此次补丁安装(预检查到后检查)大约要1~2个钟的停机
 so that u can (better) understand the project (more)          以至于你能更好地理解这个项目
-somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
 to ensure its continued stability & performance       为确保其持续的稳定性和性能
 plz address it at the earliest to avoid further escalation       请尽快处理此事,以免情况进一步恶化
 make ur work easier, faster & more effective        让您的工作变得更轻松,更快捷,更高效
@@ -180,7 +181,6 @@ let's hang over (the work) to Jack     接下来交给杰克来讲,现在请杰�
 (it's a scenario we didn't cover/the situation wasn't covered) b4     这情况之前未曾涉及
 guides are available here          在此处可用,可查看
 the first three are             前三个是
-the process may take (up to) 40 days        大概需要40天/最长可达40天,耗时最多40天
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 as much as i would like to go, i have insufficient capacity     虽然我很想去,但我实在分身乏术
 feel free to try the script for works above         欢迎尝试这个脚本用于上述工作
@@ -426,26 +426,35 @@ It works perfectly as expected          运行完美、一切正常、效果非�
 Please use the (official name) in the ticket        工单里面请使用官方正式名称
 It [takes (around) 2 hours to run] the query       运行大约耗时2小时
 We create one for (per/each) data source            为每一个数据源单独创建一个
-We use separate indexes, (i.e./that mean) one index for each data source        使用独立的索引(即，每个数据源一个索引)
-(will) do it as before      像之前一样做某事，照旧操作
+We use separate indexes, (i.e./that mean) one index for each data source        使用独立的索引(即,每个数据源一个索引)
+(will) do it as before      像之前一样做某事,照旧操作
 Let’s [get (it/the runtime) down to (under)] 1 hour      把运行时长降到1小时(以内)
 The pipeline change is on hold          (这变更目前)搁置,暂停
-The longer runtime is (probably due to) the large data volume         大概率是由于、可能因为/运行时间变长，大概率是因为数据量大
+The longer runtime is (probably due to) the large data volume         大概率是由于、可能因为/运行时间变长,大概率是因为数据量大
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
 The API (response speed) becomes slow under high load         响应速度/高负载下API响应速度变慢
-unless I missed it, (there is no such config in the doc)            除非我错过了，文档里没有这个配置
+unless I missed it, (there is no such config in the doc)            除非我错过了,文档里没有这个配置
 the (discrepancy/timeout issue is) worth checking (further)         值得(进一步)核查/超时问题值得进一步检查
 when can we use that/when do you want to        什么时候可以用/你打算什么时候
-even now/then/so, (the query still takes over 1 hour to run)          即便 (现在/在那个时候/如此)，(这条查询运行仍然要超过1小时)
+even now/then/so, (the query still takes over 1 hour to run)          即便 (现在/在那个时候/如此),(这条查询运行仍然要超过1小时)
 we (may indeed need) to copy anonymized data to dev     确实可能需要(把脱敏数据复制到)
 [at the (point/stage)], we haven’t observed the discrepancy      目前,现阶段,(还没有观测到该差异)
 (sth) be part of the solution           (sth)是解决方案的一部分
 (need to raise) a ticket (needs to be raised) for the change early next week       需要提工单/在下周初提交这项变更的工单
-the aim is for them to be [more (adj/helpful) in standardising than] a hindrance        更多是,而非/更多是助力，而非阻碍
+the aim is for them to be [more (adj/helpful) in standardising than] a hindrance        更多是,而非/更多是助力,而非阻碍
 there’s (less/no) need to raise tickets for minor changes       不太需要,没必要过多做/不需要/小幅变更无需提工单
 do you [(have/no) trouble (in) reproducing] the bug            做某事(遇到困难/毫无难度)/复现这个bug是否有困难
 ai-responses (are not coming). LLM_ERROR from the AI side         ai没有返回响应
-(whether it will be used) elsewhere           别处，别的地方/是否会在其他地方使用
+(whether it will be used) elsewhere           别处,别的地方/是否会在其他地方使用
+For the dataset that (we’ve been looking at), we observe a discrepancy        我们一直在跟进的数据集,我们观测到了差异
+How many got valid records, and how many ended up failing       拿到有效记录的有多少,最终失败的有多少
+It (was designed as/to) a simple workflow, but we (ended/end up dealing) with many edge cases     被设计/到头来最终
+The (error rate/latency) is (significantly/greatly) higher than expected        显著地/大大地/错误率显著高于预期
+file the form (to/with) the team            存档,提交 v/向该团队提交表单备案
+We need to [(port/ported/migrate) the feature over] to the new service        移植；迁移 v/需要把这个功能移植,迁移到新服务上
+Jack was working on that yesterday      昨天在那个时候一直在弄这个
+Can we (do sth/get a result) like this?               这样的事情/能不能做类似这样的
+what's the expected win for the ticket      这工单预期收益是什么
 
 
 

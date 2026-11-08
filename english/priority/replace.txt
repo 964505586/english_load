@@ -155,7 +155,6 @@ be due to/caused by       归因于,由...导致/由...引起
 (problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
 discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 i (just) saw/noticed that     刚注意到
-local/native        本地的,当地的/原生的 adj/n
 expect/look forward to n        期待 v
 update/(make great) progress      进展,(进度) n/取得进步
 launch/release new feature/version         启动,打开,发起,推出,执行 v
@@ -194,7 +193,6 @@ sustain/support     维持,支撑/支持 v
 could u plz acknowledge/confirm/acknowledged        确认,认可,感谢 v/请确认(已收到/知晓/知悉)
 fetch/extract/read             获取,拉取 v/提取,抽取 v
 how to (architect/design) the agent     设计 v
-looks to me/in my view(opinion/perspective)     在我看来
 guide sb on/through sth     指导某人/带sb一步步走完
 be good to do sth(at sth)      适宜,乐意做/擅长做sth
 just (now)                刚刚,只是,正好(现在完成时)/刚才(一般过去时)
@@ -271,7 +269,7 @@ for reference only/this is for informational purposes only          (此内容)�
 details/(i'd appreciate it if) u could (add some colour to) the requirement       如能..., 不胜感激/给某事补充更多细节
 architect/architecture/framework/structure   架构师/架构/框架/结构
 take a closer look/Double confirm       仔细查看,深入研究
-if/in case of
+if/in (case/the event) of
 We can’t guarantee/promise that         无法保证
 phase/stage           阶段 n
 for your reference/FYI          供你参考
@@ -285,6 +283,16 @@ alias name/(individual) other name/a.k.a.(also known as)/i.e.    别名/别名,�
 i guess/suppose/think/assume/presume        猜/认为/假设/推断
 (after the/post-) upgrade/conversation          版本升级后
 主句 without needing to/(there is) no need to             不需要
+Each (individual/separate) service has its own access control      各自、单独的 adj/每一项独立服务都有自己的访问权限控制
+I was told/informed the deployment will be delayed/I heard          听说这次部署会延期
+we are exploring the possibility/feasibility of doing       探讨,调研做某事的可能性,可行性
+Is there a batch/bulk (processing) endpoint to do sth/in (batch/bulk)       按批次/大批量
+to my knowledge/as i was informed/as far as I know(can see)        据我所 知/见
+we attempt the call up to 4 times/the process may take (up to) 40 days          最多尝试4次/最长40天
+regarding the weekly job you (mentioned/referred to), on which weekday and at what time does it run   刚才提到的每周任务,它是周几、几点运行
+inside/in       在...里面/内部
+as far as I'm concerned/from my perspective/From my point of view/looks to me/in my (view/opinion)      在我看来(强调个人立场)/从我的角度
+please refer to the requirements (outlined/stated/listed) in point 4      概述,列明,所述的/陈述,写明/请参阅第4点中列明的需求
 
 
 

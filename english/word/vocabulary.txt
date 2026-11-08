@@ -30,8 +30,6 @@ beauty                          美丽,漂亮 n
 beginner                            初学者,新手 n
 believe in                  深信,信仰 v
 belong to                           属于 v
-beneficial                              有益的,有利的 adj
-benefit                             好处,益处 n         使受益 v
 big meal                            大餐 n
 blame                   责怪 v            责备 n
 boast                               吹牛
@@ -317,7 +315,6 @@ sneak                           偷偷地做 v
 social/society                      社会,社交的 adj/n
 some        单 某个    复 一些
 someday             有一天,有朝一日
-spare                                           备用的,空闲的 adj
 specialize in                       专攻
 stay up/focused/overnight                             熬夜/保持专注/过夜 v
 striking            惊人的,异常的 adj
