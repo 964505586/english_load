@@ -11,7 +11,6 @@ annual pay/party        年会/年薪
 anxious/anxiously                   焦虑的,不安地 adj/adv
 anywhere                任何地方 n/adv
 appearance                  外观
-arrange         安排 v
 arrest/arrested                          逮捕 v/n/逮捕的 adj
 arrogant                                    傲慢的,自大的 adj
 article 文章
@@ -349,7 +348,6 @@ unethical                               不道德的 adj
 unique                                  独特的,独一无二的
 vacation                        假期
 variety/varieties                     种类,品种,变化 n
-various                             各种各样的 adj
 victory                             胜利,成功 n
 violence/violent                    暴力 n/adj
 visit                        浏览 v

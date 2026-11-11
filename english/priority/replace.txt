@@ -72,7 +72,6 @@ via/by/through (SNOW/the link below)        通过下方链接
 make a code change(change code)                  做一次代码修改(正式)
 remediate/investigate/fix              补救,修复 v
 occur/appear/happen
-as usual/planned/expected                       像往常一样/按计划/按预期
 edition/version                     版本 n
 may/can
 seem/look/sounds like good/fine
@@ -271,7 +270,6 @@ architect/architecture/framework/structure   架构师/架构/框架/结构
 take a closer look/Double confirm       仔细查看,深入研究
 if/in (case/the event) of
 We can’t guarantee/promise that         无法保证
-phase/stage           阶段 n
 for your reference/FYI          供你参考
 I've used it before/I have experience with this/I’m familiar with it         我 之前用过/有经验/熟悉这个
 redo/rework         /ˌriːˈduː/          重做,重新开展

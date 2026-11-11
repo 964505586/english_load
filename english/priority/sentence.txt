@@ -270,7 +270,6 @@ i might be (just) over-worried/overthinking     过度担忧的/想太多,多虑
 this is to (notify/illustrate) that ...            特此通知 .../本文旨在说明
 try to address all possible issues (that don't require attention)      解决,处理 v/尽可能修复全部漏洞/需要/无需 重点关注
 just (as/like) we thought     正如我们所想的
-need to (buy time for) the migration/the workaround can buy us some time      争取,拖延时间/临时方案可以给我们争取一些时间
 these 2 fields are reversed                这两个字段的值颠倒了
 the column hasn't been added yet                这一列还没被加上
 get result using (Postman/a command)        方式状语/使用Postman获取结果
@@ -399,7 +398,7 @@ I don’t have exact figures either         我没有确切的数字
 What's the formal process to apply for DB permission       正式的,规范的 adj/申请xxx许可的正式流程是什么
 weird, I'm getting the identical error as last time. it was previously resolved by adding a header param and an associated code change on your side. if I recall correctly
 just wondering whether that code change was reverted, causing the error to reoccur      那次代码改动是不是被回滚了,导致报错再次出现
-Do we have any show and tell coming up          近期有技术分享会吗
+Do we have any (show and tell) coming up          演示汇报、成果展示会/近期有技术分享会吗
 It seems Jack is on leave. Do you know when he’ll be back       他什么时候回来上班
 let me dig it out       让我把它挖出来
 be great for (exploration, experimentation, and prototyping)         适合,对...很有用,有利于/非常适合探索验证,试验和原型开发
