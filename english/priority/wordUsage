@@ -174,6 +174,8 @@ obstacle/friction(block v/n)                障碍,阻碍,困难/阻碍,摩擦�
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
 (building) block/blocker         阻碍 v/n/基础模块,核心组件,积木块 n
 hindrance/hinderance        /ˈhɪndrəns/     阻碍,妨碍 n
+get stuck 卡住、阻塞
+Block
 
 what's more, ...     而且,此外
 moreover/in addition/btw/besides/furthermore            另外,此外 adv
@@ -235,9 +237,6 @@ radio/checkbox (button)/input box       单选/复选框/输入框 n
 mean/meant/meaning/means        意味,打算 v/意思 n
 mean (doing/to sth)            意味着/故意
 meaningful/meaningless      有意义的 adj/无意义的 adj
-
-at late(the end of) Sep
-early(the start of) June(next/this week)       在 月初/月末
 
 to (ensure) no communication gap     确保,保证 v
 make sure of/to/that        确保...
@@ -408,6 +407,10 @@ though/although 句子      /ðəʊ/      尽管,虽然
 despite the fact that 句子        尽管,虽然
 in spite of (n/the fact that 句子)    尽管,虽然
 even/despite (multiple reminders)/even if 句子      即使,就算/虽经多次提醒,尽管已经再三提醒
+
+triple confirm          再三确认,复核三次
+double confirm
+although I would like to triple confirm gemini 3.5 matches our needs
 
 define/definition        定义 v/n
 definitive/definite/definitely      /dɪˈfɪnətɪv/ /ˈdefɪnət/      确定的,最终的 adj/清晰的,肯定地,明确地 adj/adv
@@ -641,10 +644,6 @@ a throttling to queue llm request @ 4 concurrent max
 
 we are requesting gemini-3.5 as well as existing gpt5.1     翻译？
 as well as      以及,同时
-
-triple confirm          再三确认,复核三次
-double confirm
-although I would like to triple confirm gemini 3.5 matches our needs
 
 match/mismatch                       匹配 v/比赛 n
 accommodate         迁就,协调配合 v

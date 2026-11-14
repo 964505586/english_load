@@ -110,7 +110,6 @@ pin up/pinned (to version xxx)/fixed      /ˈpɪn ʌp/     置顶,挂图 v/已�
 1h/2h/h2 2026/achievements/half year 2     (2026)下半年/上半年成绩
 estimated (duration)/judge      估计的,判断,评价 v/(预估的)持续时间 n/判断
 (human/professional) judgement/judge/estimate      判断,意见,判断力 n/判断,评判,评价 v/人工,专业判断
-stress/stressful/emphasize        强调,着重,使受压力 v/压力 n/紧张的,压力大的 adj
 formal/official/informal/former        正式的,规范的,合法的/非正式的/正式的,官方的/以前的 adj
 good/great/excellent/thoughtful point/question        好问题
 tap/click/press               点(手机/鼠标/键盘)
@@ -291,6 +290,7 @@ regarding the weekly job you (mentioned/referred to), on which weekday and at wh
 inside/in       在...里面/内部
 as far as I'm concerned/from my perspective/From my point of view/looks to me/in my (view/opinion)      在我看来(强调个人立场)/从我的角度
 please refer to the requirements (outlined/stated/listed) in point 4      概述,列明,所述的/陈述,写明/请参阅第4点中列明的需求
+if further/additional clarification or a call is needed     进一步澄清说明
 
 
 

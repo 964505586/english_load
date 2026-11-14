@@ -3,7 +3,6 @@
 he (did/indeed) mention the constraint last week            确实提到(过这个限制条件)
 could you assist with this while (Jack is absent/during Jack' absence)      /ˈæbsəns/       缺勤,休假 n/缺勤的,缺席的 adj
 (to be safe/just in case), (we'll/please) double-check the anonymization result        以防万一,(稳妥起见,为保险起见)
-(need to optimise the pipeline), with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
 ideation (sandbox/environment)        /ˌaɪdiˈeɪʃn/ /ˈsændbɑːks/        创意沙箱/创意试验环境
 execute/was it executed twice     /ˈeksɪkjuːt/       执行了两次吗？
 execution/executive/executable      /ˌeksɪˈkjuːʃ(ə)n/ /ɪɡˈzekjətɪv/ /ˌeksɪˈkjuːtəbl/       落地执行,推进实施 n/执行的 adj/可执行的 adj/可执行程序 n
@@ -284,7 +283,6 @@ We plan to finish the retriever (microservice) development w/c 11 Aug     /ˈma�
 environment visuals      /ˈvɪʒuəl/     环境架构图示(IT架构,云,DevOps场景)
 realistic/actual (question)     /ˌriːəˈlɪstɪk/         务实的,实事求是的,实际的/实际的问题
 (assess system) fit/fitment/compatibility     /ˈfɪtmənt/      适配,匹配度 n/评估系统匹配度/兼容性
-will (gather) inputs and (spotlight) key blockers in meeting    /ˈspɒtlaɪt/     收集意见,重点强调关键阻塞项
 PII         Personally Identifiable Information 个人可识别信息    /aɪˌdentɪˈfaɪəb(ə)l/
 eliminate (redundant code)/eliminating/mitigate      /ɪˈlɪmɪneɪt/       剔除,根除 v/排除的 adj/减轻,缓和 v
 periodically/regular (contract)/regularly        /ˌpɪriˈɑːdɪkli/         定期地,周期性地/定期地,常规的,有规律地 adj/adv/常规合同
@@ -334,7 +332,6 @@ intermittent (call/instability)/Regular     /ˌɪntərˈmɪtənt/        间歇�
 offensive/rudely/rudeness       /əˈfensɪv/      无礼的,冒犯的 adj/无礼的 adj/无礼 n
 lightweight     /ˈlaɪtweɪt/     轻量的 adj/轻量级 n
 grounding (citation data)     /ˈɡraʊndɪŋ/ /saɪˈteɪʃ(ə)n/        基础,基础训练/引用,引证,引文/溯源引用数据
-(renew/renewed emphasis on) sth/renewal     /rɪˈnuːəl/         续存,重新开始,中止后继续 v/再度重视,重新强调sth/续期,恢复,重新开始 n
 disruptive/disruption      /dɪsˈrʌptɪv/      引起混乱的,破坏的 adj/扰乱,中断 n
 git hooks       /hʊk/       Git钩子
 standardize/standardising/standardizing     /ˈstændərdaɪzɪŋ/        使符合标准,使标准化 v
@@ -462,6 +459,90 @@ that said           话虽如此
 more likely need
 chaos       /ˈkeɪɑːs/       混乱
 
+
+work properly   正常运行
+is working
+work well
+work fine
+fully stable
+prompt      提示词 n
+You think too much  你想多了
+Don’t overthink it别想太多、别纠结
+You’re overthinking你想复杂了
+similarly       同样、与此类似
+now that        既然、目前（引出现状）
+monitoring framework        监控框架
+close to agreement      接近达成共识
+more or less        大致已定,基本确定 adv
+accuracy metric 准确率指标,精度指标
+later next week 下周晚些时候
+at late(the end of) Sep
+early(the start of) June(next/this week)       在 月初/月末
+be lost 迷茫、没头绪
+suck
+It’s very unfair to the team. but that’s life, I know
+effort wastage      /ˈweɪstɪdʒ/      工作量浪费、人力投入白费
+effort hours 投入工时
+position v. 定性、梳理
+position it right 梳理口径、定性
+Let’s position it right
+Need to figure out.
+be clear as to … 清楚了解
+audit v./n. 审计
+regional adj. 区域性的
+Outlook is singing Beyond songs？？？
+beyond our reach 超出我们可控范围、搞不定
+more like beyond our reach
+be free from 不受...影响
+jump on the train       搭上火车、坐火车
+treat on me
+my treat 我请客
+good price 价格划算、性价比不错
+Something with good price
+Let me know the day you choose.
+你定好哪天跟我说一声
+highly dynamic 高度动态、频繁变动
+highly dynamic environment 变更频繁的环境
+3 out of 5 五分之三
+there are 3 out of 5 tables with discrepancy
+slightly adv. 轻微地、小幅
+Slightly different
+out of date 过时、失效
+Expire
+Up to date
+snapshot            快照
+usable data 可用数据
+Available
+a.k.a           also known as 又称为,也就是、换言之
+i.e.
+time to shine   轮到你大展身手、发挥作用
+lock the timeline 锁定排期
+same ground 统一基线、共同基准
+Hope it’s fine      希望这样没问题
+today before 4pm
+before today 4pm
+the rest of 10 days in November
+instead     取而代之
+bottom line 核心底线、归根结底
+extra
+addition
+wasted
+Consumption
+Break
+Conflict
+that’s what i want to confirm这是我想要确认的点
+Suspect
+should not I mean
+我的意思是不会
+deadline miss 逾期、错过截止日期
+simulated data 【IT数仓术语】模拟数据
+freely switch
+screenshot      截图
+simply need
+just need
+in the case, Shall we reschedule, or
+needed
+require
 
 appendix        /əˈpendɪks/         附录 n
 ground truth (cases)            真值标注,用例
@@ -659,6 +740,13 @@ Semantic similarity score
 Let's briefly look at this
 Let's briefly go through this
 highlight /ˈhaɪlaɪt/            着重强调、突出Emphasize
+(renew/renewed emphasis on) sth/renewal     /rɪˈnuːəl/         续存,重新开始,中止后继续 v/再度重视,重新强调sth/续期,恢复,重新开始 n
+stress/stressful/emphasize        强调,着重,使受压力 v/压力 n/紧张的,压力大的 adj
+(need to optimise the pipeline), with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
+will (gather) inputs and (spotlight) key blockers in meeting    /ˈspɒtlaɪt/     收集意见,重点强调关键阻塞项
+I will highlight this in the email I am going to send
+好的，我会在准备发出的邮件里重点标出这件事
+I will highlight this point in the email I’m about to send
 severity /sɪˈverəti/            严重性
 Importance
 by/via/using
