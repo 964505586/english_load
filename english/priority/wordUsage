@@ -565,7 +565,7 @@ repeat/repeated/repeatedly      重复 v/重复地 adj/adv
 Could you elaborate     能否详细说明一下
 Could u specify/elaborate (more)       能否(再) 明确说明,指定/详细说明
 
-effort          精力,努力 n
+(estimated) effort (hours/wastage)      /ˈweɪstɪdʒ/     精力,努力/预估工作量/投入工时/工作量浪费、人力投入白费
 impact          冲击
 influence       潜移默化
 affect/effect/affected          v/n/受影响的 adj
@@ -725,6 +725,7 @@ need to (anonymise/anonymize/anonymous) the record, just as we will ~ other data
 anonymized data     匿名化数据
 
 RAG injection           RAG注入
+inject into         注入
 (docs/SQL/prompt) injection      注射,注入 n
 
 it's very profound
@@ -844,9 +845,6 @@ fulfill/fulfilled     /fʊlˈfɪl/       履行,实现,满足 v/有成就感的,
 
 conversion
 convention
-
-concrete (plan)     /?k??kri?t/     确实的,具体的,实在的,具体可落地 adj
-practical
 
 replay/reproduce/replicate (error)/reproduction       复现 v/n
 occur/occurrence/reoccur/recurrence     /??k?r?ns/     发生,出现 v/出现次数,发生的事,事件,发生 n/再次发生,复发 v/重现,复发 n

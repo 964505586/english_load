@@ -163,7 +163,6 @@ capability/capabilities (roadmap)/ability/capacity     /ˌkeɪpəˈbɪləti/    
 consent (to)/agree        /kənˈsent/      同意,允许 v/n
 precious/valuable/invaluable/valueless       /ˈpreʃəs/        宝贵的/贵重的/无价的/无价值的 adj
 confidential/sensitive/sensitivity      /ˌkɑːnfɪˈdenʃ(ə)l/      机密的 adj/敏感的 adj/敏感性,敏感度 n
-at the (discretion) of sb/audit      /dɪˈskreʃ(ə)n/      自行决定权 n/由某人酌情,自行决定,自由选择
 personnel       /ˌpɜːrsəˈnel/       人员 n/人员的 adj
 suppress/suppressed     /səˈpres/      抑制,镇压,压制,阻止 v/抑制的 adj
 distinguish/differentiate     /dɪˈstɪŋɡwɪʃ/ /ˌdɪfəˈrenʃieɪt/               区分,认出,区别 v/使不同,区分,区别
@@ -305,7 +304,6 @@ fellow (colleagues/team members)      /ˈfeləʊ/     同类的,同伴的 adj
 use/the (usage) of this function        /ˈjuːsɪdʒ/       使用,用途/使用,用途,使用量,用法 n/函数的用法
 (hours worked) apportioned      /əˈpɔːrʃ(ə)n/     分配,分摊 v/(分配的)工作时长
 Jack, (come) to the (rescue)!      /ˈreskjuː/     营救,援救,救场 v/救援,解围 n/快来救场
-dummy/mock/synthetic/fake       /sɪnˈθetɪk/     假的/人造的,模拟的 adj/伪造的,虚假的 adj/假货,贋品 n/伪造,冒充,假装 v
 manifest/list        /ˈmænɪfest/     清单
 signature       /ˈsɪɡnətʃər/       签名
 I'm more inclined (towards/to pick) Option B        /ɪnˈklaɪn/      倾向于,有...意向 adj/更偏向(选择)方案B
@@ -357,6 +355,7 @@ It’s just a (typo), not a logic error       /ˈtaɪpəʊ/       打字错误�
 it’s a quick (win/profit/benefit/beneficial) with low effort        /ˈprɑːfɪt/      好处,益处 n/使受益 v/有益的,有利的 adj/低投入,快速收益
 originate (from)/raw/original/row/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创/起源 n
 fallback/contingency (plan/measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备选方案,应急计划/应急预案/应急措施,可能发生的事 n
+to keep better track of (log) progress/to better track(tracking) progress    /træk/ /ˈtrækɪŋ/     跟踪 v/更好地跟踪进度
 
 
 
@@ -374,26 +373,6 @@ fallback/contingency (plan/measure)  /ˈfɔːlbæk/ /kənˈtɪndʒənsi/     备
 
 
 
-
-
-As the jack just mentioned
-Any chance
-Is it possible to
-to better track progress    更好地追踪进度
-track/tracking      /træk/  /ˈtrækɪŋ/   跟踪 v
-your move/turn
-add a character anywhere
-local/native        本地的,当地的/原生的 adj/n
-airflow and BigQuery are native services on GCP
-work is (mainly on the checking of) true value for those metrics     主要集中在
-that's one moving piece     这只是其中一项变动因素
-in one's free/spare time        在某人的空闲时间
-spare       备用的,空闲的 adj
-sell ideas to sb        向某人推销,推广方案
-specifics to be detailed        细节待补充
-Quick check/question          随口咨询一下,打扰确认一下/
-Do you happen to know who is in charge of DB area     是否碰巧知道,想请问你知不知道(更客气)
-Liz has run into DB issues, and we’re hoping we could reach out to that person for some guidance
 post that       在那之后
 After that
 start small 从小处着手、小范围先做
@@ -407,10 +386,11 @@ continuously    进行时/进行时被动
 every time/only after/when
 to be further discussed有待进一步讨论
 (Human/business) user业务人员
-
-That’s a great tip这个技巧很棒
-Smart approach思路很巧妙
+That’s a great tip      这个技巧很棒
+Smart approach      思路很巧妙
 quite practical tip
+concrete (plan)     /?k??kri?t/     确实的,具体的,实在的,具体可落地 adj
+practical
 DA, DS, DE, BA, PM
 loosen The range of package version you've specified        /ˈluːs(ə)n/     (使)变松，(使)松开；放宽 v
 pass criteria
@@ -442,7 +422,7 @@ as usual/planned/expected                       像往常一样/按计划/按预
 described as a one-line update          属于单行级别更新
 take sth to completion 闭环落地、完成某事
 close this off      了结,收尾,闭环这件事
-get this actioned 推动落地、处理闭环
+get this actioned       推动落地、处理闭环
 need to wrap up (outstanding items/the task this week)      /ræp ʌp/       收尾,闭环/剩余事项闭环,本周把这任务收尾
 has been this way           一直是这个样子
 that needs to happen 需要落地、必须推进
@@ -454,7 +434,6 @@ run this together           一起推进这件事
 that’s what I said
 promising       /ˈprɑːmɪsɪŋ/       有前景的、效果不错的
 pinpoint        /ˈpɪnpɔɪnt/     精准定位
-inject into         注入
 that said           话虽如此
 more likely need
 chaos       /ˈkeɪɑːs/       混乱
@@ -479,64 +458,66 @@ later next week 下周晚些时候
 at late(the end of) Sep
 early(the start of) June(next/this week)       在 月初/月末
 be lost 迷茫、没头绪
-suck
+suck        /sʌk/
 It’s very unfair to the team. but that’s life, I know
-effort wastage      /ˈweɪstɪdʒ/      工作量浪费、人力投入白费
-effort hours 投入工时
-position v. 定性、梳理
+position        定性、梳理
 position it right 梳理口径、定性
 Let’s position it right
-Need to figure out.
-be clear as to … 清楚了解
-audit v./n. 审计
-regional adj. 区域性的
-Outlook is singing Beyond songs？？？
+Need to figure out
+be clear as to      清楚了解
+regional        区域性的
 beyond our reach 超出我们可控范围、搞不定
 more like beyond our reach
 be free from 不受...影响
 jump on the train       搭上火车、坐火车
 treat on me
+it's on me!                                         我请客!
 my treat 我请客
 good price 价格划算、性价比不错
 Something with good price
-Let me know the day you choose.
-你定好哪天跟我说一声
+Let me know the day you choose定好哪天跟我说一声
 highly dynamic 高度动态、频繁变动
 highly dynamic environment 变更频繁的环境
 3 out of 5 五分之三
 there are 3 out of 5 tables with discrepancy
-slightly adv. 轻微地、小幅
-Slightly different
+slightly    轻微地、小幅
+slightly different
 out of date 过时、失效
-Expire
-Up to date
+expire
+up to date
+up to date/latest 最新、有效
 snapshot            快照
 usable data 可用数据
-Available
+available
 a.k.a           also known as 又称为,也就是、换言之
 i.e.
 time to shine   轮到你大展身手、发挥作用
-lock the timeline 锁定排期
+lock the timeline   锁定排期
 same ground 统一基线、共同基准
-Hope it’s fine      希望这样没问题
+hope it’s fine      希望这样没问题
 today before 4pm
 before today 4pm
 the rest of 10 days in November
 instead     取而代之
-bottom line 核心底线、归根结底
+bottom line     核心底线、归根结底
 extra
 addition
 wasted
 Consumption
 Break
 Conflict
+break                           出错 v
 that’s what i want to confirm这是我想要确认的点
 Suspect
 should not I mean
 我的意思是不会
 deadline miss 逾期、错过截止日期
-simulated data 【IT数仓术语】模拟数据
+simulated data          模拟数据
+simulate        /ˈsɪmjuleɪt/
+mock            模拟 v/adj/n
+dummy/mock/synthetic/fake       /sɪnˈθetɪk/     假的/人造的,模拟的 adj/伪造的,虚假的 adj/假货,贋品 n/伪造,冒充,假装 v
 freely switch
+at the (discretion) of sb/audit      /dɪˈskreʃ(ə)n/      自行决定权 n/由某人酌情,自行决定,自由选择
 screenshot      截图
 simply need
 just need
@@ -621,7 +602,6 @@ list down       列出来
 enumerate/enumeration/data listed below       /ɪˈnuːməreɪt/       遍历,枚举,列举 v/列出,罗列 n/数据如下
 It’s a special case这属于特殊情况
 focus areas/point/items 重点工作项
-estimated efforts 预估工作量
 Nothing formal不用很正式
 give a sense that 让大家有个概念、便于感知     自动包含给大家？
 give a sense that ..... for everyone
@@ -695,7 +675,6 @@ testing cycle 测试周期
 throughout the testing cycle
 Consolidate汇总
 consolidated adj. 合并(后)的、汇总的
-up to date/latest 最新、有效
 coordinate with sb 和某人协同对接
 coordinate sth with sb？
 sth that are no longer required不再需要的sth
@@ -795,7 +774,7 @@ studio          工作台
 extract/classify/analyze            提取,分类,分析
 unified framework           统一框架
 enjoy your experience with sth
-should you have any questions or suggestions, plz feel free to
+should you have any questions or suggestions, plz FFT
 transfer to sb 转让给某人
 the project cannot be transferred to another person
 immediate access            即时访问
@@ -894,13 +873,11 @@ like what
 back in biz         恢复办公,复工
 proactively
 this is the one you are mentioning
-line break
 preserve
 try it out
 代表
 delegate
 make discussion more productive and fruitful
-simulate
 
 
 Preliminary

@@ -16,7 +16,7 @@ you (mustn’t/don't have to) do that now       你不用现在做/现在不能�
 all right, let's look at this one       好,我们来看下这个
 This leaves me uncertain/Now I’m not so sure     这样我就存疑了/我现在不太确定了
 can/could i take a look         我能看一下吗
-my turn to go to another meeting/It’s time for my next meeting       我该去开下一个会了
+my (turn/move) to go to another meeting/It’s time for my next meeting       我该去开下一个会了
 I might have missed that        我可能漏看了
 [Would this (make sense/be acceptable)]/Is this okay        这可以接受吗
 i’ll share the link (right after) the meeting      紧随...之后,立刻,马上/会议结束我马上就发文档
@@ -37,7 +37,6 @@ it won't take much time     不会花太多时间
 Not this time       这次不行,这回就算了
 scared me       吓我
 just ask in Teams group     直接在群里问就行
-would like to seek guidance from ur side on below issues     希望向贵方寻求指导
 i don't really (have an update)/no update for now/just waiting for the issue to be fixed       暂时没有新进展,更新/有最新进展,有新消息可以同步/等待问题修复完成
 no, wait/hold on/(wait a minute/second/moment)     (不对,)先等一下,等下/稍等/等一下
 (that's) (good) enough   足够的 adj/adv/够了/这已经足够好了
@@ -104,7 +103,7 @@ the problem was caused while developing new feature (this happen bcos ...)      
 everyone is complaining that jenkins is unstable         大家都抱怨jenkins不稳定
 just add a space anywhere (u like)      随便添加个空格
 (i have/there are) 2 tickets (which are) assigned to me      有两张票分给我了
-feel free to join the call or skip as u prefer      自由选择加入或者跳过,随您喜好
+FFT join the call or skip as u prefer      自由选择加入或者跳过,随您喜好
 i (see/get/know/understand) what u mean/i believe i understand ur point       (我想)我明白您的意思
 we're talking about the same issue      我们说的是一个问题
 just rename the field display name on UI        就重命名字段的显示名称
@@ -183,7 +182,7 @@ guides are available here          在此处可用,可查看
 the first three are             前三个是
 to avoid multiple nodes competing for the same lock simultaneously      避免多个节点同时争夺同一把锁
 as much as i would like to go, i have insufficient capacity     虽然我很想去,但我实在分身乏术
-feel free to try the script for works above         欢迎尝试这个脚本用于上述工作
+FFT try the script for works above         欢迎尝试这个脚本用于上述工作
 the change will only take effect after the end date                 end_date后才生效
 the change is now taking effect. plz follow the new process going forward           变更已即刻生效,后续请按新流程执行
 the change has (been in effect/taken effect) since last Friday         这change自上周五就已经生效了
@@ -211,7 +210,7 @@ tentatively planned for July 8th    暂定计划
 could u take about 5 minutes to review the PR       能花大约5分钟
 i think Jack is the right person to answer that     杰克是回答这个问题最合适的人
 Jack play tricks/is playing tricks here       耍手段,玩文字游戏
-feel free to reach out to either Jack/me/Lily       欢迎随时联系Jack,我或Lily
+FFT reach out to either Jack/me/Lily       欢迎随时联系Jack,我或Lily
 we don't expect any impact to existing features    预计不会对现有功能造成影响
 the result was beyond(out of) my expectations       出乎我的意料
 will be directed to new version         将被导向至新版本
@@ -450,10 +449,20 @@ How many got valid records, and how many ended up failing       拿到有效记�
 It (was designed as/to) a simple workflow, but we (ended/end up dealing) with many edge cases     被设计/到头来最终
 The (error rate/latency) is (significantly/greatly) higher than expected        显著地/大大地/错误率显著高于预期
 file the form (to/with) the team            存档,提交 v/向该团队提交表单备案
-We need to [(port/ported/migrate) the feature over] to the new service        移植；迁移 v/需要把这个功能移植,迁移到新服务上
-Jack was working on that yesterday      昨天在那个时候一直在弄这个
-Can we (do sth/get a result) like this?               这样的事情/能不能做类似这样的
+we need to [(port/ported/migrate) the feature over] to the new service        移植；迁移 v/需要把这个功能移植,迁移到新服务上
+jack was working on that yesterday      昨天在那个时候一直在弄这个
+can we (do sth/get a result) like this?               这样的事情/能不能做类似这样的
 what's the expected win for the ticket      这工单预期收益是什么
+as the jack (just) said/mentioned (previously/earlier)      正如Jack刚刚所说
+[any chance (that/of doing) we can get the access]/is it possible to        有没有可能,能不能...
+add (a/any) character (anywhere) in the pop-up弹窗内任意输入，添加一个字符
+airflow and bigquery are (native/local) services on gcp     本地的,当地的/原生的 adj,n/是GCP上的原生服务
+the work (mainly involves/is mainly about) (doing/checking)     这项工作主要是
+(that's one) moving piece     可变环节、变动项/这是其中一个变动环节,变量
+sell sb on an idea      说服、使人信服
+specifics (to follow)/details to be added         具体细节、细则/后续提供，待跟进/细节待补充
+do you happen to know who is in charge of the db area       你是否碰巧知道(请问你知不知道)谁负责数据库这块
+is facing db issues and hopes to get some guidance from that contact/would like to seek guidance from ur side on sth    希望寻求指导
 
 
 
