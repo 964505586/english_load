@@ -88,7 +88,6 @@ preparation     /ˌprepəˈreɪʃ(ə)n/       准备 n
 scroll(scrolling) up/down      /skrəʊl/  /ˈskrəʊlɪŋ/
 urge        /ɜːdʒ/            敦促,催促 v
 iterate(iteration) through the list         /ˈɪtəreɪt/    /ˌɪtəˈreɪʃn/      迭代,重复 v/迭代 n
-shown                   /ʃəʊn/
 hotkey          快捷键 n       /hɒt/
 editable            /ˈedɪtəbl/          可编辑的 adj
 borrow/borrowing            /ˈbɒrəʊ/    /ˈbɒrəʊɪŋ/
@@ -185,7 +184,7 @@ The deliverable is due (in the) week commencing 5 Aug      /kəˈmensɪŋ/     �
 diary invites       /ˈdaɪəri/        日历会议邀请
 mobilize/accommodate/coordinate/coordination    /ˈməʊbəlaɪz/ /əˈkɑːmədeɪt/ /kəʊˈɔːdɪneɪt/  调配,协调/迁就,协调配合 v/协调,配合 v,n
 increasingly (more difficult)     /ɪnˈkriːsɪŋli/     越来,愈发 adv/愈发困难
-rationale       /ˌræʃəˈnæl/         根本原因,逻辑依据
+rationale       /ˌræʃəˈnæl/         根本原因,依据,理由
 pharmacy        /ˈfɑːrməsi/         药店,药房
 reconvene       /ˌriːkənˈviːn/      再召集,再聚会
 encode/encoding     /ɪnˈkoʊd/      编码 v
@@ -194,7 +193,6 @@ upon n(success/confirmation/completion/receipt)/once adj/句子    /əˈpɒn/   
 redundant/duplicate/useless/unused/invalid    /rɪˈdʌndənt/    多余的/重复的/无用的,无效的/未使用的,闲置的/无效的 adj
 eligible/eligibility (check)        /ˈelɪdʒəb(ə)l/      符合条件的,合格的 adj/资格,合格 n/资格审查
 suspend/pause/halt      /səˈspend/ /hɔːlt/         暂停,中止 v/暂停,停顿/停止 v/n
-embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
 b4 & after comparison     /kəmˈpærɪsn/     前后对比
 Azure       /ˈæʒər/
 provision/provisioning/deploy      /prəˈvɪʒ(ə)n/        部署,配置,提供,供应 v/配置 n
@@ -236,7 +234,6 @@ instant/instantly/instantiate (service instance/class object)       /ɪnsˈtæn�
 telemetry       /təˈlemətri/        遥测,远程采集测量数据 n
 in the near/(foreseeable) future/a brilliant ~    /fɔːrˈsiːəb(ə)l/    可预知,可预料的 adj/可预见的未来/在不久的将来/光明的未来
 is this (doable) for Nov go‑live/feasible/feasibility (study)      /ˈduːəbl/      可实现的/可行的 adj/可行性 n/可行性研究
-exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
 cascade (down further)/extend to people     /kæˈskeɪd/      逐级下发,连续传递 v/转发扩散给其他人
 as per (naming convention) of current UI    /neɪm/ /kənˈvenʃ(ə)n/   命名/惯例,规范 n/命名规范
 malicious (request)       /məˈlɪʃəs/          恶意的,恶毒的 adj/恶意请求
@@ -329,7 +326,6 @@ document (validity) checks        /vəˈlɪdəti/         有效,合法 n/文档
 intermittent (call/instability)/Regular     /ˌɪntərˈmɪtənt/        间歇性的,断断续续的 adj/间歇调用/间歇性不稳定
 offensive/rudely/rudeness       /əˈfensɪv/      无礼的,冒犯的 adj/无礼的 adj/无礼 n
 lightweight     /ˈlaɪtweɪt/     轻量的 adj/轻量级 n
-grounding (citation data)     /ˈɡraʊndɪŋ/ /saɪˈteɪʃ(ə)n/        基础,基础训练/引用,引证,引文/溯源引用数据
 disruptive/disruption      /dɪsˈrʌptɪv/      引起混乱的,破坏的 adj/扰乱,中断 n
 git hooks       /hʊk/       Git钩子
 standardize/standardising/standardizing     /ˈstændərdaɪzɪŋ/        使符合标准,使标准化 v
@@ -348,9 +344,8 @@ use 'type' to (separate/distinguish) AI results (tagged/as) 1 from human-generat
 If the link fails to download, I can send over the downloaded copy      /send ˈəʊvə(r)/      如果链接下载失败,我可以直接发下载好的文件给你
 it's the (sole/only) (way/option) to ensure the safety     /soʊl/      唯一的 adj//确保安全的唯一办法,方案
 we don’t want to roll our own       /roʊl/          自研,自己搭建/不想自己造轮子
-(code) linting/lint     /lɪnt/       做代码静态检查、校验代码规范 v
+(code) linting/lint     /lɪnt/       做代码静态检查,校验代码规范 v
 A (self‑contained/standalone) package can run without many external dependencies        /ˈstændəˌloʊn/        自包含/独立的
-did you spot/find/identify/spotted any issues       /spɑːt/     发现问题
 It’s just a (typo), not a logic error       /ˈtaɪpəʊ/       打字错误；笔误/只是打错字,不是逻辑错误
 it’s a quick (win/profit/benefit/beneficial) with low effort        /ˈprɑːfɪt/      好处,益处 n/使受益 v/有益的,有利的 adj/低投入,快速收益
 originate (from)/raw/original/row/origin    /əˈrɪdʒɪneɪt/ /əˈrɪdʒən(ə)l/ /ˈɔːrɪdʒɪn/     起源/发源于 v/原创/起源 n
@@ -375,9 +370,9 @@ to keep better track of (log) progress/to better track(tracking) progress    /tr
 
 post that       在那之后
 After that
-start small 从小处着手、小范围先做
+start small 从小处着手,小范围先做
 the last I checked 就我上次核实/了解到的情况    成分
-somehow adv. 设法、以某种方式
+somehow adv. 设法,以某种方式
 somehow, the job ran for over 24 hours          不知怎的,这job跑了超过24个钟
 that would already help organize output这样就已经有助于
 anyone
@@ -395,19 +390,253 @@ DA, DS, DE, BA, PM
 loosen The range of package version you've specified        /ˈluːs(ə)n/     (使)变松，(使)松开；放宽 v
 pass criteria
 
+
+and/also
+relationship experience     感情经历
+dating experience       约会/恋爱经历
+You worry/think too much      你担心得过多了
+reluctant/reluctantly/unwilling/unwillingly/be (willing) to       /rɪˈlʌktənt/      勉强的,不情愿的/勉强的,不情愿的,不愿意的/愿意的,乐意的 adj
+modest      /ˈmɑːdɪst/      谦虚的 adj
+How/What about you?
+I'll treat you to dinner            请你吃饭
+there’s no concept about datetime
+binary stream       二进制流
+log(logged/logging) off          已登出,下班下线
+a fair few      不少,相当多
+straight/directly        直接
+a bit worried
+sth I would expect but don't see
+look into       调研,处理,核查
+ongoing operation           持续运行
+enabling ongoing operation          保障持续运行
+the rest of the day         今天剩余时间
+remaining adj 剩余的,待解决的
+redirect            跳转,重定向
+Preliminary AI output       初步的，预备的 adj/初步AI输出
+half n/an hour          半小时
+
+
+realistic adj. 真实的,贴近实际的
+Actual
+really
+test against        对照……测试,以……为基准验证
+aspect          方面 n
+level
+with the current situation
+in terms of         就……而言,在……层面
+for/regarding/about/against/with
+pick a route 选择路线/方案
+ease of implementation【项目高频】实现简便性,易落地程度
+spill over      溢出,顺延超期
+is sth still accurate
+Is it possible to
+Would you be able to
+Just wondering
+May i know
+How’s sth going?            进展如何
+discuss the same            讨论此事
+tomorrow morning 明天早上
+set up a call 安排会议
+schedule
+all,各位，大家
+everyone
+
+at the moment 目前
+
+mess up         搞乱,弄错
+set it to anything 设成任意值
+shouldn’t sth be xxxx, lol
+your side is sorted
+mimic           模拟,贴近
+Similar
+
+I ask as =
+I'm asking because          我这么问是因为
+pending tuning      待调优
+SIT = System Integration Testing        系统集成测试
+a further 2 weeks       另外两周
+Additional
+as soon as 句子     主将从现
+go live
+release
+please see below            请看下方
+as well as      以及,和
+
+pts         points 要点,条目
+how do we do sth
+rely on sb to do sth        依靠/指望某人做某事
+no help for sb to do 某人想做也帮不上忙
+pre-process     预处理,前置加工
+sell sth as a product           将某物包装为产品输出
+the progress looks good / is going well.
+How is it going         进度/近况如何？
+duration        耗时,持续时长
+duration        执行耗时
+from there to start with 先从那里
+safely support
+even if not
+risky
+vulnerable
+outcome         结果,产出
+The outcome requirement
+outcomes        成果,结论
+result
+outcome/result      结果,效果/结果,后果 n
+trait           特性,特征
+load test【测试专有】负载测试,压测
+load testing with around 8 concurrent
+with around
+for about 1 mins 2个介词？？
+shall we think of some streaming solution
+我们要不要考虑做流式输出方案
+one time response 一次性返回
+streaming solution【AI/后端专有】流式输出方案（SSE 类）
+rather than 而不是
+instead of
+rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
+resilient       有韧性的,抗故障的
+hold on sth         暂停,暂缓
+hold off on
+render          渲染,展示
+changes are not rendering in ui
+被动进行时？
+rendering them on the UI
+come out/come like this 呈现为这样
+deploying
+next iteration      下一轮迭代
+Relevant change
+(adjust) accordingly adv. 相应地
+be it sth1 or sth2让步句式
+(few) tweaks            小改动,微调
+change
+as
+given n/that/time                    鉴于,考虑到.../给定的时间
+make sure       确认
+double Confirm
+Categories
+N/A             Not Applicable 不适用
+formatting      排版
+
+What's up
+do sth As required      按要求
+For rest of 10 days in november
+Nothing is under control, we need to pause一切都失控了，我们需要暂停
+Out of control
+Question v
+Challenge
+
+photography skills      /fəˈtɑːɡrəfi/      拍照水平
+You’re overthinking
+copy sb on email/msg/report/meeting notes 把某人抄送在邮件里
+That’s double standards这就是双标
+Do as I say, not as I do照我说的做，别学我做的
+Required/Optional Attendee      必填,可选参会人
+desktop (PC)        台式电脑
+laptop      笔记本电脑
+
+(Gradually) take up the work        接手工作
+I will be taking one day off on November 18, 2026.
+take one day off        休一天假
+bottom line     核心要点,底线
+get stuck           卡住,阻塞
+should not I mean
+I Anticipate/guess      预判
+it will be a deadline miss
+I will highlight this in the email I am going to send
+switch back to      切回,换回
+keep the path (of doing) 沿用方案,保持路径
+screenshot      截图
+please clarify      澄清,说明
+麻烦说明一下
+state
+relevance       相关性
+functionality           功能
+feature
+my impression is (that)     我的印象是,我感觉
+I recall
+did mention     确实提到过
+count as        算作,视为
+does it count as sth？
+commentary n. 备注,解说,评述
+(further) interaction n. 交互,互动
+measure v. 衡量,度量
+basically adv. 基本上
+Good point.说得好？？
+make it explicit to sb 固定搭配，向某人明确说明
+Explicitly state明确说明
+What's actually needed (to)
+(Let's clarify) in today's call at 6
+There will be no sth
+将不会有sth
+locate v. 定位,找到
+find
+be expected to do 固定搭配，按预期应做,需要做
+this statement is true这个说法是对的吗
+Yuri is chasing
+Yuri 在催着
+anyone else 还有其他人吗
+anyone
+Does anyone else have the same issue
+I am trying to avoid reading the trail
+抱歉我不想翻聊天记录了
+Would you be able to
+Is it possible to
+message v. 发消息
+I will message you later
+performance stat(Statistics) 性能统计数据
+compile v. 汇编,整理
+arrange整理？？
+color-coded
+highlight
+MCP = Model Context Protocol
+overlook v. 忽略,漏看
+miss
+earlier sent mail 之前发出的邮件
+Questions for all各位，有几个问题
+erase v. 清除,删除
+clear
+relate to 与……有关
+probably related to sth
+best is if ... 最理想的情况是……
+drop/send a mail 发一封邮件
+learn v. 弄清楚,了解
+Figure out
+we will look at this and get back会看一下这个问题，之后再回复大家
+plug n. 临时补救办法,补丁
+concurrent requests 并发请求
+overload v. 过载
+call
+hit
+with/based on
+arrange a call 安排会议/通话
+schedule
+bold n. 加粗
+next line 换行
+Very Unlikely 极不可能
+be/have nothing to do with 与……无关
+held in 存储于
+continuity of service 服务连续性
+denial of service 拒绝服务
+【固定搭配】be (highly) dependent on 依赖于
+resilient adj. 有韧性的,高可用的
+standstill n. 停滞
+justified
+Tbh = To be honest 说实话
+finalise v. 最终确定
+
 Since Jack is on leave, I’m reaching out to seek your support. please ignore this mail if this isn't relevant to you.
 It was initially created
 has been adjusted to reflect
-mechanic        /məˈkænɪk/       运作机制、流程细节
+mechanic        /məˈkænɪk/       运作机制,流程细节
 (retry) mechanism/machine       /ˈmekənɪzəm/        机制,机械结构,运行机制 n/机器,机械设备/重试机制
 Detail process
 obtain
-clarify     澄清、厘清 v
+clarify     澄清,厘清 v
 Figure out
 figure/work (out)       /ˈfɪɡjə raʊt/       数字,身材 n/弄清楚,弄明白/解决,制定 v
 as Jack is on leave
 as Jack is ooo(out of office)
-in the interim 在此期间、临时
+in the interim 在此期间,临时
 (in the) interim/stabilisation (period)        /ˈɪntərɪm/ /ˌsteɪbələˈzeɪʃn/     过渡期,中间期 n/稳定 n/稳定期
 In the period
 Else,另外
@@ -416,40 +645,35 @@ what and when we will demo
 Would/can we be able to
 need to (buy time for) the migration/the workaround can buy us some time      争取,拖延时间/临时方案可以给我们争取一些时间
 I will buy time off Jack if you need some time to breathe and adjust
-buy time to breathe        喘口气、缓冲
-on track        按计划、进度正常
+buy time to breathe        喘口气,缓冲
+on track        按计划,进度正常
 as usual/planned/expected                       像往常一样/按计划/按预期
 described as a one-line update          属于单行级别更新
-take sth to completion 闭环落地、完成某事
+take sth to completion 闭环落地,完成某事
 close this off      了结,收尾,闭环这件事
-get this actioned       推动落地、处理闭环
+get this actioned       推动落地,处理闭环
 need to wrap up (outstanding items/the task this week)      /ræp ʌp/       收尾,闭环/剩余事项闭环,本周把这任务收尾
 has been this way           一直是这个样子
-that needs to happen 需要落地、必须推进
+that needs to happen 需要落地,必须推进
 agreement on paper          书面协议
-arrangement         安排、对接方案
+arrangement         安排,对接方案
 prefer to arrange       优先安排
 arrange         安排 v
 run this together           一起推进这件事
 that’s what I said
-promising       /ˈprɑːmɪsɪŋ/       有前景的、效果不错的
+promising       /ˈprɑːmɪsɪŋ/       有前景的,效果不错的
 pinpoint        /ˈpɪnpɔɪnt/     精准定位
 that said           话虽如此
 more likely need
 chaos       /ˈkeɪɑːs/       混乱
 
 
-work properly   正常运行
-is working
-work well
-work fine
-fully stable
 prompt      提示词 n
 You think too much  你想多了
-Don’t overthink it别想太多、别纠结
+Don’t overthink it别想太多,别纠结
 You’re overthinking你想复杂了
-similarly       同样、与此类似
-now that        既然、目前（引出现状）
+similarly       同样,与此类似
+now that        既然,目前（引出现状）
 monitoring framework        监控框架
 close to agreement      接近达成共识
 more or less        大致已定,基本确定 adv
@@ -457,49 +681,47 @@ accuracy metric 准确率指标,精度指标
 later next week 下周晚些时候
 at late(the end of) Sep
 early(the start of) June(next/this week)       在 月初/月末
-be lost 迷茫、没头绪
+be lost 迷茫,没头绪
 suck        /sʌk/
 It’s very unfair to the team. but that’s life, I know
-position        定性、梳理
-position it right 梳理口径、定性
+position        定性,梳理
+position it right 梳理口径,定性
 Let’s position it right
 Need to figure out
 be clear as to      清楚了解
 regional        区域性的
-beyond our reach 超出我们可控范围、搞不定
-more like beyond our reach
 be free from 不受...影响
-jump on the train       搭上火车、坐火车
+jump on the train       搭上火车,坐火车
 treat on me
 it's on me!                                         我请客!
 my treat 我请客
-good price 价格划算、性价比不错
+good price 价格划算,性价比不错
 Something with good price
 Let me know the day you choose定好哪天跟我说一声
-highly dynamic 高度动态、频繁变动
+highly dynamic 高度动态,频繁变动
 highly dynamic environment 变更频繁的环境
 3 out of 5 五分之三
 there are 3 out of 5 tables with discrepancy
-slightly    轻微地、小幅
+slightly    轻微地,小幅
 slightly different
-out of date 过时、失效
+out of date 过时,失效
 expire
 up to date
-up to date/latest 最新、有效
+up to date/latest 最新,有效
 snapshot            快照
 usable data 可用数据
 available
-a.k.a           also known as 又称为,也就是、换言之
+a.k.a           also known as 又称为,也就是,换言之
 i.e.
-time to shine   轮到你大展身手、发挥作用
+time to shine   轮到你大展身手,发挥作用
 lock the timeline   锁定排期
-same ground 统一基线、共同基准
+same ground 统一基线,共同基准
 hope it’s fine      希望这样没问题
 today before 4pm
 before today 4pm
 the rest of 10 days in November
 instead     取而代之
-bottom line     核心底线、归根结底
+bottom line     核心底线,归根结底
 extra
 addition
 wasted
@@ -511,7 +733,7 @@ that’s what i want to confirm这是我想要确认的点
 Suspect
 should not I mean
 我的意思是不会
-deadline miss 逾期、错过截止日期
+deadline miss 逾期,错过截止日期
 simulated data          模拟数据
 simulate        /ˈsɪmjuleɪt/
 mock            模拟 v/adj/n
@@ -530,8 +752,8 @@ ground truth (cases)            真值标注,用例
 I will be happy to push for you我可以帮你去推进
 (reach/have) (consensus/alignment) on       /kənˈsensəs/        一致看法，共识 n/就某事达成共识
 Here is the consensus I got from both before and right after the call以下是开会前以及刚开完会后达成的共识
-stick to        坚持、限定遵循
-undermine       削弱、损害
+stick to        坚持,限定遵循
+undermine       削弱,损害
 usability       /ˌjuːzəˈbɪləti/     可用性
 available/availability/unavailable      /əˈveɪləb(ə)l/       可用的 adj/可用性 n
 so we won't be able to make it in 2 week time  我们不能够在两周后处理它,为啥是翻译成,2周内？？？
@@ -540,9 +762,9 @@ Moreover,/and
 As a side note      顺带一提
 btw
 let me jump in          我插一句,我说一下
-doable      /ˈduːəbl/       可行的、可以落地的
+doable      /ˈduːəbl/       可行的,可以落地的
 feasible
-definitive answer       明确、确定性答复
+definitive answer       明确,确定性答复
 Accurate
 get their skills well used 充分发挥他们的能力
 bring up        提出
@@ -551,27 +773,27 @@ i'm no expert, but that sounds really dumb      我不是专家,但这个方案�
 live data           实时数据
 real-time
 (data) dump           数据转储
-at one go           一次性、一口气
+at one go           一次性,一口气
 将来进行时？
-tier            等级、层级
+tier            等级,层级
 service tier/tiering       /ˈtɪərɪŋ/       服务分级
 (contract) hierarchy/level      /ˈhaɪərɑːrki/      层级 n/合同层级
 minor/moderate/major/extreme            轻微,中等,重大,极高
 i need you to be specific
 go through approvals            走审批流程
-take sth into approvals         将…拿去报批、走审批
+take sth into approvals         将…拿去报批,走审批
 consumption             资源
 token consumption     消耗量
 consume/consumption/consuming     /kənˈsʌmpʃ(ə)n/     消耗,消费 v/消费,消耗,调用,使用 n/耗时的 adj
 optimal     /ˈɑːptɪməl/     最优的
 best
 not ideal
-oversight       监督、监管
+oversight       监督,监管
 oversee         监管,管理
 regulatory
 if you've helped me with a task then please assume I've said 'Thank you!' – I won't be sending emails with just this in to reduce my email footprint将来进行时？？
 email footprint         邮件体量/邮件足迹；reduce footprint减少(信息/资源)体量
-be fine/good with this       对此无异议、同意这件事
+be fine/good with this       对此无异议,同意这件事
 targeting November 14th
 or at least you can do sth
 hope this makes sense       我说明白了吗/你能理解我的意思
@@ -579,7 +801,6 @@ hope (it helps/this clarifies)                 希望这有帮助/希望这能�
 or at least you can share with us the API contract for your APIs so that we can at least mock your API response and do the mapping/transformation needed from our side rather than waiting for Dev/UAT env to be ready想表达这个意思,嗯,你觉得应该怎么写比较好？
 as confirmed earlier, sth is expected to be ready by 14 November, and there is (no change to this plan)常用么
 如之前确认/计划无变动
-outcomes        成果、结论
 based on the outcomes of the walkthrough
 please refer to the attached email for further details      更多详情,请参考附件邮件
 the api contract walkthrough has already been completed
@@ -593,8 +814,8 @@ it does no harm to do sth做某事并无坏处
 Leave it to us
 track of thoughts
 move on this track of thoughts 顺着这个思路继续
-line of thought     思路、想法脉络
-press on sb 找某人推进、催促某人跟进
+line of thought     思路,想法脉络
+press on sb 找某人推进,催促某人跟进
 latter      /ˈlætər/        后者 n/后者的；末期的，后期的 adj(两者之间的)
 
 
@@ -603,39 +824,37 @@ enumerate/enumeration/data listed below       /ɪˈnuːməreɪt/       遍历,�
 It’s a special case这属于特殊情况
 focus areas/point/items 重点工作项
 Nothing formal不用很正式
-give a sense that 让大家有个概念、便于感知     自动包含给大家？
+give a sense that 让大家有个概念,便于感知     自动包含给大家？
 give a sense that ..... for everyone
 Just to give a sense that we are heading in the right direction/making progress
 lock down 冻结
 battle cards        /ˈbæt(ə)l/      项目简报
 push on that 推动跟进这件事
 I’ll go afterwards我稍后去
-heads-up        提前知会、跟大家说一声
-work for sb 隶属于某人、是某人下属
+heads-up        提前知会,跟大家说一声
+work for sb 隶属于某人,是某人下属
 as a result 因此
 ask for response 索要回复
 Apologize for setting up this Teams group
-extenuating circumstances 特殊情况、情有可原的紧急情形        /ekˈstenjuˌeɪt/
-scrutiny        /ˈskruːtəni/        审视、核查、密切关注
+extenuating circumstances 特殊情况,情有可原的紧急情形        /ekˈstenjuˌeɪt/
+scrutiny        /ˈskruːtəni/        审视,核查,密切关注
 Our AI work is under very senior leadership scrutiny
-The outcome requirement
-be tied to      /taɪ/       对接、关联
-showcase v.展示
+be tied to      /taɪ/       对接,关联
 at its best
 data gathering          数据采集         
 I'm sneezing everywhere     /ˈsniːzɪŋ/      我一直打喷嚏
 I'm doing something everywhere.
 More pressure now       这下压力更大了
 as best as you can 尽量
-for your awareness / for ur awareness供知悉、跟你同步
-chase sb        跟进、催问某人
+for your awareness / for ur awareness供知悉,跟你同步
+chase sb        跟进,催问某人
 i chased
-press on (sb)           持续催促、跟进推动某人
+press on (sb)           持续催促,跟进推动某人
 wish for me to do 希望我去做
 hope
 would like to
-give us a clue      /kluː/      给我们线索、帮助定位问题
-quick question 请教一下、问个小问题
+give us a clue      /kluː/      给我们线索,帮助定位问题
+quick question 请教一下,问个小问题
 necessary adjustments       必要调整
 at this stage 在现阶段
 phase/stage           阶段 n
@@ -644,24 +863,24 @@ Event Broker 事件总线
 would it be better to do sth1, or should sth2
 
 thank you for reaching out
-proposed        拟定的、提议的
-intended        预期的、计划的
+proposed        拟定的,提议的
+intended        预期的,计划的
 expected
 a and/or b
 reiterate       /riˈɪtəreɪt/        重申
 to reiterate the intended use/usage of the Ideation environment         在此重申Ideation环境的用途
 participate in      参加
 attend
-on a case‑by‑case basis 固定搭配，逐案、一事一议
+on a case‑by‑case basis 固定搭配，逐案,一事一议
 be intended to do 固定搭配，旨在
-progression n. 推进、进展
+progression n. 推进,进展
 progress towards sth        朝sth推进
 push forward        推进
 the expected outcome/result         预期成果
 sufficiently validated      充分验证
 on behalf of        代表
 add as much relevant information as possible尽可能填写更多相关信息
-mention         写明、提及
+mention         写明,提及
 describe
 when was the problem identified         什么时候发现该问题
 
@@ -674,7 +893,7 @@ sub/child/Master tickets子,主工单
 testing cycle 测试周期
 throughout the testing cycle
 Consolidate汇总
-consolidated adj. 合并(后)的、汇总的
+consolidated adj. 合并(后)的,汇总的
 coordinate with sb 和某人协同对接
 coordinate sth with sb？
 sth that are no longer required不再需要的sth
@@ -682,24 +901,24 @@ Discovery Questionnaire     调研问卷
 questionnaire/Survey       /ˌkwestʃəˈner/       问卷,调查表/调查,调研 n
 Data masking/sanitization
 logging and monitoring 日志与监控
-attestation /ˌæteˈsteɪʃn/ n. 证明、确认
+attestation /ˌæteˈsteɪʃn/ n. 证明,确认
 transfer        传输
 transit/transition/conversion     /ˈtrænzɪt/          传输,运输,运送 n/过渡,转变 v,n/转变,转换 n
 identify contacts       确认对接人   常用么
-jump on a call 开线上短会、拨入会议
+jump on a call 开线上短会,拨入会议
 a variety of = various 各种各样的
 various/variety/varieties       各种各样的 adj/种类,品种 n
 various                             各种各样的 adj
-get this sorted 搞定这件事、把问题解决
+get this sorted 搞定这件事,把问题解决
 rather than handling it via individual tickets而不是走工单逐条处理？？
 as guide 按指引
 closure document 结案文档
 renewal ticket 续期工单
-on your behalf 代表你们、代你们办理
+on your behalf 代表你们,代你们办理
 be valid for one year有效期为一年
 valid for one year 有效期一年
 originally provided 最初提交的
-prompt responses 及时回复、快速响应
+prompt responses 及时回复,快速响应
 Many thanks to everyone for your great support and prompt responses非常感谢各位大力支持与及时反馈
 proactively /prəʊˈæktɪvli/ adv. 主动地；drive sth forward 推进某事
 proactively driving this forward积极推动这件事落地
@@ -712,13 +931,13 @@ Readable format
 
 
 Provenance      /ˈprɑːvənəns/          来源
-source      获取、采集 v
+source      获取,采集 v
 source (the data)/resource          获得 v/来源/资源 n/获取数据
 Readability？？？
 Semantic similarity score
 Let's briefly look at this
 Let's briefly go through this
-highlight /ˈhaɪlaɪt/            着重强调、突出Emphasize
+highlight /ˈhaɪlaɪt/            着重强调,突出Emphasize
 (renew/renewed emphasis on) sth/renewal     /rɪˈnuːəl/         续存,重新开始,中止后继续 v/再度重视,重新强调sth/续期,恢复,重新开始 n
 stress/stressful/emphasize        强调,着重,使受压力 v/压力 n/紧张的,压力大的 adj
 (need to optimise the pipeline), with particular emphasis on (latency)     /ˈemfəsɪs/      强调 n/重点在于.../重点关注延迟
@@ -906,14 +1125,12 @@ percentage complete status 完成百分比,进度完成率(项目报表高频)
 what is the percentage completion status for
 How many percentage completion status for
 refinements n.优化,微调
-rendering them on the UI
 some refinements are still required on our side
 please add if i missed something
 there will be new question or changes coming soon as per Jack
 again and again 反复,一次次
 cause a lot of rework
 possibly more for TPRA
-duration执行耗时
 as much as u could IM简写 = as much as you can 尽可能
 visualization n.可视化
 random随机的

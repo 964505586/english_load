@@ -123,7 +123,6 @@ habit/hobby               习惯/爱好
 volunteer/voluntary/voluntarily     志愿者/自愿的,主动的 adj/adv
 effective (action/measures)/effectively/efficient/efficiency    有效的 adj/高效地,有效地 adv/高效的 adj/效率 n
 tips/tricks/recommendations/kind(a warm) reminder       小贴士,技巧,建议,小费 n/技巧,窍门 n/推荐,建议 n/温馨提醒(中性/亲切)
-rather than/(instead) of     而不是/代替,而不是/代替,顶替,反而 adv
 (after) a short while (ago)       不久前/不久之后
 local/native
 ever/b4            强调有没有过/强调在这之前
@@ -142,16 +141,13 @@ truly/really        真正地
 quite reasonable/it make sense      相当合理,很有道理/有道理
 anyone/someone             有人
 inspect/inspected/inspection/audit       检查,视察 v/n
-surface/show/display/displayed         显露,暴露 v/表面(的) n,adj/显示,展示 v/显示的 adj
 backfill/write back/replay        回填,装填/回写/重放 v
-differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 adj/区别 n
 feature/capability introductions    功能介绍
 top/(bottom) left/right corner        左上角,右下角/底部(的) adj/n
 outside/outsides (the firewall)         在外面 adv/外边的 adj/外部,外表 n/防火墙外
 cover/recover/recovery (job)           覆盖 v/恢复 v,n/恢复任务
 be due to/caused by       归因于,由...导致/由...引起
 (problem) indication/statement/description/illustration     说明,指示/说明,陈述,声明 n
-discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
 i (just) saw/noticed that     刚注意到
 expect/look forward to n        期待 v
 update/(make great) progress      进展,(进度) n/取得进步
@@ -198,7 +194,6 @@ I'd expect/like John to be involved in the call    希望John可以参加这call
 release gates/gating process        发布门禁/门禁流程
 lower‑level/lower down (detail)      更低层级的,细化的 adj/往下面,往下 adv/底层细节
 package/packaging (manager tool)            打包 v/包管理工具
-customize/customized/custom/accustom     自定义 v/定制的,自定义的 adj/习俗 n/使习惯于,使适应于 v
 qualify/qualified/qualification/i'm not qualified enough     有资格 v/有资格的 adj/资格,资质,获得资格 n/还不够资格
 i'm looking into this right now/currently handling this     我现在正在处理/排查这个
 let me see/have a look          让我看看
@@ -216,12 +211,10 @@ lean/rely(relying) on sb/sth              依托,依靠/依靠,依赖
 (data) foundation/foundational (code/branch)    基础的,基本的 n/adj/数据基础/底层代码/基础分支
 if(as) so/desired/necessary/needed           如果这样/需要/必要/根据需要
 reject/refuse/decline/declined          拒绝,驳回/拒绝/婉拒,礼貌谢绝 v
-always/constantly        xxx/总是,经常地,不断地
 graph/(sequence) diagram        图表,曲线图/图表,图解 n(结构,逻辑,流程)/时序图,顺序图 n
 ownership (model)/accountability        权责归属,权责人 n/权责归属模型/责任,责任心,责任归属,追责机制 n
 avoid/prevent/in case 句子/to avoid n       避免/阻止 v/以防...
 published/public/publish & consume   已发布的/公众的,大众的,公共的 adj/发布消息,消费消息
-outcome/result      结果,效果/结果,后果 n
 terminate/terminal (status/outcome)/final      终止 v/终端 adj/n/终态(结果)
 ever since/since then      自从,从那时起一直到现在/从那以后
 as/since/bcos/since 句子/bcos of/due to n
@@ -280,13 +273,13 @@ alias name/(individual) other name/a.k.a.(also known as)/i.e.    别名/别名,�
 i guess/suppose/think/assume/presume        猜/认为/假设/推断
 (after the/post-) upgrade/conversation          版本升级后
 主句 without needing to/(there is) no need to             不需要
-Each (individual/separate) service has its own access control      各自、单独的 adj/每一项独立服务都有自己的访问权限控制
+Each (individual/separate) service has its own access control      各自,单独的 adj/每一项独立服务都有自己的访问权限控制
 I was told/informed the deployment will be delayed/I heard          听说这次部署会延期
 we are exploring the possibility/feasibility of doing       探讨,调研做某事的可能性,可行性
 Is there a batch/bulk (processing) endpoint to do sth/in (batch/bulk)       按批次/大批量
 to my knowledge/as i was informed/as far as I know(can see)        据我所 知/见
 we attempt the call up to 4 times/the process may take (up to) 40 days          最多尝试4次/最长40天
-regarding the weekly job you (mentioned/referred to), on which weekday and at what time does it run   刚才提到的每周任务,它是周几、几点运行
+regarding the weekly job you (mentioned/referred to), on which weekday and at what time does it run   刚才提到的每周任务,它是周几,几点运行
 inside/in       在...里面/内部
 as far as I'm concerned/from my perspective/From my point of view/looks to me/in my (view/opinion)      在我看来(强调个人立场)/从我的角度
 please refer to the requirements (outlined/stated/listed) in point 4      概述,列明,所述的/陈述,写明/请参阅第4点中列明的需求

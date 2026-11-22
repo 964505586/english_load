@@ -14,12 +14,6 @@ u said b4 that we should do it. do u remember           你之前说我们应该
 (regarding) the process i mentioned earlier                     关于之前提到的
 as(like) Jack said/mentioned/proposed b4/earlier, it's a business issue               正如Jack之前 说的/提到的/提议,提出(暗示他不仅说了,还给出了观点或方案)
 
-beside          在n旁边,与n相比 prep
-besides/in addition to      + prep/此外,而且 adv
-except              - prep 排除
-apart from          +/-(靠语境判断)
-unless          除非 conj/除...之外 prep
-
 product         /ˈprɒdʌkt/      产品 n
 production      生产 n
 produce         /prəˈdjuːsə(r)/     生产 v/农产品 n
@@ -85,9 +79,6 @@ brought down        降低,减少
 boost/strengthen      /buːst/ /ˈstreŋθn/     提升,增强 v/强化,加固 v
 reinforce (how we lead)      /ˌriːɪnˈfɔːrs/      加强,强化 v/强化我们的管理举措
 refine/refined (timeline)/refinery          细化,优化,改进 v/优化后的/细化,精修,优化 n
-
-advise/advice/recommend/recommendation       通知,建议 v/n
-propose/proposal/(strongly) suggest/suggestion/feedback        提议,建议 v/n/反馈意见 n/强烈建议
 
 did u do (过去时间)          你当时做了吗？
 have u done       你到现在做完了吗,强调结果
@@ -174,7 +165,7 @@ obstacle/friction(block v/n)                障碍,阻碍,困难/阻碍,摩擦�
 unblock (delivery)            解决,扫清阻碍,解除阻塞,解锁 v/扫清交付卡点
 (building) block/blocker         阻碍 v/n/基础模块,核心组件,积木块 n
 hindrance/hinderance        /ˈhɪndrəns/     阻碍,妨碍 n
-get stuck 卡住、阻塞
+get stuck 卡住,阻塞
 Block
 
 what's more, ...     而且,此外
@@ -265,7 +256,7 @@ it will delay our delivery if we can't resolve this today             如果我�
 this may cause a slight delay in our delivery. but we are working on a solution     这可能导致我们交付稍有延迟.不过我们正在寻找办法
 
 call‑off    子订单,分合同
-(parent/child) chunk       文本块、分片 n/父块,子块
+(parent/child) chunk       文本块,分片 n/父块,子块
 parent‑child agreement      父子块一致性
 a call‑off mapped to its parent agreement       一个调用映射到其父级协议
 
@@ -297,9 +288,6 @@ retain/retention (rule)                  保留 v/保持,保留,保存 n/保留�
 remain/remaining/testing remains/keep        仍然是,保持,剩余,留下 v/剩下的,遗留的 adj/仍在测试
 the other features remains unchanged/unaffected     保持不变
 Keep failing
-remain
-remaining adj 剩余的,待解决的
-rest
 
 business (continuity) plans       /ˌkɑːntɪˈnuːəti/       连续性,连贯性 n/业务连续性计划
 continued/continually        持续的,频繁的 adv/连续不断地,不间断的 adv
@@ -340,7 +328,7 @@ the error shouldn't be treated as a critical risk
 treat A as B(a joke)        把A视作B/把sth当作笑话
 treat sb like sb/sth        把sb当作sb/sth对待
 treat sb to sth             用sth款待某人
-assume      假定、视作
+assume      假定,视作
 
 (feature) highlight/highlighted       突出,强调 v/功能亮点
 plz check the part(key points) highlighted in yellow     查看标黄部分
@@ -413,6 +401,9 @@ double confirm
 although I would like to triple confirm gemini 3.5 matches our needs
 
 define/definition        定义 v/n
+declare     /dɪˈkler/        定义,声明
+customize/customized/custom/accustom     自定义 v/定制的,自定义的 adj/习俗 n/使习惯于,使适应于 v
+custom adj. 自定义的
 definitive/definite/definitely      /dɪˈfɪnətɪv/ /ˈdefɪnət/      确定的,最终的 adj/清晰的,肯定地,明确地 adj/adv
 clearly/explicitly (prohibited)     /ɪkˈsplɪsɪtli/         清楚地/明确地,明示的 adv/明确禁止
 explicit/implicit       明示的,明确的/隐式的,含蓄的 adj
@@ -565,7 +556,7 @@ repeat/repeated/repeatedly      重复 v/重复地 adj/adv
 Could you elaborate     能否详细说明一下
 Could u specify/elaborate (more)       能否(再) 明确说明,指定/详细说明
 
-(estimated) effort (hours/wastage)      /ˈweɪstɪdʒ/     精力,努力/预估工作量/投入工时/工作量浪费、人力投入白费
+(estimated) effort (hours/wastage)      /ˈweɪstɪdʒ/     精力,努力/预估工作量/投入工时/工作量浪费,人力投入白费
 impact          冲击
 influence       潜移默化
 affect/effect/affected          v/n/受影响的 adj
@@ -625,11 +616,9 @@ main focus          主要工作重心      常用？
 main focus will be sth1 First followed by sth2
 , (followed by) UAT env testing     其次,紧随其后/接着开展UAT测试
 
-given
-as
-(but/however,/though 放句尾)/(so/therefore,/hence 只接n)/(as/since/because)/(or/alternatively)      但/所以,因此
+(but/however,/tho(though) 放句尾)/(so/therefore,/hence 只接n)/(as/since/because)/(or/alternatively)      但/所以,因此
 consequently                因此,结果 adv
-thus                                            因此,这样 adv
+thus            因此,这样 adv
 
 I'm experiencing
 I encountered       遭遇,偶遇,邂逅 n/v
@@ -834,7 +823,9 @@ apply       应用
 apply for
 (if) applicable (to this scenario only)      /əˈplɪkəb(ə)l/      适用的,可应用的 adj/如果适用/只适用于该场景
 
-citation
+citation        引用,佐证出处
+group citations by docs     按文档归类引用
+grounding (citation data)     /ˈɡraʊndɪŋ/ /saɪˈteɪʃ(ə)n/        基础,基础训练/引用,引证,引文/溯源引用数据
 reference           引用,附上 v
 terms of reference      职权范围 n
 that is referenced      被引用的,文中提及的
@@ -955,7 +946,7 @@ PIC             Person In Charge 负责人
 be responsible to/for backend     /rɪˈspɑːnsəb(ə)l/       负责n
 i (take/am in) charge of backend        我负责n
 who is the person in charge of the project?
-go‑to person这块的主要对接人、找他就对的负责人
+go‑to person这块的主要对接人,找他就对的负责人
 
 approximately
 about
@@ -988,21 +979,21 @@ accessible/inaccessible      /əkˈsesəb(ə)l/      可到达的,平易近人�
 grant least‑privilege access(principles) to     /ˈprɪvəlɪdʒ/        特权,权限 n/授予最小权限原则
 ytd i basically finished the access request           昨天我基本上完成了权限请求
 some access/permissions may/usually take some time to (activate/propagate/go live)   一些权限通常需要一段时间方可生效
+authority n. 权限,授权
+access
 authenticate/authentication(auth)         认证 v/n
 authorize(authorise)/authorization       授权,批准 v/n
 licensed/authorised/authorized token(result reference)         得到许可的/已授权的 adj/已授权令牌,结果引用
 permit/permitted to         批准,许可 v/n/被允许,有权限
 (express) license          执照,许可证 n/许可,特许 v/正式书面授权
 unauthorized resources      未授权资源
+licensed software       授权软件
 
 On the basis of     基于……
 based on
 based on that       改
 On the basis of our meeting ytd
 as per/according to/based on/as for (me)        按照/根据/基于n/至于/对我来说
-
-(avoid) repetition/repeat   重复,反复
-duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
 
 help with       帮助改善,缓解
 ease
@@ -1053,13 +1044,6 @@ collaborate on sth 在…方面协作
 with sb ？？
 collaborate on projects         项目协作
 
-(so can i interpret/understand that) it's basically just a database     我能理解/解读为...？
-Is it fair to say (that)...【外企会议/IM高频句式】是否可以理解为…,这么说是否妥当
-i.e.,       也就是,即
-as in       也就是,指的是
-that's to say           那就是说
-are we saying (we can skip the pre-check)       那意思是(可以跳过预检查)
-
 in the first/second iteration(for loop)         循环/在第一次循环中
 within a loop       在循环中
 
@@ -1070,7 +1054,7 @@ every
 per (call)             每,每一,按照,根据
 each
 
-文本块、分片      chunking
+文本块,分片      chunking
 向量化
 检索      retrieve
 regular Chunking 普通分片
@@ -1079,6 +1063,9 @@ chunking        /ˈtʃʌŋkɪŋ/
 Semantic tracking
 syntax/semantic error       /ˈsɪntæks/ /sɪˈmæntɪk/      语法 n/语义的 adj
 rank/rerank     重排序
+embed/embedding (model)         /ɪmˈbed/ /ɪmˈbedɪŋ/         嵌入,内置 v
+AI tuning               AI调优
+(database/performance) tuning/fine‑tuning     调优/微调 n
 
 omit unnecessary columns/ignore     /əˈmɪt/         省去,遗漏 v
 neglect/overlook/ignore      /nɪˈɡlekt/      无意,疏忽/有意 v
@@ -1116,3 +1103,88 @@ merits & demerits     /ˈmerɪts/       优劣
 key/crucial/critical/significant/important      /ˈkruːʃ(ə)l/
 key/critical (Project)           关键的,主要的/至关重要的；危急的,关键性(语气比 key 重很多)
 significant/significantly       显著地,大幅度地,重要地 adj/adv
+
+Deceive         欺骗，蒙骗 v
+Cheat
+cheat
+lie
+cheat/hide/hid/hidden                 欺骗/隐藏,隐瞒 v
+
+Constant        不断的
+always/constantly        xxx/总是,经常地,不断地
+always/keep/kept (failed)
+
+work properly   正常运行
+is working
+work well
+work fine
+work well/fine
+working/available
+fully stable
+
+snippet n.【研发高频】代码片段,报文片段
+snippet             片段,报文/文本摘录
+snippet     /ˈsnɪpɪt/         小片,片断	 n
+code period
+code block
+
+this api supports bulk requests                 这api支持批量请求
+in bulk     批量地
+in batch
+batch                   分批,多轮 v/一批 n
+bulk                    整批,单次大包,大额,批量
+batch request/request in batch          分批请求(多批,多次)
+bulk request                            批量请求(单次,整体)
+
+distinct            不同的，有区别的,去重的 adj
+deduplicate         去重 v
+differentiate/distinct/distinction      使不同,区分 v/不同的,明显的 adj/区别 n
+(avoid) repetition/repeat   重复,反复
+duplicate/duplication/de-duplicate    /ˈreplɪkeɪt/    重复,复制 v/复制的 adj/重复,复制品 n/去重 v
+
+(so can i interpret/understand that) it's basically just a database     我能理解/解读为...？
+Is it fair to say (that)...【外企会议/IM高频句式】是否可以理解为…,这么说是否妥当
+i.e.,       也就是,即
+as in       也就是,指的是
+that's to say           那就是说
+are u/we saying (we can skip the pre-check)       那意思是(可以跳过预检查)
+
+spot        发现,察觉到
+found
+discover/discovery/retrieve/identify/found     发现,探索 v,n/检索 v/认出,识别 v/找到 v
+did you spot/find/identify/spotted any issues       /spɑːt/     发现问题
+
+simultaneous adj. 同时的,并发的
+parallel adj. 并行的
+
+in sequence         串行,按顺序执行
+In parallel
+Concurrent
+In parallel
+
+come through 呈现,显示出来
+showcase        展示,演示
+show up/off                     出现,露面/炫耀,卖弄
+surface/show/display/displayed         显露,暴露 v/表面(的) n,adj/显示,展示 v/显示的 adj
+shown                   /ʃəʊn/
+
+be more than
+beyond
+is far beyond               远远超出了
+move beyond A to B              超越A,转而成为B
+beyond our reach 超出我们可控范围,搞不定
+more like beyond our reach
+exceed/exceeded/exceeding/over/beyond/overrun one's expectation     /ɪkˈsiːd/    超过,超出 v/prep/超出sb的预期
+
+revert back     回复,反馈
+advise/advice/recommend/recommendation       通知,建议 v/n
+propose/proposal/(strongly) suggest/suggestion/feedback        提议,建议 v/n/反馈意见 n/强烈建议
+
+other than      除了
+beside          在n旁边,与n相比 prep
+besides/in addition to      + prep/此外,而且 adv
+except              - prep 排除
+apart from          +/-(靠语境判断)
+unless          除非 conj/除...之外 prep
+
+

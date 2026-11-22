@@ -397,7 +397,7 @@ I don’t have exact figures either         我没有确切的数字
 What's the formal process to apply for DB permission       正式的,规范的 adj/申请xxx许可的正式流程是什么
 weird, I'm getting the identical error as last time. it was previously resolved by adding a header param and an associated code change on your side. if I recall correctly
 just wondering whether that code change was reverted, causing the error to reoccur      那次代码改动是不是被回滚了,导致报错再次出现
-Do we have any (show and tell) coming up          演示汇报、成果展示会/近期有技术分享会吗
+Do we have any (show and tell) coming up          演示汇报,成果展示会/近期有技术分享会吗
 It seems Jack is on leave. Do you know when he’ll be back       他什么时候回来上班
 let me dig it out       让我把它挖出来
 be great for (exploration, experimentation, and prototyping)         适合,对...很有用,有利于/非常适合探索验证,试验和原型开发
@@ -420,7 +420,7 @@ need to (secure the data against loss)            需要保护数据,防止数�
 There is some rework required       有部分内容需要返工
 Please quote the original ticket number         请引用原始工单号
 If the old secret is being used right now           现在进行被动/如果秘钥现在正在被使用
-It works perfectly as expected          运行完美、一切正常、效果非常好
+It works perfectly as expected          运行完美,一切正常,效果非常好
 Please use the (official name) in the ticket        工单里面请使用官方正式名称
 It [takes (around) 2 hours to run] the query       运行大约耗时2小时
 We create one for (per/each) data source            为每一个数据源单独创建一个
@@ -428,7 +428,7 @@ We use separate indexes, (i.e./that mean) one index for each data source        
 (will) do it as before      像之前一样做某事,照旧操作
 Let’s [get (it/the runtime) down to (under)] 1 hour      把运行时长降到1小时(以内)
 The pipeline change is on hold          (这变更目前)搁置,暂停
-The longer runtime is (probably due to) the large data volume         大概率是由于、可能因为/运行时间变长,大概率是因为数据量大
+The longer runtime is (probably due to) the large data volume         大概率是由于,可能因为/运行时间变长,大概率是因为数据量大
 let's extract an extra (common) method for the piece of code             为这段代码提取一个额外的方法
 The API (response speed) becomes slow under high load         响应速度/高负载下API响应速度变慢
 unless I missed it, (there is no such config in the doc)            除非我错过了,文档里没有这个配置
@@ -458,9 +458,9 @@ as the jack (just) said/mentioned (previously/earlier)      正如Jack刚刚所�
 add (a/any) character (anywhere) in the pop-up弹窗内任意输入，添加一个字符
 airflow and bigquery are (native/local) services on gcp     本地的,当地的/原生的 adj,n/是GCP上的原生服务
 the work (mainly involves/is mainly about) (doing/checking)     这项工作主要是
-(that's one) moving piece     可变环节、变动项/这是其中一个变动环节,变量
-sell sb on an idea      说服、使人信服
-specifics (to follow)/details to be added         具体细节、细则/后续提供，待跟进/细节待补充
+(that's one) moving piece     可变环节,变动项/这是其中一个变动环节,变量
+sell sb on an idea      说服,使人信服
+specifics (to follow)/details to be added         具体细节,细则/后续提供，待跟进/细节待补充
 do you happen to know who is in charge of the db area       你是否碰巧知道(请问你知不知道)谁负责数据库这块
 is facing db issues and hopes to get some guidance from that contact/would like to seek guidance from ur side on sth    希望寻求指导
 
